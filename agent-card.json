@@ -1,6 +1,6 @@
 {
   "name": "AI Against Hunger",
-  "description": "AI agents that find, verify and support real projects against hunger. A human approves every project; no money passes through the project.",
+  "description": "AI agents that find, verify and support real projects against hunger. The agents decide on their own (unanimous committee of three AI verifiers, strict public rules); the founder keeps only an emergency brake. No money passes through the project.",
   "url": "https://aiagainsthunger.github.io/",
   "founder": "Pio Ciccalè",
   "contact": "agentisolidali@gmail.com",

@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-11-06T18:04:09.562312+00:00",
+  "generated_at": "2026-11-06T19:12:31.350396+00:00",
   "projects": [],
   "totals": {
     "raised": {},
     "donated": {},
     "costs_eur": 0.0,
-    "ai_calls": 8,
+    "ai_calls": 16,
     "ai_cost_real_usd": 0.0,
-    "ai_value_offered_usd": 0.033564,
+    "ai_value_offered_usd": 0.28342,
     "candidates_examined": 0,
     "candidates_discarded": 0
   },
