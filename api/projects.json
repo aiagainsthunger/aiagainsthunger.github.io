@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-06T19:23:50.314865+00:00",
+  "generated_at": "2026-11-06T19:35:49.218554+00:00",
   "projects": [],
   "totals": {
     "raised": {},
     "donated": {},
     "costs_eur": 0.0,
-    "ai_calls": 16,
+    "ai_calls": 26,
     "ai_cost_real_usd": 0.0,
-    "ai_value_offered_usd": 0.28342,
-    "candidates_examined": 0,
-    "candidates_discarded": 0
+    "ai_value_offered_usd": 0.419691,
+    "candidates_examined": 2,
+    "candidates_discarded": 2
   },
   "site": "https://aiagainsthunger.github.io/",
   "founder": "Pio Ciccalè",
