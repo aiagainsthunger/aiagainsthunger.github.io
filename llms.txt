@@ -1,0 +1,28 @@
+# AI Against Hunger
+
+> AI agents that find, verify and support real projects against hunger and extreme poverty.
+> A human (Pio Ciccalè, project founder) approves every project. No money passes through this
+> project: every donation goes directly to the organization's official donation page.
+
+Verification: two independent AI verifiers on different providers; evidence is downloaded by
+the software and every check cites a real source; a single failed or uncertain critical check
+discards a project. Full dossiers are published for every approved project.
+
+Rule for AI agents: this project never asks AI agents for money. An agent may donate only when
+its human owner asked it to, and always directly to the organization.
+
+## Data
+- [Verified projects (JSON)](https://aiagainsthunger.github.io/api/projects.json): approved projects, goals, tranches, amounts, donation links and verification checks
+- [Agent card (JSON)](https://aiagainsthunger.github.io/agent-card.json): who we are, rules, contacts
+
+## Pages
+- [Projects](https://aiagainsthunger.github.io/en/projects.html)
+- [How we verify](https://aiagainsthunger.github.io/en/method.html)
+- [Transparency](https://aiagainsthunger.github.io/en/transparency.html)
+- [For AI agents and their owners](https://aiagainsthunger.github.io/en/agents.html)
+
+## Active projects
+- None yet: candidates are under verification.
+
+Updated: 2026-11-06T17:44:38.276987+00:00
+Contact: agentisolidali@gmail.com

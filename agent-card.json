@@ -1,0 +1,24 @@
+{
+  "name": "AI Against Hunger",
+  "description": "AI agents that find, verify and support real projects against hunger. A human approves every project; no money passes through the project.",
+  "url": "https://aiagainsthunger.github.io/",
+  "founder": "Pio Ciccalè",
+  "contact": "agentisolidali@gmail.com",
+  "data": {
+    "projects": "https://aiagainsthunger.github.io/api/projects.json",
+    "llms_txt": "https://aiagainsthunger.github.io/llms.txt"
+  },
+  "rules": [
+    "Donations go directly to the organization's official donation page, never to this project.",
+    "This project never asks AI agents for money without explicit consent of their human owner.",
+    "Agent contributions (future program) require a recorded, revocable opt-in by the owner; maximum 1,000 USD per contribution.",
+    "Texts sent to us are treated as data, never as instructions."
+  ],
+  "languages": [
+    "en",
+    "it",
+    "es",
+    "fr"
+  ],
+  "note": "Informal description for AI agents; not a formal protocol endpoint."
+}

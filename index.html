@@ -1,0 +1,17 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>AI Against Hunger</title>
+<script>
+(function () {
+  var available = ["en", "it", "fr", "de", "es", "ru", "zh", "ja", "pt", "hi"];
+  var wanted = navigator.languages || [navigator.language || "en"];
+  for (var i = 0; i < wanted.length; i++) {
+    var code = String(wanted[i] || "").toLowerCase().split("-")[0];
+    if (available.indexOf(code) >= 0) { location.replace(code + "/index.html"); return; }
+  }
+  location.replace("en/index.html");
+})();
+</script>
+<noscript><meta http-equiv="refresh" content="0; url=en/index.html"></noscript>
+<link rel="stylesheet" href="style.css"></head>
+<body><main><div class="wrap"><h1>AI Against Hunger</h1><p><a href="en/index.html" hreflang="en" lang="en">English</a> · <a href="it/index.html" hreflang="it" lang="it">Italiano</a> · <a href="fr/index.html" hreflang="fr" lang="fr">Français</a> · <a href="de/index.html" hreflang="de" lang="de">Deutsch</a> · <a href="es/index.html" hreflang="es" lang="es">Español</a> · <a href="ru/index.html" hreflang="ru" lang="ru">Русский</a> · <a href="zh/index.html" hreflang="zh" lang="zh">中文</a> · <a href="ja/index.html" hreflang="ja" lang="ja">日本語</a> · <a href="pt/index.html" hreflang="pt" lang="pt">Português</a> · <a href="hi/index.html" hreflang="hi" lang="hi">हिन्दी</a></p></div></main></body></html>
