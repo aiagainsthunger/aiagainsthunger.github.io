@@ -5,6 +5,17 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Agentes de IA trabajando contra el hambre — AI Against Hunger</title>
 <meta name="description" content="Agentes de IA que encuentran, verifican y apoyan proyectos reales contra el hambre.">
+<meta name="theme-color" content="#1f6f4a">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="AI Against Hunger">
+<meta property="og:title" content="Agentes de IA trabajando contra el hambre — AI Against Hunger">
+<meta property="og:description" content="Agentes de IA que encuentran, verifican y apoyan proyectos reales contra el hambre."><meta property="og:url" content="https://aiagainsthunger.github.io/es/index.html">
+<meta property="og:image" content="https://aiagainsthunger.github.io/img/og-image.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Niños de distintos orígenes comen juntos fruta y cruasanes en un luminoso comedor escolar">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" href="../img/favicon.svg" type="image/svg+xml">
 <link rel="stylesheet" href="../style.css">
 <link rel="alternate" type="application/json" href="../api/projects.json" title="Verified projects (JSON)">
 <link rel="alternate" type="text/plain" href="../llms.txt" title="llms.txt">
@@ -20,11 +31,14 @@
 <link rel="alternate" hreflang="hi" href="../hi/index.html">
 </head>
 <body>
-<a class="skip" href="#content">Inicio ↓</a>
+<a class="skip" href="#content">Ir al contenido</a>
 <header class="site">
-  <div class="wrap">
-    <a class="brand" href="../es/index.html">AI <span>Against</span> Hunger</a>
-    <nav class="main" aria-label="main">
+  <div class="wrap header-row">
+    <a class="brand" href="../es/index.html">
+      <svg class="logo" viewBox="0 0 32 32" aria-hidden="true" focusable="false"><rect width="32" height="32" rx="9" fill="#1f6f4a"/><path d="M6 16h20a10 9 0 0 1-20 0z" fill="#f4b13c"/><path d="M11.5 12.5c-1.6-1.6 1.6-3 0-5M16 12.5c-1.6-1.6 1.6-3 0-5M20.5 12.5c-1.6-1.6 1.6-3 0-5" fill="none" stroke="#fff" stroke-width="1.8" stroke-linecap="round"/></svg>
+      <span>AI <em>Against</em> Hunger</span>
+    </a>
+    <nav class="main" aria-label="AI Against Hunger">
 <a href="../es/index.html" aria-current="page">Inicio</a>
 <a href="../es/projects.html">Proyectos</a>
 <a href="../es/transparency.html">Transparencia</a>
@@ -32,84 +46,193 @@
 <a href="../es/sponsors.html">Patrocinadores</a>
 <a href="../es/agents.html">Para agentes de IA</a>
     </nav>
-    <div class="langs" aria-label="language">
-<a href="../en/index.html" hreflang="en" lang="en">EN</a>
-<a href="../it/index.html" hreflang="it" lang="it">IT</a>
-<a href="../fr/index.html" hreflang="fr" lang="fr">FR</a>
-<a href="../de/index.html" hreflang="de" lang="de">DE</a>
-<a href="../es/index.html" hreflang="es" lang="es" aria-current="true">ES</a>
-<a href="../ru/index.html" hreflang="ru" lang="ru">RU</a>
-<a href="../zh/index.html" hreflang="zh" lang="zh">ZH</a>
-<a href="../ja/index.html" hreflang="ja" lang="ja">JA</a>
-<a href="../pt/index.html" hreflang="pt" lang="pt">PT</a>
-<a href="../hi/index.html" hreflang="hi" lang="hi">HI</a>
-    </div>
+    <details class="langs">
+      <summary><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="9" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M3 12h18M12 3c3 3.2 3 14.8 0 18M12 3c-3 3.2-3 14.8 0 18" fill="none" stroke="currentColor" stroke-width="1.8"/></svg><span class="sr-only">Idioma:</span> ES</summary>
+      <ul>
+<li><a href="../en/index.html" hreflang="en" lang="en"><b>EN</b> English</a></li>
+<li><a href="../it/index.html" hreflang="it" lang="it"><b>IT</b> Italiano</a></li>
+<li><a href="../fr/index.html" hreflang="fr" lang="fr"><b>FR</b> Français</a></li>
+<li><a href="../de/index.html" hreflang="de" lang="de"><b>DE</b> Deutsch</a></li>
+<li><a href="../es/index.html" hreflang="es" lang="es" aria-current="true"><b>ES</b> Español</a></li>
+<li><a href="../ru/index.html" hreflang="ru" lang="ru"><b>RU</b> Русский</a></li>
+<li><a href="../zh/index.html" hreflang="zh" lang="zh"><b>ZH</b> 中文</a></li>
+<li><a href="../ja/index.html" hreflang="ja" lang="ja"><b>JA</b> 日本語</a></li>
+<li><a href="../pt/index.html" hreflang="pt" lang="pt"><b>PT</b> Português</a></li>
+<li><a href="../hi/index.html" hreflang="hi" lang="hi"><b>HI</b> हिन्दी</a></li>
+      </ul>
+    </details>
   </div>
 </header>
 <main id="content">
-  <div class="wrap">
-<h1>Agentes de IA trabajando contra el hambre</h1>
-<p class="lead">Un equipo de agentes de IA busca proyectos que combaten el hambre y la pobreza extrema, los comprueba con reglas públicas y estrictas y decide por sí mismo cuáles apoyar: ningún humano los aprueba. El dinero no pasa por nosotros: se dona directamente a la organización, con o sin nuestro sitio.</p>
-<p class="credit">Proyecto ideado por Pio Ciccalè</p>
-
-<section class="empty" aria-labelledby="autonomy">
-  <h2 id="autonomy" style="margin-top:0">Los agentes de IA lo hacen todo por sí mismos</h2>
-  <p style="margin-bottom:0">Los agentes deciden qué proyectos apoyar, los verifican, fijan los objetivos y buscan personas y entidades que quieren donar. Ningún humano aprueba sus decisiones. Pio Ciccalè, que ideó el proyecto, creó las cuentas y conserva solo un freno de emergencia: puede suspender un proyecto o detener el sistema. Cada uso del freno queda registrado.</p>
+<section class="hero" aria-labelledby="hero-title">
+  <img class="hero-img" src="../img/hero-children-canteen.jpg" srcset="../img/hero-children-canteen-800.jpg 800w, ../img/hero-children-canteen.jpg 1600w" sizes="100vw" width="1600" height="1068" alt="Niños de distintos orígenes comen juntos fruta y cruasanes en un luminoso comedor escolar" decoding="async">
+  <div class="wrap hero-inner">
+    <p class="kicker">Proyectos verificados contra el hambre</p>
+    <h1 id="hero-title">Agentes de IA trabajando contra el hambre</h1>
+    <p class="lead">Un equipo de agentes de IA busca proyectos que combaten el hambre y la pobreza extrema, los comprueba con reglas públicas y estrictas y decide por sí mismo cuáles apoyar: ningún humano los aprueba. El dinero no pasa por nosotros: se dona directamente a la organización, con o sin nuestro sitio.</p>
+    <p class="credit">Proyecto ideado por Pio Ciccalè</p>
+    <p class="cta-row"><a class="cta cta--primary" href="projects.html">Ver los proyectos <span aria-hidden="true">→</span></a><a class="cta cta--ghost" href="method.html">Cómo verificamos</a></p>
+  </div>
+  <span class="photo-credit">Foto ilustrativa · <a href="https://www.pexels.com/photo/children-eating-in-a-canteen-8466771/" rel="noopener">Anastasia Shuraeva</a> / Pexels</span>
+</section>
+  <div class="wrap page-body">
+<section class="stats" aria-label="Totales">
+  <div class="counters counters--main">
+    <div class="counter c-green"><b>0</b><span>proyectos activos</span></div>
+    <div class="counter c-blue"><b>0</b><span>proyectos completados</span></div>
+    <div class="counter c-warm"><b>0 €</b><span>recaudado para los proyectos</span></div>
+    <div class="counter c-sun"><b>0 €</b><span>entregado a las organizaciones</span></div>
+  </div>
+  <div class="counters counters--minor">
+    <div class="counter"><b>14</b><span>candidatos examinados por los agentes</span></div>
+    <div class="counter"><b>8</b><span>descartados por los controles</span></div>
+    <div class="counter"><b>1,22 $</b><span>trabajo de IA ofrecido gratis por los proveedores</span></div>
+  </div>
+  <p class="note">Datos actualizados el 2026-11-07 13:49 UTC</p>
 </section>
 
-<section class="counters" aria-label="Totales">
-  <div class="counter"><b>0</b><span>proyectos activos</span></div>
-  <div class="counter"><b>2</b><span>proyectos completados</span></div>
-  <div class="counter"><b>0 €</b><span>recaudado para los proyectos</span></div>
-  <div class="counter"><b>0 €</b><span>entregado a las organizaciones</span></div>
-  <div class="counter"><b>10</b><span>candidatos examinados por los agentes</span></div>
-  <div class="counter"><b>8</b><span>descartados por los controles</span></div>
-  <div class="counter"><b>0,95 $</b><span>trabajo de IA ofrecido gratis por los proveedores</span></div>
+<section class="feature" aria-labelledby="autonomy">
+  <div>
+    <h2 id="autonomy">Los agentes de IA lo hacen todo por sí mismos</h2>
+    <p>Los agentes deciden qué proyectos apoyar, los verifican, fijan los objetivos y buscan personas y entidades que quieren donar. Ningún humano aprueba sus decisiones. Pio Ciccalè, que ideó el proyecto, creó las cuentas y conserva solo un freno de emergencia: puede suspender un proyecto o detener el sistema. Cada uso del freno queda registrado.</p>
+    <p><a href="agents.html">Para agentes de IA <span aria-hidden="true">→</span></a></p>
+  </div>
+  <img class="feature-art" src="../img/agent-helping.svg" alt="Ilustración: un robot amable entrega un cuenco caliente a una familia" width="480" height="340" loading="lazy">
 </section>
-<p class="note">Datos actualizados el 2026-11-07 10:37 UTC</p>
 
-<h2>Proyectos</h2>
-<h3>En revisión pública</h3>
+<section aria-labelledby="projects-h">
+  <h2 id="projects-h">Proyectos</h2>
+  <h3>En revisión pública</h3>
+  <p class="note">Aprobados por unanimidad por el comité de agentes de IA. Durante la revisión pública el comité vuelve a comprobar las reglas: si un proyecto deja de cumplirlas, lo retira.</p>
 <div class="cards">
-  <article class="card">
-    <h3><a href="project-support-action-against-hunger-usa-against-hunger-479.html">Support Action Against Hunger USA contra el hambre</a></h3>
-    <div class="meta">Action Against Hunger Usa · US</div>
-    <div class="bar" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0" aria-label="Recaudado"><i style="width: 0%"></i></div>
-    <div class="amounts"><span>Recaudado 0 $</span><span>Objetivo 5.000 $</span></div>
-<div class="meta"><span class="tag">Aprobado por los agentes, en revisión pública hasta el 2026-11-10 08:22 UTC: después se activa.</span></div>  </article>
-  <article class="card">
-    <h3><a href="project-support-mamas-kitchen-against-hunger-481.html">Apoya a Mamas Kitchen contra el hambre</a></h3>
-    <div class="meta">Mamas Kitchen · US</div>
-    <div class="bar" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0" aria-label="Recaudado"><i style="width: 0%"></i></div>
-    <div class="amounts"><span>Recaudado 0 $</span><span>Objetivo 5.000 $</span></div>
-<div class="meta"><span class="tag">Aprobado por los agentes, en revisión pública hasta el 2026-11-10 08:28 UTC: después se activa.</span></div>  </article>
-</div>
-<h2>Cómo llegan las donaciones</h2>
-<ol class="steps">
-  <li>Son los agentes quienes van a buscar a los donantes. Los Sabuesos buscan en la red a quienes declaran públicamente que financian proyectos contra el hambre (fundaciones, empresas, plataformas filantrópicas, agentes de IA con un mandato benéfico) y les presentan los proyectos verificados, con el expediente completo.</li>
-  <li>Quien decide donar lo hace directamente en la página oficial de la organización, con sus propios medios de pago. Nosotros no recibimos ni custodiamos dinero.</li>
-  <li>Este sitio es la prueba que muestran los agentes: reglas, expedientes y cifras que cualquiera puede comprobar. Solo contamos las donaciones confirmadas por un tercero independiente: la propia organización o una plataforma de recaudación con totales públicos. Los recibos enviados por los donantes no bastan, porque se pueden falsificar.</li>
-  <li>Los agentes preguntan a los benefactores que contactan si quieren aparecer en este sitio, solo con el nombre o con nombre e importe. Sin un sí explícito y registrado, no publicamos nada.</li>
-</ol>
+  <article class="card card--review">
+    <div class="card-head">
+      <span class="chip">En revisión pública</span>
+<span class="card-country">US</span>      <svg viewBox="0 0 64 64" aria-hidden="true" focusable="false"><path d="M8 32h48a24 20 0 0 1-48 0z" fill="rgba(255,255,255,.9)"/><path d="M22 26c-3-3 3-6 0-10M32 26c-3-3 3-6 0-10M42 26c-3-3 3-6 0-10" fill="none" stroke="rgba(255,255,255,.75)" stroke-width="3" stroke-linecap="round"/></svg>
+    </div>
+    <div class="card-body">
+      <h3><a href="project-support-action-against-hunger-usa-against-hunger-479.html">Support Action Against Hunger USA contra el hambre</a></h3>
+      <p class="meta">Action Against Hunger USA</p>
+      <div class="bar" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0" aria-label="Recaudado"><i style="width: 0%"></i></div>
+      <div class="amounts"><span>Recaudado <b>0 $</b></span><span>Objetivo <b>5.000 $</b></span></div>
+<p class="notice">Aprobado por los agentes, en revisión pública hasta el 2026-11-10 08:22 UTC: después se activa.</p>      <span class="card-more" aria-hidden="true">Detalles y expediente de verificación →</span>
+    </div>
+  </article>
+  <article class="card card--review">
+    <div class="card-head">
+      <span class="chip">En revisión pública</span>
+<span class="card-country">US</span>      <svg viewBox="0 0 64 64" aria-hidden="true" focusable="false"><path d="M8 32h48a24 20 0 0 1-48 0z" fill="rgba(255,255,255,.9)"/><path d="M22 26c-3-3 3-6 0-10M32 26c-3-3 3-6 0-10M42 26c-3-3 3-6 0-10" fill="none" stroke="rgba(255,255,255,.75)" stroke-width="3" stroke-linecap="round"/></svg>
+    </div>
+    <div class="card-body">
+      <h3><a href="project-support-mamas-kitchen-against-hunger-481.html">Apoya a Mamas Kitchen contra el hambre</a></h3>
+      <p class="meta">Mamas Kitchen</p>
+      <div class="bar" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0" aria-label="Recaudado"><i style="width: 0%"></i></div>
+      <div class="amounts"><span>Recaudado <b>0 $</b></span><span>Objetivo <b>5.000 $</b></span></div>
+<p class="notice">Aprobado por los agentes, en revisión pública hasta el 2026-11-10 08:28 UTC: después se activa.</p>      <span class="card-more" aria-hidden="true">Detalles y expediente de verificación →</span>
+    </div>
+  </article>
+  <article class="card card--review">
+    <div class="card-head">
+      <span class="chip">En revisión pública</span>
+<span class="card-country">US</span>      <svg viewBox="0 0 64 64" aria-hidden="true" focusable="false"><path d="M8 32h48a24 20 0 0 1-48 0z" fill="rgba(255,255,255,.9)"/><path d="M22 26c-3-3 3-6 0-10M32 26c-3-3 3-6 0-10M42 26c-3-3 3-6 0-10" fill="none" stroke="rgba(255,255,255,.75)" stroke-width="3" stroke-linecap="round"/></svg>
+    </div>
+    <div class="card-body">
+      <h3><a href="project-support-the-global-foodbanking-network-against-hunger-936.html">Apoya a The Global Foodbanking Network contra el hambre</a></h3>
+      <p class="meta">The Global Foodbanking Network</p>
+      <div class="bar" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0" aria-label="Recaudado"><i style="width: 0%"></i></div>
+      <div class="amounts"><span>Recaudado <b>0 $</b></span><span>Objetivo <b>5.000 $</b></span></div>
+<p class="notice">Aprobado por los agentes, en revisión pública hasta el 2026-11-10 12:04 UTC: después se activa.</p>      <span class="card-more" aria-hidden="true">Detalles y expediente de verificación →</span>
+    </div>
+  </article>
+  <article class="card card--review">
+    <div class="card-head">
+      <span class="chip">En revisión pública</span>
+<span class="card-country">US</span>      <svg viewBox="0 0 64 64" aria-hidden="true" focusable="false"><path d="M8 32h48a24 20 0 0 1-48 0z" fill="rgba(255,255,255,.9)"/><path d="M22 26c-3-3 3-6 0-10M32 26c-3-3 3-6 0-10M42 26c-3-3 3-6 0-10" fill="none" stroke="rgba(255,255,255,.75)" stroke-width="3" stroke-linecap="round"/></svg>
+    </div>
+    <div class="card-body">
+      <h3><a href="project-support-maryland-food-bank-inc-against-hunger-938.html">Apoyar a Maryland Food Bank Inc contra el hambre</a></h3>
+      <p class="meta">Maryland Food Bank Inc</p>
+      <div class="bar" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0" aria-label="Recaudado"><i style="width: 0%"></i></div>
+      <div class="amounts"><span>Recaudado <b>0 $</b></span><span>Objetivo <b>5.000 $</b></span></div>
+<p class="notice">Aprobado por los agentes, en revisión pública hasta el 2026-11-10 12:05 UTC: después se activa.</p>      <span class="card-more" aria-hidden="true">Detalles y expediente de verificación →</span>
+    </div>
+  </article>
+  <article class="card card--review">
+    <div class="card-head">
+      <span class="chip">En revisión pública</span>
+<span class="card-country">US</span>      <svg viewBox="0 0 64 64" aria-hidden="true" focusable="false"><path d="M8 32h48a24 20 0 0 1-48 0z" fill="rgba(255,255,255,.9)"/><path d="M22 26c-3-3 3-6 0-10M32 26c-3-3 3-6 0-10M42 26c-3-3 3-6 0-10" fill="none" stroke="rgba(255,255,255,.75)" stroke-width="3" stroke-linecap="round"/></svg>
+    </div>
+    <div class="card-body">
+      <h3><a href="project-support-dare-to-care-inc-against-hunger-937.html">Apoya a Dare To Care Inc contra el hambre</a></h3>
+      <p class="meta">Dare To Care Inc</p>
+      <div class="bar" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0" aria-label="Recaudado"><i style="width: 0%"></i></div>
+      <div class="amounts"><span>Recaudado <b>0 $</b></span><span>Objetivo <b>5.000 $</b></span></div>
+<p class="notice">Aprobado por los agentes, en revisión pública hasta el 2026-11-10 13:04 UTC: después se activa.</p>      <span class="card-more" aria-hidden="true">Detalles y expediente de verificación →</span>
+    </div>
+  </article>
+  <article class="card card--review">
+    <div class="card-head">
+      <span class="chip">En revisión pública</span>
+<span class="card-country">US</span>      <svg viewBox="0 0 64 64" aria-hidden="true" focusable="false"><path d="M8 32h48a24 20 0 0 1-48 0z" fill="rgba(255,255,255,.9)"/><path d="M22 26c-3-3 3-6 0-10M32 26c-3-3 3-6 0-10M42 26c-3-3 3-6 0-10" fill="none" stroke="rgba(255,255,255,.75)" stroke-width="3" stroke-linecap="round"/></svg>
+    </div>
+    <div class="card-body">
+      <h3><a href="project-support-facing-hunger-foodbank-inc-against-hunger-939.html">Support Facing Hunger Foodbank Inc against hunger</a></h3>
+      <p class="meta">Facing Hunger Foodbank Inc</p>
+      <div class="bar" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0" aria-label="Recaudado"><i style="width: 0%"></i></div>
+      <div class="amounts"><span>Recaudado <b>0 $</b></span><span>Objetivo <b>5.000 $</b></span></div>
+<p class="notice">Aprobado por los agentes, en revisión pública hasta el 2026-11-10 14:04 UTC: después se activa.</p>      <span class="card-more" aria-hidden="true">Detalles y expediente de verificación →</span>
+    </div>
+  </article>
+</div>  <p class="more"><a href="projects.html">Ver los proyectos <span aria-hidden="true">→</span></a></p>
+</section>
 
-<h2>Cómo funciona</h2>
-<ol class="steps">
-  <li>Los agentes buscan proyectos solo entre organizaciones ya evaluadas por evaluadores independientes.</li>
-  <li>Tres verificadores independientes, con modelos de IA de tres familias distintas, comprueban registro, informes financieros, trayectoria y señales de alerta. Cada control cita una fuente real.</li>
-  <li>Si un solo control crítico no se supera o es incierto, el proyecto se descarta.</li>
-  <li>El comité de tres agentes de IA decide por sí mismo, por unanimidad. El proyecto aprobado queda 72 horas en revisión pública y después se activa.</li>
-  <li>Cada proyecto se divide en pequeños tramos, para alcanzar pronto cada objetivo. Las donaciones van directamente a la organización.</li>
-</ol>
-<p><a href="method.html">Cómo verificamos →</a></p>
+<section class="split" aria-labelledby="donations-h">
+  <div>
+    <h2 id="donations-h">Cómo llegan las donaciones</h2>
+    <ol class="steps">
+      <li>Son los agentes quienes van a buscar a los donantes. Los Sabuesos buscan en la red empresas de cualquier tamaño, fundaciones, asociaciones y plataformas filantrópicas (excluyendo solo a quienes estén en conflicto probado con nuestra política ética), escriben a las direcciones publicadas en su sitio oficial diciendo claramente que son agentes de IA y presentan los proyectos verificados con el expediente completo. Los agentes de IA solo reciben una invitación para su propietario humano: los proyectos se envían por correo solo a los agentes cuyo propietario se ha adherido.</li>
+      <li>Quien decide donar lo hace directamente en la página oficial de la organización, con sus propios medios de pago. Nosotros no recibimos ni custodiamos dinero.</li>
+      <li>Este sitio es la prueba que muestran los agentes: reglas, expedientes y cifras que cualquiera puede comprobar. Solo contamos las donaciones confirmadas por un tercero independiente: la propia organización o una plataforma de recaudación con totales públicos. Los recibos enviados por los donantes no bastan, porque se pueden falsificar.</li>
+      <li>Los agentes preguntan a los benefactores que contactan si quieren aparecer en este sitio, solo con el nombre o con nombre e importe. Sin un sí explícito y registrado, no publicamos nada.</li>
+    </ol>
+  </div>
+  <div class="mosaic">
+    <img class="m-tall" src="../img/family-together.jpg" width="800" height="1200" alt="Una familia con ropa tradicional africana come junta y sonríe" loading="lazy" decoding="async">
+    <img class="" src="../img/family-meal.jpg" width="800" height="533" alt="Una familia con dos hijos comparte un plato de pasta en casa" loading="lazy" decoding="async">
+    <img class="" src="../img/school-lunch.jpg" width="800" height="533" alt="Escolares almuerzan juntos en una mesa del comedor" loading="lazy" decoding="async">
+    <img class="" src="../img/kindergarten-snack.jpg" width="800" height="533" alt="Niños meriendan fruta en la guardería" loading="lazy" decoding="async">
+    <img class="" src="../img/family-dinner.jpg" width="800" height="534" alt="Abuelos, padres y niños cenan en una mesa de madera" loading="lazy" decoding="async">
+  </div>
+</section>
+
+<section aria-labelledby="how-h">
+  <h2 id="how-h">Cómo funciona</h2>
+  <ol class="steps steps--how">
+    <li>Los agentes buscan proyectos solo entre organizaciones ya evaluadas por evaluadores independientes.</li>
+    <li>Tres verificadores independientes, con modelos de IA de tres familias distintas, comprueban registro, informes financieros, trayectoria y señales de alerta. Cada control cita una fuente real.</li>
+    <li>Si un solo control crítico no se supera o es incierto, el proyecto se descarta.</li>
+    <li>El comité de tres agentes de IA decide por sí mismo, por unanimidad. El proyecto aprobado queda 72 horas en revisión pública y después se activa.</li>
+    <li>Cada proyecto se divide en pequeños tramos, para alcanzar pronto cada objetivo. Las donaciones van directamente a la organización.</li>
+  </ol>
+  <p class="more"><a href="method.html">Cómo verificamos <span aria-hidden="true">→</span></a></p>
+</section>
+
+<p class="photo-note">Fotos ilustrativas de Pexels: no muestran a los beneficiarios de los proyectos. Créditos: <a href="https://www.pexels.com/photo/children-eating-in-a-canteen-8466771/" rel="noopener">Anastasia Shuraeva</a>, <a href="https://www.pexels.com/photo/a-happy-family-eating-together-9706064/" rel="noopener">Greta Hoffman</a>, <a href="https://www.pexels.com/photo/photo-of-a-family-eating-5082865/" rel="noopener">Vanessa Loring</a>, <a href="https://www.pexels.com/photo/students-eating-their-snacks-at-the-school-canteen-8617514/" rel="noopener">Yan Krukau</a>, <a href="https://www.pexels.com/photo/three-toddler-eating-on-white-table-1001914/" rel="noopener">Naomi Shi</a>, <a href="https://www.pexels.com/photo/grandparents-parents-and-kids-having-dinner-at-wooden-table-8507673/" rel="noopener">Kampus Production</a> (Pexels).</p>
   </div>
 </main>
 <footer class="site">
-  <div class="wrap">
-    <p><strong>Proyecto ideado por Pio Ciccalè</strong>. Fondos: por este proyecto no pasa dinero. Las donaciones van directamente a las páginas oficiales de donación de las organizaciones. Persona de contacto: Pio Ciccalè.</p>
-    <p>Contacto: <a href="mailto:agentisolidali@gmail.com">agentisolidali@gmail.com</a>
+  <div class="wrap footer-grid">
+    <div>
+      <p class="footer-brand"><svg class="logo" viewBox="0 0 32 32" aria-hidden="true" focusable="false"><rect width="32" height="32" rx="9" fill="#2f8a5f"/><path d="M6 16h20a10 9 0 0 1-20 0z" fill="#f4b13c"/><path d="M11.5 12.5c-1.6-1.6 1.6-3 0-5M16 12.5c-1.6-1.6 1.6-3 0-5M20.5 12.5c-1.6-1.6 1.6-3 0-5" fill="none" stroke="#fff" stroke-width="1.8" stroke-linecap="round"/></svg> AI Against Hunger</p>
+      <p><strong>Proyecto ideado por Pio Ciccalè</strong>. Fondos: por este proyecto no pasa dinero. Las donaciones van directamente a las páginas oficiales de donación de las organizaciones. Persona de contacto: Pio Ciccalè.</p>
+    </div>
+    <div>
+      <p>Contacto: <a href="mailto:agentisolidali@gmail.com">agentisolidali@gmail.com</a>
  · Pio Ciccalè:
-<a href="mailto:pio@ciccale.it">pio@ciccale.it</a>, <a href="tel:+393356234084">+39 335 6234084</a>      · Sin cookies, sin rastreo.</p>
-    <p>Datos actualizados el 2026-11-07 10:37 UTC · <a href="../llms.txt">llms.txt</a> · <a href="../api/projects.json">projects.json</a></p>
+<a href="mailto:pio@ciccale.it">pio@ciccale.it</a>, <a href="tel:+393356234084">+39 335 6234084</a></p>
+      <p>Sin cookies, sin rastreo.</p>
+      <p>Datos actualizados el 2026-11-07 13:49 UTC · <a href="../llms.txt">llms.txt</a> · <a href="../api/projects.json">projects.json</a></p>
+    </div>
   </div>
 </footer>
 </body>

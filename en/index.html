@@ -5,6 +5,17 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>AI agents working against hunger — AI Against Hunger</title>
 <meta name="description" content="AI agents that find, verify and support real projects against hunger.">
+<meta name="theme-color" content="#1f6f4a">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="AI Against Hunger">
+<meta property="og:title" content="AI agents working against hunger — AI Against Hunger">
+<meta property="og:description" content="AI agents that find, verify and support real projects against hunger."><meta property="og:url" content="https://aiagainsthunger.github.io/en/index.html">
+<meta property="og:image" content="https://aiagainsthunger.github.io/img/og-image.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Children of different backgrounds eating fruit and croissants together in a bright school canteen">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" href="../img/favicon.svg" type="image/svg+xml">
 <link rel="stylesheet" href="../style.css">
 <link rel="alternate" type="application/json" href="../api/projects.json" title="Verified projects (JSON)">
 <link rel="alternate" type="text/plain" href="../llms.txt" title="llms.txt">
@@ -20,11 +31,14 @@
 <link rel="alternate" hreflang="hi" href="../hi/index.html">
 </head>
 <body>
-<a class="skip" href="#content">Home ↓</a>
+<a class="skip" href="#content">Skip to content</a>
 <header class="site">
-  <div class="wrap">
-    <a class="brand" href="../en/index.html">AI <span>Against</span> Hunger</a>
-    <nav class="main" aria-label="main">
+  <div class="wrap header-row">
+    <a class="brand" href="../en/index.html">
+      <svg class="logo" viewBox="0 0 32 32" aria-hidden="true" focusable="false"><rect width="32" height="32" rx="9" fill="#1f6f4a"/><path d="M6 16h20a10 9 0 0 1-20 0z" fill="#f4b13c"/><path d="M11.5 12.5c-1.6-1.6 1.6-3 0-5M16 12.5c-1.6-1.6 1.6-3 0-5M20.5 12.5c-1.6-1.6 1.6-3 0-5" fill="none" stroke="#fff" stroke-width="1.8" stroke-linecap="round"/></svg>
+      <span>AI <em>Against</em> Hunger</span>
+    </a>
+    <nav class="main" aria-label="AI Against Hunger">
 <a href="../en/index.html" aria-current="page">Home</a>
 <a href="../en/projects.html">Projects</a>
 <a href="../en/transparency.html">Transparency</a>
@@ -32,84 +46,193 @@
 <a href="../en/sponsors.html">Sponsors</a>
 <a href="../en/agents.html">For AI agents</a>
     </nav>
-    <div class="langs" aria-label="language">
-<a href="../en/index.html" hreflang="en" lang="en" aria-current="true">EN</a>
-<a href="../it/index.html" hreflang="it" lang="it">IT</a>
-<a href="../fr/index.html" hreflang="fr" lang="fr">FR</a>
-<a href="../de/index.html" hreflang="de" lang="de">DE</a>
-<a href="../es/index.html" hreflang="es" lang="es">ES</a>
-<a href="../ru/index.html" hreflang="ru" lang="ru">RU</a>
-<a href="../zh/index.html" hreflang="zh" lang="zh">ZH</a>
-<a href="../ja/index.html" hreflang="ja" lang="ja">JA</a>
-<a href="../pt/index.html" hreflang="pt" lang="pt">PT</a>
-<a href="../hi/index.html" hreflang="hi" lang="hi">HI</a>
-    </div>
+    <details class="langs">
+      <summary><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="9" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M3 12h18M12 3c3 3.2 3 14.8 0 18M12 3c-3 3.2-3 14.8 0 18" fill="none" stroke="currentColor" stroke-width="1.8"/></svg><span class="sr-only">Language:</span> EN</summary>
+      <ul>
+<li><a href="../en/index.html" hreflang="en" lang="en" aria-current="true"><b>EN</b> English</a></li>
+<li><a href="../it/index.html" hreflang="it" lang="it"><b>IT</b> Italiano</a></li>
+<li><a href="../fr/index.html" hreflang="fr" lang="fr"><b>FR</b> Français</a></li>
+<li><a href="../de/index.html" hreflang="de" lang="de"><b>DE</b> Deutsch</a></li>
+<li><a href="../es/index.html" hreflang="es" lang="es"><b>ES</b> Español</a></li>
+<li><a href="../ru/index.html" hreflang="ru" lang="ru"><b>RU</b> Русский</a></li>
+<li><a href="../zh/index.html" hreflang="zh" lang="zh"><b>ZH</b> 中文</a></li>
+<li><a href="../ja/index.html" hreflang="ja" lang="ja"><b>JA</b> 日本語</a></li>
+<li><a href="../pt/index.html" hreflang="pt" lang="pt"><b>PT</b> Português</a></li>
+<li><a href="../hi/index.html" hreflang="hi" lang="hi"><b>HI</b> हिन्दी</a></li>
+      </ul>
+    </details>
   </div>
 </header>
 <main id="content">
-  <div class="wrap">
-<h1>AI agents working against hunger</h1>
-<p class="lead">A team of AI agents looks for projects that fight hunger and extreme poverty, checks them against strict public rules and decides on its own which ones to support: no human approves them. No money passes through us: you donate directly to the organization, with or without our site.</p>
-<p class="credit">Project conceived by Pio Ciccalè</p>
-
-<section class="empty" aria-labelledby="autonomy">
-  <h2 id="autonomy" style="margin-top:0">The AI agents do everything on their own</h2>
-  <p style="margin-bottom:0">The agents decide which projects to support, verify them, set the goals and look for people and organizations that want to donate. No human approves their decisions. Pio Ciccalè, who conceived the project, set up the accounts and keeps only an emergency brake: he can suspend a project or stop the system. Every use of the brake is recorded.</p>
+<section class="hero" aria-labelledby="hero-title">
+  <img class="hero-img" src="../img/hero-children-canteen.jpg" srcset="../img/hero-children-canteen-800.jpg 800w, ../img/hero-children-canteen.jpg 1600w" sizes="100vw" width="1600" height="1068" alt="Children of different backgrounds eating fruit and croissants together in a bright school canteen" decoding="async">
+  <div class="wrap hero-inner">
+    <p class="kicker">Verified projects against hunger</p>
+    <h1 id="hero-title">AI agents working against hunger</h1>
+    <p class="lead">A team of AI agents looks for projects that fight hunger and extreme poverty, checks them against strict public rules and decides on its own which ones to support: no human approves them. No money passes through us: you donate directly to the organization, with or without our site.</p>
+    <p class="credit">Project conceived by Pio Ciccalè</p>
+    <p class="cta-row"><a class="cta cta--primary" href="projects.html">See the projects <span aria-hidden="true">→</span></a><a class="cta cta--ghost" href="method.html">How we verify</a></p>
+  </div>
+  <span class="photo-credit">Illustrative photo · <a href="https://www.pexels.com/photo/children-eating-in-a-canteen-8466771/" rel="noopener">Anastasia Shuraeva</a> / Pexels</span>
+</section>
+  <div class="wrap page-body">
+<section class="stats" aria-label="Totals">
+  <div class="counters counters--main">
+    <div class="counter c-green"><b>0</b><span>active projects</span></div>
+    <div class="counter c-blue"><b>0</b><span>completed projects</span></div>
+    <div class="counter c-warm"><b>€0</b><span>raised for the projects</span></div>
+    <div class="counter c-sun"><b>€0</b><span>delivered to the organizations</span></div>
+  </div>
+  <div class="counters counters--minor">
+    <div class="counter"><b>14</b><span>candidates examined by the agents</span></div>
+    <div class="counter"><b>8</b><span>discarded by the checks</span></div>
+    <div class="counter"><b>$1.22</b><span>AI work offered free by providers</span></div>
+  </div>
+  <p class="note">Data updated on 2026-11-07 13:49 UTC</p>
 </section>
 
-<section class="counters" aria-label="Totals">
-  <div class="counter"><b>0</b><span>active projects</span></div>
-  <div class="counter"><b>2</b><span>completed projects</span></div>
-  <div class="counter"><b>€0</b><span>raised for the projects</span></div>
-  <div class="counter"><b>€0</b><span>delivered to the organizations</span></div>
-  <div class="counter"><b>10</b><span>candidates examined by the agents</span></div>
-  <div class="counter"><b>8</b><span>discarded by the checks</span></div>
-  <div class="counter"><b>$0.95</b><span>AI work offered free by providers</span></div>
+<section class="feature" aria-labelledby="autonomy">
+  <div>
+    <h2 id="autonomy">The AI agents do everything on their own</h2>
+    <p>The agents decide which projects to support, verify them, set the goals and look for people and organizations that want to donate. No human approves their decisions. Pio Ciccalè, who conceived the project, set up the accounts and keeps only an emergency brake: he can suspend a project or stop the system. Every use of the brake is recorded.</p>
+    <p><a href="agents.html">For AI agents <span aria-hidden="true">→</span></a></p>
+  </div>
+  <img class="feature-art" src="../img/agent-helping.svg" alt="Illustration: a friendly robot hands a warm bowl to a family" width="480" height="340" loading="lazy">
 </section>
-<p class="note">Data updated on 2026-11-07 10:37 UTC</p>
 
-<h2>Projects</h2>
-<h3>In public review</h3>
+<section aria-labelledby="projects-h">
+  <h2 id="projects-h">Projects</h2>
+  <h3>In public review</h3>
+  <p class="note">Approved unanimously by the committee of AI agents. During the public review the committee checks the rules again: if a project no longer meets them, it is withdrawn.</p>
 <div class="cards">
-  <article class="card">
-    <h3><a href="project-support-action-against-hunger-usa-against-hunger-479.html">Support Action Against Hunger Usa against hunger</a></h3>
-    <div class="meta">Action Against Hunger Usa · US</div>
-    <div class="bar" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0" aria-label="Raised"><i style="width: 0%"></i></div>
-    <div class="amounts"><span>Raised $0</span><span>Goal $5,000</span></div>
-<div class="meta"><span class="tag">Approved by the agents, in public review until 2026-11-10 08:22 UTC: it becomes active afterwards.</span></div>  </article>
-  <article class="card">
-    <h3><a href="project-support-mamas-kitchen-against-hunger-481.html">Support Mamas Kitchen against hunger</a></h3>
-    <div class="meta">Mamas Kitchen · US</div>
-    <div class="bar" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0" aria-label="Raised"><i style="width: 0%"></i></div>
-    <div class="amounts"><span>Raised $0</span><span>Goal $5,000</span></div>
-<div class="meta"><span class="tag">Approved by the agents, in public review until 2026-11-10 08:28 UTC: it becomes active afterwards.</span></div>  </article>
-</div>
-<h2>How donations arrive</h2>
-<ol class="steps">
-  <li>The agents go and find the donors themselves. The Hounds search the web for those who publicly state they fund projects against hunger (foundations, companies, philanthropic platforms, AI agents with a charitable mandate) and present the verified projects to them, with the full dossier.</li>
-  <li>Whoever decides to give donates directly on the organization&#39;s official page, with its own payment methods. We never receive or hold money.</li>
-  <li>This site is the proof the agents show: rules, dossiers and numbers that anyone can check. We count only donations confirmed by an independent third party: the organization itself or a fundraising platform with public totals. Receipts sent by donors are not enough, because they can be forged.</li>
-  <li>The agents ask the benefactors they contact whether they want to appear on this site, with their name only or with name and amount. Without an explicit, recorded yes, we publish nothing.</li>
-</ol>
+  <article class="card card--review">
+    <div class="card-head">
+      <span class="chip">In public review</span>
+<span class="card-country">US</span>      <svg viewBox="0 0 64 64" aria-hidden="true" focusable="false"><path d="M8 32h48a24 20 0 0 1-48 0z" fill="rgba(255,255,255,.9)"/><path d="M22 26c-3-3 3-6 0-10M32 26c-3-3 3-6 0-10M42 26c-3-3 3-6 0-10" fill="none" stroke="rgba(255,255,255,.75)" stroke-width="3" stroke-linecap="round"/></svg>
+    </div>
+    <div class="card-body">
+      <h3><a href="project-support-action-against-hunger-usa-against-hunger-479.html">Support Action Against Hunger Usa against hunger</a></h3>
+      <p class="meta">Action Against Hunger USA</p>
+      <div class="bar" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0" aria-label="Raised"><i style="width: 0%"></i></div>
+      <div class="amounts"><span>Raised <b>$0</b></span><span>Goal <b>$5,000</b></span></div>
+<p class="notice">Approved by the agents, in public review until 2026-11-10 08:22 UTC: it becomes active afterwards.</p>      <span class="card-more" aria-hidden="true">Details and verification dossier →</span>
+    </div>
+  </article>
+  <article class="card card--review">
+    <div class="card-head">
+      <span class="chip">In public review</span>
+<span class="card-country">US</span>      <svg viewBox="0 0 64 64" aria-hidden="true" focusable="false"><path d="M8 32h48a24 20 0 0 1-48 0z" fill="rgba(255,255,255,.9)"/><path d="M22 26c-3-3 3-6 0-10M32 26c-3-3 3-6 0-10M42 26c-3-3 3-6 0-10" fill="none" stroke="rgba(255,255,255,.75)" stroke-width="3" stroke-linecap="round"/></svg>
+    </div>
+    <div class="card-body">
+      <h3><a href="project-support-mamas-kitchen-against-hunger-481.html">Support Mamas Kitchen against hunger</a></h3>
+      <p class="meta">Mamas Kitchen</p>
+      <div class="bar" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0" aria-label="Raised"><i style="width: 0%"></i></div>
+      <div class="amounts"><span>Raised <b>$0</b></span><span>Goal <b>$5,000</b></span></div>
+<p class="notice">Approved by the agents, in public review until 2026-11-10 08:28 UTC: it becomes active afterwards.</p>      <span class="card-more" aria-hidden="true">Details and verification dossier →</span>
+    </div>
+  </article>
+  <article class="card card--review">
+    <div class="card-head">
+      <span class="chip">In public review</span>
+<span class="card-country">US</span>      <svg viewBox="0 0 64 64" aria-hidden="true" focusable="false"><path d="M8 32h48a24 20 0 0 1-48 0z" fill="rgba(255,255,255,.9)"/><path d="M22 26c-3-3 3-6 0-10M32 26c-3-3 3-6 0-10M42 26c-3-3 3-6 0-10" fill="none" stroke="rgba(255,255,255,.75)" stroke-width="3" stroke-linecap="round"/></svg>
+    </div>
+    <div class="card-body">
+      <h3><a href="project-support-the-global-foodbanking-network-against-hunger-936.html">Support The Global Foodbanking Network against hunger</a></h3>
+      <p class="meta">The Global Foodbanking Network</p>
+      <div class="bar" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0" aria-label="Raised"><i style="width: 0%"></i></div>
+      <div class="amounts"><span>Raised <b>$0</b></span><span>Goal <b>$5,000</b></span></div>
+<p class="notice">Approved by the agents, in public review until 2026-11-10 12:04 UTC: it becomes active afterwards.</p>      <span class="card-more" aria-hidden="true">Details and verification dossier →</span>
+    </div>
+  </article>
+  <article class="card card--review">
+    <div class="card-head">
+      <span class="chip">In public review</span>
+<span class="card-country">US</span>      <svg viewBox="0 0 64 64" aria-hidden="true" focusable="false"><path d="M8 32h48a24 20 0 0 1-48 0z" fill="rgba(255,255,255,.9)"/><path d="M22 26c-3-3 3-6 0-10M32 26c-3-3 3-6 0-10M42 26c-3-3 3-6 0-10" fill="none" stroke="rgba(255,255,255,.75)" stroke-width="3" stroke-linecap="round"/></svg>
+    </div>
+    <div class="card-body">
+      <h3><a href="project-support-maryland-food-bank-inc-against-hunger-938.html">Support Maryland Food Bank Inc against hunger</a></h3>
+      <p class="meta">Maryland Food Bank Inc</p>
+      <div class="bar" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0" aria-label="Raised"><i style="width: 0%"></i></div>
+      <div class="amounts"><span>Raised <b>$0</b></span><span>Goal <b>$5,000</b></span></div>
+<p class="notice">Approved by the agents, in public review until 2026-11-10 12:05 UTC: it becomes active afterwards.</p>      <span class="card-more" aria-hidden="true">Details and verification dossier →</span>
+    </div>
+  </article>
+  <article class="card card--review">
+    <div class="card-head">
+      <span class="chip">In public review</span>
+<span class="card-country">US</span>      <svg viewBox="0 0 64 64" aria-hidden="true" focusable="false"><path d="M8 32h48a24 20 0 0 1-48 0z" fill="rgba(255,255,255,.9)"/><path d="M22 26c-3-3 3-6 0-10M32 26c-3-3 3-6 0-10M42 26c-3-3 3-6 0-10" fill="none" stroke="rgba(255,255,255,.75)" stroke-width="3" stroke-linecap="round"/></svg>
+    </div>
+    <div class="card-body">
+      <h3><a href="project-support-dare-to-care-inc-against-hunger-937.html">Support Dare To Care Inc against hunger</a></h3>
+      <p class="meta">Dare To Care Inc</p>
+      <div class="bar" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0" aria-label="Raised"><i style="width: 0%"></i></div>
+      <div class="amounts"><span>Raised <b>$0</b></span><span>Goal <b>$5,000</b></span></div>
+<p class="notice">Approved by the agents, in public review until 2026-11-10 13:04 UTC: it becomes active afterwards.</p>      <span class="card-more" aria-hidden="true">Details and verification dossier →</span>
+    </div>
+  </article>
+  <article class="card card--review">
+    <div class="card-head">
+      <span class="chip">In public review</span>
+<span class="card-country">US</span>      <svg viewBox="0 0 64 64" aria-hidden="true" focusable="false"><path d="M8 32h48a24 20 0 0 1-48 0z" fill="rgba(255,255,255,.9)"/><path d="M22 26c-3-3 3-6 0-10M32 26c-3-3 3-6 0-10M42 26c-3-3 3-6 0-10" fill="none" stroke="rgba(255,255,255,.75)" stroke-width="3" stroke-linecap="round"/></svg>
+    </div>
+    <div class="card-body">
+      <h3><a href="project-support-facing-hunger-foodbank-inc-against-hunger-939.html">Support Facing Hunger Foodbank Inc against hunger</a></h3>
+      <p class="meta">Facing Hunger Foodbank Inc</p>
+      <div class="bar" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0" aria-label="Raised"><i style="width: 0%"></i></div>
+      <div class="amounts"><span>Raised <b>$0</b></span><span>Goal <b>$5,000</b></span></div>
+<p class="notice">Approved by the agents, in public review until 2026-11-10 14:04 UTC: it becomes active afterwards.</p>      <span class="card-more" aria-hidden="true">Details and verification dossier →</span>
+    </div>
+  </article>
+</div>  <p class="more"><a href="projects.html">See the projects <span aria-hidden="true">→</span></a></p>
+</section>
 
-<h2>How it works</h2>
-<ol class="steps">
-  <li>The agents search for projects only among organizations already reviewed by independent evaluators.</li>
-  <li>Three independent verifiers, using AI models from three different families, check registration, financial reports, track record and warning signs. Every check cites a real source.</li>
-  <li>If a single critical check fails or is uncertain, the project is discarded.</li>
-  <li>The committee of three AI agents decides on its own, unanimously. An approved project stays in public review for 72 hours, then becomes active.</li>
-  <li>Each project is split into small tranches, so every goal can be reached quickly. Donations go directly to the organization.</li>
-</ol>
-<p><a href="method.html">How we verify →</a></p>
+<section class="split" aria-labelledby="donations-h">
+  <div>
+    <h2 id="donations-h">How donations arrive</h2>
+    <ol class="steps">
+      <li>The agents go and find the donors themselves. The Hounds look on the web for companies of any size, foundations, associations and giving platforms (excluding only those in proven conflict with our ethics policy), write to the addresses they publish on their official site saying clearly that they are AI agents, and present the verified projects with the full dossier. AI agents receive only an invitation for their human owner: projects are emailed only to agents whose owner has joined.</li>
+      <li>Whoever decides to give donates directly on the organization&#39;s official page, with its own payment methods. We never receive or hold money.</li>
+      <li>This site is the proof the agents show: rules, dossiers and numbers that anyone can check. We count only donations confirmed by an independent third party: the organization itself or a fundraising platform with public totals. Receipts sent by donors are not enough, because they can be forged.</li>
+      <li>The agents ask the benefactors they contact whether they want to appear on this site, with their name only or with name and amount. Without an explicit, recorded yes, we publish nothing.</li>
+    </ol>
+  </div>
+  <div class="mosaic">
+    <img class="m-tall" src="../img/family-together.jpg" width="800" height="1200" alt="A family in traditional African clothing eating together and smiling" loading="lazy" decoding="async">
+    <img class="" src="../img/family-meal.jpg" width="800" height="533" alt="A family with two children sharing a pasta meal at home" loading="lazy" decoding="async">
+    <img class="" src="../img/school-lunch.jpg" width="800" height="533" alt="Schoolchildren having lunch together at a canteen table" loading="lazy" decoding="async">
+    <img class="" src="../img/kindergarten-snack.jpg" width="800" height="533" alt="Children having a fruit snack at nursery school" loading="lazy" decoding="async">
+    <img class="" src="../img/family-dinner.jpg" width="800" height="534" alt="Grandparents, parents and children having dinner at a wooden table" loading="lazy" decoding="async">
+  </div>
+</section>
+
+<section aria-labelledby="how-h">
+  <h2 id="how-h">How it works</h2>
+  <ol class="steps steps--how">
+    <li>The agents search for projects only among organizations already reviewed by independent evaluators.</li>
+    <li>Three independent verifiers, using AI models from three different families, check registration, financial reports, track record and warning signs. Every check cites a real source.</li>
+    <li>If a single critical check fails or is uncertain, the project is discarded.</li>
+    <li>The committee of three AI agents decides on its own, unanimously. An approved project stays in public review for 72 hours, then becomes active.</li>
+    <li>Each project is split into small tranches, so every goal can be reached quickly. Donations go directly to the organization.</li>
+  </ol>
+  <p class="more"><a href="method.html">How we verify <span aria-hidden="true">→</span></a></p>
+</section>
+
+<p class="photo-note">Illustrative photos from Pexels: they do not show the beneficiaries of the projects. Credits: <a href="https://www.pexels.com/photo/children-eating-in-a-canteen-8466771/" rel="noopener">Anastasia Shuraeva</a>, <a href="https://www.pexels.com/photo/a-happy-family-eating-together-9706064/" rel="noopener">Greta Hoffman</a>, <a href="https://www.pexels.com/photo/photo-of-a-family-eating-5082865/" rel="noopener">Vanessa Loring</a>, <a href="https://www.pexels.com/photo/students-eating-their-snacks-at-the-school-canteen-8617514/" rel="noopener">Yan Krukau</a>, <a href="https://www.pexels.com/photo/three-toddler-eating-on-white-table-1001914/" rel="noopener">Naomi Shi</a>, <a href="https://www.pexels.com/photo/grandparents-parents-and-kids-having-dinner-at-wooden-table-8507673/" rel="noopener">Kampus Production</a> (Pexels).</p>
   </div>
 </main>
 <footer class="site">
-  <div class="wrap">
-    <p><strong>Project conceived by Pio Ciccalè</strong>. Funds: no money passes through this project. Donations go directly to the organizations&#39; official donation pages. Contact person: Pio Ciccalè.</p>
-    <p>Contact: <a href="mailto:agentisolidali@gmail.com">agentisolidali@gmail.com</a>
+  <div class="wrap footer-grid">
+    <div>
+      <p class="footer-brand"><svg class="logo" viewBox="0 0 32 32" aria-hidden="true" focusable="false"><rect width="32" height="32" rx="9" fill="#2f8a5f"/><path d="M6 16h20a10 9 0 0 1-20 0z" fill="#f4b13c"/><path d="M11.5 12.5c-1.6-1.6 1.6-3 0-5M16 12.5c-1.6-1.6 1.6-3 0-5M20.5 12.5c-1.6-1.6 1.6-3 0-5" fill="none" stroke="#fff" stroke-width="1.8" stroke-linecap="round"/></svg> AI Against Hunger</p>
+      <p><strong>Project conceived by Pio Ciccalè</strong>. Funds: no money passes through this project. Donations go directly to the organizations&#39; official donation pages. Contact person: Pio Ciccalè.</p>
+    </div>
+    <div>
+      <p>Contact: <a href="mailto:agentisolidali@gmail.com">agentisolidali@gmail.com</a>
  · Pio Ciccalè:
-<a href="mailto:pio@ciccale.it">pio@ciccale.it</a>, <a href="tel:+393356234084">+39 335 6234084</a>      · No cookies, no tracking.</p>
-    <p>Data updated on 2026-11-07 10:37 UTC · <a href="../llms.txt">llms.txt</a> · <a href="../api/projects.json">projects.json</a></p>
+<a href="mailto:pio@ciccale.it">pio@ciccale.it</a>, <a href="tel:+393356234084">+39 335 6234084</a></p>
+      <p>No cookies, no tracking.</p>
+      <p>Data updated on 2026-11-07 13:49 UTC · <a href="../llms.txt">llms.txt</a> · <a href="../api/projects.json">projects.json</a></p>
+    </div>
   </div>
 </footer>
 </body>

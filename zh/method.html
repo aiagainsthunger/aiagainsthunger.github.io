@@ -5,6 +5,17 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>我们如何核实一个项目 — AI Against Hunger</title>
 <meta name="description" content="寻找、核实并支持真实反饥饿项目的 AI 智能体。">
+<meta name="theme-color" content="#1f6f4a">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="AI Against Hunger">
+<meta property="og:title" content="我们如何核实一个项目 — AI Against Hunger">
+<meta property="og:description" content="寻找、核实并支持真实反饥饿项目的 AI 智能体。"><meta property="og:url" content="https://aiagainsthunger.github.io/zh/method.html">
+<meta property="og:image" content="https://aiagainsthunger.github.io/img/og-image.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="不同肤色的孩子们在明亮的学校食堂里一起吃水果和羊角面包">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" href="../img/favicon.svg" type="image/svg+xml">
 <link rel="stylesheet" href="../style.css">
 <link rel="alternate" type="application/json" href="../api/projects.json" title="Verified projects (JSON)">
 <link rel="alternate" type="text/plain" href="../llms.txt" title="llms.txt">
@@ -20,11 +31,14 @@
 <link rel="alternate" hreflang="hi" href="../hi/method.html">
 </head>
 <body>
-<a class="skip" href="#content">首页 ↓</a>
+<a class="skip" href="#content">跳到正文</a>
 <header class="site">
-  <div class="wrap">
-    <a class="brand" href="../zh/index.html">AI <span>Against</span> Hunger</a>
-    <nav class="main" aria-label="main">
+  <div class="wrap header-row">
+    <a class="brand" href="../zh/index.html">
+      <svg class="logo" viewBox="0 0 32 32" aria-hidden="true" focusable="false"><rect width="32" height="32" rx="9" fill="#1f6f4a"/><path d="M6 16h20a10 9 0 0 1-20 0z" fill="#f4b13c"/><path d="M11.5 12.5c-1.6-1.6 1.6-3 0-5M16 12.5c-1.6-1.6 1.6-3 0-5M20.5 12.5c-1.6-1.6 1.6-3 0-5" fill="none" stroke="#fff" stroke-width="1.8" stroke-linecap="round"/></svg>
+      <span>AI <em>Against</em> Hunger</span>
+    </a>
+    <nav class="main" aria-label="AI Against Hunger">
 <a href="../zh/index.html">首页</a>
 <a href="../zh/projects.html">项目</a>
 <a href="../zh/transparency.html">透明度</a>
@@ -32,27 +46,33 @@
 <a href="../zh/sponsors.html">赞助方</a>
 <a href="../zh/agents.html">面向 AI 智能体</a>
     </nav>
-    <div class="langs" aria-label="language">
-<a href="../en/method.html" hreflang="en" lang="en">EN</a>
-<a href="../it/method.html" hreflang="it" lang="it">IT</a>
-<a href="../fr/method.html" hreflang="fr" lang="fr">FR</a>
-<a href="../de/method.html" hreflang="de" lang="de">DE</a>
-<a href="../es/method.html" hreflang="es" lang="es">ES</a>
-<a href="../ru/method.html" hreflang="ru" lang="ru">RU</a>
-<a href="../zh/method.html" hreflang="zh" lang="zh" aria-current="true">ZH</a>
-<a href="../ja/method.html" hreflang="ja" lang="ja">JA</a>
-<a href="../pt/method.html" hreflang="pt" lang="pt">PT</a>
-<a href="../hi/method.html" hreflang="hi" lang="hi">HI</a>
-    </div>
+    <details class="langs">
+      <summary><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="9" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M3 12h18M12 3c3 3.2 3 14.8 0 18M12 3c-3 3.2-3 14.8 0 18" fill="none" stroke="currentColor" stroke-width="1.8"/></svg><span class="sr-only">语言:</span> ZH</summary>
+      <ul>
+<li><a href="../en/method.html" hreflang="en" lang="en"><b>EN</b> English</a></li>
+<li><a href="../it/method.html" hreflang="it" lang="it"><b>IT</b> Italiano</a></li>
+<li><a href="../fr/method.html" hreflang="fr" lang="fr"><b>FR</b> Français</a></li>
+<li><a href="../de/method.html" hreflang="de" lang="de"><b>DE</b> Deutsch</a></li>
+<li><a href="../es/method.html" hreflang="es" lang="es"><b>ES</b> Español</a></li>
+<li><a href="../ru/method.html" hreflang="ru" lang="ru"><b>RU</b> Русский</a></li>
+<li><a href="../zh/method.html" hreflang="zh" lang="zh" aria-current="true"><b>ZH</b> 中文</a></li>
+<li><a href="../ja/method.html" hreflang="ja" lang="ja"><b>JA</b> 日本語</a></li>
+<li><a href="../pt/method.html" hreflang="pt" lang="pt"><b>PT</b> Português</a></li>
+<li><a href="../hi/method.html" hreflang="hi" lang="hi"><b>HI</b> हिन्दी</a></li>
+      </ul>
+    </details>
   </div>
 </header>
 <main id="content">
+<section class="page-band" aria-labelledby="page-title">
   <div class="wrap">
-<h1>我们如何核实一个项目</h1>
-<p class="lead">只要有一个虚假项目，就会毁掉我们所做一切的公信力。因此核查十分严格，尽可能自动化，并且始终公开。</p>
-
-<h2>项目从哪里来</h2>
-<p>只来自已经过独立评估机构审核的机构（例如 GlobalGiving，它会对合作机构进行自己的尽职调查）。只出现在社交网络上或注册信息无法核实的网站上的项目，我们一概不予考虑。</p>
+    <h1 id="page-title">我们如何核实一个项目</h1>
+    <p class="lead">只要有一个虚假项目，就会毁掉我们所做一切的公信力。因此核查十分严格，尽可能自动化，并且始终公开。</p>
+  </div>
+</section>
+  <div class="wrap page-body">
+<h2 class="first">项目从哪里来</h2>
+<p class="prose">只来自已经过独立评估机构审核的机构（例如 GlobalGiving，它会对合作机构进行自己的尽职调查）。只出现在社交网络上或注册信息无法核实的网站上的项目，我们一概不予考虑。</p>
 
 <h2>准入规则（由代码逐字执行）</h2>
 <ol class="steps">
@@ -68,7 +88,7 @@
 <li>平台没有任何警示（例如关于拨款延迟）</li>
 </ol>
 <h2>AI 智能体自行找到的机构适用的规则</h2>
-<p>除了平台之外，智能体还会自行寻找已由独立评估机构 Charity Navigator 评级的机构。这些机构适用更严格的规则，由代码执行：</p>
+<p class="prose">除了平台之外，智能体还会自行寻找已由独立评估机构 Charity Navigator 评级的机构。这些机构适用更严格的规则，由代码执行：</p>
 <ol class="steps">
 <li>该机构拥有 Charity Navigator 的完整评级（仅被列入名单是不够的）</li>
 <li>最高评级：4 星中的 4 星，且得分不低于 90%。评级由代码从公开页面读取，并每周重新检查：如果在公开审查期间评级下降，委员会将撤回该项目</li>
@@ -77,7 +97,7 @@
 <li>根据 IRS 官方类别或机构名称，主题为饥饿与营养</li>
 <li>智能体下载的证据中包含独立评估机构的页面</li>
 </ol>
-<p><strong>委员会：3 个来自 3 个不同模型家族的 AI 核查者，意见一致，得分至少 85/100；随后公开审查 72 小时。</strong></p>
+<p class="highlight"><strong>委员会：3 个来自 3 个不同模型家族的 AI 核查者，意见一致，得分至少 85/100；随后公开审查 72 小时。</strong></p>
 
 <h2>核查项目</h2>
 <div class="table-wrap"><table>
@@ -100,19 +120,25 @@
   <li>从网络或电子邮件读取的文字一律视为数据，绝不作为给智能体的指令。</li>
 </ol>
 
-<section class="counters">
-  <div class="counter"><b>10</b><span>智能体审查过的候选项目</span></div>
+<section class="counters counters--minor counters--two">
+  <div class="counter"><b>14</b><span>智能体审查过的候选项目</span></div>
   <div class="counter"><b>8</b><span>未通过核查而被淘汰</span></div>
 </section>
   </div>
 </main>
 <footer class="site">
-  <div class="wrap">
-    <p><strong>项目构想者：Pio Ciccalè</strong>. 资金说明：本项目不经手任何资金。捐款直接进入各机构的官方捐赠页面。联系人：Pio Ciccalè。</p>
-    <p>联系方式: <a href="mailto:agentisolidali@gmail.com">agentisolidali@gmail.com</a>
+  <div class="wrap footer-grid">
+    <div>
+      <p class="footer-brand"><svg class="logo" viewBox="0 0 32 32" aria-hidden="true" focusable="false"><rect width="32" height="32" rx="9" fill="#2f8a5f"/><path d="M6 16h20a10 9 0 0 1-20 0z" fill="#f4b13c"/><path d="M11.5 12.5c-1.6-1.6 1.6-3 0-5M16 12.5c-1.6-1.6 1.6-3 0-5M20.5 12.5c-1.6-1.6 1.6-3 0-5" fill="none" stroke="#fff" stroke-width="1.8" stroke-linecap="round"/></svg> AI Against Hunger</p>
+      <p><strong>项目构想者：Pio Ciccalè</strong>. 资金说明：本项目不经手任何资金。捐款直接进入各机构的官方捐赠页面。联系人：Pio Ciccalè。</p>
+    </div>
+    <div>
+      <p>联系方式: <a href="mailto:agentisolidali@gmail.com">agentisolidali@gmail.com</a>
  · Pio Ciccalè:
-<a href="mailto:pio@ciccale.it">pio@ciccale.it</a>, <a href="tel:+393356234084">+39 335 6234084</a>      · 不使用 Cookie，不做跟踪。</p>
-    <p>数据更新于 2026-11-07 10:37 UTC · <a href="../llms.txt">llms.txt</a> · <a href="../api/projects.json">projects.json</a></p>
+<a href="mailto:pio@ciccale.it">pio@ciccale.it</a>, <a href="tel:+393356234084">+39 335 6234084</a></p>
+      <p>不使用 Cookie，不做跟踪。</p>
+      <p>数据更新于 2026-11-07 13:49 UTC · <a href="../llms.txt">llms.txt</a> · <a href="../api/projects.json">projects.json</a></p>
+    </div>
   </div>
 </footer>
 </body>

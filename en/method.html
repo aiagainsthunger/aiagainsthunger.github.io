@@ -5,6 +5,17 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>How we verify a project — AI Against Hunger</title>
 <meta name="description" content="AI agents that find, verify and support real projects against hunger.">
+<meta name="theme-color" content="#1f6f4a">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="AI Against Hunger">
+<meta property="og:title" content="How we verify a project — AI Against Hunger">
+<meta property="og:description" content="AI agents that find, verify and support real projects against hunger."><meta property="og:url" content="https://aiagainsthunger.github.io/en/method.html">
+<meta property="og:image" content="https://aiagainsthunger.github.io/img/og-image.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Children of different backgrounds eating fruit and croissants together in a bright school canteen">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" href="../img/favicon.svg" type="image/svg+xml">
 <link rel="stylesheet" href="../style.css">
 <link rel="alternate" type="application/json" href="../api/projects.json" title="Verified projects (JSON)">
 <link rel="alternate" type="text/plain" href="../llms.txt" title="llms.txt">
@@ -20,11 +31,14 @@
 <link rel="alternate" hreflang="hi" href="../hi/method.html">
 </head>
 <body>
-<a class="skip" href="#content">Home ↓</a>
+<a class="skip" href="#content">Skip to content</a>
 <header class="site">
-  <div class="wrap">
-    <a class="brand" href="../en/index.html">AI <span>Against</span> Hunger</a>
-    <nav class="main" aria-label="main">
+  <div class="wrap header-row">
+    <a class="brand" href="../en/index.html">
+      <svg class="logo" viewBox="0 0 32 32" aria-hidden="true" focusable="false"><rect width="32" height="32" rx="9" fill="#1f6f4a"/><path d="M6 16h20a10 9 0 0 1-20 0z" fill="#f4b13c"/><path d="M11.5 12.5c-1.6-1.6 1.6-3 0-5M16 12.5c-1.6-1.6 1.6-3 0-5M20.5 12.5c-1.6-1.6 1.6-3 0-5" fill="none" stroke="#fff" stroke-width="1.8" stroke-linecap="round"/></svg>
+      <span>AI <em>Against</em> Hunger</span>
+    </a>
+    <nav class="main" aria-label="AI Against Hunger">
 <a href="../en/index.html">Home</a>
 <a href="../en/projects.html">Projects</a>
 <a href="../en/transparency.html">Transparency</a>
@@ -32,27 +46,33 @@
 <a href="../en/sponsors.html">Sponsors</a>
 <a href="../en/agents.html">For AI agents</a>
     </nav>
-    <div class="langs" aria-label="language">
-<a href="../en/method.html" hreflang="en" lang="en" aria-current="true">EN</a>
-<a href="../it/method.html" hreflang="it" lang="it">IT</a>
-<a href="../fr/method.html" hreflang="fr" lang="fr">FR</a>
-<a href="../de/method.html" hreflang="de" lang="de">DE</a>
-<a href="../es/method.html" hreflang="es" lang="es">ES</a>
-<a href="../ru/method.html" hreflang="ru" lang="ru">RU</a>
-<a href="../zh/method.html" hreflang="zh" lang="zh">ZH</a>
-<a href="../ja/method.html" hreflang="ja" lang="ja">JA</a>
-<a href="../pt/method.html" hreflang="pt" lang="pt">PT</a>
-<a href="../hi/method.html" hreflang="hi" lang="hi">HI</a>
-    </div>
+    <details class="langs">
+      <summary><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="9" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M3 12h18M12 3c3 3.2 3 14.8 0 18M12 3c-3 3.2-3 14.8 0 18" fill="none" stroke="currentColor" stroke-width="1.8"/></svg><span class="sr-only">Language:</span> EN</summary>
+      <ul>
+<li><a href="../en/method.html" hreflang="en" lang="en" aria-current="true"><b>EN</b> English</a></li>
+<li><a href="../it/method.html" hreflang="it" lang="it"><b>IT</b> Italiano</a></li>
+<li><a href="../fr/method.html" hreflang="fr" lang="fr"><b>FR</b> Français</a></li>
+<li><a href="../de/method.html" hreflang="de" lang="de"><b>DE</b> Deutsch</a></li>
+<li><a href="../es/method.html" hreflang="es" lang="es"><b>ES</b> Español</a></li>
+<li><a href="../ru/method.html" hreflang="ru" lang="ru"><b>RU</b> Русский</a></li>
+<li><a href="../zh/method.html" hreflang="zh" lang="zh"><b>ZH</b> 中文</a></li>
+<li><a href="../ja/method.html" hreflang="ja" lang="ja"><b>JA</b> 日本語</a></li>
+<li><a href="../pt/method.html" hreflang="pt" lang="pt"><b>PT</b> Português</a></li>
+<li><a href="../hi/method.html" hreflang="hi" lang="hi"><b>HI</b> हिन्दी</a></li>
+      </ul>
+    </details>
   </div>
 </header>
 <main id="content">
+<section class="page-band" aria-labelledby="page-title">
   <div class="wrap">
-<h1>How we verify a project</h1>
-<p class="lead">One fake project would destroy the credibility of everything we do. That is why verification is strict, automatic where possible, and always public.</p>
-
-<h2>Where projects come from</h2>
-<p>Only from organizations already reviewed by independent evaluators (for example GlobalGiving, which runs its own due diligence on partner organizations). Projects found only on social networks or on sites without a verifiable registration are not considered.</p>
+    <h1 id="page-title">How we verify a project</h1>
+    <p class="lead">One fake project would destroy the credibility of everything we do. That is why verification is strict, automatic where possible, and always public.</p>
+  </div>
+</section>
+  <div class="wrap page-body">
+<h2 class="first">Where projects come from</h2>
+<p class="prose">Only from organizations already reviewed by independent evaluators (for example GlobalGiving, which runs its own due diligence on partner organizations). Projects found only on social networks or on sites without a verifiable registration are not considered.</p>
 
 <h2>Admission rules (applied by the code, word for word)</h2>
 <ol class="steps">
@@ -68,7 +88,7 @@
 <li>No warning from the platform (for example about delayed payments)</li>
 </ol>
 <h2>Rules for organizations found by the agents</h2>
-<p>Besides the platforms, the agents look on their own for organizations already rated by Charity Navigator, an independent evaluator. Even stricter rules apply to them, enforced by code:</p>
+<p class="prose">Besides the platforms, the agents look on their own for organizations already rated by Charity Navigator, an independent evaluator. Even stricter rules apply to them, enforced by code:</p>
 <ol class="steps">
 <li>The organization has a full Charity Navigator rating (being listed is not enough)</li>
 <li>Top rating: 4 out of 4 stars and at least 90%. The code reads the rating on the public page and checks it again every week: if it drops during the public review, the committee withdraws the project</li>
@@ -77,7 +97,7 @@
 <li>Hunger and nutrition as the official IRS category or in the organization&#39;s name</li>
 <li>The independent evaluator&#39;s page is among the evidence downloaded by the agents</li>
 </ol>
-<p><strong>Committee: 3 AI verifiers from 3 different model families, unanimous, score at least 85/100; then 72 hours of public review.</strong></p>
+<p class="highlight"><strong>Committee: 3 AI verifiers from 3 different model families, unanimous, score at least 85/100; then 72 hours of public review.</strong></p>
 
 <h2>The checks</h2>
 <div class="table-wrap"><table>
@@ -100,19 +120,25 @@
   <li>Texts read from the web or from emails are treated as data, never as instructions to the agents.</li>
 </ol>
 
-<section class="counters">
-  <div class="counter"><b>10</b><span>candidates examined by the agents</span></div>
+<section class="counters counters--minor counters--two">
+  <div class="counter"><b>14</b><span>candidates examined by the agents</span></div>
   <div class="counter"><b>8</b><span>discarded by the checks</span></div>
 </section>
   </div>
 </main>
 <footer class="site">
-  <div class="wrap">
-    <p><strong>Project conceived by Pio Ciccalè</strong>. Funds: no money passes through this project. Donations go directly to the organizations&#39; official donation pages. Contact person: Pio Ciccalè.</p>
-    <p>Contact: <a href="mailto:agentisolidali@gmail.com">agentisolidali@gmail.com</a>
+  <div class="wrap footer-grid">
+    <div>
+      <p class="footer-brand"><svg class="logo" viewBox="0 0 32 32" aria-hidden="true" focusable="false"><rect width="32" height="32" rx="9" fill="#2f8a5f"/><path d="M6 16h20a10 9 0 0 1-20 0z" fill="#f4b13c"/><path d="M11.5 12.5c-1.6-1.6 1.6-3 0-5M16 12.5c-1.6-1.6 1.6-3 0-5M20.5 12.5c-1.6-1.6 1.6-3 0-5" fill="none" stroke="#fff" stroke-width="1.8" stroke-linecap="round"/></svg> AI Against Hunger</p>
+      <p><strong>Project conceived by Pio Ciccalè</strong>. Funds: no money passes through this project. Donations go directly to the organizations&#39; official donation pages. Contact person: Pio Ciccalè.</p>
+    </div>
+    <div>
+      <p>Contact: <a href="mailto:agentisolidali@gmail.com">agentisolidali@gmail.com</a>
  · Pio Ciccalè:
-<a href="mailto:pio@ciccale.it">pio@ciccale.it</a>, <a href="tel:+393356234084">+39 335 6234084</a>      · No cookies, no tracking.</p>
-    <p>Data updated on 2026-11-07 10:37 UTC · <a href="../llms.txt">llms.txt</a> · <a href="../api/projects.json">projects.json</a></p>
+<a href="mailto:pio@ciccale.it">pio@ciccale.it</a>, <a href="tel:+393356234084">+39 335 6234084</a></p>
+      <p>No cookies, no tracking.</p>
+      <p>Data updated on 2026-11-07 13:49 UTC · <a href="../llms.txt">llms.txt</a> · <a href="../api/projects.json">projects.json</a></p>
+    </div>
   </div>
 </footer>
 </body>

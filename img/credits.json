@@ -1,0 +1,84 @@
+{
+  "note": "Foto illustrative da Pexels: non ritraggono i beneficiari dei progetti. Scelte dall'agente fotografo (.claude/agents/fotografo.md) il 2026-11-07. Tenere in sincronia con templates/_photos.html.j2 (lo controlla tests/test_site.py).",
+  "license": {
+    "name": "Pexels License",
+    "url": "https://www.pexels.com/license/",
+    "terms": "Uso gratuito, attribuzione non obbligatoria ma sempre data; vietato mostrare persone riconoscibili in cattiva luce o in modo offensivo; vietato suggerire che le persone ritratte o i fotografi approvino il progetto."
+  },
+  "illustrations": [
+    {
+      "file": "agent-helping.svg",
+      "author": "AI Against Hunger (illustrazione originale, SVG disegnato a mano)",
+      "subject": "Un robot amichevole porge una ciotola calda a una famiglia"
+    }
+  ],
+  "photos": [
+    {
+      "file": "hero-children-canteen.jpg",
+      "variants": ["hero-children-canteen-800.jpg", "og-image.jpg"],
+      "pexels_id": 8466771,
+      "photographer": "Anastasia Shuraeva",
+      "page_url": "https://www.pexels.com/photo/children-eating-in-a-canteen-8466771/",
+      "subject": "Bambini bianchi e neri mangiano insieme frutta e cornetti alla mensa scolastica",
+      "used_on": ["index"]
+    },
+    {
+      "file": "family-meal.jpg",
+      "pexels_id": 5082865,
+      "photographer": "Vanessa Loring",
+      "page_url": "https://www.pexels.com/photo/photo-of-a-family-eating-5082865/",
+      "subject": "Una famiglia nera con due figli condivide un piatto di pasta a casa",
+      "used_on": ["index"]
+    },
+    {
+      "file": "school-lunch.jpg",
+      "pexels_id": 8617514,
+      "photographer": "Yan Krukau",
+      "page_url": "https://www.pexels.com/photo/students-eating-their-snacks-at-the-school-canteen-8617514/",
+      "subject": "Scolari di diverse provenienze pranzano insieme in mensa",
+      "used_on": ["index"]
+    },
+    {
+      "file": "kindergarten-snack.jpg",
+      "pexels_id": 1001914,
+      "photographer": "Naomi Shi",
+      "page_url": "https://www.pexels.com/photo/three-toddler-eating-on-white-table-1001914/",
+      "subject": "Bambini asiatici fanno merenda con la frutta all'asilo",
+      "used_on": ["index"]
+    },
+    {
+      "file": "family-together.jpg",
+      "pexels_id": 9706064,
+      "photographer": "Greta Hoffman",
+      "page_url": "https://www.pexels.com/photo/a-happy-family-eating-together-9706064/",
+      "subject": "Una famiglia africana in abiti tradizionali mangia insieme e sorride",
+      "used_on": ["index"]
+    },
+    {
+      "file": "family-dinner.jpg",
+      "pexels_id": 8507673,
+      "photographer": "Kampus Production",
+      "page_url": "https://www.pexels.com/photo/grandparents-parents-and-kids-having-dinner-at-wooden-table-8507673/",
+      "subject": "Nonni, genitori e bambini a cena attorno a un tavolo di legno",
+      "used_on": ["index"]
+    },
+    {
+      "file": "volunteer-serving.jpg",
+      "variants": ["volunteer-serving-800.jpg"],
+      "pexels_id": 6646981,
+      "photographer": "RDNE Stock project",
+      "page_url": "https://www.pexels.com/photo/a-woman-in-white-shirt-standing-beside-cardboard-boxes-6646981/",
+      "subject": "Una volontaria sorridente serve una minestra calda",
+      "used_on": ["projects"]
+    },
+    {
+      "file": "community-kitchen.jpg",
+      "variants": ["community-kitchen-800.jpg"],
+      "pexels_id": 6995247,
+      "photographer": "Julia M Cameron",
+      "page_url": "https://www.pexels.com/photo/people-preparing-food-packs-6995247/",
+      "subject": "Volontari preparano porzioni di pasti caldi in una mensa comunitaria",
+      "used_on": ["sponsors"]
+    }
+  ]
+}

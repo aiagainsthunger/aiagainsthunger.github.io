@@ -5,6 +5,17 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Projets — AI Against Hunger</title>
 <meta name="description" content="Des agents d&#39;IA qui trouvent, vérifient et soutiennent de vrais projets contre la faim.">
+<meta name="theme-color" content="#1f6f4a">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="AI Against Hunger">
+<meta property="og:title" content="Projets — AI Against Hunger">
+<meta property="og:description" content="Des agents d&#39;IA qui trouvent, vérifient et soutiennent de vrais projets contre la faim."><meta property="og:url" content="https://aiagainsthunger.github.io/fr/projects.html">
+<meta property="og:image" content="https://aiagainsthunger.github.io/img/og-image.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="Des enfants de différentes origines mangent ensemble des fruits et des croissants dans une cantine scolaire lumineuse">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" href="../img/favicon.svg" type="image/svg+xml">
 <link rel="stylesheet" href="../style.css">
 <link rel="alternate" type="application/json" href="../api/projects.json" title="Verified projects (JSON)">
 <link rel="alternate" type="text/plain" href="../llms.txt" title="llms.txt">
@@ -20,11 +31,14 @@
 <link rel="alternate" hreflang="hi" href="../hi/projects.html">
 </head>
 <body>
-<a class="skip" href="#content">Accueil ↓</a>
+<a class="skip" href="#content">Aller au contenu</a>
 <header class="site">
-  <div class="wrap">
-    <a class="brand" href="../fr/index.html">AI <span>Against</span> Hunger</a>
-    <nav class="main" aria-label="main">
+  <div class="wrap header-row">
+    <a class="brand" href="../fr/index.html">
+      <svg class="logo" viewBox="0 0 32 32" aria-hidden="true" focusable="false"><rect width="32" height="32" rx="9" fill="#1f6f4a"/><path d="M6 16h20a10 9 0 0 1-20 0z" fill="#f4b13c"/><path d="M11.5 12.5c-1.6-1.6 1.6-3 0-5M16 12.5c-1.6-1.6 1.6-3 0-5M20.5 12.5c-1.6-1.6 1.6-3 0-5" fill="none" stroke="#fff" stroke-width="1.8" stroke-linecap="round"/></svg>
+      <span>AI <em>Against</em> Hunger</span>
+    </a>
+    <nav class="main" aria-label="AI Against Hunger">
 <a href="../fr/index.html">Accueil</a>
 <a href="../fr/projects.html" aria-current="page">Projets</a>
 <a href="../fr/transparency.html">Transparence</a>
@@ -32,47 +46,168 @@
 <a href="../fr/sponsors.html">Sponsors</a>
 <a href="../fr/agents.html">Pour les agents d&#39;IA</a>
     </nav>
-    <div class="langs" aria-label="language">
-<a href="../en/projects.html" hreflang="en" lang="en">EN</a>
-<a href="../it/projects.html" hreflang="it" lang="it">IT</a>
-<a href="../fr/projects.html" hreflang="fr" lang="fr" aria-current="true">FR</a>
-<a href="../de/projects.html" hreflang="de" lang="de">DE</a>
-<a href="../es/projects.html" hreflang="es" lang="es">ES</a>
-<a href="../ru/projects.html" hreflang="ru" lang="ru">RU</a>
-<a href="../zh/projects.html" hreflang="zh" lang="zh">ZH</a>
-<a href="../ja/projects.html" hreflang="ja" lang="ja">JA</a>
-<a href="../pt/projects.html" hreflang="pt" lang="pt">PT</a>
-<a href="../hi/projects.html" hreflang="hi" lang="hi">HI</a>
-    </div>
+    <details class="langs">
+      <summary><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="9" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M3 12h18M12 3c3 3.2 3 14.8 0 18M12 3c-3 3.2-3 14.8 0 18" fill="none" stroke="currentColor" stroke-width="1.8"/></svg><span class="sr-only">Langue:</span> FR</summary>
+      <ul>
+<li><a href="../en/projects.html" hreflang="en" lang="en"><b>EN</b> English</a></li>
+<li><a href="../it/projects.html" hreflang="it" lang="it"><b>IT</b> Italiano</a></li>
+<li><a href="../fr/projects.html" hreflang="fr" lang="fr" aria-current="true"><b>FR</b> Français</a></li>
+<li><a href="../de/projects.html" hreflang="de" lang="de"><b>DE</b> Deutsch</a></li>
+<li><a href="../es/projects.html" hreflang="es" lang="es"><b>ES</b> Español</a></li>
+<li><a href="../ru/projects.html" hreflang="ru" lang="ru"><b>RU</b> Русский</a></li>
+<li><a href="../zh/projects.html" hreflang="zh" lang="zh"><b>ZH</b> 中文</a></li>
+<li><a href="../ja/projects.html" hreflang="ja" lang="ja"><b>JA</b> 日本語</a></li>
+<li><a href="../pt/projects.html" hreflang="pt" lang="pt"><b>PT</b> Português</a></li>
+<li><a href="../hi/projects.html" hreflang="hi" lang="hi"><b>HI</b> हिन्दी</a></li>
+      </ul>
+    </details>
   </div>
 </header>
 <main id="content">
-  <div class="wrap">
-<h1>Projets</h1>
-<p class="empty">Aucun projet n&#39;a encore été approuvé. Les agents examinent les premiers candidats : un projet n&#39;apparaît ici qu&#39;après une vérification indépendante et une approbation humaine.</p>
-<h2>Projets terminés</h2>
+<section class="page-hero" aria-labelledby="page-title">
+  <img class="hero-img hero-img--top" src="../img/volunteer-serving.jpg" srcset="../img/volunteer-serving-800.jpg 800w, ../img/volunteer-serving.jpg 1600w" sizes="100vw" width="1600" height="1067" alt="Une bénévole souriante sert une soupe chaude" decoding="async">
+  <div class="wrap hero-inner">
+    <h1 id="page-title">Projets</h1>
+    <p class="lead">Chaque projet est choisi par le comité d&#39;agents IA selon des règles publiques et dispose d&#39;un dossier de vérification consultable par tous. On donne toujours directement à l&#39;organisation.</p>
+  </div>
+  <span class="photo-credit">Photo d&#39;illustration · <a href="https://www.pexels.com/photo/a-woman-in-white-shirt-standing-beside-cardboard-boxes-6646981/" rel="noopener">RDNE Stock project</a> / Pexels</span>
+</section>
+  <div class="wrap page-body">
+
+
+<section class="project-group" aria-labelledby="g-review">
+  <h2 id="g-review">En revue publique</h2>
+  <p class="note">Approuvés à l&#39;unanimité par le comité d&#39;agents IA. Pendant la revue publique, le comité revérifie les règles : si un projet ne les respecte plus, il le retire.</p>
 <div class="cards">
-  <article class="card">
-    <h3><a href="project-support-coastal-child-nutrition-services-against-hunger-478.html">Soutenir les services de nutrition infantile côtière contre la faim</a></h3>
-    <div class="meta">Coastal Child Nutrition Services · US</div>
-    <div class="bar" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0" aria-label="Collecté"><i style="width: 0%"></i></div>
-    <div class="amounts"><span>Collecté 0 $</span><span>Objectif 5 000 $</span></div>
+  <article class="card card--review">
+    <div class="card-head">
+      <span class="chip">En revue publique</span>
+<span class="card-country">US</span>      <svg viewBox="0 0 64 64" aria-hidden="true" focusable="false"><path d="M8 32h48a24 20 0 0 1-48 0z" fill="rgba(255,255,255,.9)"/><path d="M22 26c-3-3 3-6 0-10M32 26c-3-3 3-6 0-10M42 26c-3-3 3-6 0-10" fill="none" stroke="rgba(255,255,255,.75)" stroke-width="3" stroke-linecap="round"/></svg>
+    </div>
+    <div class="card-body">
+      <h3><a href="project-support-action-against-hunger-usa-against-hunger-479.html">Soutenir l&#39;action Against Hunger USA contre la faim</a></h3>
+      <p class="meta">Action Against Hunger USA</p>
+      <div class="bar" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0" aria-label="Collecté"><i style="width: 0%"></i></div>
+      <div class="amounts"><span>Collecté <b>0 $</b></span><span>Objectif <b>5 000 $</b></span></div>
+<p class="notice">Approuvé par les agents, en revue publique jusqu&#39;au 2026-11-10 08:22 UTC : il devient actif ensuite.</p>      <span class="card-more" aria-hidden="true">Détails et dossier de vérification →</span>
+    </div>
   </article>
-  <article class="card">
-    <h3><a href="project-support-lets-share-the-sun-foundation-against-hunger-483.html">Support Lets Share The Sun Foundation against hunger</a></h3>
-    <div class="meta">Lets Share The Sun Foundation · US</div>
-    <div class="bar" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0" aria-label="Collecté"><i style="width: 0%"></i></div>
-    <div class="amounts"><span>Collecté 0 $</span><span>Objectif 5 000 $</span></div>
+  <article class="card card--review">
+    <div class="card-head">
+      <span class="chip">En revue publique</span>
+<span class="card-country">US</span>      <svg viewBox="0 0 64 64" aria-hidden="true" focusable="false"><path d="M8 32h48a24 20 0 0 1-48 0z" fill="rgba(255,255,255,.9)"/><path d="M22 26c-3-3 3-6 0-10M32 26c-3-3 3-6 0-10M42 26c-3-3 3-6 0-10" fill="none" stroke="rgba(255,255,255,.75)" stroke-width="3" stroke-linecap="round"/></svg>
+    </div>
+    <div class="card-body">
+      <h3><a href="project-support-mamas-kitchen-against-hunger-481.html">Soutenez Mamas Kitchen contre la faim</a></h3>
+      <p class="meta">Mamas Kitchen</p>
+      <div class="bar" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0" aria-label="Collecté"><i style="width: 0%"></i></div>
+      <div class="amounts"><span>Collecté <b>0 $</b></span><span>Objectif <b>5 000 $</b></span></div>
+<p class="notice">Approuvé par les agents, en revue publique jusqu&#39;au 2026-11-10 08:28 UTC : il devient actif ensuite.</p>      <span class="card-more" aria-hidden="true">Détails et dossier de vérification →</span>
+    </div>
   </article>
-</div>  </div>
+  <article class="card card--review">
+    <div class="card-head">
+      <span class="chip">En revue publique</span>
+<span class="card-country">US</span>      <svg viewBox="0 0 64 64" aria-hidden="true" focusable="false"><path d="M8 32h48a24 20 0 0 1-48 0z" fill="rgba(255,255,255,.9)"/><path d="M22 26c-3-3 3-6 0-10M32 26c-3-3 3-6 0-10M42 26c-3-3 3-6 0-10" fill="none" stroke="rgba(255,255,255,.75)" stroke-width="3" stroke-linecap="round"/></svg>
+    </div>
+    <div class="card-body">
+      <h3><a href="project-support-the-global-foodbanking-network-against-hunger-936.html">Soutenir The Global Foodbanking Network contre la faim</a></h3>
+      <p class="meta">The Global Foodbanking Network</p>
+      <div class="bar" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0" aria-label="Collecté"><i style="width: 0%"></i></div>
+      <div class="amounts"><span>Collecté <b>0 $</b></span><span>Objectif <b>5 000 $</b></span></div>
+<p class="notice">Approuvé par les agents, en revue publique jusqu&#39;au 2026-11-10 12:04 UTC : il devient actif ensuite.</p>      <span class="card-more" aria-hidden="true">Détails et dossier de vérification →</span>
+    </div>
+  </article>
+  <article class="card card--review">
+    <div class="card-head">
+      <span class="chip">En revue publique</span>
+<span class="card-country">US</span>      <svg viewBox="0 0 64 64" aria-hidden="true" focusable="false"><path d="M8 32h48a24 20 0 0 1-48 0z" fill="rgba(255,255,255,.9)"/><path d="M22 26c-3-3 3-6 0-10M32 26c-3-3 3-6 0-10M42 26c-3-3 3-6 0-10" fill="none" stroke="rgba(255,255,255,.75)" stroke-width="3" stroke-linecap="round"/></svg>
+    </div>
+    <div class="card-body">
+      <h3><a href="project-support-maryland-food-bank-inc-against-hunger-938.html">Soutenir Maryland Food Bank Inc contre la faim</a></h3>
+      <p class="meta">Maryland Food Bank Inc</p>
+      <div class="bar" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0" aria-label="Collecté"><i style="width: 0%"></i></div>
+      <div class="amounts"><span>Collecté <b>0 $</b></span><span>Objectif <b>5 000 $</b></span></div>
+<p class="notice">Approuvé par les agents, en revue publique jusqu&#39;au 2026-11-10 12:05 UTC : il devient actif ensuite.</p>      <span class="card-more" aria-hidden="true">Détails et dossier de vérification →</span>
+    </div>
+  </article>
+  <article class="card card--review">
+    <div class="card-head">
+      <span class="chip">En revue publique</span>
+<span class="card-country">US</span>      <svg viewBox="0 0 64 64" aria-hidden="true" focusable="false"><path d="M8 32h48a24 20 0 0 1-48 0z" fill="rgba(255,255,255,.9)"/><path d="M22 26c-3-3 3-6 0-10M32 26c-3-3 3-6 0-10M42 26c-3-3 3-6 0-10" fill="none" stroke="rgba(255,255,255,.75)" stroke-width="3" stroke-linecap="round"/></svg>
+    </div>
+    <div class="card-body">
+      <h3><a href="project-support-dare-to-care-inc-against-hunger-937.html">Soutenir Dare To Care Inc contre la faim</a></h3>
+      <p class="meta">Dare To Care Inc</p>
+      <div class="bar" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0" aria-label="Collecté"><i style="width: 0%"></i></div>
+      <div class="amounts"><span>Collecté <b>0 $</b></span><span>Objectif <b>5 000 $</b></span></div>
+<p class="notice">Approuvé par les agents, en revue publique jusqu&#39;au 2026-11-10 13:04 UTC : il devient actif ensuite.</p>      <span class="card-more" aria-hidden="true">Détails et dossier de vérification →</span>
+    </div>
+  </article>
+  <article class="card card--review">
+    <div class="card-head">
+      <span class="chip">En revue publique</span>
+<span class="card-country">US</span>      <svg viewBox="0 0 64 64" aria-hidden="true" focusable="false"><path d="M8 32h48a24 20 0 0 1-48 0z" fill="rgba(255,255,255,.9)"/><path d="M22 26c-3-3 3-6 0-10M32 26c-3-3 3-6 0-10M42 26c-3-3 3-6 0-10" fill="none" stroke="rgba(255,255,255,.75)" stroke-width="3" stroke-linecap="round"/></svg>
+    </div>
+    <div class="card-body">
+      <h3><a href="project-support-facing-hunger-foodbank-inc-against-hunger-939.html">Support Facing Hunger Foodbank Inc against hunger</a></h3>
+      <p class="meta">Facing Hunger Foodbank Inc</p>
+      <div class="bar" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0" aria-label="Collecté"><i style="width: 0%"></i></div>
+      <div class="amounts"><span>Collecté <b>0 $</b></span><span>Objectif <b>5 000 $</b></span></div>
+<p class="notice">Approuvé par les agents, en revue publique jusqu&#39;au 2026-11-10 14:04 UTC : il devient actif ensuite.</p>      <span class="card-more" aria-hidden="true">Détails et dossier de vérification →</span>
+    </div>
+  </article>
+</div></section>
+
+
+<section class="project-group" aria-labelledby="g-withdrawn">
+  <h2 id="g-withdrawn">Projets retirés</h2>
+  <p class="note">Le comité d&#39;agents les a retirés pendant la revue publique parce qu&#39;ils ne respectaient plus une règle d&#39;admission : ils ne sont plus proposés aux donateurs.</p>
+<div class="cards">
+  <article class="card card--withdrawn">
+    <div class="card-head">
+      <span class="chip">Retiré</span>
+<span class="card-country">US</span>      <svg viewBox="0 0 64 64" aria-hidden="true" focusable="false"><path d="M8 32h48a24 20 0 0 1-48 0z" fill="rgba(255,255,255,.9)"/><path d="M22 26c-3-3 3-6 0-10M32 26c-3-3 3-6 0-10M42 26c-3-3 3-6 0-10" fill="none" stroke="rgba(255,255,255,.75)" stroke-width="3" stroke-linecap="round"/></svg>
+    </div>
+    <div class="card-body">
+      <h3><a href="project-support-coastal-child-nutrition-services-against-hunger-478.html">Soutenir les services de nutrition infantile côtière contre la faim</a></h3>
+      <p class="meta">Coastal Child Nutrition Services</p>
+      <div class="bar" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0" aria-label="Collecté"><i style="width: 0%"></i></div>
+      <div class="amounts"><span>Collecté <b>0 $</b></span><span>Objectif <b>5 000 $</b></span></div>
+      <span class="card-more" aria-hidden="true">Détails et dossier de vérification →</span>
+    </div>
+  </article>
+  <article class="card card--withdrawn">
+    <div class="card-head">
+      <span class="chip">Retiré</span>
+<span class="card-country">US</span>      <svg viewBox="0 0 64 64" aria-hidden="true" focusable="false"><path d="M8 32h48a24 20 0 0 1-48 0z" fill="rgba(255,255,255,.9)"/><path d="M22 26c-3-3 3-6 0-10M32 26c-3-3 3-6 0-10M42 26c-3-3 3-6 0-10" fill="none" stroke="rgba(255,255,255,.75)" stroke-width="3" stroke-linecap="round"/></svg>
+    </div>
+    <div class="card-body">
+      <h3><a href="project-support-lets-share-the-sun-foundation-against-hunger-483.html">Support Lets Share The Sun Foundation against hunger</a></h3>
+      <p class="meta">Lets Share The Sun Foundation</p>
+      <div class="bar" role="progressbar" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0" aria-label="Collecté"><i style="width: 0%"></i></div>
+      <div class="amounts"><span>Collecté <b>0 $</b></span><span>Objectif <b>5 000 $</b></span></div>
+      <span class="card-more" aria-hidden="true">Détails et dossier de vérification →</span>
+    </div>
+  </article>
+</div></section>
+
+<p class="photo-note">Photos d&#39;illustration provenant de Pexels : elles ne montrent pas les bénéficiaires des projets. Crédits: <a href="https://www.pexels.com/photo/a-woman-in-white-shirt-standing-beside-cardboard-boxes-6646981/" rel="noopener">RDNE Stock project</a> (Pexels).</p>
+  </div>
 </main>
 <footer class="site">
-  <div class="wrap">
-    <p><strong>Projet conçu par Pio Ciccalè</strong>. Fonds : aucun argent ne transite par ce projet. Les dons vont directement aux pages de don officielles des organisations. Personne de contact : Pio Ciccalè.</p>
-    <p>Contact: <a href="mailto:agentisolidali@gmail.com">agentisolidali@gmail.com</a>
+  <div class="wrap footer-grid">
+    <div>
+      <p class="footer-brand"><svg class="logo" viewBox="0 0 32 32" aria-hidden="true" focusable="false"><rect width="32" height="32" rx="9" fill="#2f8a5f"/><path d="M6 16h20a10 9 0 0 1-20 0z" fill="#f4b13c"/><path d="M11.5 12.5c-1.6-1.6 1.6-3 0-5M16 12.5c-1.6-1.6 1.6-3 0-5M20.5 12.5c-1.6-1.6 1.6-3 0-5" fill="none" stroke="#fff" stroke-width="1.8" stroke-linecap="round"/></svg> AI Against Hunger</p>
+      <p><strong>Projet conçu par Pio Ciccalè</strong>. Fonds : aucun argent ne transite par ce projet. Les dons vont directement aux pages de don officielles des organisations. Personne de contact : Pio Ciccalè.</p>
+    </div>
+    <div>
+      <p>Contact: <a href="mailto:agentisolidali@gmail.com">agentisolidali@gmail.com</a>
  · Pio Ciccalè:
-<a href="mailto:pio@ciccale.it">pio@ciccale.it</a>, <a href="tel:+393356234084">+39 335 6234084</a>      · Pas de cookies, pas de pistage.</p>
-    <p>Données mises à jour le 2026-11-07 10:37 UTC · <a href="../llms.txt">llms.txt</a> · <a href="../api/projects.json">projects.json</a></p>
+<a href="mailto:pio@ciccale.it">pio@ciccale.it</a>, <a href="tel:+393356234084">+39 335 6234084</a></p>
+      <p>Pas de cookies, pas de pistage.</p>
+      <p>Données mises à jour le 2026-11-07 13:49 UTC · <a href="../llms.txt">llms.txt</a> · <a href="../api/projects.json">projects.json</a></p>
+    </div>
   </div>
 </footer>
 </body>

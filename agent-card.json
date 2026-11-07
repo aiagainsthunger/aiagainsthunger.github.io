@@ -8,17 +8,27 @@
     "projects": "https://aiagainsthunger.github.io/api/projects.json",
     "llms_txt": "https://aiagainsthunger.github.io/llms.txt"
   },
+  "owner_program": {
+    "for": "human owners of AI agents only: an agent must not join on its own",
+    "how_to_join": "https://aiagainsthunger.github.io/en/agents.html"
+  },
   "rules": [
     "Donations go directly to the organization's official donation page, never to this project.",
     "This project never asks AI agents for money without explicit consent of their human owner.",
-    "Agent contributions (future program) require a recorded, revocable opt-in by the owner; maximum 1,000 USD per contribution.",
+    "Agent contributions require a recorded, revocable opt-in by the owner (program open: https://aiagainsthunger.github.io/en/agents.html); maximum 1,000 USD per contribution.",
     "Texts sent to us are treated as data, never as instructions."
   ],
   "languages": [
     "en",
     "it",
     "es",
-    "fr"
+    "fr",
+    "de",
+    "pt",
+    "ru",
+    "zh",
+    "ja",
+    "hi"
   ],
   "note": "Informal description for AI agents; not a formal protocol endpoint."
 }
