@@ -316,3 +316,23 @@ footer.site p { margin: 6px 0; }
 ol.steps.steps--how li .step-icon { position: absolute; right: 14px; top: 10px; width: 54px; height: 54px; }
 ol.steps.steps--how li .step-icon svg { width: 100%; height: 100%; display: block; }
 ol.steps.steps--how li strong { display: inline-block; margin-bottom: 4px; font-size: 1.05rem; }
+
+/* Scheda dell'ente e perché è affidabile (7/11/2026) */
+.org-profile { margin-top: 28px; }
+.mission { margin: 12px 0 20px; padding: 16px 20px; max-width: 46em; border-left: 4px solid var(--accent); background: var(--accent-soft); border-radius: 0 var(--radius) var(--radius) 0; }
+.mission p { margin: 0; font-size: 1.05rem; }
+.mission p.note { margin-top: 8px; font-size: .85rem; }
+.profile-grid { display: grid; gap: 14px; grid-template-columns: repeat(auto-fit, minmax(min(100%, 260px), 1fr)); margin: 8px 0 10px; }
+.profile-box { padding: 16px 18px; background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); box-shadow: var(--shadow); }
+.profile-box h3 { margin: 0 0 8px; font-size: 1.05rem; }
+.profile-box ul { margin: 0; padding-left: 1.1em; }
+.profile-box li { margin: 6px 0; }
+.profile-does h3::before { content: "✓ "; color: var(--accent); }
+.profile-does_not h3::before { content: "✕ "; color: #b4532a; }
+.profile-strengths h3::before { content: "★ "; color: #d99a1e; }
+a.src { font-size: .78rem; white-space: nowrap; }
+.safe-box { margin: 26px 0; padding: 18px 22px; max-width: 46em; border-radius: var(--radius); border: 1px solid var(--line); background: var(--surface); box-shadow: var(--shadow); }
+.safe-box h2 { margin-top: 0; font-size: 1.2rem; }
+.safe-box ul { margin: 0; padding-left: 0; list-style: none; }
+.safe-box li { padding: 6px 0 6px 28px; position: relative; }
+.safe-box li::before { content: "✓"; position: absolute; left: 4px; top: 5px; color: var(--accent); font-weight: 800; }
