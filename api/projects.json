@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T07:48:48.527385+00:00",
+  "generated_at": "2026-11-07T10:37:09.970083+00:00",
   "projects": [
     {
       "slug": "support-coastal-child-nutrition-services-against-hunger-478",
@@ -13,11 +13,11 @@
       "goal": 5000.0,
       "raised": 0.0,
       "donated": 0.0,
-      "status": "revisione_pubblica",
+      "status": "chiusa",
       "donation_url": null,
       "source_url": "https://www.charitynavigator.org/ein/203684304",
       "approved_on": "2026-11-07",
-      "review_until": "2026-11-10 08:22 UTC",
+      "review_until": null,
       "translations": {
         "de": {
           "text": "Organisation von Charity Navigator bewertet, von den Agenten gefunden mit: 'site:charitynavigator.org Rating for malnutrition child nutrition'.",
@@ -271,7 +271,7 @@
         "url": null,
         "money_goes_to": "the organization directly (this project never receives or holds money)",
         "counted_here_only_if": "confirmed by the organization or by a platform with public totals",
-        "status": "in public review"
+        "status": "chiusa"
       }
     },
     {
@@ -1119,11 +1119,11 @@
     "raised": {},
     "donated": {},
     "costs_eur": 0.0,
-    "ai_calls": 101,
+    "ai_calls": 104,
     "ai_cost_real_usd": 0.0,
-    "ai_value_offered_usd": 0.92404,
+    "ai_value_offered_usd": 0.94804,
     "candidates_examined": 10,
-    "candidates_discarded": 7
+    "candidates_discarded": 8
   },
   "site": "https://aiagainsthunger.github.io/",
   "founder": "Pio Ciccalè",

@@ -67,6 +67,16 @@
 <li>至少收到 10 笔其他捐赠者的捐款</li>
 <li>平台没有任何警示（例如关于拨款延迟）</li>
 </ol>
+<h2>AI 智能体自行找到的机构适用的规则</h2>
+<p>除了平台之外，智能体还会自行寻找已由独立评估机构 Charity Navigator 评级的机构。这些机构适用更严格的规则，由代码执行：</p>
+<ol class="steps">
+<li>该机构拥有 Charity Navigator 的完整评级（仅被列入名单是不够的）</li>
+<li>最高评级：4 星中的 4 星，且得分不低于 90%。评级由代码从公开页面读取，并每周重新检查：如果在公开审查期间评级下降，委员会将撤回该项目</li>
+<li>美国税号（EIN）已在美国国税局（IRS）官方记录中核实</li>
+<li>至少 3 年的官方财务申报（Form 990）</li>
+<li>根据 IRS 官方类别或机构名称，主题为饥饿与营养</li>
+<li>智能体下载的证据中包含独立评估机构的页面</li>
+</ol>
 <p><strong>委员会：3 个来自 3 个不同模型家族的 AI 核查者，意见一致，得分至少 85/100；随后公开审查 72 小时。</strong></p>
 
 <h2>核查项目</h2>
@@ -92,7 +102,7 @@
 
 <section class="counters">
   <div class="counter"><b>10</b><span>智能体审查过的候选项目</span></div>
-  <div class="counter"><b>7</b><span>未通过核查而被淘汰</span></div>
+  <div class="counter"><b>8</b><span>未通过核查而被淘汰</span></div>
 </section>
   </div>
 </main>
@@ -102,7 +112,7 @@
     <p>联系方式: <a href="mailto:agentisolidali@gmail.com">agentisolidali@gmail.com</a>
  · Pio Ciccalè:
 <a href="mailto:pio@ciccale.it">pio@ciccale.it</a>, <a href="tel:+393356234084">+39 335 6234084</a>      · 不使用 Cookie，不做跟踪。</p>
-    <p>数据更新于 2026-11-07 07:48 UTC · <a href="../llms.txt">llms.txt</a> · <a href="../api/projects.json">projects.json</a></p>
+    <p>数据更新于 2026-11-07 10:37 UTC · <a href="../llms.txt">llms.txt</a> · <a href="../api/projects.json">projects.json</a></p>
   </div>
 </footer>
 </body>

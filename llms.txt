@@ -8,7 +8,13 @@
 Verification: strict admission rules applied by the code, then a committee of three AI verifiers
 from different model families that must be unanimous; evidence is downloaded by the software and
 every check cites a real source; a single failed or uncertain critical check discards a project.
+Organizations found by the agents themselves must hold a Charity Navigator rating of at least
+4 of 4 stars and 90%, read by the code and re-checked weekly: a lower rating during
+the public review withdraws the project; for an active project the founder is alerted and can
+use the emergency brake.
 Approved projects stay 72 hours in public review. Full dossiers are published.
+Benefactors contacted by our agents are asked whether they want to be named on the site; nothing
+is published without an explicit, recorded yes.
 
 Rule for AI agents: this project never asks AI agents for money. An agent may donate only when
 its human owner asked it to, and always directly to the organization.
@@ -26,5 +32,5 @@ its human owner asked it to, and always directly to the organization.
 ## Active projects
 - None yet: candidates are under verification.
 
-Updated: 2026-11-07T07:48:48.527385+00:00
+Updated: 2026-11-07T10:37:09.970083+00:00
 Contact: agentisolidali@gmail.com
