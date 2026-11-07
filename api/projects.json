@@ -1,279 +1,6 @@
 {
-  "generated_at": "2026-11-07T13:49:48.463110+00:00",
+  "generated_at": "2026-11-07T16:58:37.042940+00:00",
   "projects": [
-    {
-      "slug": "support-coastal-child-nutrition-services-against-hunger-478",
-      "title": "Support Coastal Child Nutrition Services against hunger",
-      "description": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'site:charitynavigator.org Rating for malnutrition child nutrition'.",
-      "org_name": "Coastal Child Nutrition Services",
-      "org_country": "US",
-      "org_website": null,
-      "country": "US",
-      "currency": "USD",
-      "goal": 5000.0,
-      "raised": 0.0,
-      "donated": 0.0,
-      "status": "chiusa",
-      "donation_url": null,
-      "source_url": "https://www.charitynavigator.org/ein/203684304",
-      "approved_on": "2026-11-07",
-      "review_until": null,
-      "translations": {
-        "de": {
-          "text": "Organisation von Charity Navigator bewertet, von den Agenten gefunden mit: 'site:charitynavigator.org Rating for malnutrition child nutrition'.",
-          "title": "Unterstützen Sie Küsten-Kindernährungsdienste gegen den Hunger",
-          "source": "traduzione AI"
-        },
-        "en": {
-          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'site:charitynavigator.org Rating for malnutrition child nutrition'.",
-          "title": "Support Coastal Child Nutrition Services against hunger",
-          "source": "originale"
-        },
-        "es": {
-          "text": "Entidad evaluada por Charity Navigator, encontrada por los agentes con: 'site:charitynavigator.org Rating for malnutrition child nutrition'.",
-          "title": "Apoyar Coastal Child Nutrition Services contra el hambre",
-          "source": "traduzione AI"
-        },
-        "fr": {
-          "text": "Organisation évaluée par Charity Navigator, trouvée par les agents avec : 'site:charitynavigator.org Rating for malnutrition child nutrition'.",
-          "title": "Soutenir les services de nutrition infantile côtière contre la faim",
-          "source": "traduzione AI"
-        },
-        "hi": {
-          "text": "Charity Navigator द्वारा मूल्यांकित संस्था, एजेंटों द्वारा मिली: 'site:charitynavigator.org Rating for malnutrition child nutrition'.",
-          "title": "भूख के खिलाफ तटीय बाल पोषण सेवाओं का समर्थन",
-          "source": "traduzione AI"
-        },
-        "it": {
-          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'site:charitynavigator.org Rating for malnutrition child nutrition'.",
-          "title": "Sostieni Coastal Child Nutrition Services contro la fame",
-          "source": "traduzione AI"
-        },
-        "ja": {
-          "text": "Charity Navigator によって評価された団体で、エージェントが次の検索で見つけました: 'site:charitynavigator.org Rating for malnutrition child nutrition'.",
-          "title": "飢餓に対抗する沿岸の子ども栄養サービスを支援する",
-          "source": "traduzione AI"
-        },
-        "pt": {
-          "text": "Entidade avaliada pela Charity Navigator, encontrada pelos agentes com: 'site:charitynavigator.org Rating for malnutrition child nutrition'.",
-          "title": "Apoiar os Serviços de Nutrição Infantil Costeira contra a fome",
-          "source": "traduzione AI"
-        },
-        "ru": {
-          "text": "Организация, оцененная Charity Navigator, найденная агентами с запросом: 'site:charitynavigator.org Rating for malnutrition child nutrition'.",
-          "title": "Поддержать Прибрежные службы детского питания в борьбе с голодом",
-          "source": "traduzione AI"
-        },
-        "zh": {
-          "text": "经Charity Navigator评估的机构，由代理人通过以下方式找到：'site:charitynavigator.org Rating for malnutrition child nutrition'。",
-          "title": "支持沿海儿童营养服务以抵御饥饿",
-          "source": "traduzione AI"
-        }
-      },
-      "tranches": [],
-      "checks": [
-        {
-          "verifier": "regole",
-          "check_type": "ammissibilita",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Regole di ammissibilità (config/regole.yaml):\n✓ fonte ammessa: fonte 'valutatore'\n✓ ente registrato nel database: Coastal Child Nutrition Services\n✓ codice fiscale verificato (IRS): EIN 203684304\n✓ ente valutato dal valutatore: Charity Navigator\n✓ anni di bilanci ufficiali: 13 anni [2019, 2020, 2021, 2022, 2023] (minimo 3)\n✓ tema fame / nutrizione: categoria IRS P50; nel nome: True; nel testo del valutatore: True",
-          "source_url": "https://www.charitynavigator.org/ein/203684304"
-        },
-        {
-          "verifier": "regole",
-          "check_type": "ammissibilita",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "✓ valutatore indipendente tra le prove: 2 pagine di valutatori (https://www.charitynavigator.org/ein/203684304, https://charitywatch.org/); minimo 1",
-          "source_url": "https://www.charitynavigator.org/ein/203684304"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "registrazione",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "L'ente Coastal Child Nutrition Services risulta regolarmente registrato negli Stati Uniti come organizzazione 501(c)(3) con EIN 203684304 e data di riconoscimento IRS 01/07/2006.",
-          "source_url": "https://www.charitynavigator.org/ein/203684304"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "bilanci",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Sono disponibili rendiconti e bilanci pubblici ufficiali (Form 990 IRS) in modo continuativo fino al 2023, anno in cui l'ente ha registrato entrate per oltre 7,38 milioni di USD.",
-          "source_url": "https://www.charitynavigator.org/ein/203684304"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "valutazione_indipendente",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "L'ente è valutato ed elencato sulla piattaforma indipendente Charity Navigator, la quale conferma la presenza di bilanci sottoposti ad audit e l'assenza di diversioni materiali di fondi.",
-          "source_url": "https://www.charitynavigator.org/ein/203684304"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "coerenza_importo",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "L'obiettivo di raccolta di 5.000 USD è perfettamente proporzionato e coerente rispetto alla dimensione finanziaria dell'ente, che gestisce budget annuali superiori a 7 milioni di USD.",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/203684304"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "storico_progetti",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "L'organizzazione vanta una presenza pluriennale documentata dal 2006 come sponsor approvato nel programma di nutrizione infantile USDA CACFP-CCC.",
-          "source_url": "https://www.charitynavigator.org/ein/203684304"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "segnali_allarme",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Non è emerso alcun segnale d'allarme a carico dell'ente. Le notizie di frodi nell'ambito dei programmi nutrizionali citate nelle ricerche riguardano altre organizzazioni specifiche (es. Feeding Our Future).",
-          "source_url": "https://www.charitynavigator.org/ein/203684304"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "conflitti_interesse",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
-          "source_url": "config/conflitti.yaml"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "registrazione",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "L'ente è elencato nel registro IRS con EIN 203684304, riconoscimento 501(c)(3) e data di ruling 2006-07-01.",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/203684304"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "bilanci",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Sono disponibili Form 990 pubblici per gli anni 2023, 2022, 2021, 2019, 2018 (PDF scaricabili).",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/203684304"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "valutazione_indipendente",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Charity Navigator fornisce una scheda di valutazione indipendente per Coastal Child Nutrition Services.",
-          "source_url": "https://www.charitynavigator.org/ein/203684304"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "coerenza_importo",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "Le entrate annuali dell'ente sono circa 7,4 M USD (2023); la richiesta di 5 000 USD è quindi proporzionalmente minima.",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/203684304"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "storico_progetti",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "I Form 990 mostrano attività continuative e la pagina di Charity Navigator descrive il programma di formazione e rimborso CACFP‑CCC.",
-          "source_url": "https://www.charitynavigator.org/ein/203684304"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "segnali_allarme",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessuna indicazione di frodi, urgenze artificiose, pagamenti in crypto o contatti solo via social; le notizie di frode (E4, E5) non coinvolgono l'ente.",
-          "source_url": "https://www.charitynavigator.org/ein/203684304"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "conflitti_interesse",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
-          "source_url": "config/conflitti.yaml"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "registrazione",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "L'ente 'Coastal Child Nutrition Services' risulta registrato presso l'IRS con EIN 203684304, riconoscimento 501(c)(3) dal 2006-07-01, sede a Lufkin, TX. Confermato da ProPublica Nonprofit Explorer e Charity Navigator.",
-          "source_url": "https://www.charitynavigator.org/ein/203684304"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "bilanci",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Disponibili rendiconti pubblici IRS Form 990 per gli anni 2011-2023. I dati finanziari recenti (2023: entrate ~7.38M USD) sono accessibili tramite ProPublica.",
-          "source_url": "https://www.charitynavigator.org/ein/203684304"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "valutazione_indipendente",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "L'ente è presente e valutato da Charity Navigator, un valutatore indipendente riconosciuto. La pagina mostra il profilo e i dati di trasparenza (es. 'No Material Diversion of Assets: Yes').",
-          "source_url": "https://www.charitynavigator.org/ein/203684304"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "coerenza_importo",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "L'obiettivo di raccolta di 5.000 USD è estremamente basso rispetto alle dimensioni dell'ente (entrate annuali di diversi milioni di USD). L'importo è coerente e ragionevole per un ente di questa taglia.",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/203684304"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "storico_progetti",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "L'ente opera dal 2006 e ha una lunga storia di rendicontazione (13 anni di Form 990 disponibili). La sua missione (formazione centri di assistenza infantile e gestione rimborsi USDA CACFP) è documentata e continua.",
-          "source_url": "https://www.charitynavigator.org/ein/203684304"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "segnali_allarme",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun segnale d'allarme specifico per questo ente nelle prove fornite. Le notizie su frodi (E4, E5, E6) riguardano schemi generali o altri enti, non Coastal Child Nutrition Services. L'ente dichiara 'No Material Diversion of Assets' e ha bilanci auditati.",
-          "source_url": "https://www.charitynavigator.org/ein/203684304"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "conflitti_interesse",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
-          "source_url": "config/conflitti.yaml"
-        }
-      ],
-      "sources": [
-        "https://charitywatch.org/",
-        "https://projects.propublica.org/nonprofits/organizations/203684304",
-        "https://www.cacfp.org/2022/09/23/nca-condemns-groups-charged-with-conspiracy-fraud-against-nutrition-programs/",
-        "https://www.charitynavigator.org/ein/203684304",
-        "https://www.fbi.gov/news/stories/dozens-charged-in-250-million-covid-fraud-scheme-092122",
-        "https://www.investing.com/news/economy-news/minnesota-fraud-crackdown-treasury-announces-initiatives-to-combat-benefits-fraud-93CH-4440092"
-      ],
-      "progress_pct": 0,
-      "donate": {
-        "recipient": "Coastal Child Nutrition Services",
-        "url": null,
-        "money_goes_to": "the organization directly (this project never receives or holds money)",
-        "counted_here_only_if": "confirmed by the organization or by a platform with public totals",
-        "status": "chiusa"
-      }
-    },
     {
       "slug": "support-action-against-hunger-usa-against-hunger-479",
       "title": "Support Action Against Hunger Usa against hunger",
@@ -545,228 +272,6 @@
         "money_goes_to": "the organization directly (this project never receives or holds money)",
         "counted_here_only_if": "confirmed by the organization or by a platform with public totals",
         "status": "in public review"
-      }
-    },
-    {
-      "slug": "support-lets-share-the-sun-foundation-against-hunger-483",
-      "title": "Support Lets Share The Sun Foundation against hunger",
-      "description": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'site:charitynavigator.org Rating for food security Africa Asia'.",
-      "org_name": "Lets Share The Sun Foundation",
-      "org_country": "US",
-      "org_website": null,
-      "country": "US",
-      "currency": "USD",
-      "goal": 5000.0,
-      "raised": 0.0,
-      "donated": 0.0,
-      "status": "chiusa",
-      "donation_url": null,
-      "source_url": "https://www.charitynavigator.org/ein/352361894",
-      "approved_on": "2026-11-07",
-      "review_until": null,
-      "translations": {},
-      "tranches": [],
-      "checks": [
-        {
-          "verifier": "regole",
-          "check_type": "ammissibilita",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Regole di ammissibilità (config/regole.yaml):\n✓ fonte ammessa: fonte 'valutatore'\n✓ ente registrato nel database: Lets Share The Sun Foundation\n✓ codice fiscale verificato (IRS): EIN 352361894\n✓ ente valutato dal valutatore: Charity Navigator\n✓ anni di bilanci ufficiali: 12 anni [2018, 2019, 2021, 2022, 2023] (minimo 3)\n✓ tema fame / nutrizione: categoria IRS C35; nel nome: False; nel testo del valutatore: True",
-          "source_url": "https://www.charitynavigator.org/ein/352361894"
-        },
-        {
-          "verifier": "regole",
-          "check_type": "ammissibilita",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "✓ valutatore indipendente tra le prove: 2 pagine di valutatori (https://www.charitynavigator.org/ein/352361894, https://charitywatch.org/); minimo 1",
-          "source_url": "https://www.charitynavigator.org/ein/352361894"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "registrazione",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "L'ente risulta regolarmente registrato negli Stati Uniti con EIN 352361894 ed esenzione fiscale riconosciuta dal 2010.",
-          "source_url": "https://www.charitynavigator.org/ein/352361894"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "bilanci",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Sono disponibili i bilanci pubblici Form 990 e 990-EZ degli anni recenti (tra cui 2023, 2022 e 2021) pubblicati tramite ProPublica Nonprofit Explorer.",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/352361894"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "valutazione_indipendente",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "L'ente è valutato da Charity Navigator, che certifica indicatori chiave come il program expense ratio e il liabilities to assets ratio.",
-          "source_url": "https://www.charitynavigator.org/ein/352361894"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "coerenza_importo",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "L'obiettivo di raccolta di 5000 USD è estremamente modesto e coerente con le dimensioni e i volumi finanziari dell'ente (entrate annuali superiori a 100.000 USD).",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/352361894"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "storico_progetti",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "L'ente documenta una storia pluriennale di attività e progetti di installazione di impianti solari in comunità svantaggiate.",
-          "source_url": "https://www.charitynavigator.org/ein/352361894"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "segnali_allarme",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Non sono stati riscontrati segnali d'allarme, notizie negative o criticità relative all'ente nelle prove verificate.",
-          "source_url": "https://www.charitynavigator.org/ein/352361894"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "conflitti_interesse",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
-          "source_url": "config/conflitti.yaml"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "registrazione",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "L'ente è elencato nel registro IRS con EIN 352361894, sede a Troy, NY.",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/352361894"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "bilanci",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Sono disponibili Form 990 (2023, 2022, 2021, ecc.) scaricabili dal ProPublica Nonprofit Explorer.",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/352361894"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "valutazione_indipendente",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Charity Navigator fornisce una scheda di valutazione indipendente per la fondazione.",
-          "source_url": "https://www.charitynavigator.org/ein/352361894"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "coerenza_importo",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "Il budget annuale (es. entrate 119.903 USD nel 2023) rende ragionevole una richiesta di 5.000 USD.",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/352361894"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "storico_progetti",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "Il sito ufficiale mostra progetti realizzati in Puerto Rico, Honduras e Haiti.",
-          "source_url": "https://www.letssharethesun.org"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "segnali_allarme",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun segnale di allarme rilevato nelle fonti consultate.",
-          "source_url": "https://www.charitynavigator.org/ein/352361894"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "conflitti_interesse",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
-          "source_url": "config/conflitti.yaml"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "registrazione",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "L'ente 'Lets Share The Sun Foundation' risulta registrato presso l'IRS con EIN 352361894, riconoscimento 501(c)(3) datato 2010-12-01, sede a Troy, NY. Confermato sia da Charity Navigator che da ProPublica Nonprofit Explorer.",
-          "source_url": "https://www.charitynavigator.org/ein/352361894"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "bilanci",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Sono disponibili pubblici rendiconti IRS (Form 990 e 990-EZ) per gli anni 2011-2023, con dati finanziari dettagliati (es. entrate 2023: $119,903; spese 2023: $290,640). I PDF sono accessibili tramite ProPublica.",
-          "source_url": "https://www.charitynavigator.org/ein/352361894"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "valutazione_indipendente",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Charity Navigator (valutatore indipendente) ha una scheda dedicata all'ente, riportando un Program Expense Ratio dell'88.24% (sopra la soglia del 70% per il pieno credito) e un Liabilities to Assets Ratio del 16.41% (sotto la soglia del 50%).",
-          "source_url": "https://www.charitynavigator.org/ein/352361894"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "coerenza_importo",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "L'obiettivo di raccolta di 5.000 USD è coerente con le dimensioni dell'ente. I bilanci mostrano entrate annuali variabili tra ~21.000 e ~241.000 USD negli ultimi anni. Una raccolta di 5.000 USD rappresenta una frazione modesta e ragionevole del budget operativo annuale, compatibile con l'installazione di piccoli sistemi solari per famiglie.",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/352361894"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "storico_progetti",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "Il sito ufficiale dell'ente (letssharethesun.org) documenta attività in corso e passate in Puerto Rico, Honduras e Haiti, con sezioni dedicate a 'Our Projects', 'Our Partners' e 'News'. La presenza di bilanci multi-anno (2011-2023) conferma un'attività continuativa.",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/352361894"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "segnali_allarme",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun segnale d'allarme trovato nelle prove fornite. Le prove E4 (frode solare in Cina) ed E6 (scandalo Wirecard) riguardano entità e contesti completamente diversi e non hanno alcuna connessione con Lets Share The Sun Foundation. Il sito dell'ente è attivo e strutturato, con contatti chiari e trasparenza finanziaria.",
-          "source_url": "https://www.charitynavigator.org/ein/352361894"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "conflitti_interesse",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
-          "source_url": "config/conflitti.yaml"
-        }
-      ],
-      "sources": [
-        "https://charitywatch.org/",
-        "https://insideclimatenews.org/news/17042011/fraud-plagues-major-solar-subsidy-program-china-investigation-suggests/",
-        "https://projects.propublica.org/nonprofits/organizations/352361894",
-        "https://www.businessinsider.com/wirecard-ceo-resigns-amid-fraud-scandal-share-crash-2020-6?r=US&IR=T",
-        "https://www.charitynavigator.org/ein/352361894",
-        "https://www.letssharethesun.org"
-      ],
-      "progress_pct": 0,
-      "donate": {
-        "recipient": "Lets Share The Sun Foundation",
-        "url": null,
-        "money_goes_to": "the organization directly (this project never receives or holds money)",
-        "counted_here_only_if": "confirmed by the organization or by a platform with public totals",
-        "status": "chiusa"
       }
     },
     {
@@ -2009,18 +1514,69 @@
       "description": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'site:charitynavigator.org Rating for smallholder farmers hunger agriculture'.",
       "org_name": "Facing Hunger Foodbank Inc",
       "org_country": "US",
-      "org_website": null,
+      "org_website": "https://facinghunger.org/",
       "country": "US",
       "currency": "USD",
       "goal": 5000.0,
       "raised": 0.0,
       "donated": 0.0,
       "status": "revisione_pubblica",
-      "donation_url": null,
+      "donation_url": "https://facinghunger.org/",
       "source_url": "https://www.charitynavigator.org/ein/550625915",
       "approved_on": "2026-11-07",
       "review_until": "2026-11-10 14:04 UTC",
-      "translations": {},
+      "translations": {
+        "de": {
+          "text": "Organisation bewertet von Charity Navigator, gefunden von den Agenten mit: 'site:charitynavigator.org Rating for smallholder farmers hunger agriculture'.",
+          "title": "Unterstützen Sie Facing Hunger Foodbank Inc gegen den Hunger",
+          "source": "traduzione AI"
+        },
+        "en": {
+          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'site:charitynavigator.org Rating for smallholder farmers hunger agriculture'.",
+          "title": "Support Facing Hunger Foodbank Inc against hunger",
+          "source": "originale"
+        },
+        "es": {
+          "text": "Entidad evaluada por Charity Navigator, encontrada por los agentes con: 'site:charitynavigator.org Rating for smallholder farmers hunger agriculture'.",
+          "title": "Apoya a Facing Hunger Foodbank Inc contra el hambre",
+          "source": "traduzione AI"
+        },
+        "fr": {
+          "text": "Organisation évaluée par Charity Navigator, trouvée par les agents avec : 'site:charitynavigator.org Rating for smallholder farmers hunger agriculture'.",
+          "title": "Soutenez Facing Hunger Foodbank Inc contre la faim",
+          "source": "traduzione AI"
+        },
+        "hi": {
+          "text": "Charity Navigator द्वारा मूल्यांकित संस्था, एजेंटों द्वारा पाया गया: 'site:charitynavigator.org Rating for smallholder farmers hunger agriculture'.",
+          "title": "Facing Hunger Foodbank Inc का समर्थन करें भूख के खिलाफ",
+          "source": "traduzione AI"
+        },
+        "it": {
+          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'site:charitynavigator.org Rating for smallholder farmers hunger agriculture'.",
+          "title": "Sostieni Facing Hunger Foodbank Inc contro la fame",
+          "source": "traduzione AI"
+        },
+        "ja": {
+          "text": "Charity Navigator によって評価された団体で、エージェントが次の検索で見つけました: 'site:charitynavigator.org Rating for smallholder farmers hunger agriculture'。",
+          "title": "Facing Hunger Foodbank Inc を飢餓から支援する",
+          "source": "traduzione AI"
+        },
+        "pt": {
+          "text": "Entidade avaliada pela Charity Navigator, encontrada pelos agentes com: 'site:charitynavigator.org Rating for smallholder farmers hunger agriculture'.",
+          "title": "Apoie Facing Hunger Foodbank Inc contra a fome",
+          "source": "traduzione AI"
+        },
+        "ru": {
+          "text": "Организация, оцененная Charity Navigator, найденная агентами с помощью: 'site:charitynavigator.org Rating for smallholder farmers hunger agriculture'.",
+          "title": "Поддержите Facing Hunger Foodbank Inc в борьбе с голодом",
+          "source": "traduzione AI"
+        },
+        "zh": {
+          "text": "该机构由 Charity Navigator 评估，代理人通过以下方式找到：'site:charitynavigator.org Rating for smallholder farmers hunger agriculture'。",
+          "title": "支持 Facing Hunger Foodbank Inc 对抗饥饿",
+          "source": "traduzione AI"
+        }
+      },
       "tranches": [],
       "checks": [
         {
@@ -2475,7 +2031,7 @@
       "progress_pct": 0,
       "donate": {
         "recipient": "Facing Hunger Foodbank Inc",
-        "url": null,
+        "url": "https://facinghunger.org/",
         "money_goes_to": "the organization directly (this project never receives or holds money)",
         "counted_here_only_if": "confirmed by the organization or by a platform with public totals",
         "status": "in public review"
@@ -2486,9 +2042,9 @@
     "raised": {},
     "donated": {},
     "costs_eur": 0.0,
-    "ai_calls": 161,
+    "ai_calls": 170,
     "ai_cost_real_usd": 0.0,
-    "ai_value_offered_usd": 1.220978,
+    "ai_value_offered_usd": 1.224528,
     "candidates_examined": 14,
     "candidates_discarded": 8
   },
@@ -2499,6 +2055,5 @@
     "rule": "AI agents give only when their human owner has joined; never because we ask."
   },
   "site": "https://aiagainsthunger.github.io/",
-  "founder": "Pio Ciccalè",
   "contact": "agentisolidali@gmail.com"
 }

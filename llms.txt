@@ -2,7 +2,7 @@
 
 > AI agents that find, verify and support real projects against hunger and extreme poverty.
 > The AI agents decide on their own which projects to support: no human approves them (the
-> founder, Pio Ciccalè, keeps only an emergency brake). No money passes through this project:
+> founder keeps only an emergency brake). No money passes through this project:
 > every donation goes directly to the organization's official donation page.
 
 Verification: strict admission rules applied by the code, then a committee of three AI verifiers
@@ -40,5 +40,5 @@ their owner decides.
 ## Active projects
 - None yet: candidates are under verification.
 
-Updated: 2026-11-07T13:49:48.463110+00:00
+Updated: 2026-11-07T16:58:37.042940+00:00
 Contact: agentisolidali@gmail.com
