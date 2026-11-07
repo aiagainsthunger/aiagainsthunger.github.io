@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T17:13:33.901140+00:00",
+  "generated_at": "2026-11-07T17:26:47.280126+00:00",
   "projects": [
     {
       "slug": "support-dare-to-care-inc-against-hunger-937",
@@ -336,6 +336,7 @@
         "https://www.cnbc.com/2018/03/06/kobe-steel-ceo-to-quit-over-data-fraud-scandal.html",
         "https://www.youtube.com/watch?v=mClEqQtJsyc"
       ],
+      "waiting_counter": false,
       "progress_pct": 0,
       "donate": {
         "recipient": "Dare To Care Inc",
@@ -865,6 +866,7 @@
         "https://www.fbi.gov/news/stories/dozens-charged-in-250-million-covid-fraud-scheme-092122",
         "https://www.mapquest.com/us/west-virginia/huntington-area-food-bank-290828541"
       ],
+      "waiting_counter": false,
       "progress_pct": 0,
       "donate": {
         "recipient": "Facing Hunger Foodbank Inc",
@@ -1210,6 +1212,7 @@
         "https://www.mprnews.org/story/2026/07/15/feeding-our-future-fraud-continued-years-after-case-became-public",
         "https://www.youtube.com/watch?v=muY7VkMao3E"
       ],
+      "waiting_counter": false,
       "progress_pct": 0,
       "donate": {
         "recipient": "Mamas Kitchen",
@@ -1482,6 +1485,7 @@
         "https://www.cnbc.com/2014/07/27/china-food-scandal-us-parent-withdraws-products.html",
         "https://www.fincen.gov/resources/law-enforcement/case-examples/six-people-arrested-allegedly-bilking-millions-dollars"
       ],
+      "waiting_counter": false,
       "progress_pct": 0,
       "donate": {
         "recipient": "Maryland Food Bank Inc",
@@ -1755,6 +1759,7 @@
         "https://www.latimes.com/california/story/2024-10-05/long-beach-food-bank-closes-amid-investigation-into-misuse-of-public-funds",
         "https://www.linkedin.com/company/the-global-foodbanking-network"
       ],
+      "waiting_counter": false,
       "progress_pct": 0,
       "donate": {
         "recipient": "The Global Foodbanking Network",
@@ -2028,6 +2033,7 @@
         "https://www.charitynavigator.org/ein/133327220",
         "https://www.mapquest.com/us/new-york/action-against-hunger-usa-276241561"
       ],
+      "waiting_counter": false,
       "progress_pct": 0,
       "donate": {
         "recipient": "Action Against Hunger USA",
