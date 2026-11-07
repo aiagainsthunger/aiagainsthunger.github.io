@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T18:26:35.436432+00:00",
+  "generated_at": "2026-11-07T18:48:51.697670+00:00",
   "projects": [
     {
       "slug": "support-dare-to-care-inc-against-hunger-937",
@@ -87,78 +87,6 @@
           "blocking": true,
           "evidence": "✓ valutatore indipendente tra le prove: 1 pagine di valutatori (https://www.charitynavigator.org/ein/237345952); minimo 1",
           "source_url": "https://www.charitynavigator.org/ein/237345952"
-        },
-        {
-          "verifier": "regole",
-          "check_type": "ammissibilita",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Regole di ammissibilità (config/regole.yaml):\n✓ fonte ammessa: fonte 'valutatore'\n✓ ente registrato nel database: Dare To Care Inc\n✓ codice fiscale verificato (IRS): EIN 237345952\n✓ ente valutato dal valutatore: Charity Navigator\n✓ voto del valutatore: 99%, 4 stelle su 4 (minimo 4 stelle e 90%)\n✓ anni di bilanci ufficiali: 12 anni [2019, 2020, 2021, 2022, 2023] (minimo 3)\n✓ tema fame / nutrizione: categoria IRS K31Z (richiesta ['K']); tema nel nome: False",
-          "source_url": "https://www.charitynavigator.org/ein/237345952"
-        },
-        {
-          "verifier": "regole",
-          "check_type": "ammissibilita",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "✓ valutatore indipendente tra le prove: 1 pagine di valutatori (https://www.charitynavigator.org/ein/237345952); minimo 1",
-          "source_url": "https://www.charitynavigator.org/ein/237345952"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "registrazione",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "L'ente Dare To Care Inc è regolarmente registrato negli Stati Uniti con EIN 237345952 ed è riconosciuto come organizzazione 501(c)(3).",
-          "source_url": "https://www.charitynavigator.org/ein/237345952"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "bilanci",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Sono disponibili i bilanci ufficiali (Form 990) degli ultimi anni, inclusi quelli recenti del 2023 e 2022.",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/237345952"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "valutazione_indipendente",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "L'ente ha ottenuto una valutazione positiva da Charity Navigator con il massimo riconoscimento (Four-Star Charity).",
-          "source_url": "https://www.charitynavigator.org/ein/237345952"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "coerenza_importo",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "L'obiettivo di raccolta previsto di 5000 USD è estremamente esiguo e del tutto coerente rispetto alle dimensioni e al volume d'affari dell'ente (milioni di dollari di entrate annue).",
-          "source_url": "https://www.charitynavigator.org/ein/237345952"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "storico_progetti",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "L'ente opera dal 1971 come banca alimentare (Dare to Care Food Bank) con una storia ampiamente documentata e milioni di pasti distribuiti.",
-          "source_url": "https://www.charitynavigator.org/ein/237345952"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "segnali_allarme",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Dalle prove consultate (scheda Charity Navigator e registri IRS ProPublica) non emergono notizie negative specifiche sull'ente; le altre ricerche web riguardano scandali sanitari o industriali non correlati a Dare To Care Inc.",
-          "source_url": "https://www.charitynavigator.org/ein/237345952"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "conflitti_interesse",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
-          "source_url": "config/conflitti.yaml"
         },
         {
           "verifier": "verifier",
@@ -341,14 +269,16 @@
         "en": {
           "does": [
             {
-              "text": "Dare to Care Food Bank partners with local agencies such as food pantries, shelters, and emergency kitchens to distribute food to the community.",
-              "quote": "Dare to Care partners with local agencies, such as food pantries, shelters and emergency kitchens to distribute food to our community.",
-              "source": "https://daretocare.org/about/"
+              "text": "Dare to Care Food Bank works together to provide pathways to end hunger in the community by partnering with local agencies.",
+              "quote": "Founded in 1971, Dare to Care Food Bank's mission is to work together to provide pathways to end hunger in our community. We fulfill this mission by partnering with local agencies, such as food pantries, shelters and emergency kitchens to distribute food to our community.",
+              "source": "https://www.charitynavigator.org/ein/237345952",
+              "by_org": false
             },
             {
-              "text": "Dare to Care Food Bank serves thirteen counties located across Kentucky and Indiana.",
-              "quote": "Dare to Care Food Bank serves 13 counties in Kentuckiana, including Jefferson, Shelby, Bullitt, Oldham, Spencer, Carroll, Trimble, and Henry Counties in Kentucky, and Floyd, Clark, Harrison, Washington, and Crawford Counties in Indiana.",
-              "source": "https://www.charitynavigator.org/ein/237345952"
+              "text": "The Community Kitchen houses a production and innovation kitchen alongside a demonstration kitchen and classroom space.",
+              "quote": "Our Community Kitchen houses Dare to Care's production and innovation kitchen and a demonstration kitchen and classroom space.",
+              "source": "https://www.charitynavigator.org/ein/237345952",
+              "by_org": false
             }
           ],
           "mission": "Founded in 1971, Dare to Care Food Bank's mission is to work together to provide pathways to end hunger in our community. We fulfill this mission by partnering with local agencies, such as food pantries, shelters and emergency kitchens to distribute food to our community. Last year, Dare to Care provided 22.7 million meals to children, adults, and seniors. Dare to Care Food Bank serves 13 counties in Kentuckiana, including Jefferson, Shelby, Bullitt, Oldham, Spencer, Carroll, Trimble, and Henry Counties in Kentucky, and Floyd, Clark, Harrison, Washington, and Crawford Counties in Indiana. Our warehouse is equipped to store and inventory food at the highest commercial food safety standards. Our Community Kitchen houses Dare to Care's production and innovation kitchen and a demonstration kitchen and classroom space.",
@@ -357,7 +287,14 @@
             {
               "text": "Dare to Care Food Bank was founded in 1971.",
               "quote": "Founded in 1971, Dare to Care Food Bank's mission is to work together to provide pathways to end hunger in our community.",
-              "source": "https://www.charitynavigator.org/ein/237345952"
+              "source": "https://www.charitynavigator.org/ein/237345952",
+              "by_org": false
+            },
+            {
+              "text": "Dare to Care Food Bank is a registered 501(c)3 nonprofit organization with the Internal Revenue Service.",
+              "quote": "Dare to Care Food Bank is a registered 501(c)3 nonprofit organization with the Internal Revenue Service.",
+              "source": "https://daretocare.org/about/",
+              "by_org": true
             }
           ]
         }
@@ -367,13 +304,17 @@
         "stars": 4,
         "score": 99,
         "rating_url": "https://www.charitynavigator.org/ein/237345952",
+        "rating_checked": "2026-11-07",
         "since": "1974",
+        "registry_url": "https://projects.propublica.org/nonprofits/organizations/237345952",
         "filings": 12,
         "first_year": 2012,
         "last_year": 2023,
-        "checks_passed": 28,
+        "checks_passed": 18,
         "verifiers": 3,
-        "site": "daretocare.org"
+        "unanimous": true,
+        "site": "daretocare.org",
+        "official_host": "daretocare.org"
       },
       "progress_pct": 0,
       "donate": {
@@ -470,150 +411,6 @@
           "blocking": true,
           "evidence": "✓ valutatore indipendente tra le prove: 1 pagine di valutatori (https://www.charitynavigator.org/ein/550625915); minimo 1",
           "source_url": "https://www.charitynavigator.org/ein/550625915"
-        },
-        {
-          "verifier": "regole",
-          "check_type": "ammissibilita",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Regole di ammissibilità (config/regole.yaml):\n✓ fonte ammessa: fonte 'valutatore'\n✓ ente registrato nel database: Facing Hunger Foodbank Inc\n✓ codice fiscale verificato (IRS): EIN 550625915\n✓ ente valutato dal valutatore: Charity Navigator\n✓ voto del valutatore: 98%, 4 stelle su 4 (minimo 4 stelle e 90%)\n✓ anni di bilanci ufficiali: 14 anni [2019, 2020, 2021, 2022, 2023] (minimo 3)\n✓ tema fame / nutrizione: categoria IRS - (richiesta ['K']); tema nel nome: True",
-          "source_url": "https://www.charitynavigator.org/ein/550625915"
-        },
-        {
-          "verifier": "regole",
-          "check_type": "ammissibilita",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "✓ valutatore indipendente tra le prove: 1 pagine di valutatori (https://www.charitynavigator.org/ein/550625915); minimo 1",
-          "source_url": "https://www.charitynavigator.org/ein/550625915"
-        },
-        {
-          "verifier": "regole",
-          "check_type": "ammissibilita",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Regole di ammissibilità (config/regole.yaml):\n✓ fonte ammessa: fonte 'valutatore'\n✓ ente registrato nel database: Facing Hunger Foodbank Inc\n✓ codice fiscale verificato (IRS): EIN 550625915\n✓ ente valutato dal valutatore: Charity Navigator\n✓ voto del valutatore: 98%, 4 stelle su 4 (minimo 4 stelle e 90%)\n✓ anni di bilanci ufficiali: 14 anni [2019, 2020, 2021, 2022, 2023] (minimo 3)\n✓ tema fame / nutrizione: categoria IRS - (richiesta ['K']); tema nel nome: True",
-          "source_url": "https://www.charitynavigator.org/ein/550625915"
-        },
-        {
-          "verifier": "regole",
-          "check_type": "ammissibilita",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "✓ valutatore indipendente tra le prove: 1 pagine di valutatori (https://www.charitynavigator.org/ein/550625915); minimo 1",
-          "source_url": "https://www.charitynavigator.org/ein/550625915"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "registrazione",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "L'ente Facing Hunger Foodbank Inc risulta regolarmente registrato negli Stati Uniti con EIN 550625915 e riconosciuto come organizzazione 501(c)(3) dal 1984.",
-          "source_url": "https://www.charitynavigator.org/ein/550625915"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "bilanci",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Sono disponibili i bilanci Form 990 pubblici degli ultimi anni (tra cui il 2023 con entrate e spese certificate) consultabili tramite ProPublica.",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/550625915"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "valutazione_indipendente",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "L'ente ha ottenuto una valutazione positiva del 100% con 4 stelle da Charity Navigator.",
-          "source_url": "https://www.charitynavigator.org/ein/550625915"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "coerenza_importo",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "L'obiettivo di raccolta previsto di 5000 USD è estremamente marginale e del tutto coerente con un'organizzazione consolidata che gestisce entrate milionarie.",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/550625915"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "storico_progetti",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "L'ente è operativo dal 1983, servendo numerose agenzie in più contee con una documentata storia di attività nella sicurezza alimentare.",
-          "source_url": "https://www.charitynavigator.org/ein/550625915"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "segnali_allarme",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun segnale d'allarme, notizie negative o criticità rilevate sull'ente nelle prove verificate.",
-          "source_url": "https://www.charitynavigator.org/ein/550625915"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "conflitti_interesse",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
-          "source_url": "config/conflitti.yaml"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "registrazione",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "L'ente Facing Hunger Foodbank Inc è ufficialmente registrato negli USA come 501(c)(3) con EIN 550625915 e data di riconoscimento IRS 01/02/1984.",
-          "source_url": "https://www.charitynavigator.org/ein/550625915"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "bilanci",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Sono disponibili i bilanci IRS Form 990 per diversi anni consecutivi; nel 2023 l'ente ha registrato entrate per 18.551.920 USD e spese per 17.914.098 USD.",
-          "source_url": "https://www.charitynavigator.org/ein/550625915"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "valutazione_indipendente",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Charity Navigator assegna all'ente la valutazione massima di 4 stelle con un punteggio del 98% (Four-Star Charity).",
-          "source_url": "https://www.charitynavigator.org/ein/550625915"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "coerenza_importo",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "L'obiettivo di raccolta previsto di 5.000 USD è ampiamente contenuto e proporzionato rispetto al bilancio annuale dell'ente di oltre 18 milioni di USD.",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/550625915"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "storico_progetti",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "L'ente opera dal 1983 e serve quasi 240 agenzie in 17 contee tra West Virginia, Kentucky e Ohio, fornendo continuativamente cibo alla comunità.",
-          "source_url": "https://www.charitynavigator.org/ein/550625915"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "segnali_allarme",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Non è stato riscontrato alcun segnale d'allarme nelle prove relative a Facing Hunger Foodbank Inc. Le notizie di frode in E6 riguardano un'organizzazione totalmente diversa (Feeding Our Future).",
-          "source_url": "https://www.charitynavigator.org/ein/550625915"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "conflitti_interesse",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
-          "source_url": "config/conflitti.yaml"
         },
         {
           "verifier": "verifier",
@@ -732,118 +529,6 @@
           "check_type": "registrazione",
           "outcome": "superato",
           "blocking": true,
-          "evidence": "L'ente Facing Hunger Foodbank Inc risulta registrato come organizzazione 501(c)(3) con EIN 550625915, riconosciuto dall'IRS dal 1984. La sede è a Huntington, WV.",
-          "source_url": "https://www.charitynavigator.org/ein/550625915"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "bilanci",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Sono disponibili i bilanci pubblici (Form 990) per gli anni dal 2010 al 2023, con dati dettagliati su entrate e spese accessibili tramite ProPublica Nonprofit Explorer.",
-          "source_url": "https://www.charitynavigator.org/ein/550625915"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "valutazione_indipendente",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Charity Navigator, un valutatore indipendente, ha assegnato all'ente una valutazione di 4 stelle (98%) e lo ha designato come 'Give with Confidence' charity.",
-          "source_url": "https://www.charitynavigator.org/ein/550625915"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "coerenza_importo",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "L'obiettivo di raccolta di 5000 USD è estremamente coerente con le dimensioni dell'ente, che ha registrato entrate annuali di circa 18,5 milioni di USD nel 2023. L'importo richiesto è trascurabile rispetto alla scala operativa.",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/550625915"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "storico_progetti",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "L'ente è stato fondato nel 1983 e serve quasi 240 agenzie in 17 contee. La presenza di bilanci pubblici per oltre un decennio dimostra una storia documentata e continua di attività.",
-          "source_url": "https://www.charitynavigator.org/ein/550625915"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "segnali_allarme",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun segnale d'allarme trovato nelle prove fornite. L'ente ha un sito web istituzionale, contatti telefonici diretti, una lunga storia di trasparenza e valutazioni positive. Le prove E4, E5 ed E6 non contengono informazioni negative specifiche per questo ente (E4 è un errore di caricamento, E5 è una mappa, E6 riguarda un caso di frode non collegato a questo ente).",
-          "source_url": "https://www.charitynavigator.org/ein/550625915"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "conflitti_interesse",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
-          "source_url": "config/conflitti.yaml"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "registrazione",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "L'ente 'Facing Hunger Foodbank Inc' è registrato come organizzazione 501(c)(3) con EIN 550625915, riconosciuto dall'IRS dal 1984. La sede legale è a Huntington, WV.",
-          "source_url": "https://www.charitynavigator.org/ein/550625915"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "bilanci",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Sono disponibili e pubblici i bilanci IRS (Form 990) per gli ultimi 14 anni (2010-2023), con dati dettagliati su entrate e spese accessibili tramite ProPublica e Charity Navigator.",
-          "source_url": "https://www.charitynavigator.org/ein/550625915"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "valutazione_indipendente",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Charity Navigator, un valutatore indipendente, ha assegnato all'ente una valutazione di 4 stelle (98-100%), confermando la sua trasparenza finanziaria e l'impatto positivo.",
-          "source_url": "https://www.charitynavigator.org/ein/550625915"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "coerenza_importo",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "L'obiettivo di raccolta di 5.000 USD è estremamente coerente e conservativo rispetto alle dimensioni dell'ente, che gestisce annualmente entrate di circa 18 milioni di USD e serve 240 agenzie in 17 contee.",
-          "source_url": "https://www.charitynavigator.org/ein/550625915"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "storico_progetti",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "L'ente è attivo dal 1983 (riconosciuto nel 1984) e ha una lunga storia documentata di distribuzione di cibo e supporto alle comunità rurali e sottoservite nella regione di Huntington, WV.",
-          "source_url": "https://www.charitynavigator.org/ein/550625915"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "segnali_allarme",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun segnale d'allarme trovato nelle prove fornite. L'ente ha un sito web istituzionale, contatti diretti e una reputazione solida confermata da valutatori terzi. Le notizie negative trovate (E6) riguardano un diverso schema di frode federale non collegato a questo ente.",
-          "source_url": "https://www.charitynavigator.org/ein/550625915"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "conflitti_interesse",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
-          "source_url": "config/conflitti.yaml"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "registrazione",
-          "outcome": "superato",
-          "blocking": true,
           "evidence": "L'ente Facing Hunger Foodbank Inc risulta registrato presso l'IRS con EIN 550625915, riconoscimento 501(c)(3) dal 1984, con sede a Huntington, WV.",
           "source_url": "https://www.charitynavigator.org/ein/550625915"
         },
@@ -910,15 +595,18 @@
           "does": [
             {
               "text": "Die Organisation wurde 1983 als private gemeinnützige Einrichtung in West Virginia eingetragen.",
-              "source": "https://www.charitynavigator.org/ein/550625915"
+              "source": "https://www.charitynavigator.org/ein/550625915",
+              "by_org": false
             },
             {
               "text": "Die Organisation bedient fast 240 Einrichtungen in 17 Landkreisen in West Virginia, im östlichen Kentucky und im südöstlichen Ohio.",
-              "source": "https://www.charitynavigator.org/ein/550625915"
+              "source": "https://www.charitynavigator.org/ein/550625915",
+              "by_org": false
             },
             {
               "text": "Die foodbank hat das Ziel, Lebensmittelunsicherheit in ländlichen und benachteiligten Gebieten zu bekämpfen, indem sie gesunde Lebensmittel bereitstellt und Gemeinschaften mit Ressourcen verbindet.",
-              "source": "https://www.charitynavigator.org/ein/550625915"
+              "source": "https://www.charitynavigator.org/ein/550625915",
+              "by_org": false
             }
           ],
           "mission": "Facing Hunger Foodbank ist eine private, gemeinnützige, wohltätige Organisation, die 1983 gegründet wurde und in West Virginia eingetragen ist. Früher bekannt als die Huntington Area Food Bank, bediente die foodbank zunächst die Landkreise Cabell und Wayne. Der Bedarf war in der gesamten Region so groß, dass die foodbank ihr Servicegebiet bereits nach dem ersten Betriebsjahr erweiterte. Das Servicegebiet der foodbank umfasst derzeit fast 240 Einrichtungen in 17 Landkreisen in West Virginia, im östlichen Kentucky und im südöstlichen Ohio. Leitbild: Unsere Mission ist es, Lebensmittelunsicherheit in benachteiligten und ländlichen Gemeinden zu bekämpfen, indem wir gesunde Lebensmittel bereitstellen, Nachbarn mit wichtigen Ressourcen verbinden und Hoffnung durch Service, Partnerschaft und Mitgefühl fördern.",
@@ -930,17 +618,20 @@
             {
               "text": "The organization was established in 1983 as a private non-profit entity incorporated in West Virginia.",
               "quote": "Facing Hunger Foodbank is a private, nonprofit, charitable organization founded in 1983 and is incorporated in West Virginia.",
-              "source": "https://www.charitynavigator.org/ein/550625915"
+              "source": "https://www.charitynavigator.org/ein/550625915",
+              "by_org": false
             },
             {
               "text": "The organization serves nearly 240 agencies across 17 counties in West Virginia, eastern Kentucky, and southeastern Ohio.",
               "quote": "The foodbank's service area currently includes nearly 240 agencies across 17 counties in West Virginia, eastern Kentucky and southeastern Ohio.",
-              "source": "https://www.charitynavigator.org/ein/550625915"
+              "source": "https://www.charitynavigator.org/ein/550625915",
+              "by_org": false
             },
             {
               "text": "The food bank aims to address food insecurity across rural and underserved areas by supplying healthy food and connecting communities to resources.",
               "quote": "Our mission is to fight food insecurity in underserved and rural communities by delivering healthy food, connecting neighbors to essential resources and fostering hope through service, partnership and compassion.",
-              "source": "https://www.charitynavigator.org/ein/550625915"
+              "source": "https://www.charitynavigator.org/ein/550625915",
+              "by_org": false
             }
           ],
           "mission": "Facing Hunger Foodbank is a private, nonprofit, charitable organization founded in 1983 and is incorporated in West Virginia. Formerly known as the Huntington Area Food Bank, the foodbank initially served Cabell and Wayne Counties. The need was so great across the region that the foodbank expanded its service area after just its first year of operation. The foodbank's service area currently includes nearly 240 agencies across 17 counties in West Virginia, eastern Kentucky and southeastern Ohio. Mission Statement: Our mission is to fight food insecurity in underserved and rural communities by delivering healthy food, connecting neighbors to essential resources and fostering hope through service, partnership and compassion.",
@@ -951,15 +642,18 @@
           "does": [
             {
               "text": "La organización se estableció en 1983 como una entidad privada sin fines de lucro incorporada en West Virginia.",
-              "source": "https://www.charitynavigator.org/ein/550625915"
+              "source": "https://www.charitynavigator.org/ein/550625915",
+              "by_org": false
             },
             {
               "text": "La organización sirve a casi 240 agencias en 17 condados de West Virginia, el este de Kentucky y el sureste de Ohio.",
-              "source": "https://www.charitynavigator.org/ein/550625915"
+              "source": "https://www.charitynavigator.org/ein/550625915",
+              "by_org": false
             },
             {
               "text": "El banco de alimentos tiene como objetivo abordar la inseguridad alimentaria en áreas rurales y desatendidas mediante el suministro de alimentos saludables y la conexión de las comunidades con recursos.",
-              "source": "https://www.charitynavigator.org/ein/550625915"
+              "source": "https://www.charitynavigator.org/ein/550625915",
+              "by_org": false
             }
           ],
           "mission": "Facing Hunger Foodbank es una organización privada, sin fines de lucro y benéfica fundada en 1983 e incorporada en West Virginia. Anteriormente conocida como Huntington Area Food Bank, el banco de alimentos sirvió inicialmente a los condados de Cabell y Wayne. La necesidad era tan grande en toda la región que el banco de alimentos amplió su área de servicio después de solo su primer año de operación. Actualmente, el área de servicio del banco de alimentos incluye casi 240 agencias en 17 condados de West Virginia, el este de Kentucky y el sureste de Ohio. Declaración de la misión: Nuestra misión es combatir la inseguridad alimentaria en comunidades desatendidas y rurales mediante la entrega de alimentos saludables, conectando a los vecinos con recursos esenciales y fomentando la esperanza a través del servicio, la asociación y la compasión.",
@@ -970,15 +664,18 @@
           "does": [
             {
               "text": "L'organisation a été créée en 1983 en tant qu'entité privée à but non lucratif incorporée en Virginie-Occidentale.",
-              "source": "https://www.charitynavigator.org/ein/550625915"
+              "source": "https://www.charitynavigator.org/ein/550625915",
+              "by_org": false
             },
             {
               "text": "L'organisation sert près de 240 agences dans 17 comtés en Virginie-Occidentale, dans l'est du Kentucky et le sud-est de l'Ohio.",
-              "source": "https://www.charitynavigator.org/ein/550625915"
+              "source": "https://www.charitynavigator.org/ein/550625915",
+              "by_org": false
             },
             {
               "text": "La banque alimentaire vise à lutter contre l'insécurité alimentaire dans les zones rurales et mal desservies en fournissant des aliments sains et en connectant les communautés aux ressources.",
-              "source": "https://www.charitynavigator.org/ein/550625915"
+              "source": "https://www.charitynavigator.org/ein/550625915",
+              "by_org": false
             }
           ],
           "mission": "Facing Hunger Foodbank est une organisation privée, à but non lucratif et caritative fondée en 1983 et incorporée en Virginie-Occidentale. Anciennement connue sous le nom de Huntington Area Food Bank, la banque alimentaire servait initialement les comtés de Cabell et Wayne. Le besoin était si important dans la région que la banque alimentaire a élargi sa zone de service après seulement sa première année d'exploitation. La zone de service de la banque alimentaire comprend actuellement près de 240 agences réparties sur 17 comtés en Virginie-Occidentale, dans l'est du Kentucky et le sud-est de l'Ohio. Déclaration de mission : Notre mission est de lutter contre l'insécurité alimentaire dans les communautés mal desservies et rurales en livrant des aliments sains, en connectant les voisins aux ressources essentielles et en favorisant l'espoir grâce au service, au partenariat et à la compassion.",
@@ -989,15 +686,18 @@
           "does": [
             {
               "text": "L'organizzazione è stata fondata nel 1983 come entità privata senza scopo di lucro incorporata in West Virginia.",
-              "source": "https://www.charitynavigator.org/ein/550625915"
+              "source": "https://www.charitynavigator.org/ein/550625915",
+              "by_org": false
             },
             {
               "text": "L'organizzazione serve quasi 240 agenzie in 17 contee in West Virginia, nel Kentucky orientale e nel sud‑est dell'Ohio.",
-              "source": "https://www.charitynavigator.org/ein/550625915"
+              "source": "https://www.charitynavigator.org/ein/550625915",
+              "by_org": false
             },
             {
               "text": "La banca alimentare mira a contrastare l'insicurezza alimentare nelle aree rurali e svantaggiate fornendo cibo sano e collegando le comunità alle risorse.",
-              "source": "https://www.charitynavigator.org/ein/550625915"
+              "source": "https://www.charitynavigator.org/ein/550625915",
+              "by_org": false
             }
           ],
           "mission": "Facing Hunger Foodbank è un'organizzazione privata, senza scopo di lucro e benefica fondata nel 1983 e incorporata in West Virginia. In precedenza conosciuta come Huntington Area Food Bank, la banca alimentare serviva inizialmente le contee di Cabell e Wayne. Il bisogno era così grande nella regione che la banca alimentare ha ampliato la sua area di servizio dopo appena il suo primo anno di attività. L'area di servizio della banca alimentare attualmente comprende quasi 240 agenzie in 17 contee in West Virginia, nel Kentucky orientale e nel sud‑est dell'Ohio. Dichiarazione di missione: La nostra missione è combattere l'insicurezza alimentare nelle comunità svantaggiate e rurali fornendo cibo sano, collegando i vicini alle risorse essenziali e promuovendo speranza attraverso il servizio, la partnership e la compassione.",
@@ -1010,13 +710,17 @@
         "stars": 4,
         "score": 98,
         "rating_url": "https://www.charitynavigator.org/ein/550625915",
+        "rating_checked": "2026-11-07",
         "since": "1984",
+        "registry_url": "https://projects.propublica.org/nonprofits/organizations/550625915",
         "filings": 14,
         "first_year": 2010,
         "last_year": 2023,
-        "checks_passed": 49,
+        "checks_passed": 18,
         "verifiers": 3,
-        "site": "facinghunger.org"
+        "unanimous": true,
+        "site": "facinghunger.org",
+        "official_host": "facinghunger.org"
       },
       "progress_pct": 0,
       "donate": {
@@ -1129,62 +833,6 @@
           "blocking": true,
           "evidence": "✓ valutatore indipendente tra le prove: 2 pagine di valutatori (https://www.charitynavigator.org/ein/330434246, https://charitywatch.org/); minimo 1",
           "source_url": "https://www.charitynavigator.org/ein/330434246"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "registrazione",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "L'ente Mamas Kitchen è regolarmente registrato negli Stati Uniti con EIN 330434246 e riconoscimento IRS dal 1995.",
-          "source_url": "https://www.charitynavigator.org/ein/330434246"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "bilanci",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Sono disponibili i bilanci ufficiali Form 990 degli ultimi anni, inclusi i dati relativi al 2023 con entrate e spese certificate.",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/330434246"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "valutazione_indipendente",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "L'ente è censito e valutato da Charity Navigator, che fornisce dati e storico finanziario.",
-          "source_url": "https://www.charitynavigator.org/ein/330434246"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "coerenza_importo",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "L'obiettivo di raccolta previsto di 5000 USD è del tutto coerente e sostenibile rispetto al volume di entrate e spese multimilionarie dell'ente.",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/330434246"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "storico_progetti",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "L'ente ha una lunga storia operativa documentata da pluriennali dichiarazioni fiscali IRS dal 2018 al 2023 e partnership storiche.",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/330434246"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "segnali_allarme",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Dalle prove consultate (inclusi i registri ufficiali e le verifiche sulle fonti) non emergono segnali d'allarme specifici a carico dell'ente Mamas Kitchen; le notizie di cronaca su frodi (es. Feeding Our Future / Ruwayda Kitchen) riguardano soggetti terzi nel Minnesota e non questa organizzazione di San Diego.",
-          "source_url": "https://www.charitynavigator.org/ein/330434246"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "conflitti_interesse",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
-          "source_url": "config/conflitti.yaml"
         },
         {
           "verifier": "verifier",
@@ -1365,41 +1013,19 @@
       ],
       "waiting_counter": false,
       "profile": {
-        "de": {
-          "does": [
-            {
-              "text": "Mama's Kitchen liefert medizinisch zugeschnittene Mahlzeiten an Einzelpersonen und Familien, die aufgrund einer kritischen Erkrankung in San Diego County anfällig für Mangelernährung sind.",
-              "source": "https://www.charitynavigator.org/ein/330434246"
-            },
-            {
-              "text": "Freiwillige und bezahlte Mitarbeitende arbeiten zusammen, um jährlich geschätzten 3.000 Bewohnern des San Diego County Ernährungsdienste bereitzustellen.",
-              "source": "https://www.charitynavigator.org/ein/330434246"
-            }
-          ],
-          "mission": "Mama's Kitchen ist die einzige Organisation im San Diego County, die medizinisch zugeschnittene Mahlzeiten an Einzelpersonen und Familien liefert, die aufgrund einer kritischen Erkrankung anfällig für Mangelernährung sind, an jedem Tag des Jahres, landesweit und kostenlos. Gegründet im Jahr 1990, liefert Mama's Kitchen Nahrung, Hoffnung und eine helfende Hand für Menschen, die gegen Mangelernährung und Hunger, Isolation und eine lebensbedrohliche Krankheit kämpfen. Mama's Kitchen hat sich verpflichtet, HIV/AIDS, Krebs, Diabetes, Herzinsuffizienz und Nierenerkrankungen durch die Kraft der Ernährung zu bekämpfen. Ungefähr 850 Freiwillige arbeiten mit 48 bezahlten Mitarbeitern zusammen, um lebensrettende Ernährung für schätzungsweise 3.000 Einwohner des San Diego County jährlich bereitzustellen.",
-          "does_not": [],
-          "strengths": [
-            {
-              "text": "Die Organisation ist als steuerbefreite 501(c)(3) Nonprofit-Organisation registriert.",
-              "source": "https://mamaskitchen.org/about-us/overview/"
-            },
-            {
-              "text": "Mama's Kitchen erhielt die Akkreditierung von der Food is Medicine Coalition.",
-              "source": "https://mamaskitchen.org/about-us/overview/"
-            }
-          ]
-        },
         "en": {
           "does": [
             {
               "text": "Mama's Kitchen delivers medically tailored meals to individuals and families vulnerable to malnutrition due to critical illness in San Diego County.",
               "quote": "Mama's Kitchen is the only organization in San Diego County home delivering medically tailored meals to individuals and families vulnerable to malnutrition due to critical illness for every day of the year, county-wide, and free of charge.",
-              "source": "https://www.charitynavigator.org/ein/330434246"
+              "source": "https://www.charitynavigator.org/ein/330434246",
+              "by_org": false
             },
             {
               "text": "Volunteers and paid employees work together to provide nutrition services to an estimated 3,000 San Diego County residents annually.",
               "quote": "Approximately 850 volunteers join 48 paid employees to provide life-saving nutrition to an estimated 3,000 San Diego County residents annually.",
-              "source": "https://www.charitynavigator.org/ein/330434246"
+              "source": "https://www.charitynavigator.org/ein/330434246",
+              "by_org": false
             }
           ],
           "mission": "Mama's Kitchen is the only organization in San Diego County home delivering medically tailored meals to individuals and families vulnerable to malnutrition due to critical illness for every day of the year, county-wide, and free of charge. Founded in 1990, Mama's Kitchen delivers nourishment, hope and a helping hand to people battling malnutrition and hunger, isolation and a life-threatening illness. Mama's Kitchen is committed to fighting HIV/AIDS, cancer, diabetes, heart failure and kidney disease through the power of nutrition. Approximately 850 volunteers join 48 paid employees to provide life-saving nutrition to an estimated 3,000 San Diego County residents annually.",
@@ -1408,156 +1034,8 @@
             {
               "text": "The organization is registered as a tax-exempt 501(c)(3) nonprofit organization.",
               "quote": "Mama’s Kitchen, Inc. is a tax-exempt 501(c)(3) not-for-profit organization.",
-              "source": "https://mamaskitchen.org/about-us/overview/"
-            },
-            {
-              "text": "Mama's Kitchen earned accreditation from the Food is Medicine Coalition.",
-              "quote": "Mama’s Kitchen Earns Accreditation from the Food is Medicine Coalition",
-              "source": "https://mamaskitchen.org/about-us/overview/"
-            }
-          ]
-        },
-        "es": {
-          "does": [
-            {
-              "text": "Mama's Kitchen entrega comidas médicamente adaptadas a individuos y familias vulnerables a la desnutrición debido a una enfermedad crítica en el condado de San Diego.",
-              "source": "https://www.charitynavigator.org/ein/330434246"
-            },
-            {
-              "text": "Los voluntarios y los empleados remunerados trabajan juntos para proporcionar servicios de nutrición a aproximadamente 3,000 residentes del condado de San Diego al año.",
-              "source": "https://www.charitynavigator.org/ein/330434246"
-            }
-          ],
-          "mission": "Mama's Kitchen es la única organización en el condado de San Diego que entrega comidas médicamente adaptadas a individuos y familias vulnerables a la desnutrición debido a una enfermedad crítica todos los días del año, en todo el condado, y sin costo alguno. Fundada en 1990, Mama's Kitchen brinda nutrición, esperanza y una mano amiga a personas que luchan contra la desnutrición y el hambre, el aislamiento y una enfermedad que amenaza la vida. Mama's Kitchen está comprometida a combatir el VIH/SIDA, el cáncer, la diabetes, la insuficiencia cardíaca y la enfermedad renal mediante el poder de la nutrición. Aproximadamente 850 voluntarios se unen a 48 empleados remunerados para proporcionar nutrición que salva vidas a unos 3,000 residentes del condado de San Diego al año.",
-          "does_not": [],
-          "strengths": [
-            {
-              "text": "La organización está registrada como una entidad sin fines de lucro exenta de impuestos 501(c)(3).",
-              "source": "https://mamaskitchen.org/about-us/overview/"
-            },
-            {
-              "text": "Mama's Kitchen obtuvo la acreditación de la Coalición Food is Medicine.",
-              "source": "https://mamaskitchen.org/about-us/overview/"
-            }
-          ]
-        },
-        "it": {
-          "does": [
-            {
-              "text": "Mama's Kitchen consegna pasti personalizzati dal punto di vista medico a individui e famiglie vulnerabili alla malnutrizione a causa di malattie critiche nella Contea di San Diego.",
-              "source": "https://www.charitynavigator.org/ein/330434246"
-            },
-            {
-              "text": "Volontari e dipendenti retribuiti lavorano insieme per fornire servizi nutrizionali a circa 3,000 residenti della Contea di San Diego annualmente.",
-              "source": "https://www.charitynavigator.org/ein/330434246"
-            }
-          ],
-          "mission": "Mama's Kitchen è l'unica organizzazione nella Contea di San Diego che consegna pasti personalizzati dal punto di vista medico a individui e famiglie vulnerabili alla malnutrizione a causa di malattie critiche per tutti i giorni dell'anno, in tutta la contea, e gratuitamente. Fondata nel 1990, Mama's Kitchen fornisce nutrimento, speranza e una mano d'aiuto alle persone che combattono la malnutrizione e la fame, l'isolamento e una malattia potenzialmente letale. Mama's Kitchen è impegnata nella lotta contro HIV/AIDS, cancro, diabete, insufficienza cardiaca e malattia renale attraverso il potere della nutrizione. Circa 850 volontari si uniscono a 48 dipendenti retribuiti per fornire nutrizione salvavita a circa 3,000 residenti della Contea di San Diego annualmente.",
-          "does_not": [],
-          "strengths": [
-            {
-              "text": "L'organizzazione è registrata come ente non profit esente da tasse 501(c)(3).",
-              "source": "https://mamaskitchen.org/about-us/overview/"
-            },
-            {
-              "text": "Mama's Kitchen ha ottenuto l'accreditamento dalla Food is Medicine Coalition.",
-              "source": "https://mamaskitchen.org/about-us/overview/"
-            }
-          ]
-        },
-        "ja": {
-          "does": [
-            {
-              "text": "Mama's Kitchen は、サンディエゴ郡で重篤な病気により栄養失調のリスクがある個人や家族に医療に合わせた食事を配達します。",
-              "source": "https://www.charitynavigator.org/ein/330434246"
-            },
-            {
-              "text": "ボランティアと有給従業員は協力して、年間推定 3,000 人のサンディエゴ郡住民に栄養サービスを提供します。",
-              "source": "https://www.charitynavigator.org/ein/330434246"
-            }
-          ],
-          "mission": "Mama's Kitchen は、サンディエゴ郡で唯一、重篤な病気により栄養失調のリスクがある個人や家族に、年間を通じて、郡全域で無料で医療に合わせた食事を自宅へ配達する組織です。1990 年に設立された Mama's Kitchen は、栄養失調や飢餓、孤立、生命を脅かす病気と闘う人々に、栄養、希望、支援の手を届けます。Mama's Kitchen は、栄養の力を通じて HIV/AIDS、がん、糖尿病、心不全、腎臓病と戦うことに取り組んでいます。約 850 人のボランティアが 48 人の有給従業員と共に、年間推定 3,000 人のサンディエゴ郡住民に命を救う栄養を提供しています。",
-          "does_not": [],
-          "strengths": [
-            {
-              "text": "この組織は、税免除の 501(c)(3) 非営利団体として登録されています。",
-              "source": "https://mamaskitchen.org/about-us/overview/"
-            },
-            {
-              "text": "Mama's Kitchen は Food is Medicine Coalition から認定を受けました。",
-              "source": "https://mamaskitchen.org/about-us/overview/"
-            }
-          ]
-        },
-        "pt": {
-          "does": [
-            {
-              "text": "Mama's Kitchen entrega refeições medicamente personalizadas a indivíduos e famílias vulneráveis à desnutrição devido a doença crítica no condado de San Diego.",
-              "source": "https://www.charitynavigator.org/ein/330434246"
-            },
-            {
-              "text": "Voluntários e funcionários pagos trabalham juntos para fornecer serviços de nutrição a cerca de 3,000 residentes do condado de San Diego anualmente.",
-              "source": "https://www.charitynavigator.org/ein/330434246"
-            }
-          ],
-          "mission": "Mama's Kitchen é a única organização em San Diego County que entrega refeições medicamente personalizadas a indivíduos e famílias vulneráveis à desnutrição devido a doença crítica todos os dias do ano, em todo o condado, e gratuitamente. Fundada em 1990, Mama's Kitchen fornece nutrição, esperança e uma mão amiga às pessoas que lutam contra a desnutrição e a fome, o isolamento e uma doença que ameaça a vida. Mama's Kitchen está comprometida em combater HIV/AIDS, câncer, diabetes, insuficiência cardíaca e doença renal através do poder da nutrição. Aproximadamente 850 voluntários se juntam a 48 funcionários pagos para fornecer nutrição que salva vidas a cerca de 3,000 residentes do condado de San Diego anualmente.",
-          "does_not": [],
-          "strengths": [
-            {
-              "text": "A organização está registrada como uma entidade sem fins lucrativos isenta de impostos 501(c)(3).",
-              "source": "https://mamaskitchen.org/about-us/overview/"
-            },
-            {
-              "text": "Mama's Kitchen recebeu acreditação da Food is Medicine Coalition.",
-              "source": "https://mamaskitchen.org/about-us/overview/"
-            }
-          ]
-        },
-        "ru": {
-          "does": [
-            {
-              "text": "Mama's Kitchen доставляет медицински адаптированные блюда людям и семьям, уязвимым к недоеданию из‑за тяжёлой болезни в округе Сан-Диего.",
-              "source": "https://www.charitynavigator.org/ein/330434246"
-            },
-            {
-              "text": "Волонтёры и штатные сотрудники работают вместе, чтобы ежегодно предоставлять услуги питания примерно 3,000 жителям округа Сан-Диего.",
-              "source": "https://www.charitynavigator.org/ein/330434246"
-            }
-          ],
-          "mission": "Mama's Kitchen является единственной организацией в округе Сан-Диего, предоставляющей медицински адаптированные блюда людям и семьям, уязвимым к недоеданию из‑за тяжёлой болезни, каждый день года, по всему округу, бесплатно. Основана в 1990 году, Mama's Kitchen обеспечивает питание, надежду и поддержку людям, борющимся с недоеданием и голодом, изоляцией и опасными для жизни заболеваниями. Mama's Kitchen привержена борьбе с ВИЧ/СПИД, раком, диабетом, сердечной недостаточностью и заболеванием почек с помощью питания. Около 850 волонтёров работают вместе с 48 штатными сотрудниками, чтобы предоставлять жизненно важное питание примерно 3,000 жителям округа Сан-Диего ежегодно.",
-          "does_not": [],
-          "strengths": [
-            {
-              "text": "Организация зарегистрирована как некоммерческая организация, освобождённая от налогообложения в соответствии с разделом 501(c)(3).",
-              "source": "https://mamaskitchen.org/about-us/overview/"
-            },
-            {
-              "text": "Mama's Kitchen получила аккредитацию от Food is Medicine Coalition.",
-              "source": "https://mamaskitchen.org/about-us/overview/"
-            }
-          ]
-        },
-        "zh": {
-          "does": [
-            {
-              "text": "Mama's Kitchen 为圣地亚哥县因重症而易患营养不良的个人和家庭提供医学定制餐食。",
-              "source": "https://www.charitynavigator.org/ein/330434246"
-            },
-            {
-              "text": "志愿者和受薪员工共同合作，为估计每年约3,000名圣地亚哥县居民提供营养服务。",
-              "source": "https://www.charitynavigator.org/ein/330434246"
-            }
-          ],
-          "mission": "Mama's Kitchen 是圣地亚哥县唯一在家提供医学定制餐食的组织，面向因重症而易患营养不良的个人和家庭，全年365天、全县范围内且免费。成立于1990年，Mama's Kitchen 为与营养不良、饥饿、孤立以及危及生命的疾病作斗争的人们提供营养、希望和帮助之手。Mama's Kitchen 致力于通过营养的力量抗击 HIV/AIDS、癌症、糖尿病、心力衰竭和肾病。约有850名志愿者与48名受薪员工合作，为估计每年约3,000名圣地亚哥县居民提供拯救生命的营养。",
-          "does_not": [],
-          "strengths": [
-            {
-              "text": "该组织已注册为免税的501(c)(3)非营利组织。",
-              "source": "https://mamaskitchen.org/about-us/overview/"
-            },
-            {
-              "text": "Mama's Kitchen 获得了 Food is Medicine Coalition 的认证。",
-              "source": "https://mamaskitchen.org/about-us/overview/"
+              "source": "https://mamaskitchen.org/about-us/overview/",
+              "by_org": true
             }
           ]
         }
@@ -1567,13 +1045,17 @@
         "stars": 4,
         "score": 98,
         "rating_url": "https://www.charitynavigator.org/ein/330434246",
+        "rating_checked": "2026-11-07",
         "since": "1995",
+        "registry_url": "https://projects.propublica.org/nonprofits/organizations/330434246",
         "filings": 13,
         "first_year": 2011,
         "last_year": 2023,
-        "checks_passed": 28,
+        "checks_passed": 18,
         "verifiers": 3,
-        "site": "mamaskitchen.org"
+        "unanimous": true,
+        "site": "mamaskitchen.org",
+        "official_host": "mamaskitchen.org"
       },
       "progress_pct": 0,
       "donate": {
@@ -1853,11 +1335,13 @@
           "does": [
             {
               "text": "Die Maryland Food Bank arbeitet als gemeinnützige Hungerhilfe-Organisation, die sich darauf konzentriert, Menschen zu ernähren, Gemeinschaften zu stärken und den Hunger für mehr Marylanders zu beenden.",
-              "source": "https://www.charitynavigator.org/ein/521135690"
+              "source": "https://www.charitynavigator.org/ein/521135690",
+              "by_org": false
             },
             {
               "text": "Die Organisation arbeitet daran, ein gerechteres, widerstandsfähigeres und zugänglicheres Lebensmittelsystem für alle Marylanders aufzubauen.",
-              "source": "https://www.charitynavigator.org/ein/521135690"
+              "source": "https://www.charitynavigator.org/ein/521135690",
+              "by_org": false
             }
           ],
           "mission": "Die Maryland Food Bank ist eine gemeinnützige Hungerhilfe-Organisation, die Menschen ernährt, Gemeinschaften stärkt und den Hunger für mehr Marylanders beendet.",
@@ -1869,12 +1353,14 @@
             {
               "text": "The Maryland Food Bank operates as a nonprofit hunger-relief organization focused on feeding people, strengthening communities, and ending hunger for more Marylanders.",
               "quote": "The Maryland Food Bank is a nonprofit hunger-relief organization that is feeding people, strengthening communities, and ending hunger for more Marylanders.",
-              "source": "https://www.charitynavigator.org/ein/521135690"
+              "source": "https://www.charitynavigator.org/ein/521135690",
+              "by_org": false
             },
             {
               "text": "The organization works to build a more equitable, resilient, and accessible food system for all Marylanders.",
               "quote": "MFB is working to build a more equitable, resilient, and accessible food system for all Marylanders.",
-              "source": "https://www.charitynavigator.org/ein/521135690"
+              "source": "https://www.charitynavigator.org/ein/521135690",
+              "by_org": false
             }
           ],
           "mission": "The Maryland Food Bank is a nonprofit hunger-relief organization that is feeding people, strengthening communities, and ending hunger for more Marylanders.",
@@ -1885,11 +1371,13 @@
           "does": [
             {
               "text": "Maryland Food Bank opera como una organización sin fines de lucro de alivio del hambre centrada en alimentar a personas, fortalecer comunidades y acabar con el hambre para más Marylanders.",
-              "source": "https://www.charitynavigator.org/ein/521135690"
+              "source": "https://www.charitynavigator.org/ein/521135690",
+              "by_org": false
             },
             {
               "text": "La organización trabaja para construir un sistema alimentario más equitativo, resiliente y accesible para todos los Marylanders.",
-              "source": "https://www.charitynavigator.org/ein/521135690"
+              "source": "https://www.charitynavigator.org/ein/521135690",
+              "by_org": false
             }
           ],
           "mission": "Maryland Food Bank es una organización sin fines de lucro de alivio del hambre que está alimentando a personas, fortaleciendo comunidades y acabando con el hambre para más Marylanders.",
@@ -1900,11 +1388,13 @@
           "does": [
             {
               "text": "The Maryland Food Bank fonctionne comme une organisation à but non lucratif de lutte contre la faim axée sur l'alimentation des personnes, le renforcement des communautés et la fin de la faim pour plus de Marylanders.",
-              "source": "https://www.charitynavigator.org/ein/521135690"
+              "source": "https://www.charitynavigator.org/ein/521135690",
+              "by_org": false
             },
             {
               "text": "L'organisation travaille à construire un système alimentaire plus équitable, résilient et accessible pour tous les Marylanders.",
-              "source": "https://www.charitynavigator.org/ein/521135690"
+              "source": "https://www.charitynavigator.org/ein/521135690",
+              "by_org": false
             }
           ],
           "mission": "The Maryland Food Bank est une organisation à but non lucratif de lutte contre la faim qui nourrit les gens, renforce les communautés et met fin à la faim pour plus de Marylanders.",
@@ -1915,11 +1405,13 @@
           "does": [
             {
               "text": "The Maryland Food Bank एक गैर-लाभकारी भूख-राहत संगठन के रूप में कार्य करता है जो लोगों को भोजन प्रदान करने, समुदायों को सुदृढ़ करने, और अधिक Marylanders के लिए भूख को समाप्त करने पर केंद्रित है।",
-              "source": "https://www.charitynavigator.org/ein/521135690"
+              "source": "https://www.charitynavigator.org/ein/521135690",
+              "by_org": false
             },
             {
               "text": "संगठन अधिक समान, लचीला, और सभी Marylanders के लिए सुलभ खाद्य प्रणाली बनाने के लिए काम करता है।",
-              "source": "https://www.charitynavigator.org/ein/521135690"
+              "source": "https://www.charitynavigator.org/ein/521135690",
+              "by_org": false
             }
           ],
           "mission": "The Maryland Food Bank एक गैर-लाभकारी भूख-राहत संगठन है जो लोगों को भोजन प्रदान कर रहा है, समुदायों को सुदृढ़ कर रहा है, और अधिक Marylanders के लिए भूख को समाप्त कर रहा है।",
@@ -1930,11 +1422,13 @@
           "does": [
             {
               "text": "The Maryland Food Bank opera come un'organizzazione senza scopo di lucro per la lotta alla fame, focalizzata sul nutrire le persone, rafforzare le comunità e porre fine alla fame per più residenti del Maryland.",
-              "source": "https://www.charitynavigator.org/ein/521135690"
+              "source": "https://www.charitynavigator.org/ein/521135690",
+              "by_org": false
             },
             {
               "text": "L'organizzazione lavora per costruire un sistema alimentare più equo, resiliente e accessibile per tutti i residenti del Maryland.",
-              "source": "https://www.charitynavigator.org/ein/521135690"
+              "source": "https://www.charitynavigator.org/ein/521135690",
+              "by_org": false
             }
           ],
           "mission": "The Maryland Food Bank è un'organizzazione senza scopo di lucro per la lotta alla fame che sta nutrendo le persone, rafforzando le comunità e ponendo fine alla fame per più residenti del Maryland.",
@@ -1945,11 +1439,13 @@
           "does": [
             {
               "text": "The Maryland Food Bankは、非営利の飢餓救済組織として、人々に食料を提供し、コミュニティを強化し、より多くのメリーランド州民の飢餓を終わらせることに焦点を当てて運営しています。",
-              "source": "https://www.charitynavigator.org/ein/521135690"
+              "source": "https://www.charitynavigator.org/ein/521135690",
+              "by_org": false
             },
             {
               "text": "The organizationは、すべてのメリーランド州民のために、より公平で、回復力があり、アクセスしやすい食料システムを構築することに取り組んでいます。",
-              "source": "https://www.charitynavigator.org/ein/521135690"
+              "source": "https://www.charitynavigator.org/ein/521135690",
+              "by_org": false
             }
           ],
           "mission": "The Maryland Food Bankは、非営利の飢餓救済組織であり、人々に食料を提供し、コミュニティを強化し、より多くのメリーランド州民の飢餓を終わらせています。",
@@ -1960,11 +1456,13 @@
           "does": [
             {
               "text": "O Maryland Food Bank opera como uma organização sem fins lucrativos de combate à fome focada em alimentar pessoas, fortalecer comunidades e acabar com a fome para mais moradores de Maryland.",
-              "source": "https://www.charitynavigator.org/ein/521135690"
+              "source": "https://www.charitynavigator.org/ein/521135690",
+              "by_org": false
             },
             {
               "text": "A organização trabalha para construir um sistema alimentar mais equitativo, resiliente e acessível para todos os moradores de Maryland.",
-              "source": "https://www.charitynavigator.org/ein/521135690"
+              "source": "https://www.charitynavigator.org/ein/521135690",
+              "by_org": false
             }
           ],
           "mission": "O Maryland Food Bank é uma organização sem fins lucrativos de combate à fome que está alimentando pessoas, fortalecendo comunidades e acabando com a fome para mais moradores de Maryland.",
@@ -1975,11 +1473,13 @@
           "does": [
             {
               "text": "Maryland Food Bank работает как некоммерческая организация по борьбе с голодом, сосредоточенная на кормлении людей, укреплении сообществ и прекращении голода для большего числа жителей Мэриленда.",
-              "source": "https://www.charitynavigator.org/ein/521135690"
+              "source": "https://www.charitynavigator.org/ein/521135690",
+              "by_org": false
             },
             {
               "text": "Организация работает над созданием более справедливой, устойчивой и доступной продовольственной системы для всех жителей Мэриленда.",
-              "source": "https://www.charitynavigator.org/ein/521135690"
+              "source": "https://www.charitynavigator.org/ein/521135690",
+              "by_org": false
             }
           ],
           "mission": "Maryland Food Bank является некоммерческой организацией по борьбе с голодом, которая кормит людей, укрепляет сообщества и заканчивает голод для большего числа жителей Мэриленда.",
@@ -1990,11 +1490,13 @@
           "does": [
             {
               "text": "Maryland Food Bank 作为一家非营利性饥饿救助组织运作，专注于为人们提供食物，强化社区，并为更多 Marylanders 消除饥饿。",
-              "source": "https://www.charitynavigator.org/ein/521135690"
+              "source": "https://www.charitynavigator.org/ein/521135690",
+              "by_org": false
             },
             {
               "text": "该组织致力于为所有 Marylanders 构建一个更公平、更有韧性且更易获取的食品系统。",
-              "source": "https://www.charitynavigator.org/ein/521135690"
+              "source": "https://www.charitynavigator.org/ein/521135690",
+              "by_org": false
             }
           ],
           "mission": "Maryland Food Bank 是一家非营利性饥饿救助组织，正在为人们提供食物，强化社区，并为更多 Marylanders 消除饥饿。",
@@ -2007,13 +1509,17 @@
         "stars": 4,
         "score": 96,
         "rating_url": "https://www.charitynavigator.org/ein/521135690",
+        "rating_checked": "2026-11-07",
         "since": "1979",
+        "registry_url": "https://projects.propublica.org/nonprofits/organizations/521135690",
         "filings": 13,
         "first_year": 2011,
         "last_year": 2023,
-        "checks_passed": 21,
+        "checks_passed": 18,
         "verifiers": 3,
-        "site": "mdfoodbank.org"
+        "unanimous": true,
+        "site": "mdfoodbank.org",
+        "official_host": "mdfoodbank.org"
       },
       "progress_pct": 0,
       "donate": {
@@ -2293,75 +1799,40 @@
         "en": {
           "does": [
             {
-              "text": "The Global FoodBanking Network unites and advances food banks to nourish the world’s hungry.",
+              "text": "The Global FoodBanking Network unites and advances food banks to nourish the world's hungry.",
               "quote": "The Global FoodBanking Network's mission is to nourish the world’s hungry through uniting and advancing food banks.",
-              "source": "https://www.charitynavigator.org/ein/204268851"
+              "source": "https://www.charitynavigator.org/ein/204268851",
+              "by_org": false
             },
             {
-              "text": "In 2025, over forty million people accessed food through a member food bank.",
+              "text": "In FY 2023, GFN member food banks recovered over 648M kilos of food and grocery products and re-directed this surplus to approximately 32 million persons facing hunger.",
+              "quote": "In FY 2023, GFN member food banks recovered over 648M kilos of food and grocery products and re-directed this surplus to approximately 32 million persons facing hunger.",
+              "source": "https://www.charitynavigator.org/ein/204268851",
+              "by_org": false
+            },
+            {
+              "text": "In 2025, 40.5 million people accessed food through a GFN member food bank.",
               "quote": "40.5 Million People accessed food through a GFN member food bank in 2025.",
-              "source": "https://www.foodbanking.org/"
-            },
-            {
-              "text": "Member food banks prevented over two million metric tons of CO2e in 2025.",
-              "quote": "2.03 Million metric tons of CO2e were prevented by GFN members in 2025.",
-              "source": "https://www.foodbanking.org/"
-            },
-            {
-              "text": "The network operates across six continents and in more than fifty countries.",
-              "quote": "Find GFN members across six continents and more than 50 countries.",
-              "source": "https://www.foodbanking.org/"
+              "source": "https://www.foodbanking.org/",
+              "by_org": true
             }
           ],
           "mission": "The Global FoodBanking Network's mission is to nourish the world’s hungry through uniting and advancing food banks. We were started by a collaboration of food bank networks in the U.S., Mexico, Canada, and Argentina, and the belief that community-led solutions for hunger should be relevant across the globe. Now we’re a Network active in nearly 50 countries. In FY 2023, GFN member food banks recovered over 648M kilos of food and grocery products and re-directed this surplus to approximately 32 million persons facing hunger.",
           "does_not": [],
-          "strengths": []
-        },
-        "fr": {
-          "does": [
+          "strengths": [
             {
-              "text": "The Global FoodBanking Network unit et fait progresser les banques alimentaires pour nourrir les affamés du monde.",
-              "source": "https://www.charitynavigator.org/ein/204268851"
+              "text": "The organization was started by a collaboration of food bank networks in the U.S., Mexico, Canada, and Argentina.",
+              "quote": "We were started by a collaboration of food bank networks in the U.S., Mexico, Canada, and Argentina, and the belief that community-led solutions for hunger should be relevant across the globe.",
+              "source": "https://www.charitynavigator.org/ein/204268851",
+              "by_org": false
             },
             {
-              "text": "En 2025, plus de forty million de personnes ont accédé à la nourriture via une banque alimentaire membre.",
-              "source": "https://www.foodbanking.org/"
-            },
-            {
-              "text": "Les banques alimentaires membres ont évité plus de two million de tonnes métriques de CO2e en 2025.",
-              "source": "https://www.foodbanking.org/"
-            },
-            {
-              "text": "Le réseau opère sur six continents et dans plus de fifty pays.",
-              "source": "https://www.foodbanking.org/"
+              "text": "GFN launched in 2006, and now works with partners in over 50 countries to recover and redirect food.",
+              "quote": "When GFN launched in 2006, the concept of a “food bank” was unknown in many parts of the world. Now, GFN works with partners in over 50 countries to recover and redirect food to those who need it.",
+              "source": "https://www.foodbanking.org/about-gfn/",
+              "by_org": true
             }
-          ],
-          "mission": "The Global FoodBanking Network's mission est de nourrir les affamés du monde en unissant et en faisant progresser les banques alimentaires. Nous avons été créés par une collaboration de réseaux de banques alimentaires aux États‑Unis, au Mexique, au Canada et en Argentine, et par la conviction que les solutions communautaires contre la faim doivent être pertinentes à l’échelle mondiale. Aujourd’hui, nous sommes un réseau actif dans nearly 50 pays. En FY 2023, les banques alimentaires membres de GFN ont récupéré plus de 648M kilos d’aliments et de produits d’épicerie et ont redirigé cet excédent vers approximately 32 million personnes confrontées à la faim.",
-          "does_not": [],
-          "strengths": []
-        },
-        "it": {
-          "does": [
-            {
-              "text": "The Global FoodBanking Network unisce e potenzia le banche alimentari per nutrire le famiglie affamate del mondo.",
-              "source": "https://www.charitynavigator.org/ein/204268851"
-            },
-            {
-              "text": "Nel 2025, oltre quaranta milioni di persone hanno avuto accesso al cibo tramite una banca alimentare membro.",
-              "source": "https://www.foodbanking.org/"
-            },
-            {
-              "text": "Le banche alimentari membri hanno evitato oltre due milioni di tonnellate metriche di CO2e nel 2025.",
-              "source": "https://www.foodbanking.org/"
-            },
-            {
-              "text": "La rete opera su sei continenti e in più di cinquanta paesi.",
-              "source": "https://www.foodbanking.org/"
-            }
-          ],
-          "mission": "La missione di The Global FoodBanking Network è nutrire le famiglie affamate del mondo attraverso l'unione e il potenziamento delle banche alimentari. Siamo nati da una collaborazione di reti di banche alimentari negli U.S., Mexico, Canada e Argentina, e dalla convinzione che le soluzioni guidate dalla comunità per la fame debbano essere rilevanti in tutto il mondo. Ora siamo una rete attiva in quasi 50 paesi. Nell'anno fiscale 2023, le banche alimentari membri di GFN hanno recuperato oltre 648M chili di alimenti e prodotti alimentari e hanno reindirizzato questo surplus a circa 32 milioni di persone che affrontano la fame.",
-          "does_not": [],
-          "strengths": []
+          ]
         }
       },
       "safety": {
@@ -2369,13 +1840,17 @@
         "stars": 4,
         "score": 92,
         "rating_url": "https://www.charitynavigator.org/ein/204268851",
+        "rating_checked": "2026-11-07",
         "since": "2006",
+        "registry_url": "https://projects.propublica.org/nonprofits/organizations/204268851",
         "filings": 12,
         "first_year": 2013,
         "last_year": 2024,
-        "checks_passed": 21,
+        "checks_passed": 18,
         "verifiers": 3,
-        "site": "foodbanking.org"
+        "unanimous": true,
+        "site": "foodbanking.org",
+        "official_host": "foodbanking.org"
       },
       "progress_pct": 0,
       "donate": {
@@ -2657,36 +2132,30 @@
             {
               "text": "Last year, the organization helped 26.5 million people with the support of staff across more than 55 countries.",
               "quote": "Last year, we helped 26.5 million people with 8,500+ staff across 55+ countries.",
-              "source": "https://www.actionagainsthunger.org/"
+              "source": "https://www.actionagainsthunger.org/",
+              "by_org": true
             },
             {
               "text": "Teams bring help and hope to communities affected by natural disasters and conflicts.",
               "quote": "We bring help and hope to communities devastated by natural disasters and conflicts.",
-              "source": "https://www.actionagainsthunger.org/"
+              "source": "https://www.actionagainsthunger.org/",
+              "by_org": true
             },
             {
               "text": "Programs provide clean water and safe sanitation to communities in need to help build healthier foundations.",
               "quote": "We bring clean water and safe sanitation to communities in need, helping to build healthier foundations.",
-              "source": "https://www.actionagainsthunger.org/"
+              "source": "https://www.actionagainsthunger.org/",
+              "by_org": true
             }
           ],
           "mission": "Our mission is to save, improve and protect lives by eliminating hunger through the prevention, detection and treatment of undernutrition, especially during and after emergency crises caused by situations of conflict, displacement, poverty, discrimination, inequality, or natural disaster.",
           "does_not": [],
           "strengths": [
             {
-              "text": "Ninety percent of every dollar donated goes directly to program activities.",
-              "quote": "$0.90 of every dollar donated goes directly to our field programs.",
-              "source": "https://www.actionagainsthunger.org/who-we-are/about/"
-            },
-            {
               "text": "The organization has operated for more than 45 years leading the movement to end hunger.",
               "quote": "For more than 45 years, we have led the global movement to end hunger, for everyone, for good.",
-              "source": "https://www.actionagainsthunger.org/who-we-are/about/"
-            },
-            {
-              "text": "Action Against Hunger USA meets all twenty Better Business Bureau charity standards.",
-              "quote": "Action Against Hunger USA meets all 20 BBB charity standards.",
-              "source": "https://www.actionagainsthunger.org/who-we-are/financials-reports"
+              "source": "https://www.actionagainsthunger.org/who-we-are/about/",
+              "by_org": true
             }
           ]
         }
@@ -2696,13 +2165,17 @@
         "stars": 4,
         "score": 90,
         "rating_url": "https://www.charitynavigator.org/ein/133327220",
+        "rating_checked": "2026-11-07",
         "since": "1985",
+        "registry_url": "https://projects.propublica.org/nonprofits/organizations/133327220",
         "filings": 13,
         "first_year": 2011,
         "last_year": 2023,
-        "checks_passed": 21,
+        "checks_passed": 18,
         "verifiers": 3,
-        "site": "actionagainsthunger.org"
+        "unanimous": true,
+        "site": "actionagainsthunger.org",
+        "official_host": "actionagainsthunger.org"
       },
       "progress_pct": 0,
       "donate": {
@@ -2719,9 +2192,9 @@
     "raised": {},
     "donated": {},
     "costs_eur": 0.0,
-    "ai_calls": 205,
+    "ai_calls": 209,
     "ai_cost_real_usd": 0.0,
-    "ai_value_offered_usd": 1.311427,
+    "ai_value_offered_usd": 1.318501,
     "candidates_examined": 14,
     "candidates_discarded": 8
   },
