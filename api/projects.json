@@ -1,1183 +1,20 @@
 {
-  "generated_at": "2026-11-07T16:58:37.042940+00:00",
+  "generated_at": "2026-11-07T17:09:46.513496+00:00",
   "projects": [
-    {
-      "slug": "support-action-against-hunger-usa-against-hunger-479",
-      "title": "Support Action Against Hunger Usa against hunger",
-      "description": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'site:charitynavigator.org Rating for malnutrition child nutrition'.",
-      "org_name": "Action Against Hunger USA",
-      "org_country": "US",
-      "org_website": "https://www.actionagainsthunger.org/",
-      "country": "US",
-      "currency": "USD",
-      "goal": 5000.0,
-      "raised": 0.0,
-      "donated": 0.0,
-      "status": "revisione_pubblica",
-      "donation_url": "https://www.actionagainsthunger.org/",
-      "source_url": "https://www.charitynavigator.org/ein/133327220",
-      "approved_on": "2026-11-07",
-      "review_until": "2026-11-10 08:22 UTC",
-      "translations": {
-        "de": {
-          "text": "Organisation bewertet von Charity Navigator, gefunden von den Agenten mit: 'site:charitynavigator.org Rating for malnutrition child nutrition'.",
-          "title": "Support Action Against Hunger USA gegen Hunger",
-          "source": "traduzione AI"
-        },
-        "en": {
-          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'site:charitynavigator.org Rating for malnutrition child nutrition'.",
-          "title": "Support Action Against Hunger Usa against hunger",
-          "source": "originale"
-        },
-        "es": {
-          "text": "Entidad evaluada por Charity Navigator, encontrado por los agentes con: 'site:charitynavigator.org Rating for malnutrition child nutrition'.",
-          "title": "Support Action Against Hunger USA contra el hambre",
-          "source": "traduzione AI"
-        },
-        "fr": {
-          "text": "Organisation évaluée par Charity Navigator, trouvée par les agents avec : 'site:charitynavigator.org Rating for malnutrition child nutrition'.",
-          "title": "Soutenir l'action Against Hunger USA contre la faim",
-          "source": "traduzione AI"
-        },
-        "hi": {
-          "text": "Charity Navigator द्वारा मूल्यांकित संस्था, एजेंटों द्वारा पाया गया: 'site:charitynavigator.org Rating for malnutrition child nutrition'।",
-          "title": "Support Action Against Hunger Usa against hunger",
-          "source": "traduzione AI"
-        },
-        "it": {
-          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'site:charitynavigator.org Rating for malnutrition child nutrition'.",
-          "title": "Sostieni Action Against Hunger USA contro la fame",
-          "source": "traduzione AI"
-        },
-        "ja": {
-          "text": "Charity Navigator によって評価された団体で、エージェントが次の検索で見つけました: 'site:charitynavigator.org Rating for malnutrition child nutrition'.",
-          "title": "Support Action Against Hunger Usa の飢餓対策",
-          "source": "traduzione AI"
-        },
-        "pt": {
-          "text": "Organização avaliada pela Charity Navigator, encontrada pelos agentes com: 'site:charitynavigator.org Rating for malnutrition child nutrition'.",
-          "title": "Apoie a Action Against Hunger Usa contra a fome",
-          "source": "traduzione AI"
-        },
-        "ru": {
-          "text": "Организация, оцененная Charity Navigator, найденная агентами с помощью: 'site:charitynavigator.org Rating for malnutrition child nutrition'.",
-          "title": "Support Action Against Hunger USA против голода",
-          "source": "traduzione AI"
-        },
-        "zh": {
-          "text": "由 Charity Navigator 评估的机构，代理人通过以下方式找到：'site:charitynavigator.org Rating for malnutrition child nutrition'。",
-          "title": "Support Action Against Hunger Usa against hunger",
-          "source": "traduzione AI"
-        }
-      },
-      "tranches": [],
-      "checks": [
-        {
-          "verifier": "regole",
-          "check_type": "ammissibilita",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Regole di ammissibilità (config/regole.yaml):\n✓ fonte ammessa: fonte 'valutatore'\n✓ ente registrato nel database: Action Against Hunger Usa\n✓ codice fiscale verificato (IRS): EIN 133327220\n✓ ente valutato dal valutatore: Charity Navigator\n✓ anni di bilanci ufficiali: 13 anni [2019, 2020, 2021, 2022, 2023] (minimo 3)\n✓ tema fame / nutrizione: categoria IRS Q300; nel nome: True; nel testo del valutatore: False",
-          "source_url": "https://www.charitynavigator.org/ein/133327220"
-        },
-        {
-          "verifier": "regole",
-          "check_type": "ammissibilita",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "✓ valutatore indipendente tra le prove: 2 pagine di valutatori (https://www.charitynavigator.org/ein/133327220, https://charitywatch.org/charities/action-against-hunger-usa); minimo 1",
-          "source_url": "https://www.charitynavigator.org/ein/133327220"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "registrazione",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "L'ente Action Against Hunger USA è regolarmente registrato negli Stati Uniti come organizzazione 501(c)(3) con EIN 133327220 e sede a New York, con riconoscimento fiscale risalente al 1 dicembre 1985.",
-          "source_url": "https://www.charitynavigator.org/ein/133327220"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "bilanci",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Sono disponibili pubblicamente i bilanci IRS (Form 990) fino al 2023 e il bilancio d'esercizio certificato con relazione del revisore indipendente per gli anni 2023 e 2024.",
-          "source_url": "https://www.charitynavigator.org/ein/133327220"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "valutazione_indipendente",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "L'ente è valutato da Charity Navigator ed è classificato come Top-Rated Charity con valutazione 'A' da CharityWatch (gennaio 2026), con l'89% dei fondi destinato ai programmi.",
-          "source_url": "https://www.charitynavigator.org/ein/133327220"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "coerenza_importo",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "L'obiettivo previsto di 5.000 USD è pienamente proporzionato e contenuto rispetto alla dimensione finanziaria dell'ente, che ha registrato entrate superiori a 200 milioni di dollari nel 2023.",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/133327220"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "storico_progetti",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "L'organizzazione ha una solida storia documentata di interventi contro la fame e la malnutrizione, avendo assistito oltre 26,5 milioni di persone in più di 55 paesi.",
-          "source_url": "https://www.actionagainsthunger.org/who-we-are/financials-reports/"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "segnali_allarme",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nelle prove analizzate non è emerso alcun segnale d'allarme, istruzione dannosa o elemento di criticità sull'ente o sulla richiesta.",
-          "source_url": "https://www.charitynavigator.org/ein/133327220"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "conflitti_interesse",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
-          "source_url": "config/conflitti.yaml"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "registrazione",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Ente registrato con EIN 133327220 e sede a New York, confermato da ProPublica",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/133327220"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "bilanci",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Form 990 disponibili per gli anni 2023‑2018 e audit report 2023‑2024",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/133327220"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "valutazione_indipendente",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Charity Navigator fornisce una valutazione indipendente positiva",
-          "source_url": "https://www.charitynavigator.org/ein/133327220"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "coerenza_importo",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "Richiesta di 5.000 USD è minima rispetto al fatturato annuale >200 M USD dell'ente",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/133327220"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "storico_progetti",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "Report annuale mostra attività in 55+ paesi e 26,5 milioni di beneficiari, dimostrando una storia di progetti",
-          "source_url": "https://www.actionagainsthunger.org/who-we-are/financials-reports/"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "segnali_allarme",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun segnale di allarme riscontrato nelle fonti consultate",
-          "source_url": "https://www.charitynavigator.org/ein/133327220"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "conflitti_interesse",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
-          "source_url": "config/conflitti.yaml"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "registrazione",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "L'ente 'Action Against Hunger Usa' è registrato presso l'IRS con EIN 133327220, riconoscimento 501(c)(3) dal 1985-12-01, sede a New York, NY. Confermato da ProPublica Nonprofit Explorer e Charity Navigator.",
-          "source_url": "https://www.charitynavigator.org/ein/133327220"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "bilanci",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Disponibili Form 990 IRS pubblici per gli anni 2011-2023 su ProPublica. Inoltre, è disponibile il report di audit indipendente per gli esercizi 2024 e 2023 sul sito ufficiale dell'ente.",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/133327220"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "valutazione_indipendente",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "CharityWatch assegna il rating 'Top-Rated Charity' con voto A (gennaio 2026) e indica un program percentage dell'89%. Charity Navigator elenca l'ente con dati verificati.",
-          "source_url": "https://charitywatch.org/charities/action-against-hunger-usa"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "coerenza_importo",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "L'obiettivo di raccolta di 5.000 USD è estremamente basso rispetto alle dimensioni dell'ente (entrate 2023: ~201 milioni USD). L'importo è coerente e ragionevole per una campagna di sensibilizzazione o micro-fundraising.",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/133327220"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "storico_progetti",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "L'ente opera da oltre 40 anni (riconoscimento 1985). Il sito ufficiale riporta attività in 55+ paesi con 26,5 milioni di persone aiutate l'anno scorso. I bilanci storici mostrano continuità operativa.",
-          "source_url": "https://www.actionagainsthunger.org/who-we-are/financials-reports/"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "segnali_allarme",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun segnale d'allarme trovato. L'ente ha sede fisica verificabile (One Whitehall Street, NY), sito web istituzionale attivo, audit indipendenti regolari e rating positivi da watchdog indipendenti. Nessuna istruzione sospetta o richiesta di pagamento a persone fisiche/crypto nelle prove.",
-          "source_url": "https://www.charitynavigator.org/ein/133327220"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "conflitti_interesse",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
-          "source_url": "config/conflitti.yaml"
-        }
-      ],
-      "sources": [
-        "https://charitywatch.org/charities/action-against-hunger-usa",
-        "https://projects.propublica.org/nonprofits/organizations/133327220",
-        "https://www.actionagainsthunger.org/app/uploads/2025/09/AAHUSA-2024-FS.pdf",
-        "https://www.actionagainsthunger.org/who-we-are/financials-reports/",
-        "https://www.charitynavigator.org/ein/133327220",
-        "https://www.mapquest.com/us/new-york/action-against-hunger-usa-276241561"
-      ],
-      "progress_pct": 0,
-      "donate": {
-        "recipient": "Action Against Hunger USA",
-        "url": "https://www.actionagainsthunger.org/",
-        "money_goes_to": "the organization directly (this project never receives or holds money)",
-        "counted_here_only_if": "confirmed by the organization or by a platform with public totals",
-        "status": "in public review"
-      }
-    },
-    {
-      "slug": "support-mamas-kitchen-against-hunger-481",
-      "title": "Support Mamas Kitchen against hunger",
-      "description": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'site:charitynavigator.org Rating for malnutrition child nutrition'.",
-      "org_name": "Mamas Kitchen",
-      "org_country": "US",
-      "org_website": "https://mamaskitchen.org/",
-      "country": "US",
-      "currency": "USD",
-      "goal": 5000.0,
-      "raised": 0.0,
-      "donated": 0.0,
-      "status": "revisione_pubblica",
-      "donation_url": "https://mamaskitchen.org/",
-      "source_url": "https://www.charitynavigator.org/ein/330434246",
-      "approved_on": "2026-11-07",
-      "review_until": "2026-11-10 08:28 UTC",
-      "translations": {
-        "de": {
-          "text": "Organisation bewertet von Charity Navigator, gefunden von den Agenten mit: 'site:charitynavigator.org Rating for malnutrition child nutrition'.",
-          "title": "Unterstütze Mamas Kitchen gegen den Hunger",
-          "source": "traduzione AI"
-        },
-        "en": {
-          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'site:charitynavigator.org Rating for malnutrition child nutrition'.",
-          "title": "Support Mamas Kitchen against hunger",
-          "source": "originale"
-        },
-        "es": {
-          "text": "Entidad evaluada por Charity Navigator, encontrada por los agentes con: 'site:charitynavigator.org Rating for malnutrition child nutrition'.",
-          "title": "Apoya a Mamas Kitchen contra el hambre",
-          "source": "traduzione AI"
-        },
-        "fr": {
-          "text": "Organisation évaluée par Charity Navigator, trouvée par les agents avec : 'site:charitynavigator.org Rating for malnutrition child nutrition'.",
-          "title": "Soutenez Mamas Kitchen contre la faim",
-          "source": "traduzione AI"
-        },
-        "hi": {
-          "text": "Charity Navigator द्वारा मूल्यांकित संस्था, एजेंटों द्वारा पाया गया: 'site:charitynavigator.org Rating for malnutrition child nutrition'।",
-          "title": "Mamas Kitchen का समर्थन करें भूख के खिलाफ",
-          "source": "traduzione AI"
-        },
-        "it": {
-          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'site:charitynavigator.org Rating for malnutrition child nutrition'.",
-          "title": "Sostieni Mamas Kitchen contro la fame",
-          "source": "traduzione AI"
-        },
-        "ja": {
-          "text": "Charity Navigator によって評価された団体で、エージェントが次の検索で見つけました: 'site:charitynavigator.org Rating for malnutrition child nutrition'。",
-          "title": "Mamas Kitchen を飢餓に対抗して支援する",
-          "source": "traduzione AI"
-        },
-        "pt": {
-          "text": "Entidade avaliada pela Charity Navigator, encontrada pelos agentes com: 'site:charitynavigator.org Rating for malnutrition child nutrition'.",
-          "title": "Apoie a Mamas Kitchen contra a fome",
-          "source": "traduzione AI"
-        },
-        "ru": {
-          "text": "Организация, оцененная Charity Navigator, найденная агентами с помощью: 'site:charitynavigator.org Rating for malnutrition child nutrition'.",
-          "title": "Поддержите Mamas Kitchen в борьбе с голодом",
-          "source": "traduzione AI"
-        },
-        "zh": {
-          "text": "机构由 Charity Navigator 评估，代理人通过以下方式找到：'site:charitynavigator.org Rating for malnutrition child nutrition'。",
-          "title": "支持 Mamas Kitchen 对抗饥饿",
-          "source": "traduzione AI"
-        }
-      },
-      "tranches": [],
-      "checks": [
-        {
-          "verifier": "regole",
-          "check_type": "ammissibilita",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Regole di ammissibilità (config/regole.yaml):\n✓ fonte ammessa: fonte 'valutatore'\n✓ ente registrato nel database: Mamas Kitchen\n✓ codice fiscale verificato (IRS): EIN 330434246\n✓ ente valutato dal valutatore: Charity Navigator\n✓ anni di bilanci ufficiali: 13 anni [2019, 2020, 2021, 2022, 2023] (minimo 3)\n✓ tema fame / nutrizione: categoria IRS K31Z; nel nome: False; nel testo del valutatore: False",
-          "source_url": "https://www.charitynavigator.org/ein/330434246"
-        },
-        {
-          "verifier": "regole",
-          "check_type": "ammissibilita",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "✓ valutatore indipendente tra le prove: 2 pagine di valutatori (https://www.charitynavigator.org/ein/330434246, https://charitywatch.org/); minimo 1",
-          "source_url": "https://www.charitynavigator.org/ein/330434246"
-        },
-        {
-          "verifier": "regole",
-          "check_type": "ammissibilita",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Regole di ammissibilità (config/regole.yaml):\n✓ fonte ammessa: fonte 'valutatore'\n✓ ente registrato nel database: Mamas Kitchen\n✓ codice fiscale verificato (IRS): EIN 330434246\n✓ ente valutato dal valutatore: Charity Navigator\n✓ anni di bilanci ufficiali: 13 anni [2019, 2020, 2021, 2022, 2023] (minimo 3)\n✓ tema fame / nutrizione: categoria IRS K31Z (richiesta ['K']); tema nel nome: False",
-          "source_url": "https://www.charitynavigator.org/ein/330434246"
-        },
-        {
-          "verifier": "regole",
-          "check_type": "ammissibilita",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "✓ valutatore indipendente tra le prove: 2 pagine di valutatori (https://www.charitynavigator.org/ein/330434246, https://charitywatch.org/); minimo 1",
-          "source_url": "https://www.charitynavigator.org/ein/330434246"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "registrazione",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "L'ente Mamas Kitchen è regolarmente registrato negli Stati Uniti con EIN 330434246 e riconoscimento IRS dal 1995.",
-          "source_url": "https://www.charitynavigator.org/ein/330434246"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "bilanci",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Sono disponibili i bilanci ufficiali Form 990 degli ultimi anni, inclusi i dati relativi al 2023 con entrate e spese certificate.",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/330434246"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "valutazione_indipendente",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "L'ente è censito e valutato da Charity Navigator, che fornisce dati e storico finanziario.",
-          "source_url": "https://www.charitynavigator.org/ein/330434246"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "coerenza_importo",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "L'obiettivo di raccolta previsto di 5000 USD è del tutto coerente e sostenibile rispetto al volume di entrate e spese multimilionarie dell'ente.",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/330434246"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "storico_progetti",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "L'ente ha una lunga storia operativa documentata da pluriennali dichiarazioni fiscali IRS dal 2018 al 2023 e partnership storiche.",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/330434246"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "segnali_allarme",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Dalle prove consultate (inclusi i registri ufficiali e le verifiche sulle fonti) non emergono segnali d'allarme specifici a carico dell'ente Mamas Kitchen; le notizie di cronaca su frodi (es. Feeding Our Future / Ruwayda Kitchen) riguardano soggetti terzi nel Minnesota e non questa organizzazione di San Diego.",
-          "source_url": "https://www.charitynavigator.org/ein/330434246"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "conflitti_interesse",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
-          "source_url": "config/conflitti.yaml"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "registrazione",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "L'ente Mamas Kitchen risulta regolarmente registrato negli Stati Uniti con EIN 330434246 e riconoscimento IRS dal 1995.",
-          "source_url": "https://www.charitynavigator.org/ein/330434246"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "bilanci",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Sono disponibili i bilanci ufficiali Form 990 degli ultimi anni, inclusi quelli relativi agli anni 2018-2023.",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/330434246"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "valutazione_indipendente",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "L'ente è censito e valutato da Charity Navigator, un valutatore indipendente riconosciuto.",
-          "source_url": "https://www.charitynavigator.org/ein/330434246"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "coerenza_importo",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "L'obiettivo di raccolta previsto di 5000 USD è assolutamente coerente e sostenibile rispetto al bilancio plurimilionario dell'ente.",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/330434246"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "storico_progetti",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "L'ente possiede una lunga storia operativa documentata sin dal 1995, con attività continue di assistenza nutrizionale.",
-          "source_url": "https://www.charitynavigator.org/ein/330434246"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "segnali_allarme",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Dalle verifiche sulle fonti consultate non emergono segnali d'allarme, notizie negative o criticità riguardanti direttamente Mamas Kitchen (le notizie su frodi in Minnesota riguardano soggetti terzi e non questo ente).",
-          "source_url": "https://www.charitynavigator.org/ein/330434246"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "conflitti_interesse",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
-          "source_url": "config/conflitti.yaml"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "registrazione",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Ente registrato su ProPublica con EIN 330434246 e riconoscimento 501(c)3",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/330434246"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "bilanci",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Form 990 disponibili per gli anni 2018‑2023 su ProPublica",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/330434246"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "valutazione_indipendente",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Rating su Charity Navigator, valutatore indipendente",
-          "source_url": "https://www.charitynavigator.org/ein/330434246"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "coerenza_importo",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "Importo richiesto 5 000 USD è molto inferiore ai ricavi annuali di diversi milioni (E2)",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/330434246"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "storico_progetti",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "Storia di bilanci e partnership documentate (E2, E6) mostrano attività continuative",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/330434246"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "segnali_allarme",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun segnale di frode, urgenza artificiosa o contatti non verificabili trovato nelle fonti E4, E5, E3",
-          "source_url": "https://www.mprnews.org/story/2026/07/15/feeding-our-future-fraud-continued-years-after-case-became-public"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "conflitti_interesse",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
-          "source_url": "config/conflitti.yaml"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "registrazione",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "L'ente 'Mamas Kitchen' risulta registrato presso l'IRS con EIN 330434246, sede a San Diego, CA, e riconoscimento 501(c)(3) dal 1995.",
-          "source_url": "https://www.charitynavigator.org/ein/330434246"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "bilanci",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Sono disponibili i bilanci pubblici (Form 990) per gli anni dal 2011 al 2023, con dati specifici su entrate e spese per il periodo 2018-2023.",
-          "source_url": "https://www.charitynavigator.org/ein/330434246"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "valutazione_indipendente",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "L'ente è presente e valutato da Charity Navigator, un organismo indipendente di valutazione delle ONG.",
-          "source_url": "https://www.charitynavigator.org/ein/330434246"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "coerenza_importo",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "L'obiettivo di raccolta di 5000 USD è coerente con le dimensioni dell'ente, che ha registrato entrate annuali di diversi milioni di dollari (es. 5.4M nel 2023).",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/330434246"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "storico_progetti",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "L'ente ha una storia documentata di attività dal 1995, con collaborazioni consolidate (es. Kaiser Permanente dal 1998) e una lunga serie di bilanci pubblici.",
-          "source_url": "https://www.charitynavigator.org/ein/330434246"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "segnali_allarme",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun segnale d'allarme trovato nelle prove fornite. Le notizie negative presenti nelle prove (E4, E5) riguardano un caso di frode in Minnesota legato a 'Feeding Our Future' e non hanno alcun legame documentato con Mamas Kitchen (San Diego, CA).",
-          "source_url": "https://www.charitynavigator.org/ein/330434246"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "conflitti_interesse",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
-          "source_url": "config/conflitti.yaml"
-        }
-      ],
-      "sources": [
-        "https://charitywatch.org/",
-        "https://leadiq.com/c/mamas-kitchen/5a1dccc32300005900d334ee",
-        "https://projects.propublica.org/nonprofits/organizations/330434246",
-        "https://www.charitynavigator.org/ein/330434246",
-        "https://www.mprnews.org/story/2026/07/15/feeding-our-future-fraud-continued-years-after-case-became-public",
-        "https://www.youtube.com/watch?v=muY7VkMao3E"
-      ],
-      "progress_pct": 0,
-      "donate": {
-        "recipient": "Mamas Kitchen",
-        "url": "https://mamaskitchen.org/",
-        "money_goes_to": "the organization directly (this project never receives or holds money)",
-        "counted_here_only_if": "confirmed by the organization or by a platform with public totals",
-        "status": "in public review"
-      }
-    },
-    {
-      "slug": "support-the-global-foodbanking-network-against-hunger-936",
-      "title": "Support The Global Foodbanking Network against hunger",
-      "description": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'site:charitynavigator.org Rating for food pantry hunger relief'.",
-      "org_name": "The Global Foodbanking Network",
-      "org_country": "US",
-      "org_website": "https://www.foodbanking.org/",
-      "country": "US",
-      "currency": "USD",
-      "goal": 5000.0,
-      "raised": 0.0,
-      "donated": 0.0,
-      "status": "revisione_pubblica",
-      "donation_url": "https://www.foodbanking.org/",
-      "source_url": "https://www.charitynavigator.org/ein/204268851",
-      "approved_on": "2026-11-07",
-      "review_until": "2026-11-10 12:04 UTC",
-      "translations": {
-        "de": {
-          "text": "Von Charity Navigator bewertete Organisation, von den Agenten gefunden mit: 'site:charitynavigator.org Rating for food pantry hunger relief'.",
-          "title": "Unterstützen Sie The Global Foodbanking Network gegen Hunger",
-          "source": "traduzione AI"
-        },
-        "en": {
-          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'site:charitynavigator.org Rating for food pantry hunger relief'.",
-          "title": "Support The Global Foodbanking Network against hunger",
-          "source": "originale"
-        },
-        "es": {
-          "text": "Entidad evaluada por Charity Navigator, encontrada por los agentes con: 'site:charitynavigator.org Rating for food pantry hunger relief'.",
-          "title": "Apoya a The Global Foodbanking Network contra el hambre",
-          "source": "traduzione AI"
-        },
-        "fr": {
-          "text": "Organisation évaluée par Charity Navigator, trouvée par les agents avec : 'site:charitynavigator.org Rating for food pantry hunger relief'.",
-          "title": "Soutenir The Global Foodbanking Network contre la faim",
-          "source": "traduzione AI"
-        },
-        "hi": {
-          "text": "Charity Navigator द्वारा मूल्यांकित संस्था, एजेंटों द्वारा पाया गया: 'site:charitynavigator.org Rating for food pantry hunger relief'.",
-          "title": "भूख के खिलाफ The Global Foodbanking Network का समर्थन करें",
-          "source": "traduzione AI"
-        },
-        "it": {
-          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'site:charitynavigator.org Rating for food pantry hunger relief'.",
-          "title": "Sostieni The Global Foodbanking Network contro la fame",
-          "source": "traduzione AI"
-        },
-        "ja": {
-          "text": "Charity Navigator によって評価された団体。エージェントにより次の検索で発見されました: 'site:charitynavigator.org Rating for food pantry hunger relief'",
-          "title": "飢餓に立ち向かう The Global Foodbanking Network を支援",
-          "source": "traduzione AI"
-        },
-        "pt": {
-          "text": "Entidade avaliada pela Charity Navigator, encontrada pelos agentes com: 'site:charitynavigator.org Rating for food pantry hunger relief'.",
-          "title": "Apoie The Global Foodbanking Network contra a fome",
-          "source": "traduzione AI"
-        },
-        "ru": {
-          "text": "Организация оценена Charity Navigator, найдена агентами по запросу: 'site:charitynavigator.org Rating for food pantry hunger relief'.",
-          "title": "Поддержите The Global Foodbanking Network в борьбе с голодом",
-          "source": "traduzione AI"
-        },
-        "zh": {
-          "text": "由 Charity Navigator 评估的机构，由代理通过以下内容找到：'site:charitynavigator.org Rating for food pantry hunger relief'。",
-          "title": "支持 The Global Foodbanking Network 对抗饥饿",
-          "source": "traduzione AI"
-        }
-      },
-      "tranches": [],
-      "checks": [
-        {
-          "verifier": "regole",
-          "check_type": "ammissibilita",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Regole di ammissibilità (config/regole.yaml):\n✓ fonte ammessa: fonte 'valutatore'\n✓ ente registrato nel database: The Global Foodbanking Network\n✓ codice fiscale verificato (IRS): EIN 204268851\n✓ ente valutato dal valutatore: Charity Navigator\n✓ voto del valutatore: 92%, 4 stelle su 4 (minimo 4 stelle e 90%)\n✓ anni di bilanci ufficiali: 12 anni [2020, 2021, 2022, 2023, 2024] (minimo 3)\n✓ tema fame / nutrizione: categoria IRS Q30 (richiesta ['K']); tema nel nome: True",
-          "source_url": "https://www.charitynavigator.org/ein/204268851"
-        },
-        {
-          "verifier": "regole",
-          "check_type": "ammissibilita",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "✓ valutatore indipendente tra le prove: 1 pagine di valutatori (https://www.charitynavigator.org/ein/204268851); minimo 1",
-          "source_url": "https://www.charitynavigator.org/ein/204268851"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "registrazione",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "L'ente risulta regolarmente registrato negli Stati Uniti come organizzazione 501(c)(3) con EIN 204268851 e data di riconoscimento (ruling date) 2006-12-01.",
-          "source_url": "https://www.charitynavigator.org/ein/204268851"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "bilanci",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Sono presenti i bilanci pubblici Form 990 degli ultimi anni, inclusi i dati relativi agli anni fiscali 2022, 2023 e 2024.",
-          "source_url": "https://www.charitynavigator.org/ein/204268851"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "valutazione_indipendente",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "L'ente è valutato positivamente da Charity Navigator, che gli assegna il riconoscimento Four-Star Charity con una valutazione del 92%.",
-          "source_url": "https://www.charitynavigator.org/ein/204268851"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "coerenza_importo",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "L'obiettivo di raccolta previsto di 5000 USD è estremamente contenuto e ampiamente coerente con le dimensioni e il volume di entrate dell'ente (milioni di dollari annui).",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/204268851"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "storico_progetti",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "L'ente ha una storia documentata di attività ultradecennale (fondato nel 2006) attiva in circa 50 paesi per la recupero e la distribuzione di cibo.",
-          "source_url": "https://www.charitynavigator.org/ein/204268851"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "segnali_allarme",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Non sono stati riscontrati segnali d'allarme relativi all'ente candidato. La notizia del Los Angeles Times riguarda un ente diverso (Long Beach food bank) e non The Global Foodbanking Network.",
-          "source_url": "https://www.charitynavigator.org/ein/204268851"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "conflitti_interesse",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
-          "source_url": "config/conflitti.yaml"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "registrazione",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "L'ente è elencato con EIN 204268851, sede a Chicago, IL, e riconosciuto 501(c)(3) sia su Charity Navigator che su ProPublica Nonprofit Explorer.",
-          "source_url": "https://www.charitynavigator.org/ein/204268851"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "bilanci",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Sono disponibili i moduli Form 990 dal 2019 al 2024 con dati di entrate e spese, scaricabili da ProPublica.",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/204268851"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "valutazione_indipendente",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Charity Navigator assegna all'ente una valutazione a quattro stelle (92%).",
-          "source_url": "https://www.charitynavigator.org/ein/204268851"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "coerenza_importo",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "L'importo richiesto (5 000 USD) è molto inferiore ai ricavi annuali dell'ente (circa 14‑16 M USD), quindi ragionevole rispetto alla sua dimensione.",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/204268851"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "storico_progetti",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "Il sito ufficiale e la pagina LinkedIn mostrano attività documentate in oltre 50 paesi, con impatti numerosi e campagne passate.",
-          "source_url": "https://www.linkedin.com/company/the-global-foodbanking-network"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "segnali_allarme",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun segnale di allarme rilevato: le fonti non mostrano richieste urgenti, pagamenti in crypto, o istruzioni a IA.",
-          "source_url": "https://www.latimes.com/california/story/2024-10-05/long-beach-food-bank-closes-amid-investigation-into-misuse-of-public-funds"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "conflitti_interesse",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
-          "source_url": "config/conflitti.yaml"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "registrazione",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "L'ente è registrato come 501(c)(3) con EIN 204268851, riconosciuto dall'IRS il 01/12/2006. La sede legale è a Chicago, IL.",
-          "source_url": "https://www.charitynavigator.org/ein/204268851"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "bilanci",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Sono disponibili i bilanci pubblici (Form 990) per gli ultimi 12 anni (2013-2024) tramite ProPublica e Charity Navigator, con dati dettagliati su entrate e spese.",
-          "source_url": "https://www.charitynavigator.org/ein/204268851"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "valutazione_indipendente",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Charity Navigator assegna una valutazione di 4 stelle (92%) all'ente, indicando un buon livello di accountability e finanza.",
-          "source_url": "https://www.charitynavigator.org/ein/204268851"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "coerenza_importo",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "L'obiettivo di raccolta di 5.000 USD è estremamente basso rispetto alle dimensioni dell'ente (entrate annuali di circa 14-23 milioni di USD negli ultimi anni), rendendolo pienamente coerente e gestibile.",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/204268851"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "storico_progetti",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "L'ente opera da oltre 20 anni (fondato nel 2006) in quasi 50 paesi, con un impatto documentato (es. 648M kg di cibo recuperato nel 2023 per 32 milioni di persone).",
-          "source_url": "https://www.charitynavigator.org/ein/204268851"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "segnali_allarme",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun segnale d'allarme trovato nelle prove fornite. L'ente ha un sito web istituzionale, presenza social attiva e bilanci trasparenti. La notizia [E4] riguarda un'altra organizzazione (Long Beach food bank) e non è collegata a GFN.",
-          "source_url": "https://www.charitynavigator.org/ein/204268851"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "conflitti_interesse",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
-          "source_url": "config/conflitti.yaml"
-        }
-      ],
-      "sources": [
-        "https://projects.propublica.org/nonprofits/organizations/204268851",
-        "https://www.charitynavigator.org/ein/204268851",
-        "https://www.foodbanking.org",
-        "https://www.instagram.com/foodbanking?hl=en",
-        "https://www.latimes.com/california/story/2024-10-05/long-beach-food-bank-closes-amid-investigation-into-misuse-of-public-funds",
-        "https://www.linkedin.com/company/the-global-foodbanking-network"
-      ],
-      "progress_pct": 0,
-      "donate": {
-        "recipient": "The Global Foodbanking Network",
-        "url": "https://www.foodbanking.org/",
-        "money_goes_to": "the organization directly (this project never receives or holds money)",
-        "counted_here_only_if": "confirmed by the organization or by a platform with public totals",
-        "status": "in public review"
-      }
-    },
-    {
-      "slug": "support-maryland-food-bank-inc-against-hunger-938",
-      "title": "Support Maryland Food Bank Inc against hunger",
-      "description": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'site:charitynavigator.org Rating for food pantry hunger relief'.",
-      "org_name": "Maryland Food Bank Inc",
-      "org_country": "US",
-      "org_website": "https://mdfoodbank.org/",
-      "country": "US",
-      "currency": "USD",
-      "goal": 5000.0,
-      "raised": 0.0,
-      "donated": 0.0,
-      "status": "revisione_pubblica",
-      "donation_url": "https://mdfoodbank.org/",
-      "source_url": "https://www.charitynavigator.org/ein/521135690",
-      "approved_on": "2026-11-07",
-      "review_until": "2026-11-10 12:05 UTC",
-      "translations": {
-        "de": {
-          "text": "Organisation bewertet von Charity Navigator, gefunden von den Agenten mit: 'site:charitynavigator.org Rating for food pantry hunger relief'.",
-          "title": "Unterstütze die Maryland Food Bank Inc im Kampf gegen den Hunger",
-          "source": "traduzione AI"
-        },
-        "en": {
-          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'site:charitynavigator.org Rating for food pantry hunger relief'.",
-          "title": "Support Maryland Food Bank Inc against hunger",
-          "source": "originale"
-        },
-        "es": {
-          "text": "Entidad evaluada por Charity Navigator, encontrada por los agentes con: 'site:charitynavigator.org Rating for food pantry hunger relief'.",
-          "title": "Apoyar a Maryland Food Bank Inc contra el hambre",
-          "source": "traduzione AI"
-        },
-        "fr": {
-          "text": "Organisme évalué par Charity Navigator, trouvé par les agents avec : 'site:charitynavigator.org Rating for food pantry hunger relief'.",
-          "title": "Soutenir Maryland Food Bank Inc contre la faim",
-          "source": "traduzione AI"
-        },
-        "hi": {
-          "text": "Charity Navigator द्वारा मूल्यांकित संस्था, एजेंटों द्वारा मिली: 'site:charitynavigator.org Rating for food pantry hunger relief'।",
-          "title": "भूख के खिलाफ Maryland Food Bank Inc का समर्थन करें",
-          "source": "traduzione AI"
-        },
-        "it": {
-          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'site:charitynavigator.org Rating for food pantry hunger relief'.",
-          "title": "Sostieni Maryland Food Bank Inc contro la fame",
-          "source": "traduzione AI"
-        },
-        "ja": {
-          "text": "Charity Navigator によって評価された団体で、エージェントが次の検索で見つけました: 'site:charitynavigator.org Rating for food pantry hunger relief'。",
-          "title": "飢餓に対して Maryland Food Bank Inc を支援する",
-          "source": "traduzione AI"
-        },
-        "pt": {
-          "text": "Entidade avaliada pela Charity Navigator, encontrada pelos agentes com: 'site:charitynavigator.org Rating for food pantry hunger relief'.",
-          "title": "Apoie a Maryland Food Bank Inc contra a fome",
-          "source": "traduzione AI"
-        },
-        "ru": {
-          "text": "Организация, оцененная Charity Navigator, найденная агентами с помощью: 'site:charitynavigator.org Rating for food pantry hunger relief'.",
-          "title": "Поддержать Maryland Food Bank Inc в борьбе с голодом",
-          "source": "traduzione AI"
-        },
-        "zh": {
-          "text": "机构由 Charity Navigator 评估，代理人通过以下方式找到：'site:charitynavigator.org Rating for food pantry hunger relief'。",
-          "title": "支持 Maryland Food Bank Inc 对抗饥饿",
-          "source": "traduzione AI"
-        }
-      },
-      "tranches": [],
-      "checks": [
-        {
-          "verifier": "regole",
-          "check_type": "ammissibilita",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Regole di ammissibilità (config/regole.yaml):\n✓ fonte ammessa: fonte 'valutatore'\n✓ ente registrato nel database: Maryland Food Bank Inc\n✓ codice fiscale verificato (IRS): EIN 521135690\n✓ ente valutato dal valutatore: Charity Navigator\n✓ voto del valutatore: 96%, 4 stelle su 4 (minimo 4 stelle e 90%)\n✓ anni di bilanci ufficiali: 13 anni [2019, 2020, 2021, 2022, 2023] (minimo 3)\n✓ tema fame / nutrizione: categoria IRS - (richiesta ['K']); tema nel nome: True",
-          "source_url": "https://www.charitynavigator.org/ein/521135690"
-        },
-        {
-          "verifier": "regole",
-          "check_type": "ammissibilita",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "✓ valutatore indipendente tra le prove: 1 pagine di valutatori (https://www.charitynavigator.org/ein/521135690); minimo 1",
-          "source_url": "https://www.charitynavigator.org/ein/521135690"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "registrazione",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "L'ente Maryland Food Bank Inc risulta regolarmente registrato negli Stati Uniti con EIN 521135690 e riconoscimento 501(c)(3) dal 1979.",
-          "source_url": "https://www.charitynavigator.org/ein/521135690"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "bilanci",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Sono presenti i dati dei Form 990 pubblicati su ProPublica e Charity Navigator per gli anni dal 2018 al 2023.",
-          "source_url": "https://www.charitynavigator.org/ein/521135690"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "valutazione_indipendente",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "L'ente ha ottenuto una valutazione positiva di 4 stelle (96%) su Charity Navigator.",
-          "source_url": "https://www.charitynavigator.org/ein/521135690"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "coerenza_importo",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "L'obiettivo di raccolta previsto di 5000 USD è estremamente esiguo e del tutto sostenibile rispetto al volume d'affari multimilionario dell'ente.",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/521135690"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "storico_progetti",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "L'organizzazione ha una storia pluridecennale documentata e attiva dal 1979 nel settore della sicurezza alimentare.",
-          "source_url": "https://www.charitynavigator.org/ein/521135690"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "segnali_allarme",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Non sono stati riscontrati segnali d'allarme relativi all'ente candidato nelle prove esaminate (le notizie di cronaca trovate riguardano omonimie o altre entità non collegate alla Maryland Food Bank Inc).",
-          "source_url": "https://www.charitynavigator.org/ein/521135690"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "conflitti_interesse",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
-          "source_url": "config/conflitti.yaml"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "registrazione",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Ente registrato con EIN 521135690 e riconoscimento IRS 1979‑02‑01",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/521135690"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "bilanci",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Form 990 disponibili per gli anni 2023‑2018",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/521135690"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "valutazione_indipendente",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Charity Navigator assegna 96% Four‑Star",
-          "source_url": "https://www.charitynavigator.org/ein/521135690"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "coerenza_importo",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "Obiettivo 5 000 USD è <0.01% del fatturato annuale (~89 M USD)",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/521135690"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "storico_progetti",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "Attività documentata dal 1979 con rendiconti annuali",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/521135690"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "segnali_allarme",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun segnale negativo relativo a Maryland Food Bank trovato",
-          "source_url": "https://www.fincen.gov/resources/law-enforcement/case-examples/six-people-arrested-allegedly-bilking-millions-dollars"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "conflitti_interesse",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
-          "source_url": "config/conflitti.yaml"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "registrazione",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "L'ente 'Maryland Food Bank Inc' risulta registrato presso l'IRS con EIN 521135690, riconoscimento 501(c)(3) dal 1979, sede a Baltimore, MD. Confermato da ProPublica Nonprofit Explorer e Charity Navigator.",
-          "source_url": "https://www.charitynavigator.org/ein/521135690"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "bilanci",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Sono disponibili i bilanci pubblici (Form 990) per gli anni dal 2011 al 2023, con dati di entrate e spese dettagliati e link ai PDF su ProPublica.",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/521135690"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "valutazione_indipendente",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Charity Navigator assegna una valutazione di 4 stelle (96%) e completa tutti e 4 i beacon (Accountability & Finance, Impact & Measurement, Leadership & Planning, Culture & Compensation).",
-          "source_url": "https://www.charitynavigator.org/ein/521135690"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "coerenza_importo",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "L'obiettivo di raccolta di 5000 USD è trascurabile rispetto alle dimensioni dell'ente (entrate annuali nell'ordine di decine di milioni di USD, es. 89M USD nel 2023), rendendo l'importo pienamente coerente e ragionevole.",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/521135690"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "storico_progetti",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "L'ente opera dal 1979 e ha una storia documentata di 13 anni consecutivi di bilanci pubblici (2011-2023), indicando attività continuativa e rendicontazione regolare.",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/521135690"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "segnali_allarme",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun segnale d'allarme trovato nelle prove fornite. Le ricerche web [E3, E4, E5] riguardano altri enti (Second Harvest Food Bank in California, Danske Bank, Shanghai Husi Food) e non hanno alcuna relazione con Maryland Food Bank Inc. Il sito ufficiale è presente e i contatti sono standard (telefono, indirizzo fisico).",
-          "source_url": "https://www.charitynavigator.org/ein/521135690"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "conflitti_interesse",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
-          "source_url": "config/conflitti.yaml"
-        }
-      ],
-      "sources": [
-        "https://finance.yahoo.com/news/475m-lawsuit-alleges-inaction-danske-054254048.html",
-        "https://projects.propublica.org/nonprofits/organizations/521135690",
-        "https://www.charitynavigator.org/ein/521135690",
-        "https://www.cnbc.com/2014/07/27/china-food-scandal-us-parent-withdraws-products.html",
-        "https://www.fincen.gov/resources/law-enforcement/case-examples/six-people-arrested-allegedly-bilking-millions-dollars"
-      ],
-      "progress_pct": 0,
-      "donate": {
-        "recipient": "Maryland Food Bank Inc",
-        "url": "https://mdfoodbank.org/",
-        "money_goes_to": "the organization directly (this project never receives or holds money)",
-        "counted_here_only_if": "confirmed by the organization or by a platform with public totals",
-        "status": "in public review"
-      }
-    },
     {
       "slug": "support-dare-to-care-inc-against-hunger-937",
       "title": "Support Dare To Care Inc against hunger",
       "description": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'site:charitynavigator.org Rating for food pantry hunger relief'.",
       "org_name": "Dare To Care Inc",
       "org_country": "US",
-      "org_website": "https://www.daretocareint.org/",
+      "org_website": "https://daretocare.org/",
       "country": "US",
       "currency": "USD",
       "goal": 5000.0,
       "raised": 0.0,
       "donated": 0.0,
       "status": "revisione_pubblica",
-      "donation_url": "https://www.daretocareint.org/",
+      "donation_url": "https://daretocare.org/",
       "source_url": "https://www.charitynavigator.org/ein/237345952",
       "approved_on": "2026-11-07",
       "review_until": "2026-11-10 13:04 UTC",
@@ -1502,7 +339,7 @@
       "progress_pct": 0,
       "donate": {
         "recipient": "Dare To Care Inc",
-        "url": "https://www.daretocareint.org/",
+        "url": "https://daretocare.org/",
         "money_goes_to": "the organization directly (this project never receives or holds money)",
         "counted_here_only_if": "confirmed by the organization or by a platform with public totals",
         "status": "in public review"
@@ -2036,8 +873,1172 @@
         "counted_here_only_if": "confirmed by the organization or by a platform with public totals",
         "status": "in public review"
       }
+    },
+    {
+      "slug": "support-mamas-kitchen-against-hunger-481",
+      "title": "Support Mamas Kitchen against hunger",
+      "description": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'site:charitynavigator.org Rating for malnutrition child nutrition'.",
+      "org_name": "Mamas Kitchen",
+      "org_country": "US",
+      "org_website": "https://mamaskitchen.org/",
+      "country": "US",
+      "currency": "USD",
+      "goal": 5000.0,
+      "raised": 0.0,
+      "donated": 0.0,
+      "status": "revisione_pubblica",
+      "donation_url": "https://mamaskitchen.org/",
+      "source_url": "https://www.charitynavigator.org/ein/330434246",
+      "approved_on": "2026-11-07",
+      "review_until": "2026-11-10 08:28 UTC",
+      "translations": {
+        "de": {
+          "text": "Organisation bewertet von Charity Navigator, gefunden von den Agenten mit: 'site:charitynavigator.org Rating for malnutrition child nutrition'.",
+          "title": "Unterstütze Mamas Kitchen gegen den Hunger",
+          "source": "traduzione AI"
+        },
+        "en": {
+          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'site:charitynavigator.org Rating for malnutrition child nutrition'.",
+          "title": "Support Mamas Kitchen against hunger",
+          "source": "originale"
+        },
+        "es": {
+          "text": "Entidad evaluada por Charity Navigator, encontrada por los agentes con: 'site:charitynavigator.org Rating for malnutrition child nutrition'.",
+          "title": "Apoya a Mamas Kitchen contra el hambre",
+          "source": "traduzione AI"
+        },
+        "fr": {
+          "text": "Organisation évaluée par Charity Navigator, trouvée par les agents avec : 'site:charitynavigator.org Rating for malnutrition child nutrition'.",
+          "title": "Soutenez Mamas Kitchen contre la faim",
+          "source": "traduzione AI"
+        },
+        "hi": {
+          "text": "Charity Navigator द्वारा मूल्यांकित संस्था, एजेंटों द्वारा पाया गया: 'site:charitynavigator.org Rating for malnutrition child nutrition'।",
+          "title": "Mamas Kitchen का समर्थन करें भूख के खिलाफ",
+          "source": "traduzione AI"
+        },
+        "it": {
+          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'site:charitynavigator.org Rating for malnutrition child nutrition'.",
+          "title": "Sostieni Mamas Kitchen contro la fame",
+          "source": "traduzione AI"
+        },
+        "ja": {
+          "text": "Charity Navigator によって評価された団体で、エージェントが次の検索で見つけました: 'site:charitynavigator.org Rating for malnutrition child nutrition'。",
+          "title": "Mamas Kitchen を飢餓に対抗して支援する",
+          "source": "traduzione AI"
+        },
+        "pt": {
+          "text": "Entidade avaliada pela Charity Navigator, encontrada pelos agentes com: 'site:charitynavigator.org Rating for malnutrition child nutrition'.",
+          "title": "Apoie a Mamas Kitchen contra a fome",
+          "source": "traduzione AI"
+        },
+        "ru": {
+          "text": "Организация, оцененная Charity Navigator, найденная агентами с помощью: 'site:charitynavigator.org Rating for malnutrition child nutrition'.",
+          "title": "Поддержите Mamas Kitchen в борьбе с голодом",
+          "source": "traduzione AI"
+        },
+        "zh": {
+          "text": "机构由 Charity Navigator 评估，代理人通过以下方式找到：'site:charitynavigator.org Rating for malnutrition child nutrition'。",
+          "title": "支持 Mamas Kitchen 对抗饥饿",
+          "source": "traduzione AI"
+        }
+      },
+      "tranches": [],
+      "checks": [
+        {
+          "verifier": "regole",
+          "check_type": "ammissibilita",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Regole di ammissibilità (config/regole.yaml):\n✓ fonte ammessa: fonte 'valutatore'\n✓ ente registrato nel database: Mamas Kitchen\n✓ codice fiscale verificato (IRS): EIN 330434246\n✓ ente valutato dal valutatore: Charity Navigator\n✓ anni di bilanci ufficiali: 13 anni [2019, 2020, 2021, 2022, 2023] (minimo 3)\n✓ tema fame / nutrizione: categoria IRS K31Z; nel nome: False; nel testo del valutatore: False",
+          "source_url": "https://www.charitynavigator.org/ein/330434246"
+        },
+        {
+          "verifier": "regole",
+          "check_type": "ammissibilita",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "✓ valutatore indipendente tra le prove: 2 pagine di valutatori (https://www.charitynavigator.org/ein/330434246, https://charitywatch.org/); minimo 1",
+          "source_url": "https://www.charitynavigator.org/ein/330434246"
+        },
+        {
+          "verifier": "regole",
+          "check_type": "ammissibilita",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Regole di ammissibilità (config/regole.yaml):\n✓ fonte ammessa: fonte 'valutatore'\n✓ ente registrato nel database: Mamas Kitchen\n✓ codice fiscale verificato (IRS): EIN 330434246\n✓ ente valutato dal valutatore: Charity Navigator\n✓ anni di bilanci ufficiali: 13 anni [2019, 2020, 2021, 2022, 2023] (minimo 3)\n✓ tema fame / nutrizione: categoria IRS K31Z (richiesta ['K']); tema nel nome: False",
+          "source_url": "https://www.charitynavigator.org/ein/330434246"
+        },
+        {
+          "verifier": "regole",
+          "check_type": "ammissibilita",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "✓ valutatore indipendente tra le prove: 2 pagine di valutatori (https://www.charitynavigator.org/ein/330434246, https://charitywatch.org/); minimo 1",
+          "source_url": "https://www.charitynavigator.org/ein/330434246"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "registrazione",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "L'ente Mamas Kitchen è regolarmente registrato negli Stati Uniti con EIN 330434246 e riconoscimento IRS dal 1995.",
+          "source_url": "https://www.charitynavigator.org/ein/330434246"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "bilanci",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Sono disponibili i bilanci ufficiali Form 990 degli ultimi anni, inclusi i dati relativi al 2023 con entrate e spese certificate.",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/330434246"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "valutazione_indipendente",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "L'ente è censito e valutato da Charity Navigator, che fornisce dati e storico finanziario.",
+          "source_url": "https://www.charitynavigator.org/ein/330434246"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "coerenza_importo",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "L'obiettivo di raccolta previsto di 5000 USD è del tutto coerente e sostenibile rispetto al volume di entrate e spese multimilionarie dell'ente.",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/330434246"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "storico_progetti",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "L'ente ha una lunga storia operativa documentata da pluriennali dichiarazioni fiscali IRS dal 2018 al 2023 e partnership storiche.",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/330434246"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "segnali_allarme",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Dalle prove consultate (inclusi i registri ufficiali e le verifiche sulle fonti) non emergono segnali d'allarme specifici a carico dell'ente Mamas Kitchen; le notizie di cronaca su frodi (es. Feeding Our Future / Ruwayda Kitchen) riguardano soggetti terzi nel Minnesota e non questa organizzazione di San Diego.",
+          "source_url": "https://www.charitynavigator.org/ein/330434246"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "conflitti_interesse",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "source_url": "config/conflitti.yaml"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "registrazione",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "L'ente Mamas Kitchen risulta regolarmente registrato negli Stati Uniti con EIN 330434246 e riconoscimento IRS dal 1995.",
+          "source_url": "https://www.charitynavigator.org/ein/330434246"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "bilanci",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Sono disponibili i bilanci ufficiali Form 990 degli ultimi anni, inclusi quelli relativi agli anni 2018-2023.",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/330434246"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "valutazione_indipendente",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "L'ente è censito e valutato da Charity Navigator, un valutatore indipendente riconosciuto.",
+          "source_url": "https://www.charitynavigator.org/ein/330434246"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "coerenza_importo",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "L'obiettivo di raccolta previsto di 5000 USD è assolutamente coerente e sostenibile rispetto al bilancio plurimilionario dell'ente.",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/330434246"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "storico_progetti",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "L'ente possiede una lunga storia operativa documentata sin dal 1995, con attività continue di assistenza nutrizionale.",
+          "source_url": "https://www.charitynavigator.org/ein/330434246"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "segnali_allarme",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Dalle verifiche sulle fonti consultate non emergono segnali d'allarme, notizie negative o criticità riguardanti direttamente Mamas Kitchen (le notizie su frodi in Minnesota riguardano soggetti terzi e non questo ente).",
+          "source_url": "https://www.charitynavigator.org/ein/330434246"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "conflitti_interesse",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "source_url": "config/conflitti.yaml"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "registrazione",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Ente registrato su ProPublica con EIN 330434246 e riconoscimento 501(c)3",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/330434246"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "bilanci",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Form 990 disponibili per gli anni 2018‑2023 su ProPublica",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/330434246"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "valutazione_indipendente",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Rating su Charity Navigator, valutatore indipendente",
+          "source_url": "https://www.charitynavigator.org/ein/330434246"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "coerenza_importo",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "Importo richiesto 5 000 USD è molto inferiore ai ricavi annuali di diversi milioni (E2)",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/330434246"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "storico_progetti",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "Storia di bilanci e partnership documentate (E2, E6) mostrano attività continuative",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/330434246"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "segnali_allarme",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun segnale di frode, urgenza artificiosa o contatti non verificabili trovato nelle fonti E4, E5, E3",
+          "source_url": "https://www.mprnews.org/story/2026/07/15/feeding-our-future-fraud-continued-years-after-case-became-public"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "conflitti_interesse",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "source_url": "config/conflitti.yaml"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "registrazione",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "L'ente 'Mamas Kitchen' risulta registrato presso l'IRS con EIN 330434246, sede a San Diego, CA, e riconoscimento 501(c)(3) dal 1995.",
+          "source_url": "https://www.charitynavigator.org/ein/330434246"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "bilanci",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Sono disponibili i bilanci pubblici (Form 990) per gli anni dal 2011 al 2023, con dati specifici su entrate e spese per il periodo 2018-2023.",
+          "source_url": "https://www.charitynavigator.org/ein/330434246"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "valutazione_indipendente",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "L'ente è presente e valutato da Charity Navigator, un organismo indipendente di valutazione delle ONG.",
+          "source_url": "https://www.charitynavigator.org/ein/330434246"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "coerenza_importo",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "L'obiettivo di raccolta di 5000 USD è coerente con le dimensioni dell'ente, che ha registrato entrate annuali di diversi milioni di dollari (es. 5.4M nel 2023).",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/330434246"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "storico_progetti",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "L'ente ha una storia documentata di attività dal 1995, con collaborazioni consolidate (es. Kaiser Permanente dal 1998) e una lunga serie di bilanci pubblici.",
+          "source_url": "https://www.charitynavigator.org/ein/330434246"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "segnali_allarme",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun segnale d'allarme trovato nelle prove fornite. Le notizie negative presenti nelle prove (E4, E5) riguardano un caso di frode in Minnesota legato a 'Feeding Our Future' e non hanno alcun legame documentato con Mamas Kitchen (San Diego, CA).",
+          "source_url": "https://www.charitynavigator.org/ein/330434246"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "conflitti_interesse",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "source_url": "config/conflitti.yaml"
+        }
+      ],
+      "sources": [
+        "https://charitywatch.org/",
+        "https://leadiq.com/c/mamas-kitchen/5a1dccc32300005900d334ee",
+        "https://projects.propublica.org/nonprofits/organizations/330434246",
+        "https://www.charitynavigator.org/ein/330434246",
+        "https://www.mprnews.org/story/2026/07/15/feeding-our-future-fraud-continued-years-after-case-became-public",
+        "https://www.youtube.com/watch?v=muY7VkMao3E"
+      ],
+      "progress_pct": 0,
+      "donate": {
+        "recipient": "Mamas Kitchen",
+        "url": "https://mamaskitchen.org/",
+        "money_goes_to": "the organization directly (this project never receives or holds money)",
+        "counted_here_only_if": "confirmed by the organization or by a platform with public totals",
+        "status": "in public review"
+      }
+    },
+    {
+      "slug": "support-maryland-food-bank-inc-against-hunger-938",
+      "title": "Support Maryland Food Bank Inc against hunger",
+      "description": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'site:charitynavigator.org Rating for food pantry hunger relief'.",
+      "org_name": "Maryland Food Bank Inc",
+      "org_country": "US",
+      "org_website": "https://mdfoodbank.org/",
+      "country": "US",
+      "currency": "USD",
+      "goal": 5000.0,
+      "raised": 0.0,
+      "donated": 0.0,
+      "status": "revisione_pubblica",
+      "donation_url": "https://mdfoodbank.org/",
+      "source_url": "https://www.charitynavigator.org/ein/521135690",
+      "approved_on": "2026-11-07",
+      "review_until": "2026-11-10 12:05 UTC",
+      "translations": {
+        "de": {
+          "text": "Organisation bewertet von Charity Navigator, gefunden von den Agenten mit: 'site:charitynavigator.org Rating for food pantry hunger relief'.",
+          "title": "Unterstütze die Maryland Food Bank Inc im Kampf gegen den Hunger",
+          "source": "traduzione AI"
+        },
+        "en": {
+          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'site:charitynavigator.org Rating for food pantry hunger relief'.",
+          "title": "Support Maryland Food Bank Inc against hunger",
+          "source": "originale"
+        },
+        "es": {
+          "text": "Entidad evaluada por Charity Navigator, encontrada por los agentes con: 'site:charitynavigator.org Rating for food pantry hunger relief'.",
+          "title": "Apoyar a Maryland Food Bank Inc contra el hambre",
+          "source": "traduzione AI"
+        },
+        "fr": {
+          "text": "Organisme évalué par Charity Navigator, trouvé par les agents avec : 'site:charitynavigator.org Rating for food pantry hunger relief'.",
+          "title": "Soutenir Maryland Food Bank Inc contre la faim",
+          "source": "traduzione AI"
+        },
+        "hi": {
+          "text": "Charity Navigator द्वारा मूल्यांकित संस्था, एजेंटों द्वारा मिली: 'site:charitynavigator.org Rating for food pantry hunger relief'।",
+          "title": "भूख के खिलाफ Maryland Food Bank Inc का समर्थन करें",
+          "source": "traduzione AI"
+        },
+        "it": {
+          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'site:charitynavigator.org Rating for food pantry hunger relief'.",
+          "title": "Sostieni Maryland Food Bank Inc contro la fame",
+          "source": "traduzione AI"
+        },
+        "ja": {
+          "text": "Charity Navigator によって評価された団体で、エージェントが次の検索で見つけました: 'site:charitynavigator.org Rating for food pantry hunger relief'。",
+          "title": "飢餓に対して Maryland Food Bank Inc を支援する",
+          "source": "traduzione AI"
+        },
+        "pt": {
+          "text": "Entidade avaliada pela Charity Navigator, encontrada pelos agentes com: 'site:charitynavigator.org Rating for food pantry hunger relief'.",
+          "title": "Apoie a Maryland Food Bank Inc contra a fome",
+          "source": "traduzione AI"
+        },
+        "ru": {
+          "text": "Организация, оцененная Charity Navigator, найденная агентами с помощью: 'site:charitynavigator.org Rating for food pantry hunger relief'.",
+          "title": "Поддержать Maryland Food Bank Inc в борьбе с голодом",
+          "source": "traduzione AI"
+        },
+        "zh": {
+          "text": "机构由 Charity Navigator 评估，代理人通过以下方式找到：'site:charitynavigator.org Rating for food pantry hunger relief'。",
+          "title": "支持 Maryland Food Bank Inc 对抗饥饿",
+          "source": "traduzione AI"
+        }
+      },
+      "tranches": [],
+      "checks": [
+        {
+          "verifier": "regole",
+          "check_type": "ammissibilita",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Regole di ammissibilità (config/regole.yaml):\n✓ fonte ammessa: fonte 'valutatore'\n✓ ente registrato nel database: Maryland Food Bank Inc\n✓ codice fiscale verificato (IRS): EIN 521135690\n✓ ente valutato dal valutatore: Charity Navigator\n✓ voto del valutatore: 96%, 4 stelle su 4 (minimo 4 stelle e 90%)\n✓ anni di bilanci ufficiali: 13 anni [2019, 2020, 2021, 2022, 2023] (minimo 3)\n✓ tema fame / nutrizione: categoria IRS - (richiesta ['K']); tema nel nome: True",
+          "source_url": "https://www.charitynavigator.org/ein/521135690"
+        },
+        {
+          "verifier": "regole",
+          "check_type": "ammissibilita",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "✓ valutatore indipendente tra le prove: 1 pagine di valutatori (https://www.charitynavigator.org/ein/521135690); minimo 1",
+          "source_url": "https://www.charitynavigator.org/ein/521135690"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "registrazione",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "L'ente Maryland Food Bank Inc risulta regolarmente registrato negli Stati Uniti con EIN 521135690 e riconoscimento 501(c)(3) dal 1979.",
+          "source_url": "https://www.charitynavigator.org/ein/521135690"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "bilanci",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Sono presenti i dati dei Form 990 pubblicati su ProPublica e Charity Navigator per gli anni dal 2018 al 2023.",
+          "source_url": "https://www.charitynavigator.org/ein/521135690"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "valutazione_indipendente",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "L'ente ha ottenuto una valutazione positiva di 4 stelle (96%) su Charity Navigator.",
+          "source_url": "https://www.charitynavigator.org/ein/521135690"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "coerenza_importo",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "L'obiettivo di raccolta previsto di 5000 USD è estremamente esiguo e del tutto sostenibile rispetto al volume d'affari multimilionario dell'ente.",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/521135690"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "storico_progetti",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "L'organizzazione ha una storia pluridecennale documentata e attiva dal 1979 nel settore della sicurezza alimentare.",
+          "source_url": "https://www.charitynavigator.org/ein/521135690"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "segnali_allarme",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Non sono stati riscontrati segnali d'allarme relativi all'ente candidato nelle prove esaminate (le notizie di cronaca trovate riguardano omonimie o altre entità non collegate alla Maryland Food Bank Inc).",
+          "source_url": "https://www.charitynavigator.org/ein/521135690"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "conflitti_interesse",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "source_url": "config/conflitti.yaml"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "registrazione",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Ente registrato con EIN 521135690 e riconoscimento IRS 1979‑02‑01",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/521135690"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "bilanci",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Form 990 disponibili per gli anni 2023‑2018",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/521135690"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "valutazione_indipendente",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Charity Navigator assegna 96% Four‑Star",
+          "source_url": "https://www.charitynavigator.org/ein/521135690"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "coerenza_importo",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "Obiettivo 5 000 USD è <0.01% del fatturato annuale (~89 M USD)",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/521135690"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "storico_progetti",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "Attività documentata dal 1979 con rendiconti annuali",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/521135690"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "segnali_allarme",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun segnale negativo relativo a Maryland Food Bank trovato",
+          "source_url": "https://www.fincen.gov/resources/law-enforcement/case-examples/six-people-arrested-allegedly-bilking-millions-dollars"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "conflitti_interesse",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "source_url": "config/conflitti.yaml"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "registrazione",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "L'ente 'Maryland Food Bank Inc' risulta registrato presso l'IRS con EIN 521135690, riconoscimento 501(c)(3) dal 1979, sede a Baltimore, MD. Confermato da ProPublica Nonprofit Explorer e Charity Navigator.",
+          "source_url": "https://www.charitynavigator.org/ein/521135690"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "bilanci",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Sono disponibili i bilanci pubblici (Form 990) per gli anni dal 2011 al 2023, con dati di entrate e spese dettagliati e link ai PDF su ProPublica.",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/521135690"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "valutazione_indipendente",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Charity Navigator assegna una valutazione di 4 stelle (96%) e completa tutti e 4 i beacon (Accountability & Finance, Impact & Measurement, Leadership & Planning, Culture & Compensation).",
+          "source_url": "https://www.charitynavigator.org/ein/521135690"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "coerenza_importo",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "L'obiettivo di raccolta di 5000 USD è trascurabile rispetto alle dimensioni dell'ente (entrate annuali nell'ordine di decine di milioni di USD, es. 89M USD nel 2023), rendendo l'importo pienamente coerente e ragionevole.",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/521135690"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "storico_progetti",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "L'ente opera dal 1979 e ha una storia documentata di 13 anni consecutivi di bilanci pubblici (2011-2023), indicando attività continuativa e rendicontazione regolare.",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/521135690"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "segnali_allarme",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun segnale d'allarme trovato nelle prove fornite. Le ricerche web [E3, E4, E5] riguardano altri enti (Second Harvest Food Bank in California, Danske Bank, Shanghai Husi Food) e non hanno alcuna relazione con Maryland Food Bank Inc. Il sito ufficiale è presente e i contatti sono standard (telefono, indirizzo fisico).",
+          "source_url": "https://www.charitynavigator.org/ein/521135690"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "conflitti_interesse",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "source_url": "config/conflitti.yaml"
+        }
+      ],
+      "sources": [
+        "https://finance.yahoo.com/news/475m-lawsuit-alleges-inaction-danske-054254048.html",
+        "https://projects.propublica.org/nonprofits/organizations/521135690",
+        "https://www.charitynavigator.org/ein/521135690",
+        "https://www.cnbc.com/2014/07/27/china-food-scandal-us-parent-withdraws-products.html",
+        "https://www.fincen.gov/resources/law-enforcement/case-examples/six-people-arrested-allegedly-bilking-millions-dollars"
+      ],
+      "progress_pct": 0,
+      "donate": {
+        "recipient": "Maryland Food Bank Inc",
+        "url": "https://mdfoodbank.org/",
+        "money_goes_to": "the organization directly (this project never receives or holds money)",
+        "counted_here_only_if": "confirmed by the organization or by a platform with public totals",
+        "status": "in public review"
+      }
+    },
+    {
+      "slug": "support-the-global-foodbanking-network-against-hunger-936",
+      "title": "Support The Global Foodbanking Network against hunger",
+      "description": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'site:charitynavigator.org Rating for food pantry hunger relief'.",
+      "org_name": "The Global Foodbanking Network",
+      "org_country": "US",
+      "org_website": "https://www.foodbanking.org/",
+      "country": "US",
+      "currency": "USD",
+      "goal": 5000.0,
+      "raised": 0.0,
+      "donated": 0.0,
+      "status": "revisione_pubblica",
+      "donation_url": "https://www.foodbanking.org/",
+      "source_url": "https://www.charitynavigator.org/ein/204268851",
+      "approved_on": "2026-11-07",
+      "review_until": "2026-11-10 12:04 UTC",
+      "translations": {
+        "de": {
+          "text": "Von Charity Navigator bewertete Organisation, von den Agenten gefunden mit: 'site:charitynavigator.org Rating for food pantry hunger relief'.",
+          "title": "Unterstützen Sie The Global Foodbanking Network gegen Hunger",
+          "source": "traduzione AI"
+        },
+        "en": {
+          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'site:charitynavigator.org Rating for food pantry hunger relief'.",
+          "title": "Support The Global Foodbanking Network against hunger",
+          "source": "originale"
+        },
+        "es": {
+          "text": "Entidad evaluada por Charity Navigator, encontrada por los agentes con: 'site:charitynavigator.org Rating for food pantry hunger relief'.",
+          "title": "Apoya a The Global Foodbanking Network contra el hambre",
+          "source": "traduzione AI"
+        },
+        "fr": {
+          "text": "Organisation évaluée par Charity Navigator, trouvée par les agents avec : 'site:charitynavigator.org Rating for food pantry hunger relief'.",
+          "title": "Soutenir The Global Foodbanking Network contre la faim",
+          "source": "traduzione AI"
+        },
+        "hi": {
+          "text": "Charity Navigator द्वारा मूल्यांकित संस्था, एजेंटों द्वारा पाया गया: 'site:charitynavigator.org Rating for food pantry hunger relief'.",
+          "title": "भूख के खिलाफ The Global Foodbanking Network का समर्थन करें",
+          "source": "traduzione AI"
+        },
+        "it": {
+          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'site:charitynavigator.org Rating for food pantry hunger relief'.",
+          "title": "Sostieni The Global Foodbanking Network contro la fame",
+          "source": "traduzione AI"
+        },
+        "ja": {
+          "text": "Charity Navigator によって評価された団体。エージェントにより次の検索で発見されました: 'site:charitynavigator.org Rating for food pantry hunger relief'",
+          "title": "飢餓に立ち向かう The Global Foodbanking Network を支援",
+          "source": "traduzione AI"
+        },
+        "pt": {
+          "text": "Entidade avaliada pela Charity Navigator, encontrada pelos agentes com: 'site:charitynavigator.org Rating for food pantry hunger relief'.",
+          "title": "Apoie The Global Foodbanking Network contra a fome",
+          "source": "traduzione AI"
+        },
+        "ru": {
+          "text": "Организация оценена Charity Navigator, найдена агентами по запросу: 'site:charitynavigator.org Rating for food pantry hunger relief'.",
+          "title": "Поддержите The Global Foodbanking Network в борьбе с голодом",
+          "source": "traduzione AI"
+        },
+        "zh": {
+          "text": "由 Charity Navigator 评估的机构，由代理通过以下内容找到：'site:charitynavigator.org Rating for food pantry hunger relief'。",
+          "title": "支持 The Global Foodbanking Network 对抗饥饿",
+          "source": "traduzione AI"
+        }
+      },
+      "tranches": [],
+      "checks": [
+        {
+          "verifier": "regole",
+          "check_type": "ammissibilita",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Regole di ammissibilità (config/regole.yaml):\n✓ fonte ammessa: fonte 'valutatore'\n✓ ente registrato nel database: The Global Foodbanking Network\n✓ codice fiscale verificato (IRS): EIN 204268851\n✓ ente valutato dal valutatore: Charity Navigator\n✓ voto del valutatore: 92%, 4 stelle su 4 (minimo 4 stelle e 90%)\n✓ anni di bilanci ufficiali: 12 anni [2020, 2021, 2022, 2023, 2024] (minimo 3)\n✓ tema fame / nutrizione: categoria IRS Q30 (richiesta ['K']); tema nel nome: True",
+          "source_url": "https://www.charitynavigator.org/ein/204268851"
+        },
+        {
+          "verifier": "regole",
+          "check_type": "ammissibilita",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "✓ valutatore indipendente tra le prove: 1 pagine di valutatori (https://www.charitynavigator.org/ein/204268851); minimo 1",
+          "source_url": "https://www.charitynavigator.org/ein/204268851"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "registrazione",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "L'ente risulta regolarmente registrato negli Stati Uniti come organizzazione 501(c)(3) con EIN 204268851 e data di riconoscimento (ruling date) 2006-12-01.",
+          "source_url": "https://www.charitynavigator.org/ein/204268851"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "bilanci",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Sono presenti i bilanci pubblici Form 990 degli ultimi anni, inclusi i dati relativi agli anni fiscali 2022, 2023 e 2024.",
+          "source_url": "https://www.charitynavigator.org/ein/204268851"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "valutazione_indipendente",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "L'ente è valutato positivamente da Charity Navigator, che gli assegna il riconoscimento Four-Star Charity con una valutazione del 92%.",
+          "source_url": "https://www.charitynavigator.org/ein/204268851"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "coerenza_importo",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "L'obiettivo di raccolta previsto di 5000 USD è estremamente contenuto e ampiamente coerente con le dimensioni e il volume di entrate dell'ente (milioni di dollari annui).",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/204268851"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "storico_progetti",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "L'ente ha una storia documentata di attività ultradecennale (fondato nel 2006) attiva in circa 50 paesi per la recupero e la distribuzione di cibo.",
+          "source_url": "https://www.charitynavigator.org/ein/204268851"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "segnali_allarme",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Non sono stati riscontrati segnali d'allarme relativi all'ente candidato. La notizia del Los Angeles Times riguarda un ente diverso (Long Beach food bank) e non The Global Foodbanking Network.",
+          "source_url": "https://www.charitynavigator.org/ein/204268851"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "conflitti_interesse",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "source_url": "config/conflitti.yaml"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "registrazione",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "L'ente è elencato con EIN 204268851, sede a Chicago, IL, e riconosciuto 501(c)(3) sia su Charity Navigator che su ProPublica Nonprofit Explorer.",
+          "source_url": "https://www.charitynavigator.org/ein/204268851"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "bilanci",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Sono disponibili i moduli Form 990 dal 2019 al 2024 con dati di entrate e spese, scaricabili da ProPublica.",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/204268851"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "valutazione_indipendente",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Charity Navigator assegna all'ente una valutazione a quattro stelle (92%).",
+          "source_url": "https://www.charitynavigator.org/ein/204268851"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "coerenza_importo",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "L'importo richiesto (5 000 USD) è molto inferiore ai ricavi annuali dell'ente (circa 14‑16 M USD), quindi ragionevole rispetto alla sua dimensione.",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/204268851"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "storico_progetti",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "Il sito ufficiale e la pagina LinkedIn mostrano attività documentate in oltre 50 paesi, con impatti numerosi e campagne passate.",
+          "source_url": "https://www.linkedin.com/company/the-global-foodbanking-network"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "segnali_allarme",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun segnale di allarme rilevato: le fonti non mostrano richieste urgenti, pagamenti in crypto, o istruzioni a IA.",
+          "source_url": "https://www.latimes.com/california/story/2024-10-05/long-beach-food-bank-closes-amid-investigation-into-misuse-of-public-funds"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "conflitti_interesse",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "source_url": "config/conflitti.yaml"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "registrazione",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "L'ente è registrato come 501(c)(3) con EIN 204268851, riconosciuto dall'IRS il 01/12/2006. La sede legale è a Chicago, IL.",
+          "source_url": "https://www.charitynavigator.org/ein/204268851"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "bilanci",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Sono disponibili i bilanci pubblici (Form 990) per gli ultimi 12 anni (2013-2024) tramite ProPublica e Charity Navigator, con dati dettagliati su entrate e spese.",
+          "source_url": "https://www.charitynavigator.org/ein/204268851"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "valutazione_indipendente",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Charity Navigator assegna una valutazione di 4 stelle (92%) all'ente, indicando un buon livello di accountability e finanza.",
+          "source_url": "https://www.charitynavigator.org/ein/204268851"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "coerenza_importo",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "L'obiettivo di raccolta di 5.000 USD è estremamente basso rispetto alle dimensioni dell'ente (entrate annuali di circa 14-23 milioni di USD negli ultimi anni), rendendolo pienamente coerente e gestibile.",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/204268851"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "storico_progetti",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "L'ente opera da oltre 20 anni (fondato nel 2006) in quasi 50 paesi, con un impatto documentato (es. 648M kg di cibo recuperato nel 2023 per 32 milioni di persone).",
+          "source_url": "https://www.charitynavigator.org/ein/204268851"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "segnali_allarme",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun segnale d'allarme trovato nelle prove fornite. L'ente ha un sito web istituzionale, presenza social attiva e bilanci trasparenti. La notizia [E4] riguarda un'altra organizzazione (Long Beach food bank) e non è collegata a GFN.",
+          "source_url": "https://www.charitynavigator.org/ein/204268851"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "conflitti_interesse",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "source_url": "config/conflitti.yaml"
+        }
+      ],
+      "sources": [
+        "https://projects.propublica.org/nonprofits/organizations/204268851",
+        "https://www.charitynavigator.org/ein/204268851",
+        "https://www.foodbanking.org",
+        "https://www.instagram.com/foodbanking?hl=en",
+        "https://www.latimes.com/california/story/2024-10-05/long-beach-food-bank-closes-amid-investigation-into-misuse-of-public-funds",
+        "https://www.linkedin.com/company/the-global-foodbanking-network"
+      ],
+      "progress_pct": 0,
+      "donate": {
+        "recipient": "The Global Foodbanking Network",
+        "url": "https://www.foodbanking.org/",
+        "money_goes_to": "the organization directly (this project never receives or holds money)",
+        "counted_here_only_if": "confirmed by the organization or by a platform with public totals",
+        "status": "in public review"
+      }
+    },
+    {
+      "slug": "support-action-against-hunger-usa-against-hunger-479",
+      "title": "Support Action Against Hunger Usa against hunger",
+      "description": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'site:charitynavigator.org Rating for malnutrition child nutrition'.",
+      "org_name": "Action Against Hunger USA",
+      "org_country": "US",
+      "org_website": "https://www.actionagainsthunger.org/",
+      "country": "US",
+      "currency": "USD",
+      "goal": 5000.0,
+      "raised": 0.0,
+      "donated": 0.0,
+      "status": "revisione_pubblica",
+      "donation_url": "https://www.actionagainsthunger.org/",
+      "source_url": "https://www.charitynavigator.org/ein/133327220",
+      "approved_on": "2026-11-07",
+      "review_until": "2026-11-10 08:22 UTC",
+      "translations": {
+        "de": {
+          "text": "Organisation bewertet von Charity Navigator, gefunden von den Agenten mit: 'site:charitynavigator.org Rating for malnutrition child nutrition'.",
+          "title": "Support Action Against Hunger USA gegen Hunger",
+          "source": "traduzione AI"
+        },
+        "en": {
+          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'site:charitynavigator.org Rating for malnutrition child nutrition'.",
+          "title": "Support Action Against Hunger Usa against hunger",
+          "source": "originale"
+        },
+        "es": {
+          "text": "Entidad evaluada por Charity Navigator, encontrado por los agentes con: 'site:charitynavigator.org Rating for malnutrition child nutrition'.",
+          "title": "Support Action Against Hunger USA contra el hambre",
+          "source": "traduzione AI"
+        },
+        "fr": {
+          "text": "Organisation évaluée par Charity Navigator, trouvée par les agents avec : 'site:charitynavigator.org Rating for malnutrition child nutrition'.",
+          "title": "Soutenir l'action Against Hunger USA contre la faim",
+          "source": "traduzione AI"
+        },
+        "hi": {
+          "text": "Charity Navigator द्वारा मूल्यांकित संस्था, एजेंटों द्वारा पाया गया: 'site:charitynavigator.org Rating for malnutrition child nutrition'।",
+          "title": "Support Action Against Hunger Usa against hunger",
+          "source": "traduzione AI"
+        },
+        "it": {
+          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'site:charitynavigator.org Rating for malnutrition child nutrition'.",
+          "title": "Sostieni Action Against Hunger USA contro la fame",
+          "source": "traduzione AI"
+        },
+        "ja": {
+          "text": "Charity Navigator によって評価された団体で、エージェントが次の検索で見つけました: 'site:charitynavigator.org Rating for malnutrition child nutrition'.",
+          "title": "Support Action Against Hunger Usa の飢餓対策",
+          "source": "traduzione AI"
+        },
+        "pt": {
+          "text": "Organização avaliada pela Charity Navigator, encontrada pelos agentes com: 'site:charitynavigator.org Rating for malnutrition child nutrition'.",
+          "title": "Apoie a Action Against Hunger Usa contra a fome",
+          "source": "traduzione AI"
+        },
+        "ru": {
+          "text": "Организация, оцененная Charity Navigator, найденная агентами с помощью: 'site:charitynavigator.org Rating for malnutrition child nutrition'.",
+          "title": "Support Action Against Hunger USA против голода",
+          "source": "traduzione AI"
+        },
+        "zh": {
+          "text": "由 Charity Navigator 评估的机构，代理人通过以下方式找到：'site:charitynavigator.org Rating for malnutrition child nutrition'。",
+          "title": "Support Action Against Hunger Usa against hunger",
+          "source": "traduzione AI"
+        }
+      },
+      "tranches": [],
+      "checks": [
+        {
+          "verifier": "regole",
+          "check_type": "ammissibilita",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Regole di ammissibilità (config/regole.yaml):\n✓ fonte ammessa: fonte 'valutatore'\n✓ ente registrato nel database: Action Against Hunger Usa\n✓ codice fiscale verificato (IRS): EIN 133327220\n✓ ente valutato dal valutatore: Charity Navigator\n✓ anni di bilanci ufficiali: 13 anni [2019, 2020, 2021, 2022, 2023] (minimo 3)\n✓ tema fame / nutrizione: categoria IRS Q300; nel nome: True; nel testo del valutatore: False",
+          "source_url": "https://www.charitynavigator.org/ein/133327220"
+        },
+        {
+          "verifier": "regole",
+          "check_type": "ammissibilita",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "✓ valutatore indipendente tra le prove: 2 pagine di valutatori (https://www.charitynavigator.org/ein/133327220, https://charitywatch.org/charities/action-against-hunger-usa); minimo 1",
+          "source_url": "https://www.charitynavigator.org/ein/133327220"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "registrazione",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "L'ente Action Against Hunger USA è regolarmente registrato negli Stati Uniti come organizzazione 501(c)(3) con EIN 133327220 e sede a New York, con riconoscimento fiscale risalente al 1 dicembre 1985.",
+          "source_url": "https://www.charitynavigator.org/ein/133327220"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "bilanci",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Sono disponibili pubblicamente i bilanci IRS (Form 990) fino al 2023 e il bilancio d'esercizio certificato con relazione del revisore indipendente per gli anni 2023 e 2024.",
+          "source_url": "https://www.charitynavigator.org/ein/133327220"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "valutazione_indipendente",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "L'ente è valutato da Charity Navigator ed è classificato come Top-Rated Charity con valutazione 'A' da CharityWatch (gennaio 2026), con l'89% dei fondi destinato ai programmi.",
+          "source_url": "https://www.charitynavigator.org/ein/133327220"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "coerenza_importo",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "L'obiettivo previsto di 5.000 USD è pienamente proporzionato e contenuto rispetto alla dimensione finanziaria dell'ente, che ha registrato entrate superiori a 200 milioni di dollari nel 2023.",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/133327220"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "storico_progetti",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "L'organizzazione ha una solida storia documentata di interventi contro la fame e la malnutrizione, avendo assistito oltre 26,5 milioni di persone in più di 55 paesi.",
+          "source_url": "https://www.actionagainsthunger.org/who-we-are/financials-reports/"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "segnali_allarme",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nelle prove analizzate non è emerso alcun segnale d'allarme, istruzione dannosa o elemento di criticità sull'ente o sulla richiesta.",
+          "source_url": "https://www.charitynavigator.org/ein/133327220"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "conflitti_interesse",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "source_url": "config/conflitti.yaml"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "registrazione",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Ente registrato con EIN 133327220 e sede a New York, confermato da ProPublica",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/133327220"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "bilanci",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Form 990 disponibili per gli anni 2023‑2018 e audit report 2023‑2024",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/133327220"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "valutazione_indipendente",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Charity Navigator fornisce una valutazione indipendente positiva",
+          "source_url": "https://www.charitynavigator.org/ein/133327220"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "coerenza_importo",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "Richiesta di 5.000 USD è minima rispetto al fatturato annuale >200 M USD dell'ente",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/133327220"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "storico_progetti",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "Report annuale mostra attività in 55+ paesi e 26,5 milioni di beneficiari, dimostrando una storia di progetti",
+          "source_url": "https://www.actionagainsthunger.org/who-we-are/financials-reports/"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "segnali_allarme",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun segnale di allarme riscontrato nelle fonti consultate",
+          "source_url": "https://www.charitynavigator.org/ein/133327220"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "conflitti_interesse",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "source_url": "config/conflitti.yaml"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "registrazione",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "L'ente 'Action Against Hunger Usa' è registrato presso l'IRS con EIN 133327220, riconoscimento 501(c)(3) dal 1985-12-01, sede a New York, NY. Confermato da ProPublica Nonprofit Explorer e Charity Navigator.",
+          "source_url": "https://www.charitynavigator.org/ein/133327220"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "bilanci",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Disponibili Form 990 IRS pubblici per gli anni 2011-2023 su ProPublica. Inoltre, è disponibile il report di audit indipendente per gli esercizi 2024 e 2023 sul sito ufficiale dell'ente.",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/133327220"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "valutazione_indipendente",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "CharityWatch assegna il rating 'Top-Rated Charity' con voto A (gennaio 2026) e indica un program percentage dell'89%. Charity Navigator elenca l'ente con dati verificati.",
+          "source_url": "https://charitywatch.org/charities/action-against-hunger-usa"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "coerenza_importo",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "L'obiettivo di raccolta di 5.000 USD è estremamente basso rispetto alle dimensioni dell'ente (entrate 2023: ~201 milioni USD). L'importo è coerente e ragionevole per una campagna di sensibilizzazione o micro-fundraising.",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/133327220"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "storico_progetti",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "L'ente opera da oltre 40 anni (riconoscimento 1985). Il sito ufficiale riporta attività in 55+ paesi con 26,5 milioni di persone aiutate l'anno scorso. I bilanci storici mostrano continuità operativa.",
+          "source_url": "https://www.actionagainsthunger.org/who-we-are/financials-reports/"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "segnali_allarme",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun segnale d'allarme trovato. L'ente ha sede fisica verificabile (One Whitehall Street, NY), sito web istituzionale attivo, audit indipendenti regolari e rating positivi da watchdog indipendenti. Nessuna istruzione sospetta o richiesta di pagamento a persone fisiche/crypto nelle prove.",
+          "source_url": "https://www.charitynavigator.org/ein/133327220"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "conflitti_interesse",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "source_url": "config/conflitti.yaml"
+        }
+      ],
+      "sources": [
+        "https://charitywatch.org/charities/action-against-hunger-usa",
+        "https://projects.propublica.org/nonprofits/organizations/133327220",
+        "https://www.actionagainsthunger.org/app/uploads/2025/09/AAHUSA-2024-FS.pdf",
+        "https://www.actionagainsthunger.org/who-we-are/financials-reports/",
+        "https://www.charitynavigator.org/ein/133327220",
+        "https://www.mapquest.com/us/new-york/action-against-hunger-usa-276241561"
+      ],
+      "progress_pct": 0,
+      "donate": {
+        "recipient": "Action Against Hunger USA",
+        "url": "https://www.actionagainsthunger.org/",
+        "money_goes_to": "the organization directly (this project never receives or holds money)",
+        "counted_here_only_if": "confirmed by the organization or by a platform with public totals",
+        "status": "in public review"
+      }
     }
   ],
+  "order_rule": "All projects are equal: the order rotates by one position every day.",
   "totals": {
     "raised": {},
     "donated": {},

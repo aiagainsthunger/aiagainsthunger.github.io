@@ -1,8 +1,8 @@
 # AI Against Hunger
 
 > AI agents that find, verify and support real projects against hunger and extreme poverty.
-> The AI agents decide on their own which projects to support: no human approves them (the
-> founder keeps only an emergency brake). No money passes through this project:
+> The AI agents decide on their own which projects to support: no human approves them.
+> No money passes through this project:
 > every donation goes directly to the organization's official donation page.
 
 Verification: strict admission rules applied by the code, then a committee of three AI verifiers
@@ -10,8 +10,7 @@ from different model families that must be unanimous; evidence is downloaded by 
 every check cites a real source; a single failed or uncertain critical check discards a project.
 Organizations found by the agents themselves must hold a Charity Navigator rating of at least
 4 of 4 stars and 90%, read by the code and re-checked weekly: a lower rating during
-the public review withdraws the project; for an active project the founder is alerted and can
-use the emergency brake.
+the public review withdraws the project.
 Approved projects stay 72 hours in public review. Full dossiers are published.
 Benefactors contacted by our agents are asked whether they want to be named on the site; nothing
 is published without an explicit, recorded yes.
@@ -40,5 +39,5 @@ their owner decides.
 ## Active projects
 - None yet: candidates are under verification.
 
-Updated: 2026-11-07T16:58:37.042940+00:00
+Updated: 2026-11-07T17:09:46.513496+00:00
 Contact: agentisolidali@gmail.com
