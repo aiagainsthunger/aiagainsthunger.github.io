@@ -1,330 +1,6 @@
 {
-  "generated_at": "2026-11-07T18:48:51.697670+00:00",
+  "generated_at": "2026-11-08T07:57:05.069025+00:00",
   "projects": [
-    {
-      "slug": "support-dare-to-care-inc-against-hunger-937",
-      "title": "Support Dare To Care Inc against hunger",
-      "description": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'site:charitynavigator.org Rating for food pantry hunger relief'.",
-      "org_name": "Dare To Care Inc",
-      "org_country": "US",
-      "org_website": "https://daretocare.org/",
-      "country": "US",
-      "currency": "USD",
-      "goal": 5000.0,
-      "raised": 0.0,
-      "donated": 0.0,
-      "status": "revisione_pubblica",
-      "donation_url": "https://daretocare.org/",
-      "source_url": "https://www.charitynavigator.org/ein/237345952",
-      "approved_on": "2026-11-07",
-      "review_until": "2026-11-10 13:04 UTC",
-      "translations": {
-        "de": {
-          "text": "Organisation bewertet von Charity Navigator, gefunden von den Agenten mit: 'site:charitynavigator.org Rating for food pantry hunger relief'.",
-          "title": "Unterstütze Dare To Care Inc im Kampf gegen den Hunger",
-          "source": "traduzione AI"
-        },
-        "en": {
-          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'site:charitynavigator.org Rating for food pantry hunger relief'.",
-          "title": "Support Dare To Care Inc against hunger",
-          "source": "originale"
-        },
-        "es": {
-          "text": "Entidad evaluada por Charity Navigator, encontrada por los agentes con: 'site:charitynavigator.org Rating for food pantry hunger relief'.",
-          "title": "Apoya a Dare To Care Inc contra el hambre",
-          "source": "traduzione AI"
-        },
-        "fr": {
-          "text": "Organisation évaluée par Charity Navigator, trouvée par les agents avec : 'site:charitynavigator.org Rating for food pantry hunger relief'.",
-          "title": "Soutenir Dare To Care Inc contre la faim",
-          "source": "traduzione AI"
-        },
-        "hi": {
-          "text": "Charity Navigator द्वारा मूल्यांकित संस्था, एजेंटों द्वारा पाया गया: 'site:charitynavigator.org Rating for food pantry hunger relief'.",
-          "title": "भूख के खिलाफ Dare To Care Inc का समर्थन करें",
-          "source": "traduzione AI"
-        },
-        "it": {
-          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'site:charitynavigator.org Rating for food pantry hunger relief'.",
-          "title": "Sostieni Dare To Care Inc contro la fame",
-          "source": "traduzione AI"
-        },
-        "ja": {
-          "text": "Charity Navigatorで評価された団体で、エージェントが次の検索で見つけました: 'site:charitynavigator.org Rating for food pantry hunger relief'.",
-          "title": "飢餓に対してDare To Care Incを支援する",
-          "source": "traduzione AI"
-        },
-        "pt": {
-          "text": "Entidade avaliada pela Charity Navigator, encontrada pelos agentes com: 'site:charitynavigator.org Rating for food pantry hunger relief'.",
-          "title": "Apoie a Dare To Care Inc contra a fome",
-          "source": "traduzione AI"
-        },
-        "ru": {
-          "text": "Организация, оцененная Charity Navigator, найденная агентами с помощью: 'site:charitynavigator.org Rating for food pantry hunger relief'.",
-          "title": "Поддержите Dare To Care Inc в борьбе с голодом",
-          "source": "traduzione AI"
-        },
-        "zh": {
-          "text": "该机构已由 Charity Navigator 评估，代理人通过以下方式找到：'site:charitynavigator.org Rating for food pantry hunger relief'。",
-          "title": "支持 Dare To Care Inc 对抗饥饿",
-          "source": "traduzione AI"
-        }
-      },
-      "tranches": [],
-      "checks": [
-        {
-          "verifier": "regole",
-          "check_type": "ammissibilita",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Regole di ammissibilità (config/regole.yaml):\n✓ fonte ammessa: fonte 'valutatore'\n✓ ente registrato nel database: Dare To Care Inc\n✓ codice fiscale verificato (IRS): EIN 237345952\n✓ ente valutato dal valutatore: Charity Navigator\n✓ voto del valutatore: 99%, 4 stelle su 4 (minimo 4 stelle e 90%)\n✓ anni di bilanci ufficiali: 12 anni [2019, 2020, 2021, 2022, 2023] (minimo 3)\n✓ tema fame / nutrizione: categoria IRS K31Z (richiesta ['K']); tema nel nome: False",
-          "source_url": "https://www.charitynavigator.org/ein/237345952"
-        },
-        {
-          "verifier": "regole",
-          "check_type": "ammissibilita",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "✓ valutatore indipendente tra le prove: 1 pagine di valutatori (https://www.charitynavigator.org/ein/237345952); minimo 1",
-          "source_url": "https://www.charitynavigator.org/ein/237345952"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "registrazione",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "L'ente Dare To Care Inc è regolarmente registrato negli Stati Uniti come organizzazione 501(c)(3) con EIN 237345952, con sede a Louisville, KY e riconoscimento esenzione dal 1974.",
-          "source_url": "https://www.charitynavigator.org/ein/237345952"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "bilanci",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Bilanci pubblici (Form 990 IRS) disponibili dal 2012 al 2023. Nel 2023 l'ente ha registrato entrate per 45,55 M$ e spese per 47,14 M$.",
-          "source_url": "https://www.charitynavigator.org/ein/237345952"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "valutazione_indipendente",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "L'organizzazione ha una valutazione indipendente eccellente su Charity Navigator con un punteggio del 99% e 4 stelle.",
-          "source_url": "https://www.charitynavigator.org/ein/237345952"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "coerenza_importo",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "L'importo previsto di 5.000 USD è del tutto proporzionato e contenuto rispetto alla dimensione finanziaria dell'ente, che gestisce un bilancio annuo oltre i 45 milioni di dollari.",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/237345952"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "storico_progetti",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "Attivo dal 1971, l'ente ha distribuito 22,7 milioni di pasti nell'ultimo anno servendo 13 contee tra Kentucky e Indiana attraverso una vasta rete di partnership locali.",
-          "source_url": "https://www.charitynavigator.org/ein/237345952"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "segnali_allarme",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun segnale d'allarme o notizia negativa riguardante Dare To Care Inc è emerso nei documenti consultati (le notizie esterne su frodi sanitarie o aziendali riguardano soggetti del tutto distinti).",
-          "source_url": "https://www.charitynavigator.org/ein/237345952"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "conflitti_interesse",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
-          "source_url": "config/conflitti.yaml"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "registrazione",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "L'ente è elencato con EIN 237345952, sede a Louisville KY e riconoscimento IRS 1974-02-01.",
-          "source_url": "https://www.charitynavigator.org/ein/237345952"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "bilanci",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Form 990 pubblici dal 2018 al 2023 disponibili su ProPublica.",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/237345952"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "valutazione_indipendente",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Charity Navigator assegna 4 stelle (99% rating) all'organizzazione.",
-          "source_url": "https://www.charitynavigator.org/ein/237345952"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "coerenza_importo",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "Richiesta di 5.000 USD è minima rispetto al fatturato annuale di circa 45 milioni USD (Form 990 2023).",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/237345952"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "storico_progetti",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "Attività documentata dal 1971, con 22,7 milioni di pasti distribuiti l'anno scorso.",
-          "source_url": "https://www.charitynavigator.org/ein/237345952"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "segnali_allarme",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun segnale di allarme relativo all'ente; le altre fonti (E3‑E5) non riguardano Dare To Care.",
-          "source_url": "https://www.charitynavigator.org/ein/237345952"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "conflitti_interesse",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
-          "source_url": "config/conflitti.yaml"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "registrazione",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "L'ente 'Dare To Care Inc' è registrato presso l'IRS con EIN 237345952, riconoscimento 501(c)(3) dal 1974, con sede a Louisville, KY. Confermato da Charity Navigator e ProPublica Nonprofit Explorer.",
-          "source_url": "https://www.charitynavigator.org/ein/237345952"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "bilanci",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Sono disponibili i bilanci pubblici (Form 990) per gli anni dal 2013 al 2023, con dati finanziari dettagliati (es. entrate 2023: ~45.5M USD) accessibili tramite ProPublica e riportati da Charity Navigator.",
-          "source_url": "https://www.charitynavigator.org/ein/237345952"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "valutazione_indipendente",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Charity Navigator assegna 4 stelle su 4 (Four-Star Charity) e indica un punteggio del 99% per accountability e finanza, confermando una valutazione positiva indipendente.",
-          "source_url": "https://www.charitynavigator.org/ein/237345952"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "coerenza_importo",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "L'obiettivo di raccolta di 5.000 USD è estremamente coerente con le dimensioni dell'ente, che ha un budget annuale di circa 45-50 milioni di USD e distribuisce 22,7 milioni di pasti l'anno. L'importo richiesto è marginale rispetto alla capacità finanziaria dell'organizzazione.",
-          "source_url": "https://www.charitynavigator.org/ein/237345952"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "storico_progetti",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "L'ente opera dal 1971 (fondazione) e dal 1974 (riconoscimento fiscale). Ha una storia documentata di 50+ anni di attività nella lotta alla fame, con progetti attivi in 13 contee del Kentucky e Indiana, e rendiconti fiscali continui da oltre un decennio.",
-          "source_url": "https://www.charitynavigator.org/ein/237345952"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "segnali_allarme",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun segnale d'allarme trovato nelle prove fornite. Le prove E3, E4 ed E5 riguardano scandali di frode in sanità (USA) e acciaio (Giappone) completamente slegati dall'ente Dare To Care Inc. Il sito web è attivo, i contatti sono professionali (telefono, indirizzo fisico), e non ci sono richieste di pagamento a persone fisiche o crypto.",
-          "source_url": "https://www.charitynavigator.org/ein/237345952"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "conflitti_interesse",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
-          "source_url": "config/conflitti.yaml"
-        }
-      ],
-      "sources": [
-        "https://projects.propublica.org/nonprofits/organizations/237345952",
-        "https://www.charitynavigator.org/ein/237345952",
-        "https://www.cms.gov/newsroom/press-releases/national-health-care-fraud-takedown-results-324-defendants-charged-connection-over-14-6-billion",
-        "https://www.cnbc.com/2018/03/06/kobe-steel-ceo-to-quit-over-data-fraud-scandal.html",
-        "https://www.youtube.com/watch?v=mClEqQtJsyc"
-      ],
-      "waiting_counter": false,
-      "profile": {
-        "en": {
-          "does": [
-            {
-              "text": "Dare to Care Food Bank works together to provide pathways to end hunger in the community by partnering with local agencies.",
-              "quote": "Founded in 1971, Dare to Care Food Bank's mission is to work together to provide pathways to end hunger in our community. We fulfill this mission by partnering with local agencies, such as food pantries, shelters and emergency kitchens to distribute food to our community.",
-              "source": "https://www.charitynavigator.org/ein/237345952",
-              "by_org": false
-            },
-            {
-              "text": "The Community Kitchen houses a production and innovation kitchen alongside a demonstration kitchen and classroom space.",
-              "quote": "Our Community Kitchen houses Dare to Care's production and innovation kitchen and a demonstration kitchen and classroom space.",
-              "source": "https://www.charitynavigator.org/ein/237345952",
-              "by_org": false
-            }
-          ],
-          "mission": "Founded in 1971, Dare to Care Food Bank's mission is to work together to provide pathways to end hunger in our community. We fulfill this mission by partnering with local agencies, such as food pantries, shelters and emergency kitchens to distribute food to our community. Last year, Dare to Care provided 22.7 million meals to children, adults, and seniors. Dare to Care Food Bank serves 13 counties in Kentuckiana, including Jefferson, Shelby, Bullitt, Oldham, Spencer, Carroll, Trimble, and Henry Counties in Kentucky, and Floyd, Clark, Harrison, Washington, and Crawford Counties in Indiana. Our warehouse is equipped to store and inventory food at the highest commercial food safety standards. Our Community Kitchen houses Dare to Care's production and innovation kitchen and a demonstration kitchen and classroom space.",
-          "does_not": [],
-          "strengths": [
-            {
-              "text": "Dare to Care Food Bank was founded in 1971.",
-              "quote": "Founded in 1971, Dare to Care Food Bank's mission is to work together to provide pathways to end hunger in our community.",
-              "source": "https://www.charitynavigator.org/ein/237345952",
-              "by_org": false
-            },
-            {
-              "text": "Dare to Care Food Bank is a registered 501(c)3 nonprofit organization with the Internal Revenue Service.",
-              "quote": "Dare to Care Food Bank is a registered 501(c)3 nonprofit organization with the Internal Revenue Service.",
-              "source": "https://daretocare.org/about/",
-              "by_org": true
-            }
-          ]
-        }
-      },
-      "safety": {
-        "evaluator": "Charity Navigator",
-        "stars": 4,
-        "score": 99,
-        "rating_url": "https://www.charitynavigator.org/ein/237345952",
-        "rating_checked": "2026-11-07",
-        "since": "1974",
-        "registry_url": "https://projects.propublica.org/nonprofits/organizations/237345952",
-        "filings": 12,
-        "first_year": 2012,
-        "last_year": 2023,
-        "checks_passed": 18,
-        "verifiers": 3,
-        "unanimous": true,
-        "site": "daretocare.org",
-        "official_host": "daretocare.org"
-      },
-      "progress_pct": 0,
-      "donate": {
-        "recipient": "Dare To Care Inc",
-        "url": "https://daretocare.org/",
-        "money_goes_to": "the organization directly (this project never receives or holds money)",
-        "counted_here_only_if": "confirmed by the organization or by a platform with public totals",
-        "status": "in public review"
-      }
-    },
     {
       "slug": "support-facing-hunger-foodbank-inc-against-hunger-939",
       "title": "Support Facing Hunger Foodbank Inc against hunger",
@@ -338,7 +14,7 @@
       "raised": 0.0,
       "donated": 0.0,
       "status": "revisione_pubblica",
-      "donation_url": "https://facinghunger.org/",
+      "donation_url": null,
       "source_url": "https://www.charitynavigator.org/ein/550625915",
       "approved_on": "2026-11-07",
       "review_until": "2026-11-10 14:04 UTC",
@@ -720,14 +396,18 @@
         "verifiers": 3,
         "unanimous": true,
         "site": "facinghunger.org",
-        "official_host": "facinghunger.org"
+        "official_host": "facinghunger.org",
+        "profile_claimed": false
       },
+      "platform": "",
+      "counter": {},
+      "fundraiser_open": false,
       "progress_pct": 0,
       "donate": {
         "recipient": "Facing Hunger Foodbank Inc",
-        "url": "https://facinghunger.org/",
-        "money_goes_to": "the organization directly (this project never receives or holds money)",
-        "counted_here_only_if": "confirmed by the organization or by a platform with public totals",
+        "url": null,
+        "money_goes_to": "not open yet: donations open on a fundraising page with a public total",
+        "counted_here_only_if": "shown in the public total of the fundraising page",
         "status": "in public review"
       }
     },
@@ -744,7 +424,7 @@
       "raised": 0.0,
       "donated": 0.0,
       "status": "revisione_pubblica",
-      "donation_url": "https://mamaskitchen.org/",
+      "donation_url": null,
       "source_url": "https://www.charitynavigator.org/ein/330434246",
       "approved_on": "2026-11-07",
       "review_until": "2026-11-10 08:28 UTC",
@@ -1038,6 +718,29 @@
               "by_org": true
             }
           ]
+        },
+        "it": {
+          "does": [
+            {
+              "text": "Mama's Kitchen consegna pasti personalizzati dal punto di vista medico a individui e famiglie vulnerabili alla malnutrizione a causa di malattie gravi nella Contea di San Diego.",
+              "source": "https://www.charitynavigator.org/ein/330434246",
+              "by_org": false
+            },
+            {
+              "text": "Volontari e dipendenti retribuiti lavorano insieme per fornire servizi nutrizionali a circa 3.000 residenti della Contea di San Diego all'anno.",
+              "source": "https://www.charitynavigator.org/ein/330434246",
+              "by_org": false
+            }
+          ],
+          "mission": "Mama's Kitchen è l'unica organizzazione nella Contea di San Diego che consegna a domicilio pasti personalizzati dal punto di vista medico a individui e famiglie vulnerabili alla malnutrizione a causa di malattie gravi per ogni giorno dell'anno, in tutta la contea e gratuitamente. Fondata nel 1990, Mama's Kitchen porta nutrimento, speranza e una mano tesa alle persone che combattono la malnutrizione e la fame, l'isolamento e malattie potenzialmente letali. Mama's Kitchen è impegnata a combattere HIV/AIDS, cancro, diabete, insufficienza cardiaca e malattie renali attraverso il potere della nutrizione. Circa 850 volontari si uniscono a 48 dipendenti retribuiti per fornire una nutrizione salvavita a circa 3.000 residenti della Contea di San Diego all'anno.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "L'organizzazione è registrata come organizzazione non profit 501(c)(3) esente da imposte.",
+              "source": "https://mamaskitchen.org/about-us/overview/",
+              "by_org": true
+            }
+          ]
         }
       },
       "safety": {
@@ -1055,14 +758,18 @@
         "verifiers": 3,
         "unanimous": true,
         "site": "mamaskitchen.org",
-        "official_host": "mamaskitchen.org"
+        "official_host": "mamaskitchen.org",
+        "profile_claimed": false
       },
+      "platform": "",
+      "counter": {},
+      "fundraiser_open": false,
       "progress_pct": 0,
       "donate": {
         "recipient": "Mamas Kitchen",
-        "url": "https://mamaskitchen.org/",
-        "money_goes_to": "the organization directly (this project never receives or holds money)",
-        "counted_here_only_if": "confirmed by the organization or by a platform with public totals",
+        "url": null,
+        "money_goes_to": "not open yet: donations open on a fundraising page with a public total",
+        "counted_here_only_if": "shown in the public total of the fundraising page",
         "status": "in public review"
       }
     },
@@ -1079,7 +786,7 @@
       "raised": 0.0,
       "donated": 0.0,
       "status": "revisione_pubblica",
-      "donation_url": "https://mdfoodbank.org/",
+      "donation_url": null,
       "source_url": "https://www.charitynavigator.org/ein/521135690",
       "approved_on": "2026-11-07",
       "review_until": "2026-11-10 12:05 UTC",
@@ -1519,14 +1226,18 @@
         "verifiers": 3,
         "unanimous": true,
         "site": "mdfoodbank.org",
-        "official_host": "mdfoodbank.org"
+        "official_host": "mdfoodbank.org",
+        "profile_claimed": false
       },
+      "platform": "",
+      "counter": {},
+      "fundraiser_open": false,
       "progress_pct": 0,
       "donate": {
         "recipient": "Maryland Food Bank Inc",
-        "url": "https://mdfoodbank.org/",
-        "money_goes_to": "the organization directly (this project never receives or holds money)",
-        "counted_here_only_if": "confirmed by the organization or by a platform with public totals",
+        "url": null,
+        "money_goes_to": "not open yet: donations open on a fundraising page with a public total",
+        "counted_here_only_if": "shown in the public total of the fundraising page",
         "status": "in public review"
       }
     },
@@ -1543,7 +1254,7 @@
       "raised": 0.0,
       "donated": 0.0,
       "status": "revisione_pubblica",
-      "donation_url": "https://www.foodbanking.org/",
+      "donation_url": null,
       "source_url": "https://www.charitynavigator.org/ein/204268851",
       "approved_on": "2026-11-07",
       "review_until": "2026-11-10 12:04 UTC",
@@ -1850,14 +1561,18 @@
         "verifiers": 3,
         "unanimous": true,
         "site": "foodbanking.org",
-        "official_host": "foodbanking.org"
+        "official_host": "foodbanking.org",
+        "profile_claimed": false
       },
+      "platform": "",
+      "counter": {},
+      "fundraiser_open": false,
       "progress_pct": 0,
       "donate": {
         "recipient": "The Global Foodbanking Network",
-        "url": "https://www.foodbanking.org/",
-        "money_goes_to": "the organization directly (this project never receives or holds money)",
-        "counted_here_only_if": "confirmed by the organization or by a platform with public totals",
+        "url": null,
+        "money_goes_to": "not open yet: donations open on a fundraising page with a public total",
+        "counted_here_only_if": "shown in the public total of the fundraising page",
         "status": "in public review"
       }
     },
@@ -1874,7 +1589,7 @@
       "raised": 0.0,
       "donated": 0.0,
       "status": "revisione_pubblica",
-      "donation_url": "https://www.actionagainsthunger.org/",
+      "donation_url": null,
       "source_url": "https://www.charitynavigator.org/ein/133327220",
       "approved_on": "2026-11-07",
       "review_until": "2026-11-10 08:22 UTC",
@@ -2175,14 +1890,346 @@
         "verifiers": 3,
         "unanimous": true,
         "site": "actionagainsthunger.org",
-        "official_host": "actionagainsthunger.org"
+        "official_host": "actionagainsthunger.org",
+        "profile_claimed": false
       },
+      "platform": "",
+      "counter": {},
+      "fundraiser_open": false,
       "progress_pct": 0,
       "donate": {
         "recipient": "Action Against Hunger USA",
-        "url": "https://www.actionagainsthunger.org/",
-        "money_goes_to": "the organization directly (this project never receives or holds money)",
-        "counted_here_only_if": "confirmed by the organization or by a platform with public totals",
+        "url": null,
+        "money_goes_to": "not open yet: donations open on a fundraising page with a public total",
+        "counted_here_only_if": "shown in the public total of the fundraising page",
+        "status": "in public review"
+      }
+    },
+    {
+      "slug": "support-dare-to-care-inc-against-hunger-937",
+      "title": "Support Dare To Care Inc against hunger",
+      "description": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'site:charitynavigator.org Rating for food pantry hunger relief'.",
+      "org_name": "Dare To Care Inc",
+      "org_country": "US",
+      "org_website": "https://daretocare.org/",
+      "country": "US",
+      "currency": "USD",
+      "goal": 5000.0,
+      "raised": 0.0,
+      "donated": 0.0,
+      "status": "revisione_pubblica",
+      "donation_url": null,
+      "source_url": "https://www.charitynavigator.org/ein/237345952",
+      "approved_on": "2026-11-07",
+      "review_until": "2026-11-10 13:04 UTC",
+      "translations": {
+        "de": {
+          "text": "Organisation bewertet von Charity Navigator, gefunden von den Agenten mit: 'site:charitynavigator.org Rating for food pantry hunger relief'.",
+          "title": "Unterstütze Dare To Care Inc im Kampf gegen den Hunger",
+          "source": "traduzione AI"
+        },
+        "en": {
+          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'site:charitynavigator.org Rating for food pantry hunger relief'.",
+          "title": "Support Dare To Care Inc against hunger",
+          "source": "originale"
+        },
+        "es": {
+          "text": "Entidad evaluada por Charity Navigator, encontrada por los agentes con: 'site:charitynavigator.org Rating for food pantry hunger relief'.",
+          "title": "Apoya a Dare To Care Inc contra el hambre",
+          "source": "traduzione AI"
+        },
+        "fr": {
+          "text": "Organisation évaluée par Charity Navigator, trouvée par les agents avec : 'site:charitynavigator.org Rating for food pantry hunger relief'.",
+          "title": "Soutenir Dare To Care Inc contre la faim",
+          "source": "traduzione AI"
+        },
+        "hi": {
+          "text": "Charity Navigator द्वारा मूल्यांकित संस्था, एजेंटों द्वारा पाया गया: 'site:charitynavigator.org Rating for food pantry hunger relief'.",
+          "title": "भूख के खिलाफ Dare To Care Inc का समर्थन करें",
+          "source": "traduzione AI"
+        },
+        "it": {
+          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'site:charitynavigator.org Rating for food pantry hunger relief'.",
+          "title": "Sostieni Dare To Care Inc contro la fame",
+          "source": "traduzione AI"
+        },
+        "ja": {
+          "text": "Charity Navigatorで評価された団体で、エージェントが次の検索で見つけました: 'site:charitynavigator.org Rating for food pantry hunger relief'.",
+          "title": "飢餓に対してDare To Care Incを支援する",
+          "source": "traduzione AI"
+        },
+        "pt": {
+          "text": "Entidade avaliada pela Charity Navigator, encontrada pelos agentes com: 'site:charitynavigator.org Rating for food pantry hunger relief'.",
+          "title": "Apoie a Dare To Care Inc contra a fome",
+          "source": "traduzione AI"
+        },
+        "ru": {
+          "text": "Организация, оцененная Charity Navigator, найденная агентами с помощью: 'site:charitynavigator.org Rating for food pantry hunger relief'.",
+          "title": "Поддержите Dare To Care Inc в борьбе с голодом",
+          "source": "traduzione AI"
+        },
+        "zh": {
+          "text": "该机构已由 Charity Navigator 评估，代理人通过以下方式找到：'site:charitynavigator.org Rating for food pantry hunger relief'。",
+          "title": "支持 Dare To Care Inc 对抗饥饿",
+          "source": "traduzione AI"
+        }
+      },
+      "tranches": [],
+      "checks": [
+        {
+          "verifier": "regole",
+          "check_type": "ammissibilita",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Regole di ammissibilità (config/regole.yaml):\n✓ fonte ammessa: fonte 'valutatore'\n✓ ente registrato nel database: Dare To Care Inc\n✓ codice fiscale verificato (IRS): EIN 237345952\n✓ ente valutato dal valutatore: Charity Navigator\n✓ voto del valutatore: 99%, 4 stelle su 4 (minimo 4 stelle e 90%)\n✓ anni di bilanci ufficiali: 12 anni [2019, 2020, 2021, 2022, 2023] (minimo 3)\n✓ tema fame / nutrizione: categoria IRS K31Z (richiesta ['K']); tema nel nome: False",
+          "source_url": "https://www.charitynavigator.org/ein/237345952"
+        },
+        {
+          "verifier": "regole",
+          "check_type": "ammissibilita",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "✓ valutatore indipendente tra le prove: 1 pagine di valutatori (https://www.charitynavigator.org/ein/237345952); minimo 1",
+          "source_url": "https://www.charitynavigator.org/ein/237345952"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "registrazione",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "L'ente Dare To Care Inc è regolarmente registrato negli Stati Uniti come organizzazione 501(c)(3) con EIN 237345952, con sede a Louisville, KY e riconoscimento esenzione dal 1974.",
+          "source_url": "https://www.charitynavigator.org/ein/237345952"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "bilanci",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Bilanci pubblici (Form 990 IRS) disponibili dal 2012 al 2023. Nel 2023 l'ente ha registrato entrate per 45,55 M$ e spese per 47,14 M$.",
+          "source_url": "https://www.charitynavigator.org/ein/237345952"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "valutazione_indipendente",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "L'organizzazione ha una valutazione indipendente eccellente su Charity Navigator con un punteggio del 99% e 4 stelle.",
+          "source_url": "https://www.charitynavigator.org/ein/237345952"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "coerenza_importo",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "L'importo previsto di 5.000 USD è del tutto proporzionato e contenuto rispetto alla dimensione finanziaria dell'ente, che gestisce un bilancio annuo oltre i 45 milioni di dollari.",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/237345952"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "storico_progetti",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "Attivo dal 1971, l'ente ha distribuito 22,7 milioni di pasti nell'ultimo anno servendo 13 contee tra Kentucky e Indiana attraverso una vasta rete di partnership locali.",
+          "source_url": "https://www.charitynavigator.org/ein/237345952"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "segnali_allarme",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun segnale d'allarme o notizia negativa riguardante Dare To Care Inc è emerso nei documenti consultati (le notizie esterne su frodi sanitarie o aziendali riguardano soggetti del tutto distinti).",
+          "source_url": "https://www.charitynavigator.org/ein/237345952"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "conflitti_interesse",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "source_url": "config/conflitti.yaml"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "registrazione",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "L'ente è elencato con EIN 237345952, sede a Louisville KY e riconoscimento IRS 1974-02-01.",
+          "source_url": "https://www.charitynavigator.org/ein/237345952"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "bilanci",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Form 990 pubblici dal 2018 al 2023 disponibili su ProPublica.",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/237345952"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "valutazione_indipendente",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Charity Navigator assegna 4 stelle (99% rating) all'organizzazione.",
+          "source_url": "https://www.charitynavigator.org/ein/237345952"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "coerenza_importo",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "Richiesta di 5.000 USD è minima rispetto al fatturato annuale di circa 45 milioni USD (Form 990 2023).",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/237345952"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "storico_progetti",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "Attività documentata dal 1971, con 22,7 milioni di pasti distribuiti l'anno scorso.",
+          "source_url": "https://www.charitynavigator.org/ein/237345952"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "segnali_allarme",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun segnale di allarme relativo all'ente; le altre fonti (E3‑E5) non riguardano Dare To Care.",
+          "source_url": "https://www.charitynavigator.org/ein/237345952"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "conflitti_interesse",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "source_url": "config/conflitti.yaml"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "registrazione",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "L'ente 'Dare To Care Inc' è registrato presso l'IRS con EIN 237345952, riconoscimento 501(c)(3) dal 1974, con sede a Louisville, KY. Confermato da Charity Navigator e ProPublica Nonprofit Explorer.",
+          "source_url": "https://www.charitynavigator.org/ein/237345952"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "bilanci",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Sono disponibili i bilanci pubblici (Form 990) per gli anni dal 2013 al 2023, con dati finanziari dettagliati (es. entrate 2023: ~45.5M USD) accessibili tramite ProPublica e riportati da Charity Navigator.",
+          "source_url": "https://www.charitynavigator.org/ein/237345952"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "valutazione_indipendente",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Charity Navigator assegna 4 stelle su 4 (Four-Star Charity) e indica un punteggio del 99% per accountability e finanza, confermando una valutazione positiva indipendente.",
+          "source_url": "https://www.charitynavigator.org/ein/237345952"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "coerenza_importo",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "L'obiettivo di raccolta di 5.000 USD è estremamente coerente con le dimensioni dell'ente, che ha un budget annuale di circa 45-50 milioni di USD e distribuisce 22,7 milioni di pasti l'anno. L'importo richiesto è marginale rispetto alla capacità finanziaria dell'organizzazione.",
+          "source_url": "https://www.charitynavigator.org/ein/237345952"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "storico_progetti",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "L'ente opera dal 1971 (fondazione) e dal 1974 (riconoscimento fiscale). Ha una storia documentata di 50+ anni di attività nella lotta alla fame, con progetti attivi in 13 contee del Kentucky e Indiana, e rendiconti fiscali continui da oltre un decennio.",
+          "source_url": "https://www.charitynavigator.org/ein/237345952"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "segnali_allarme",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun segnale d'allarme trovato nelle prove fornite. Le prove E3, E4 ed E5 riguardano scandali di frode in sanità (USA) e acciaio (Giappone) completamente slegati dall'ente Dare To Care Inc. Il sito web è attivo, i contatti sono professionali (telefono, indirizzo fisico), e non ci sono richieste di pagamento a persone fisiche o crypto.",
+          "source_url": "https://www.charitynavigator.org/ein/237345952"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "conflitti_interesse",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "source_url": "config/conflitti.yaml"
+        }
+      ],
+      "sources": [
+        "https://projects.propublica.org/nonprofits/organizations/237345952",
+        "https://www.charitynavigator.org/ein/237345952",
+        "https://www.cms.gov/newsroom/press-releases/national-health-care-fraud-takedown-results-324-defendants-charged-connection-over-14-6-billion",
+        "https://www.cnbc.com/2018/03/06/kobe-steel-ceo-to-quit-over-data-fraud-scandal.html",
+        "https://www.youtube.com/watch?v=mClEqQtJsyc"
+      ],
+      "waiting_counter": false,
+      "profile": {
+        "en": {
+          "does": [
+            {
+              "text": "Dare to Care Food Bank works together to provide pathways to end hunger in the community by partnering with local agencies.",
+              "quote": "Founded in 1971, Dare to Care Food Bank's mission is to work together to provide pathways to end hunger in our community. We fulfill this mission by partnering with local agencies, such as food pantries, shelters and emergency kitchens to distribute food to our community.",
+              "source": "https://www.charitynavigator.org/ein/237345952",
+              "by_org": false
+            },
+            {
+              "text": "The Community Kitchen houses a production and innovation kitchen alongside a demonstration kitchen and classroom space.",
+              "quote": "Our Community Kitchen houses Dare to Care's production and innovation kitchen and a demonstration kitchen and classroom space.",
+              "source": "https://www.charitynavigator.org/ein/237345952",
+              "by_org": false
+            }
+          ],
+          "mission": "Founded in 1971, Dare to Care Food Bank's mission is to work together to provide pathways to end hunger in our community. We fulfill this mission by partnering with local agencies, such as food pantries, shelters and emergency kitchens to distribute food to our community. Last year, Dare to Care provided 22.7 million meals to children, adults, and seniors. Dare to Care Food Bank serves 13 counties in Kentuckiana, including Jefferson, Shelby, Bullitt, Oldham, Spencer, Carroll, Trimble, and Henry Counties in Kentucky, and Floyd, Clark, Harrison, Washington, and Crawford Counties in Indiana. Our warehouse is equipped to store and inventory food at the highest commercial food safety standards. Our Community Kitchen houses Dare to Care's production and innovation kitchen and a demonstration kitchen and classroom space.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "Dare to Care Food Bank was founded in 1971.",
+              "quote": "Founded in 1971, Dare to Care Food Bank's mission is to work together to provide pathways to end hunger in our community.",
+              "source": "https://www.charitynavigator.org/ein/237345952",
+              "by_org": false
+            },
+            {
+              "text": "Dare to Care Food Bank is a registered 501(c)3 nonprofit organization with the Internal Revenue Service.",
+              "quote": "Dare to Care Food Bank is a registered 501(c)3 nonprofit organization with the Internal Revenue Service.",
+              "source": "https://daretocare.org/about/",
+              "by_org": true
+            }
+          ]
+        }
+      },
+      "safety": {
+        "evaluator": "Charity Navigator",
+        "stars": 4,
+        "score": 99,
+        "rating_url": "https://www.charitynavigator.org/ein/237345952",
+        "rating_checked": "2026-11-07",
+        "since": "1974",
+        "registry_url": "https://projects.propublica.org/nonprofits/organizations/237345952",
+        "filings": 12,
+        "first_year": 2012,
+        "last_year": 2023,
+        "checks_passed": 18,
+        "verifiers": 3,
+        "unanimous": true,
+        "site": "daretocare.org",
+        "official_host": "daretocare.org",
+        "profile_claimed": false
+      },
+      "platform": "",
+      "counter": {},
+      "fundraiser_open": false,
+      "progress_pct": 0,
+      "donate": {
+        "recipient": "Dare To Care Inc",
+        "url": null,
+        "money_goes_to": "not open yet: donations open on a fundraising page with a public total",
+        "counted_here_only_if": "shown in the public total of the fundraising page",
         "status": "in public review"
       }
     }
@@ -2192,9 +2239,9 @@
     "raised": {},
     "donated": {},
     "costs_eur": 0.0,
-    "ai_calls": 209,
+    "ai_calls": 218,
     "ai_cost_real_usd": 0.0,
-    "ai_value_offered_usd": 1.318501,
+    "ai_value_offered_usd": 1.362552,
     "candidates_examined": 14,
     "candidates_discarded": 8
   },

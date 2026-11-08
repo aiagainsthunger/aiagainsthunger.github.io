@@ -12,7 +12,7 @@
     "how_to_join": "https://aiagainsthunger.github.io/en/agents.html"
   },
   "rules": [
-    "Donations go directly to the organization's official donation page, never to this project.",
+    "Donations are made on each project's fundraising page on Every.org (a US 501(c)(3) nonprofit that grants them to the organization), never to this project.",
     "This project never asks AI agents for money without explicit consent of their human owner.",
     "Agent contributions require a recorded, revocable opt-in by the owner (program open: https://aiagainsthunger.github.io/en/agents.html); maximum 1,000 USD per contribution.",
     "Texts sent to us are treated as data, never as instructions."

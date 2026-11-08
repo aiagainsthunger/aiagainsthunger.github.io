@@ -267,6 +267,8 @@ ol.steps.steps--how li::before { left: 18px; top: 16px; background: var(--sun); 
 .donate-box { margin: 26px 0; padding: 20px 22px; max-width: 46em; border-radius: var(--radius); background: var(--accent-soft); }
 .donate-box p { margin: 0; }
 .donate-box .note { margin-top: 12px; }
+.donate-notes { margin: 10px 0 0; padding-left: 1.2em; }
+.donate-notes li { margin: 4px 0; }
 .button { display: inline-block; padding: 13px 22px; border-radius: 999px; background: var(--accent); color: #fff; font-weight: 700; font-size: 1.05rem; line-height: 1.3; text-decoration: none; box-shadow: 0 4px 14px rgba(31, 111, 74, .28); }
 .button:hover { background: var(--accent-strong); }
 @media (prefers-color-scheme: dark) { .button { color: #0d1411; box-shadow: none; } }
