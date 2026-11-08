@@ -338,3 +338,13 @@ a.src { font-size: .78rem; white-space: nowrap; }
 .safe-box ul { margin: 0; padding-left: 0; list-style: none; }
 .safe-box li { padding: 6px 0 6px 28px; position: relative; }
 .safe-box li::before { content: "✓"; position: absolute; left: 4px; top: 5px; color: var(--accent); font-weight: 800; }
+
+/* Aggiornamenti per email e pagina privacy (7/11/2026) */
+.updates-box { margin: 44px 0 0; padding: 22px 24px; max-width: 46em; border-radius: var(--radius); border-left: 5px solid var(--sun); background: var(--warm-soft); }
+.updates-box h2 { margin-top: 0; }
+.updates-box .cta { margin: 4px 0; }
+.updates-box p:last-child { margin-bottom: 0; }
+.privacy { max-width: 46em; }
+.privacy section { padding: 14px 0; border-bottom: 1px solid var(--line); }
+.privacy h2 { margin: 0 0 6px; font-size: 1.15rem; }
+.privacy p { margin: 0; }
