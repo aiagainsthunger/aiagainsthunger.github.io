@@ -392,3 +392,7 @@ a.src { font-size: .78rem; white-space: nowrap; }
 @media (max-width: 380px) {
   .team { padding: 16px 12px 14px; }
 }
+
+/* Come funziona: la squadra che fa il passo, con la mini foto (8/11/2026) */
+.step-team { display: flex; align-items: center; gap: 8px; margin: 6px 0 4px; font-size: .86rem; font-weight: 650; color: var(--muted); }
+.step-team-photo { width: 28px; height: 28px; border-radius: 50%; object-fit: cover; flex: none; }
