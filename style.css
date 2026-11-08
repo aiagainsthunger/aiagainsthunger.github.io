@@ -171,7 +171,10 @@ main { display: block; }
 .page-body { padding-top: 36px; padding-bottom: 64px; }
 .page-body::after { content: ""; display: table; clear: both; }
 .page-body > :first-child:not(.stats), .page-body > :first-child > h2:first-child { margin-top: 0; }
-.page-body > p, .page-body > ol, .page-body > ul { max-width: 46em; }
+.page-body > p, .page-body > ol, .page-body > ul,
+.page-main > p, .page-main > ol, .page-main > ul { max-width: 46em; }
+.page-main { min-width: 0; }
+.page-main > :first-child, .page-main > :first-child > h2:first-child { margin-top: 0; }
 
 .counters { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 180px), 1fr)); gap: 14px; margin: 0 0 8px; }
 .counters--main { grid-template-columns: repeat(4, minmax(0, 1fr)); }
@@ -348,3 +351,43 @@ a.src { font-size: .78rem; white-space: nowrap; }
 .privacy section { padding: 14px 0; border-bottom: 1px solid var(--line); }
 .privacy h2 { margin: 0 0 6px; font-size: 1.15rem; }
 .privacy p { margin: 0; }
+
+/* "La squadra" (8/11/2026): Segugi, Cani da guardia, Cani da tartufo. Nell'HTML viene dopo il contenuto
+   (ordine di lettura): sotto il contenuto su telefono e tablet, colonna laterale da 1024 px in su. */
+.page-body--team > .stats { margin-bottom: 52px; }  /* il primo elemento delle colonne non ha margine sopra */
+.team { margin-top: 52px; padding: 20px 18px 18px; border-radius: 24px; background: var(--surface-2); }
+.team h2 { margin: 0 0 4px; font-size: 1.3rem; clear: none; }
+.team-intro { margin: 0 0 14px; color: var(--muted); font-size: .92rem; line-height: 1.5; }
+.team-list { list-style: none; margin: 0; padding: 0; display: grid; gap: 12px; }
+.team-card {
+  --ring: var(--accent);
+  display: grid; grid-template-columns: 68px minmax(0, 1fr); grid-template-areas: "photo name" "text text" "link link";
+  column-gap: 14px; align-items: center; padding: 14px 14px 14px; background: var(--surface);
+  border: 1px solid var(--line); border-radius: var(--radius); box-shadow: var(--shadow);
+}
+.team-card--guardia { --ring: var(--blue); }
+.team-card--tartufo { --ring: var(--warm); }
+.team-card h3 { grid-area: name; margin: 0; font-size: 1.06rem; line-height: 1.25; }
+/* foto rotonda con un anello del colore della squadra (le foto sono 240 px: nitide fino a ~120 px) */
+.team-photo { grid-area: photo; width: 62px; height: 62px; margin: 3px; border-radius: 50%; object-fit: cover; box-shadow: 0 0 0 2px var(--surface), 0 0 0 4px var(--ring); }
+.team-card p { grid-area: text; margin: 10px 0 6px; font-size: .92rem; line-height: 1.5; }
+.team-card a { grid-area: link; justify-self: start; font-size: .9rem; font-weight: 650; line-height: 1.4; }
+@media (min-width: 640px) and (max-width: 1023px) {
+  /* tablet: le tre schede in fila, foto sopra il nome */
+  .team-list { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+  .team-card { grid-template-columns: minmax(0, 1fr); grid-template-areas: "photo" "name" "text" "link"; align-items: start; align-content: start; }
+  .team-photo { width: 84px; height: 84px; margin: 3px 3px 12px; }
+}
+@media (min-width: 1024px) {
+  .page-body--team { display: grid; grid-template-columns: minmax(0, 1fr) 300px; column-gap: 40px; align-items: start; }
+  .page-body--team::after { display: none; }  /* niente clearfix dentro la griglia */
+  .page-body--team > :not(.page-main):not(.team) { grid-column: 1 / -1; }  /* contatori e didascalia a tutta larghezza */
+  .page-body--team .team { margin-top: 0; }
+  .page-body--team .steps--how { grid-template-columns: repeat(2, minmax(0, 1fr)); }  /* 2 + 2, non 3 + 1 */
+  /* colonna più stretta: testo e mosaico uno sopra l'altro, il testo resta leggibile */
+  .page-body--team .split { grid-template-columns: minmax(0, 1fr); gap: 0; }
+  .page-body--team .mosaic { margin-top: 28px; }
+}
+@media (max-width: 380px) {
+  .team { padding: 16px 12px 14px; }
+}
