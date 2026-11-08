@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T12:36:07.976686+00:00",
+  "generated_at": "2026-11-08T17:13:53.250761+00:00",
   "projects": [
     {
       "slug": "support-mamas-kitchen-against-hunger-481",
@@ -845,7 +845,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-08T07:58:08.788320+00:00",
+        "read_at": "2026-11-08T14:04:04.499771+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -887,7 +887,18 @@
       "source_url": "https://www.charitynavigator.org/ein/930584318",
       "approved_on": "2026-11-08",
       "review_until": "2026-11-11 09:08 UTC",
-      "translations": {},
+      "translations": {
+        "en": {
+          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'site:charitynavigator.org Rating for meals on wheels seniors nutrition'.",
+          "title": "Support Meals On Wheels People Inc against hunger",
+          "source": "originale"
+        },
+        "it": {
+          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'site:charitynavigator.org Rating for meals on wheels seniors nutrition'.",
+          "title": "Sostieni Meals On Wheels People Inc contro la fame",
+          "source": "traduzione AI"
+        }
+      },
       "tranches": [],
       "checks": [
         {
@@ -1158,7 +1169,13 @@
       "source_url": "https://www.charitynavigator.org/ein/202893390",
       "approved_on": "2026-11-08",
       "review_until": "2026-11-11 10:06 UTC",
-      "translations": {},
+      "translations": {
+        "en": {
+          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'Every.org: food-security'.",
+          "title": "Support New Hope Community Ministries A Nj Nonprofit Corp against hunger",
+          "source": "originale"
+        }
+      },
       "tranches": [],
       "checks": [
         {
@@ -1443,7 +1460,43 @@
       "source_url": "https://www.charitynavigator.org/ein/930785786",
       "approved_on": "2026-11-08",
       "review_until": "2026-11-11 09:06 UTC",
-      "translations": {},
+      "translations": {
+        "de": {
+          "text": "Organisation bewertet von Charity Navigator, gefunden von den Agenten mit: 'site:charitynavigator.org Rating for ending hunger'.",
+          "title": "Unterstützen Sie Oregon Food Bank Inc im Kampf gegen den Hunger",
+          "source": "traduzione AI"
+        },
+        "en": {
+          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'site:charitynavigator.org Rating for ending hunger'.",
+          "title": "Support Oregon Food Bank Inc against hunger",
+          "source": "originale"
+        },
+        "es": {
+          "text": "Entidad evaluada por Charity Navigator, encontrada por los agentes con: 'site:charitynavigator.org Rating for ending hunger'.",
+          "title": "Apoya a Oregon Food Bank Inc contra el hambre",
+          "source": "traduzione AI"
+        },
+        "fr": {
+          "text": "Organisation évaluée par Charity Navigator, trouvée par les agents avec : 'site:charitynavigator.org Rating for ending hunger'.",
+          "title": "Soutenez Oregon Food Bank Inc contre la faim",
+          "source": "traduzione AI"
+        },
+        "it": {
+          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'site:charitynavigator.org Rating for ending hunger'.",
+          "title": "Sostieni Oregon Food Bank Inc contro la fame",
+          "source": "traduzione AI"
+        },
+        "ru": {
+          "text": "Организация, оцененная Charity Navigator, найденная агентами с помощью: 'site:charitynavigator.org Rating for ending hunger'.",
+          "title": "Поддержите Oregon Food Bank Inc в борьбе с голодом",
+          "source": "traduzione AI"
+        },
+        "zh": {
+          "text": "由 Charity Navigator 评估的机构，代理人通过以下方式找到：'site:charitynavigator.org Rating for ending hunger'。",
+          "title": "支持 Oregon Food Bank Inc 对抗饥饿",
+          "source": "traduzione AI"
+        }
+      },
       "tranches": [],
       "checks": [
         {
@@ -2009,6 +2062,72 @@
             {
               "text": "GFN launched in 2006, and now works with partners in over 50 countries to recover and redirect food.",
               "quote": "When GFN launched in 2006, the concept of a “food bank” was unknown in many parts of the world. Now, GFN works with partners in over 50 countries to recover and redirect food to those who need it.",
+              "source": "https://www.foodbanking.org/about-gfn/",
+              "by_org": true
+            }
+          ]
+        },
+        "fr": {
+          "does": [
+            {
+              "text": "Le The Global FoodBanking Network unit et fait progresser les banques alimentaires pour nourrir les affamés du monde.",
+              "source": "https://www.charitynavigator.org/ein/204268851",
+              "by_org": false
+            },
+            {
+              "text": "Au cours de l'exercice 2023, les banques alimentaires membres du GFN ont récupéré plus de 648 M kilos d’aliments et de produits d’épicerie et ont redirigé cet excédent vers environ 32 millions de personnes confrontées à la faim.",
+              "source": "https://www.charitynavigator.org/ein/204268851",
+              "by_org": false
+            },
+            {
+              "text": "En 2025, 40,5 millions de personnes ont accédé à la nourriture via une banque alimentaire membre du GFN.",
+              "source": "https://www.foodbanking.org/",
+              "by_org": true
+            }
+          ],
+          "mission": "La mission du The Global FoodBanking Network est de nourrir les affamés du monde en unissant et en faisant progresser les banques alimentaires. Nous avons été créés par une collaboration de réseaux de banques alimentaires aux États‑Unis, au Mexique, au Canada et en Argentine, et par la conviction que les solutions communautaires contre la faim doivent être pertinentes à l’échelle mondiale. Aujourd’hui, nous sommes un réseau actif dans près de 50 pays. Au cours de l'exercice 2023, les banques alimentaires membres du GFN ont récupéré plus de 648 M kilos d’aliments et de produits d’épicerie et ont redirigé cet excédent vers environ 32 millions de personnes confrontées à la faim.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "L'organisation a été créée par une collaboration de réseaux de banques alimentaires aux États‑Unis, au Mexique, au Canada et en Argentine.",
+              "source": "https://www.charitynavigator.org/ein/204268851",
+              "by_org": false
+            },
+            {
+              "text": "Le GFN a été lancé en 2006 et travaille aujourd’hui avec des partenaires dans plus de 50 pays pour récupérer et rediriger les aliments.",
+              "source": "https://www.foodbanking.org/about-gfn/",
+              "by_org": true
+            }
+          ]
+        },
+        "it": {
+          "does": [
+            {
+              "text": "The Global FoodBanking Network unisce e potenzia le banche alimentari per nutrire le persone affamate del mondo.",
+              "source": "https://www.charitynavigator.org/ein/204268851",
+              "by_org": false
+            },
+            {
+              "text": "Nel FY 2023, le banche alimentari membri di GFN hanno recuperato oltre 648M chili di cibo e prodotti alimentari e hanno reindirizzato questo surplus a circa 32 milioni di persone che affrontano la fame.",
+              "source": "https://www.charitynavigator.org/ein/204268851",
+              "by_org": false
+            },
+            {
+              "text": "Nel 2025, 40,5 milioni di persone hanno avuto accesso al cibo tramite una banca alimentare membro di GFN.",
+              "source": "https://www.foodbanking.org/",
+              "by_org": true
+            }
+          ],
+          "mission": "La missione di The Global FoodBanking Network è nutrire le persone affamate del mondo attraverso l’unione e il potenziamento delle banche alimentari. Siamo nati da una collaborazione di reti di banche alimentari negli U.S., Messico, Canada e Argentina, e dalla convinzione che le soluzioni guidate dalla comunità per la fame debbano essere rilevanti in tutto il globo. Ora siamo una rete attiva in quasi 50 paesi. Nell'anno fiscale FY 2023, le banche alimentari membri di GFN hanno recuperato oltre 648M chili di cibo e prodotti alimentari e hanno reindirizzato questo surplus a circa 32 milioni di persone che affrontano la fame.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "L'organizzazione è stata avviata da una collaborazione di reti di banche alimentari negli U.S., Messico, Canada e Argentina.",
+              "source": "https://www.charitynavigator.org/ein/204268851",
+              "by_org": false
+            },
+            {
+              "text": "GFN è stata lanciata nel 2006 e ora collabora con partner in oltre 50 paesi per recuperare e reindirizzare il cibo.",
               "source": "https://www.foodbanking.org/about-gfn/",
               "by_org": true
             }
@@ -3665,6 +3784,50 @@
           "mission": "Facing Hunger Foodbank è un'organizzazione privata, senza scopo di lucro e benefica fondata nel 1983 e incorporata in West Virginia. In precedenza conosciuta come Huntington Area Food Bank, la banca alimentare serviva inizialmente le contee di Cabell e Wayne. Il bisogno era così grande nella regione che la banca alimentare ha ampliato la sua area di servizio dopo appena il suo primo anno di attività. L'area di servizio della banca alimentare attualmente comprende quasi 240 agenzie in 17 contee in West Virginia, nel Kentucky orientale e nel sud‑est dell'Ohio. Dichiarazione di missione: La nostra missione è combattere l'insicurezza alimentare nelle comunità svantaggiate e rurali fornendo cibo sano, collegando i vicini alle risorse essenziali e promuovendo speranza attraverso il servizio, la partnership e la compassione.",
           "does_not": [],
           "strengths": []
+        },
+        "ru": {
+          "does": [
+            {
+              "text": "Организация была основана в 1983 году как частная некоммерческая организация, зарегистрированная в West Virginia.",
+              "source": "https://www.charitynavigator.org/ein/550625915",
+              "by_org": false
+            },
+            {
+              "text": "Организация обслуживает почти 240 агентств в 17 округах West Virginia, eastern Kentucky и southeastern Ohio.",
+              "source": "https://www.charitynavigator.org/ein/550625915",
+              "by_org": false
+            },
+            {
+              "text": "Банк продовольствия стремится решить проблему продовольственной небезопасности в сельских и недостаточно обслуживаемых районах, поставляя здоровую пищу и соединяя сообщества с ресурсами.",
+              "source": "https://www.charitynavigator.org/ein/550625915",
+              "by_org": false
+            }
+          ],
+          "mission": "Facing Hunger Foodbank — частная некоммерческая благотворительная организация, основанная в 1983 году и зарегистрированная в West Virginia. Ранее известный как Huntington Area Food Bank, банк продовольствия изначально обслуживал Cabell и Wayne Counties. Потребность в регионе была настолько велика, что банк продовольствия расширил свою зону обслуживания уже после первого года работы. В настоящее время зона обслуживания банка продовольствия включает почти 240 агентств в 17 округах West Virginia, eastern Kentucky и southeastern Ohio. Заявление о миссии: Наша миссия — бороться с продовольственной небезопасностью в недостаточно обслуживаемых и сельских сообществах, предоставляя здоровую пищу, соединяя соседей с необходимыми ресурсами и вселяя надежду через сервис, партнёрство и сострадание.",
+          "does_not": [],
+          "strengths": []
+        },
+        "zh": {
+          "does": [
+            {
+              "text": "该组织成立于 1983 年，作为一家在西弗吉尼亚州注册的私人非营利实体。",
+              "source": "https://www.charitynavigator.org/ein/550625915",
+              "by_org": false
+            },
+            {
+              "text": "该组织在西弗吉尼亚州、东肯塔基州和东南俄亥俄州的 17 个县内为近 240 家机构提供服务。",
+              "source": "https://www.charitynavigator.org/ein/550625915",
+              "by_org": false
+            },
+            {
+              "text": "该食品银行旨在通过提供健康食品并将社区与资源连接起来，解决农村和服务不足地区的粮食不安全问题。",
+              "source": "https://www.charitynavigator.org/ein/550625915",
+              "by_org": false
+            }
+          ],
+          "mission": "Facing Hunger Foodbank 是一家私人、非营利、慈善组织，成立于 1983 年，注册于西弗吉尼亚州。此前名为 Huntington Area Food Bank，最初为 Cabell 和 Wayne 两县提供服务。该地区需求极大，以至于食品银行在运营第一年后就扩大了服务范围。食品银行的服务区域目前包括西弗吉尼亚州、东肯塔基州和东南俄亥俄州的 17 个县内近 240 家机构。使命宣言：我们的使命是通过提供健康食品、将邻居与必要资源连接起来，并通过服务、合作和同情心来培养希望，以此在服务不足和农村社区中抗击粮食不安全。",
+          "does_not": [],
+          "strengths": []
         }
       },
       "safety": {
@@ -3714,7 +3877,13 @@
       "source_url": "https://www.charitynavigator.org/ein/560953324",
       "approved_on": "2026-11-08",
       "review_until": "2026-11-11 09:04 UTC",
-      "translations": {},
+      "translations": {
+        "en": {
+          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'site:charitynavigator.org Rating for smallholder farmers hunger agriculture'.",
+          "title": "Support Feed The Hunger Inc against hunger",
+          "source": "originale"
+        }
+      },
       "tranches": [],
       "checks": [
         {
@@ -3998,7 +4167,58 @@
       "source_url": "https://www.charitynavigator.org/ein/363673599",
       "approved_on": "2026-11-08",
       "review_until": "2026-11-11 09:06 UTC",
-      "translations": {},
+      "translations": {
+        "de": {
+          "text": "Organisation bewertet von Charity Navigator, gefunden von den Agenten mit: 'site:charitynavigator.org Rating for food bank feeding'.",
+          "title": "Unterstützen Sie Feeding America im Kampf gegen den Hunger",
+          "source": "traduzione AI"
+        },
+        "en": {
+          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'site:charitynavigator.org Rating for food bank feeding'.",
+          "title": "Support Feeding America against hunger",
+          "source": "originale"
+        },
+        "es": {
+          "text": "Entidad evaluada por Charity Navigator, encontrada por los agentes con: 'site:charitynavigator.org Rating for food bank feeding'.",
+          "title": "Apoya a Feeding America contra el hambre",
+          "source": "traduzione AI"
+        },
+        "fr": {
+          "text": "Organisation évaluée par Charity Navigator, trouvée par les agents avec : 'site:charitynavigator.org Rating for food bank feeding'.",
+          "title": "Soutenir Feeding America contre la faim",
+          "source": "traduzione AI"
+        },
+        "hi": {
+          "text": "Charity Navigator द्वारा मूल्यांकित संस्था, एजेंटों द्वारा मिली: 'site:charitynavigator.org Rating for food bank feeding'।",
+          "title": "भूख के खिलाफ Feeding America का समर्थन करें",
+          "source": "traduzione AI"
+        },
+        "it": {
+          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'site:charitynavigator.org Rating for food bank feeding'.",
+          "title": "Sostieni Feeding America contro la fame",
+          "source": "traduzione AI"
+        },
+        "ja": {
+          "text": "Charity Navigator によって評価された団体で、エージェントが次の検索で見つけました: 'site:charitynavigator.org Rating for food bank feeding'.",
+          "title": "飢餓に対抗する Feeding America を支援する",
+          "source": "traduzione AI"
+        },
+        "pt": {
+          "text": "Entidade avaliada pela Charity Navigator, encontrada pelos agentes com: 'site:charitynavigator.org Rating for food bank feeding'.",
+          "title": "Apoie a Feeding America contra a fome",
+          "source": "traduzione AI"
+        },
+        "ru": {
+          "text": "Организация, оцененная Charity Navigator, найденная агентами с помощью: 'site:charitynavigator.org Rating for food bank feeding'.",
+          "title": "Поддержите Feeding America в борьбе с голодом",
+          "source": "traduzione AI"
+        },
+        "zh": {
+          "text": "该机构由 Charity Navigator 评估，代理人通过以下方式找到：'site:charitynavigator.org Rating for food bank feeding'。",
+          "title": "支持 Feeding America 对抗饥饿",
+          "source": "traduzione AI"
+        }
+      },
       "tranches": [],
       "checks": [
         {
@@ -4196,6 +4416,33 @@
       ],
       "waiting_counter": false,
       "profile": {
+        "de": {
+          "does": [
+            {
+              "text": "Lebensmittelverteilungen bieten kostenlose Lebensmittel und Lebensmittelprodukte für Einzelpersonen und Familien an und stellen genug Nahrung für 2 bis 3 Tage zur Verfügung.",
+              "source": "https://www.feedingamerica.org/our-work/hunger-relief-programs",
+              "by_org": true
+            },
+            {
+              "text": "Mobile Tafeln bringen kostenlose Lebensmittel und Lebensmittelprodukte direkt in Stadtteile, in denen Tafeln und Geschäfte schwer zu finden sind.",
+              "source": "https://www.feedingamerica.org/our-work/hunger-relief-programs",
+              "by_org": true
+            },
+            {
+              "text": "BackPack-Programme bieten Kindern kostenlose, leicht zuzubereiten Mahlzeiten für Wochenenden und Schulferien.",
+              "source": "https://www.feedingamerica.org/our-work/hunger-relief-programs",
+              "by_org": true
+            },
+            {
+              "text": "Kids Cafes bieten Kindern nach der Schule, an Wochenenden und im Sommer kostenlose Mahlzeiten an und bieten gleichzeitig Aktivitäten und Nachhilfe an.",
+              "source": "https://www.feedingamerica.org/our-work/hunger-relief-programs",
+              "by_org": true
+            }
+          ],
+          "mission": "Unsere Mission ist es, Veränderungen in Amerika voranzutreiben, indem wir für einen fairen Zugang zu nahrhaften Lebensmitteln für alle sorgen, in Zusammenarbeit mit Tafeln, politischen Entscheidungsträgern, Unterstützern und den Gemeinschaften, denen wir dienen.",
+          "does_not": [],
+          "strengths": []
+        },
         "en": {
           "does": [
             {
@@ -4224,6 +4471,141 @@
             }
           ],
           "mission": "Our mission is to advance change in America by ensuring fair access to nutritious food for all, in partnership with food banks, policymakers, supporters and the communities we serve.",
+          "does_not": [],
+          "strengths": []
+        },
+        "es": {
+          "does": [
+            {
+              "text": "Las distribuciones de alimentos ofrecen comida y comestibles gratuitos a individuos y familias, proporcionando suficiente alimento para durar de 2 a 3 días.",
+              "source": "https://www.feedingamerica.org/our-work/hunger-relief-programs",
+              "by_org": true
+            },
+            {
+              "text": "Los despensas móviles llevan comida y comestibles gratuitos directamente a los vecindarios donde es difícil encontrar despensas de alimentos y tiendas.",
+              "source": "https://www.feedingamerica.org/our-work/hunger-relief-programs",
+              "by_org": true
+            },
+            {
+              "text": "Los programas BackPack brindan a los niños comidas gratuitas y fáciles de preparar para los fines de semana y los recesos escolares.",
+              "source": "https://www.feedingamerica.org/our-work/hunger-relief-programs",
+              "by_org": true
+            },
+            {
+              "text": "Los Kids Cafes ofrecen comidas gratuitas a los niños después de la escuela, los fines de semana y durante el verano, además de proporcionar actividades y tutorías.",
+              "source": "https://www.feedingamerica.org/our-work/hunger-relief-programs",
+              "by_org": true
+            }
+          ],
+          "mission": "Nuestra misión es impulsar el cambio en Estados Unidos asegurando un acceso justo a alimentos nutritivos para todos, en asociación con bancos de alimentos, legisladores, simpatizantes y las comunidades a las que servimos.",
+          "does_not": [],
+          "strengths": []
+        },
+        "fr": {
+          "does": [
+            {
+              "text": "Les distributions alimentaires offrent de la nourriture et des produits d'épicerie gratuits aux particuliers et aux familles, fournissant suffisamment de nourriture pour durer 2 à 3 jours.",
+              "source": "https://www.feedingamerica.org/our-work/hunger-relief-programs",
+              "by_org": true
+            },
+            {
+              "text": "Les épiceries mobiles apportent de la nourriture et des produits d'épicerie gratuits directement aux quartiers où les banques alimentaires et les magasins sont difficiles à trouver.",
+              "source": "https://www.feedingamerica.org/our-work/hunger-relief-programs",
+              "by_org": true
+            },
+            {
+              "text": "Les programmes BackPack offrent aux enfants des repas gratuits et faciles à préparer pour les week-ends et les vacances scolaires.",
+              "source": "https://www.feedingamerica.org/our-work/hunger-relief-programs",
+              "by_org": true
+            },
+            {
+              "text": "Les Kids Cafes offrent des repas gratuits aux enfants après l'école, le week-end et pendant l'été, tout en proposant des activités et du tutorat.",
+              "source": "https://www.feedingamerica.org/our-work/hunger-relief-programs",
+              "by_org": true
+            }
+          ],
+          "mission": "Notre mission est de promouvoir le changement en Amérique en garantissant un accès équitable à une alimentation nutritive pour tous, en partenariat avec les banques alimentaires, les décideurs, les soutiens et les communautés que nous servons.",
+          "does_not": [],
+          "strengths": []
+        },
+        "it": {
+          "does": [
+            {
+              "text": "Le distribuzioni di cibo offrono cibo e generi alimentari gratuiti a individui e famiglie, fornendo una quantità sufficiente per durare 2‑3 giorni.",
+              "source": "https://www.feedingamerica.org/our-work/hunger-relief-programs",
+              "by_org": true
+            },
+            {
+              "text": "Le dispense mobili portano cibo e generi alimentari gratuiti direttamente nei quartieri dove le dispense alimentari e i negozi sono difficili da trovare.",
+              "source": "https://www.feedingamerica.org/our-work/hunger-relief-programs",
+              "by_org": true
+            },
+            {
+              "text": "I programmi BackPack forniscono ai bambini pasti gratuiti e facili da preparare per i fine settimana e le vacanze scolastiche.",
+              "source": "https://www.feedingamerica.org/our-work/hunger-relief-programs",
+              "by_org": true
+            },
+            {
+              "text": "I Kids Cafes offrono pasti gratuiti ai bambini dopo la scuola, nei fine settimana e durante l’estate, fornendo anche attività e tutoraggio.",
+              "source": "https://www.feedingamerica.org/our-work/hunger-relief-programs",
+              "by_org": true
+            }
+          ],
+          "mission": "La nostra missione è promuovere il cambiamento in America garantendo a tutti un accesso equo a cibo nutriente, in collaborazione con le banche alimentari, i responsabili delle politiche, i sostenitori e le comunità che serviamo.",
+          "does_not": [],
+          "strengths": []
+        },
+        "ru": {
+          "does": [
+            {
+              "text": "Food distributions предлагают бесплатную еду и продукты отдельным лицам и семьям, обеспечивая достаточное количество пищи на 2‑3 дня.",
+              "source": "https://www.feedingamerica.org/our-work/hunger-relief-programs",
+              "by_org": true
+            },
+            {
+              "text": "Mobile pantries доставляют бесплатную еду и продукты непосредственно в районы, где трудно найти продовольственные пункты и магазины.",
+              "source": "https://www.feedingamerica.org/our-work/hunger-relief-programs",
+              "by_org": true
+            },
+            {
+              "text": "BackPack programs предоставляют детям бесплатные, легко готовящиеся блюда на выходные и школьные каникулы.",
+              "source": "https://www.feedingamerica.org/our-work/hunger-relief-programs",
+              "by_org": true
+            },
+            {
+              "text": "Kids Cafes предлагают бесплатные обеды детям после школы, в выходные и летом, одновременно предоставляя занятия и репетиторство.",
+              "source": "https://www.feedingamerica.org/our-work/hunger-relief-programs",
+              "by_org": true
+            }
+          ],
+          "mission": "Наша миссия — способствовать изменениям в Америке, обеспечивая справедливый доступ к питательной еде для всех, в партнерстве с продовольственными банками, законодателями, сторонниками и сообществами, которым мы служим.",
+          "does_not": [],
+          "strengths": []
+        },
+        "zh": {
+          "does": [
+            {
+              "text": "食品分发向个人和家庭提供免费食品和杂货，提供足够维持 2 到 3 天的食物。",
+              "source": "https://www.feedingamerica.org/our-work/hunger-relief-programs",
+              "by_org": true
+            },
+            {
+              "text": "Mobile pantries 将免费食品和杂货直接送到食品柜台和商店难以找到的社区。",
+              "source": "https://www.feedingamerica.org/our-work/hunger-relief-programs",
+              "by_org": true
+            },
+            {
+              "text": "BackPack programs 为儿童提供免费、易于制作的周末和学校假期餐点。",
+              "source": "https://www.feedingamerica.org/our-work/hunger-relief-programs",
+              "by_org": true
+            },
+            {
+              "text": "Kids Cafes 为儿童提供课后、周末和夏季的免费餐点，同时提供活动和辅导。",
+              "source": "https://www.feedingamerica.org/our-work/hunger-relief-programs",
+              "by_org": true
+            }
+          ],
+          "mission": "我们的使命是通过与食品银行、政策制定者、支持者以及我们服务的社区合作，确保所有人公平获取营养食品，从而在America推动变革。",
           "does_not": [],
           "strengths": []
         }
@@ -4511,11 +4893,11 @@
     },
     "donated": {},
     "costs_eur": 0.0,
-    "ai_calls": 309,
+    "ai_calls": 346,
     "ai_cost_real_usd": 0.0,
-    "ai_value_offered_usd": 2.379799,
-    "candidates_examined": 33,
-    "candidates_discarded": 20
+    "ai_value_offered_usd": 2.454064,
+    "candidates_examined": 34,
+    "candidates_discarded": 21
   },
   "agent_program": {
     "join": "https://aiagainsthunger.github.io/en/agents.html",
