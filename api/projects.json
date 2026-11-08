@@ -1,906 +1,6 @@
 {
-  "generated_at": "2026-11-08T10:24:13.186149+00:00",
+  "generated_at": "2026-11-08T12:07:25.979079+00:00",
   "projects": [
-    {
-      "slug": "support-facing-hunger-foodbank-inc-against-hunger-939",
-      "title": "Support Facing Hunger Foodbank Inc against hunger",
-      "description": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'site:charitynavigator.org Rating for smallholder farmers hunger agriculture'.",
-      "org_name": "Facing Hunger Foodbank Inc",
-      "org_country": "US",
-      "org_website": "https://facinghunger.org/",
-      "country": "US",
-      "currency": "USD",
-      "goal": 5000.0,
-      "raised": 0.0,
-      "donated": 0.0,
-      "status": "revisione_pubblica",
-      "donation_url": null,
-      "source_url": "https://www.charitynavigator.org/ein/550625915",
-      "approved_on": "2026-11-07",
-      "review_until": "2026-11-10 14:04 UTC",
-      "translations": {
-        "de": {
-          "text": "Organisation bewertet von Charity Navigator, gefunden von den Agenten mit: 'site:charitynavigator.org Rating for smallholder farmers hunger agriculture'.",
-          "title": "Unterstützen Sie Facing Hunger Foodbank Inc gegen den Hunger",
-          "source": "traduzione AI"
-        },
-        "en": {
-          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'site:charitynavigator.org Rating for smallholder farmers hunger agriculture'.",
-          "title": "Support Facing Hunger Foodbank Inc against hunger",
-          "source": "originale"
-        },
-        "es": {
-          "text": "Entidad evaluada por Charity Navigator, encontrada por los agentes con: 'site:charitynavigator.org Rating for smallholder farmers hunger agriculture'.",
-          "title": "Apoya a Facing Hunger Foodbank Inc contra el hambre",
-          "source": "traduzione AI"
-        },
-        "fr": {
-          "text": "Organisation évaluée par Charity Navigator, trouvée par les agents avec : 'site:charitynavigator.org Rating for smallholder farmers hunger agriculture'.",
-          "title": "Soutenez Facing Hunger Foodbank Inc contre la faim",
-          "source": "traduzione AI"
-        },
-        "hi": {
-          "text": "Charity Navigator द्वारा मूल्यांकित संस्था, एजेंटों द्वारा पाया गया: 'site:charitynavigator.org Rating for smallholder farmers hunger agriculture'.",
-          "title": "Facing Hunger Foodbank Inc का समर्थन करें भूख के खिलाफ",
-          "source": "traduzione AI"
-        },
-        "it": {
-          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'site:charitynavigator.org Rating for smallholder farmers hunger agriculture'.",
-          "title": "Sostieni Facing Hunger Foodbank Inc contro la fame",
-          "source": "traduzione AI"
-        },
-        "ja": {
-          "text": "Charity Navigator によって評価された団体で、エージェントが次の検索で見つけました: 'site:charitynavigator.org Rating for smallholder farmers hunger agriculture'。",
-          "title": "Facing Hunger Foodbank Inc を飢餓から支援する",
-          "source": "traduzione AI"
-        },
-        "pt": {
-          "text": "Entidade avaliada pela Charity Navigator, encontrada pelos agentes com: 'site:charitynavigator.org Rating for smallholder farmers hunger agriculture'.",
-          "title": "Apoie Facing Hunger Foodbank Inc contra a fome",
-          "source": "traduzione AI"
-        },
-        "ru": {
-          "text": "Организация, оцененная Charity Navigator, найденная агентами с помощью: 'site:charitynavigator.org Rating for smallholder farmers hunger agriculture'.",
-          "title": "Поддержите Facing Hunger Foodbank Inc в борьбе с голодом",
-          "source": "traduzione AI"
-        },
-        "zh": {
-          "text": "该机构由 Charity Navigator 评估，代理人通过以下方式找到：'site:charitynavigator.org Rating for smallholder farmers hunger agriculture'。",
-          "title": "支持 Facing Hunger Foodbank Inc 对抗饥饿",
-          "source": "traduzione AI"
-        }
-      },
-      "tranches": [],
-      "checks": [
-        {
-          "verifier": "regole",
-          "check_type": "ammissibilita",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Regole di ammissibilità (config/regole.yaml):\n✓ fonte ammessa: fonte 'valutatore'\n✓ ente registrato nel database: Facing Hunger Foodbank Inc\n✓ codice fiscale verificato (IRS): EIN 550625915\n✓ ente valutato dal valutatore: Charity Navigator\n✓ voto del valutatore: 98%, 4 stelle su 4 (minimo 4 stelle e 90%)\n✓ anni di bilanci ufficiali: 14 anni [2019, 2020, 2021, 2022, 2023] (minimo 3)\n✓ tema fame / nutrizione: categoria IRS - (richiesta ['K']); tema nel nome: True",
-          "source_url": "https://www.charitynavigator.org/ein/550625915"
-        },
-        {
-          "verifier": "regole",
-          "check_type": "ammissibilita",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "✓ valutatore indipendente tra le prove: 1 pagine di valutatori (https://www.charitynavigator.org/ein/550625915); minimo 1",
-          "source_url": "https://www.charitynavigator.org/ein/550625915"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "registrazione",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "L'ente Facing Hunger Foodbank Inc risulta regolarmente registrato negli Stati Uniti come organizzazione 501(c)(3) con EIN 550625915 e data di riconoscimento IRS 1984-02-01.",
-          "source_url": "https://www.charitynavigator.org/ein/550625915"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "bilanci",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Sono presenti bilanci pubblici pluriennali recenti (Form 990 IRS), inclusi gli anni 2018, 2019, 2021, 2022 e 2023, consultabili tramite ProPublica Nonprofit Explorer.",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/550625915"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "valutazione_indipendente",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "L'ente ha ottenuto una valutazione positiva di eccellenza, con il massimo riconoscimento (Four-Star, 100% Rating) da parte di Charity Navigator.",
-          "source_url": "https://www.charitynavigator.org/ein/550625915"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "coerenza_importo",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "L'obiettivo di raccolta previsto di 5000 USD risulta assolutamente coerente e sostenibile rispetto alle dimensioni e al volume d'affari dell'ente (milioni di dollari di entrate annuali).",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/550625915"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "storico_progetti",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "L'ente opera continuativamente dal 1983 servendo numerose contee e agenzie in West Virginia, Kentucky e Ohio, con una storia consolidata di attività documentata.",
-          "source_url": "https://www.charitynavigator.org/ein/550625915"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "segnali_allarme",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Non sono stati riscontrati segnali d'allarme, notizie negative o criticità riguardanti l'ente specifico nelle prove consultate (le ricerche su frodi generali non coinvolgono questo ente).",
-          "source_url": "https://www.charitynavigator.org/ein/550625915"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "conflitti_interesse",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
-          "source_url": "config/conflitti.yaml"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "registrazione",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Ente registrato come 501(c)(3) con EIN 550625915, riconoscimento IRS dal 01/02/1984.",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/550625915"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "bilanci",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Form 990 disponibili per gli anni 2023, 2022, 2021, 2020, 2019, 2018.",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/550625915"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "valutazione_indipendente",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Charity Navigator assegna rating Four‑Star (100%) all'ente.",
-          "source_url": "https://www.charitynavigator.org/ein/550625915"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "coerenza_importo",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "Entrate annuali circa 18,5 M USD (2023) rendono la richiesta di 5 000 USD proporzionalmente piccola.",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/550625915"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "storico_progetti",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "Attività documentata dal 1983, servizio a 240 agenzie in 17 contee; più di 10 anni di rendiconti IRS.",
-          "source_url": "https://www.charitynavigator.org/ein/550625915"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "segnali_allarme",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun segnale di urgenza artificiosa, pagamenti in crypto o contatti solo via social; le fonti mostrano solo informazioni istituzionali.",
-          "source_url": "https://www.charitynavigator.org/ein/550625915"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "conflitti_interesse",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
-          "source_url": "config/conflitti.yaml"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "registrazione",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "L'ente Facing Hunger Foodbank Inc risulta registrato presso l'IRS con EIN 550625915, riconoscimento 501(c)(3) dal 1984, con sede a Huntington, WV.",
-          "source_url": "https://www.charitynavigator.org/ein/550625915"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "bilanci",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Sono disponibili e pubblici i bilanci IRS (Form 990) per gli ultimi 14 anni (2010-2023), con dati dettagliati su entrate e spese.",
-          "source_url": "https://www.charitynavigator.org/ein/550625915"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "valutazione_indipendente",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Charity Navigator, valutatore indipendente, ha assegnato all'ente una valutazione di 4 stelle (98%), confermando la sua affidabilità finanziaria e di governance.",
-          "source_url": "https://www.charitynavigator.org/ein/550625915"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "coerenza_importo",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "L'obiettivo di raccolta di 5000 USD è estremamente coerente e modesto rispetto alle dimensioni dell'ente, che registra entrate annuali di circa 18 milioni di USD.",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/550625915"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "storico_progetti",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "L'ente è attivo dal 1983 e serve circa 240 agenzie in 17 contee, dimostrando una lunga e documentata storia di attività nel settore della sicurezza alimentare.",
-          "source_url": "https://www.charitynavigator.org/ein/550625915"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "segnali_allarme",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun segnale d'allarme trovato nelle prove fornite. L'ente ha un sito web istituzionale, contatti telefonici diretti e una forte reputazione di trasparenza.",
-          "source_url": "https://www.charitynavigator.org/ein/550625915"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "conflitti_interesse",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
-          "source_url": "config/conflitti.yaml"
-        }
-      ],
-      "sources": [
-        "https://facinghunger.org/facing-hunger-recieves-100-four-star-rating-from-charity-navigator",
-        "https://finance.yahoo.com/news/action-against-hunger-earns-highest-224000181.html",
-        "https://projects.propublica.org/nonprofits/organizations/550625915",
-        "https://www.charitynavigator.org/ein/550625915",
-        "https://www.fbi.gov/news/stories/dozens-charged-in-250-million-covid-fraud-scheme-092122",
-        "https://www.mapquest.com/us/west-virginia/huntington-area-food-bank-290828541"
-      ],
-      "waiting_counter": false,
-      "profile": {
-        "de": {
-          "does": [
-            {
-              "text": "Die Organisation wurde 1983 als private gemeinnützige Einrichtung in West Virginia eingetragen.",
-              "source": "https://www.charitynavigator.org/ein/550625915",
-              "by_org": false
-            },
-            {
-              "text": "Die Organisation bedient fast 240 Einrichtungen in 17 Landkreisen in West Virginia, im östlichen Kentucky und im südöstlichen Ohio.",
-              "source": "https://www.charitynavigator.org/ein/550625915",
-              "by_org": false
-            },
-            {
-              "text": "Die foodbank hat das Ziel, Lebensmittelunsicherheit in ländlichen und benachteiligten Gebieten zu bekämpfen, indem sie gesunde Lebensmittel bereitstellt und Gemeinschaften mit Ressourcen verbindet.",
-              "source": "https://www.charitynavigator.org/ein/550625915",
-              "by_org": false
-            }
-          ],
-          "mission": "Facing Hunger Foodbank ist eine private, gemeinnützige, wohltätige Organisation, die 1983 gegründet wurde und in West Virginia eingetragen ist. Früher bekannt als die Huntington Area Food Bank, bediente die foodbank zunächst die Landkreise Cabell und Wayne. Der Bedarf war in der gesamten Region so groß, dass die foodbank ihr Servicegebiet bereits nach dem ersten Betriebsjahr erweiterte. Das Servicegebiet der foodbank umfasst derzeit fast 240 Einrichtungen in 17 Landkreisen in West Virginia, im östlichen Kentucky und im südöstlichen Ohio. Leitbild: Unsere Mission ist es, Lebensmittelunsicherheit in benachteiligten und ländlichen Gemeinden zu bekämpfen, indem wir gesunde Lebensmittel bereitstellen, Nachbarn mit wichtigen Ressourcen verbinden und Hoffnung durch Service, Partnerschaft und Mitgefühl fördern.",
-          "does_not": [],
-          "strengths": []
-        },
-        "en": {
-          "does": [
-            {
-              "text": "The organization was established in 1983 as a private non-profit entity incorporated in West Virginia.",
-              "quote": "Facing Hunger Foodbank is a private, nonprofit, charitable organization founded in 1983 and is incorporated in West Virginia.",
-              "source": "https://www.charitynavigator.org/ein/550625915",
-              "by_org": false
-            },
-            {
-              "text": "The organization serves nearly 240 agencies across 17 counties in West Virginia, eastern Kentucky, and southeastern Ohio.",
-              "quote": "The foodbank's service area currently includes nearly 240 agencies across 17 counties in West Virginia, eastern Kentucky and southeastern Ohio.",
-              "source": "https://www.charitynavigator.org/ein/550625915",
-              "by_org": false
-            },
-            {
-              "text": "The food bank aims to address food insecurity across rural and underserved areas by supplying healthy food and connecting communities to resources.",
-              "quote": "Our mission is to fight food insecurity in underserved and rural communities by delivering healthy food, connecting neighbors to essential resources and fostering hope through service, partnership and compassion.",
-              "source": "https://www.charitynavigator.org/ein/550625915",
-              "by_org": false
-            }
-          ],
-          "mission": "Facing Hunger Foodbank is a private, nonprofit, charitable organization founded in 1983 and is incorporated in West Virginia. Formerly known as the Huntington Area Food Bank, the foodbank initially served Cabell and Wayne Counties. The need was so great across the region that the foodbank expanded its service area after just its first year of operation. The foodbank's service area currently includes nearly 240 agencies across 17 counties in West Virginia, eastern Kentucky and southeastern Ohio. Mission Statement: Our mission is to fight food insecurity in underserved and rural communities by delivering healthy food, connecting neighbors to essential resources and fostering hope through service, partnership and compassion.",
-          "does_not": [],
-          "strengths": []
-        },
-        "es": {
-          "does": [
-            {
-              "text": "La organización se estableció en 1983 como una entidad privada sin fines de lucro incorporada en West Virginia.",
-              "source": "https://www.charitynavigator.org/ein/550625915",
-              "by_org": false
-            },
-            {
-              "text": "La organización sirve a casi 240 agencias en 17 condados de West Virginia, el este de Kentucky y el sureste de Ohio.",
-              "source": "https://www.charitynavigator.org/ein/550625915",
-              "by_org": false
-            },
-            {
-              "text": "El banco de alimentos tiene como objetivo abordar la inseguridad alimentaria en áreas rurales y desatendidas mediante el suministro de alimentos saludables y la conexión de las comunidades con recursos.",
-              "source": "https://www.charitynavigator.org/ein/550625915",
-              "by_org": false
-            }
-          ],
-          "mission": "Facing Hunger Foodbank es una organización privada, sin fines de lucro y benéfica fundada en 1983 e incorporada en West Virginia. Anteriormente conocida como Huntington Area Food Bank, el banco de alimentos sirvió inicialmente a los condados de Cabell y Wayne. La necesidad era tan grande en toda la región que el banco de alimentos amplió su área de servicio después de solo su primer año de operación. Actualmente, el área de servicio del banco de alimentos incluye casi 240 agencias en 17 condados de West Virginia, el este de Kentucky y el sureste de Ohio. Declaración de la misión: Nuestra misión es combatir la inseguridad alimentaria en comunidades desatendidas y rurales mediante la entrega de alimentos saludables, conectando a los vecinos con recursos esenciales y fomentando la esperanza a través del servicio, la asociación y la compasión.",
-          "does_not": [],
-          "strengths": []
-        },
-        "fr": {
-          "does": [
-            {
-              "text": "L'organisation a été créée en 1983 en tant qu'entité privée à but non lucratif incorporée en Virginie-Occidentale.",
-              "source": "https://www.charitynavigator.org/ein/550625915",
-              "by_org": false
-            },
-            {
-              "text": "L'organisation sert près de 240 agences dans 17 comtés en Virginie-Occidentale, dans l'est du Kentucky et le sud-est de l'Ohio.",
-              "source": "https://www.charitynavigator.org/ein/550625915",
-              "by_org": false
-            },
-            {
-              "text": "La banque alimentaire vise à lutter contre l'insécurité alimentaire dans les zones rurales et mal desservies en fournissant des aliments sains et en connectant les communautés aux ressources.",
-              "source": "https://www.charitynavigator.org/ein/550625915",
-              "by_org": false
-            }
-          ],
-          "mission": "Facing Hunger Foodbank est une organisation privée, à but non lucratif et caritative fondée en 1983 et incorporée en Virginie-Occidentale. Anciennement connue sous le nom de Huntington Area Food Bank, la banque alimentaire servait initialement les comtés de Cabell et Wayne. Le besoin était si important dans la région que la banque alimentaire a élargi sa zone de service après seulement sa première année d'exploitation. La zone de service de la banque alimentaire comprend actuellement près de 240 agences réparties sur 17 comtés en Virginie-Occidentale, dans l'est du Kentucky et le sud-est de l'Ohio. Déclaration de mission : Notre mission est de lutter contre l'insécurité alimentaire dans les communautés mal desservies et rurales en livrant des aliments sains, en connectant les voisins aux ressources essentielles et en favorisant l'espoir grâce au service, au partenariat et à la compassion.",
-          "does_not": [],
-          "strengths": []
-        },
-        "it": {
-          "does": [
-            {
-              "text": "L'organizzazione è stata fondata nel 1983 come entità privata senza scopo di lucro incorporata in West Virginia.",
-              "source": "https://www.charitynavigator.org/ein/550625915",
-              "by_org": false
-            },
-            {
-              "text": "L'organizzazione serve quasi 240 agenzie in 17 contee in West Virginia, nel Kentucky orientale e nel sud‑est dell'Ohio.",
-              "source": "https://www.charitynavigator.org/ein/550625915",
-              "by_org": false
-            },
-            {
-              "text": "La banca alimentare mira a contrastare l'insicurezza alimentare nelle aree rurali e svantaggiate fornendo cibo sano e collegando le comunità alle risorse.",
-              "source": "https://www.charitynavigator.org/ein/550625915",
-              "by_org": false
-            }
-          ],
-          "mission": "Facing Hunger Foodbank è un'organizzazione privata, senza scopo di lucro e benefica fondata nel 1983 e incorporata in West Virginia. In precedenza conosciuta come Huntington Area Food Bank, la banca alimentare serviva inizialmente le contee di Cabell e Wayne. Il bisogno era così grande nella regione che la banca alimentare ha ampliato la sua area di servizio dopo appena il suo primo anno di attività. L'area di servizio della banca alimentare attualmente comprende quasi 240 agenzie in 17 contee in West Virginia, nel Kentucky orientale e nel sud‑est dell'Ohio. Dichiarazione di missione: La nostra missione è combattere l'insicurezza alimentare nelle comunità svantaggiate e rurali fornendo cibo sano, collegando i vicini alle risorse essenziali e promuovendo speranza attraverso il servizio, la partnership e la compassione.",
-          "does_not": [],
-          "strengths": []
-        }
-      },
-      "safety": {
-        "evaluator": "Charity Navigator",
-        "stars": 4,
-        "score": 98,
-        "rating_url": "https://www.charitynavigator.org/ein/550625915",
-        "rating_checked": "2026-11-07",
-        "since": "1984",
-        "registry_url": "https://projects.propublica.org/nonprofits/organizations/550625915",
-        "filings": 14,
-        "first_year": 2010,
-        "last_year": 2023,
-        "checks_passed": 18,
-        "verifiers": 3,
-        "unanimous": true,
-        "site": "facinghunger.org",
-        "official_host": "facinghunger.org",
-        "profile_claimed": false
-      },
-      "platform": "",
-      "counter": {},
-      "fundraiser_open": false,
-      "progress_pct": 0,
-      "donate": {
-        "recipient": "Facing Hunger Foodbank Inc",
-        "url": null,
-        "money_goes_to": "not open yet: donations open on a fundraising page with a public total",
-        "counted_here_only_if": "shown in the public total of the fundraising page",
-        "status": "in public review"
-      }
-    },
-    {
-      "slug": "support-feed-the-hunger-inc-against-hunger-940",
-      "title": "Support Feed The Hunger Inc against hunger",
-      "description": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'site:charitynavigator.org Rating for smallholder farmers hunger agriculture'.",
-      "org_name": "Feed The Hunger Inc",
-      "org_country": "US",
-      "org_website": "https://feedthehunger.org/",
-      "country": "US",
-      "currency": "USD",
-      "goal": 5000.0,
-      "raised": 0.0,
-      "donated": 0.0,
-      "status": "revisione_pubblica",
-      "donation_url": null,
-      "source_url": "https://www.charitynavigator.org/ein/560953324",
-      "approved_on": "2026-11-08",
-      "review_until": "2026-11-11 09:04 UTC",
-      "translations": {},
-      "tranches": [],
-      "checks": [
-        {
-          "verifier": "regole",
-          "check_type": "ammissibilita",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Regole di ammissibilità (config/regole.yaml):\n✓ fonte ammessa: fonte 'valutatore'\n✓ ente registrato nel database: Feed The Hunger Inc\n✓ codice fiscale verificato (IRS): EIN 560953324\n✓ ente valutato dal valutatore: Charity Navigator\n✓ voto del valutatore: 91%, 4 stelle su 4 (minimo 4 stelle e 90%)\n✓ anni di bilanci ufficiali: 13 anni [2019, 2020, 2021, 2022, 2023] (minimo 3)\n✓ tema fame / nutrizione: categoria IRS - (richiesta ['K']); tema nel nome: True",
-          "source_url": "https://www.charitynavigator.org/ein/560953324"
-        },
-        {
-          "verifier": "regole",
-          "check_type": "ammissibilita",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "✓ valutatore indipendente tra le prove: 2 pagine di valutatori (https://www.charitynavigator.org/ein/560953324, https://charitywatch.org/charities/feeding-america); minimo 1",
-          "source_url": "https://www.charitynavigator.org/ein/560953324"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "registrazione",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Feed The Hunger Inc è un'organizzazione 501(c)(3) registrata negli Stati Uniti (EIN: 56-0953324) con esenzione fiscale riconosciuta dall'IRS nel 1971.",
-          "source_url": "https://www.charitynavigator.org/ein/560953324"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "bilanci",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Sono disponibili i bilanci IRS Form 990 su ProPublica e Charity Navigator dal 2011 al 2023 (nel 2023 entrate per $4.887.789 e uscite per $3.800.228).",
-          "source_url": "https://www.charitynavigator.org/ein/560953324"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "valutazione_indipendente",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Charity Navigator assegna all'ente la valutazione massima di 4 stelle con un punteggio del 91%.",
-          "source_url": "https://www.charitynavigator.org/ein/560953324"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "coerenza_importo",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "L'obiettivo di raccolta previsto di 5.000 USD è perfettamente proporzionato rispetto al bilancio annuale dell'ente che supera i 3,8 milioni di dollari di spese.",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/560953324"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "storico_progetti",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "L'ente opera da oltre 50 anni (ruling date 1971) e documenta continuità operativa tramite dichiarazioni fiscali regolari dal 2011 a oggi.",
-          "source_url": "https://www.charitynavigator.org/ein/560953324"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "segnali_allarme",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun segnale di allarme riguarda Feed The Hunger Inc. Le notizie di frode nelle prove riguardano una diversa organizzazione (Feeding Our Future).",
-          "source_url": "https://www.charitynavigator.org/ein/560953324"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "conflitti_interesse",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
-          "source_url": "config/conflitti.yaml"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "registrazione",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Ente registrato con EIN 560953324 e riconoscimento IRS 1971-06-01",
-          "source_url": "https://www.charitynavigator.org/ein/560953324"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "bilanci",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Form 990 disponibili per gli anni 2023‑2018",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/560953324"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "valutazione_indipendente",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Charity Navigator assegna Four‑Star (91%)",
-          "source_url": "https://www.charitynavigator.org/ein/560953324"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "coerenza_importo",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "Entrate 2023 ≈ 4,9 M USD; richiesta 5 000 USD è proporzionalmente minima",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/560953324"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "storico_progetti",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "Missione di oltre 50 anni con distribuzione di pasti, forniture scolastiche e programmi spirituali",
-          "source_url": "https://www.charitynavigator.org/ein/560953324"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "segnali_allarme",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun segnale di frode, urgenza artificiosa o pagamenti non tracciabili legati a Feed The Hunger Inc.",
-          "source_url": "https://www.fbi.gov/news/stories/dozens-charged-in-250-million-covid-fraud-scheme-092122"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "conflitti_interesse",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
-          "source_url": "config/conflitti.yaml"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "registrazione",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "L'ente 'Feed The Hunger Inc' risulta registrato presso l'IRS con EIN 560953324, riconoscimento 501(c)(3) dal 1971, sede a Greensboro, NC. Le prove E1 ed E2 confermano la registrazione ufficiale.",
-          "source_url": "https://www.charitynavigator.org/ein/560953324"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "bilanci",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Sono disponibili i bilanci pubblici (Form 990) per gli anni dal 2011 al 2023, con dati di entrate e spese dettagliati e link ai PDF su ProPublica Nonprofit Explorer.",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/560953324"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "valutazione_indipendente",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Charity Navigator assegna a Feed The Hunger Inc una valutazione di 'Four-Star Charity' con un punteggio del 91%, indicando un buon livello di accountability e finanza.",
-          "source_url": "https://www.charitynavigator.org/ein/560953324"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "coerenza_importo",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "L'obiettivo di raccolta di 5000 USD è coerente con le dimensioni dell'ente, che ha registrato entrate annuali di circa 4.9 milioni di USD nel 2023. L'importo richiesto è minimo rispetto alla capacità finanziaria dell'organizzazione.",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/560953324"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "storico_progetti",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "L'ente è attivo da oltre 50 anni (fondato nel 1971) e ha una storia documentata di distribuzione di pasti e supporto a bambini in povertà, come descritto nella missione su Charity Navigator e confermato dai bilanci pluriennali.",
-          "source_url": "https://www.charitynavigator.org/ein/560953324"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "segnali_allarme",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun segnale d'allarme trovato per 'Feed The Hunger Inc'. Le prove E4, E5 ed E6 riguardano un caso di frode separato coinvolgente un'organizzazione diversa ('Feeding Our Future' in Minnesota), non l'ente candidato. Non ci sono notizie negative, siti recenti o contatti sospetti associati a Feed The Hunger Inc.",
-          "source_url": "https://www.charitynavigator.org/ein/560953324"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "conflitti_interesse",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
-          "source_url": "config/conflitti.yaml"
-        }
-      ],
-      "sources": [
-        "https://charitywatch.org/charities/feeding-america",
-        "https://projects.propublica.org/nonprofits/organizations/560953324",
-        "https://www.charitynavigator.org/ein/560953324",
-        "https://www.fbi.gov/news/stories/dozens-charged-in-250-million-covid-fraud-scheme-092122",
-        "https://www.pbs.org/newshour/politics/federal-authorities-charge-47-with-stealing-250-million-from-food-program-for-low-income-children",
-        "https://www.washingtonpost.com/podcasts/post-reports/the-plot-to-steal-250-million-from-hungry-children/"
-      ],
-      "waiting_counter": false,
-      "profile": {},
-      "safety": {
-        "evaluator": "Charity Navigator",
-        "stars": 4,
-        "score": 91,
-        "rating_url": "https://www.charitynavigator.org/ein/560953324",
-        "rating_checked": "2026-11-07",
-        "since": "1971",
-        "registry_url": "https://projects.propublica.org/nonprofits/organizations/560953324",
-        "filings": 13,
-        "first_year": 2011,
-        "last_year": 2023,
-        "checks_passed": 18,
-        "verifiers": 3,
-        "unanimous": true,
-        "site": "feedthehunger.org",
-        "official_host": "feedthehunger.org",
-        "profile_claimed": false
-      },
-      "platform": "",
-      "counter": {},
-      "fundraiser_open": false,
-      "progress_pct": 0,
-      "donate": {
-        "recipient": "Feed The Hunger Inc",
-        "url": null,
-        "money_goes_to": "not open yet: donations open on a fundraising page with a public total",
-        "counted_here_only_if": "shown in the public total of the fundraising page",
-        "status": "in public review"
-      }
-    },
-    {
-      "slug": "support-feeding-america-against-hunger-1993",
-      "title": "Support Feeding America against hunger",
-      "description": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'site:charitynavigator.org Rating for food bank feeding'.",
-      "org_name": "Feeding America",
-      "org_country": "US",
-      "org_website": "https://feedingamerica.org/",
-      "country": "US",
-      "currency": "USD",
-      "goal": 5000.0,
-      "raised": 0.0,
-      "donated": 0.0,
-      "status": "revisione_pubblica",
-      "donation_url": null,
-      "source_url": "https://www.charitynavigator.org/ein/363673599",
-      "approved_on": "2026-11-08",
-      "review_until": "2026-11-11 09:06 UTC",
-      "translations": {},
-      "tranches": [],
-      "checks": [
-        {
-          "verifier": "regole",
-          "check_type": "ammissibilita",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Regole di ammissibilità (config/regole.yaml):\n✓ fonte ammessa: fonte 'valutatore'\n✓ ente registrato nel database: Feeding America\n✓ codice fiscale verificato (IRS): EIN 363673599\n✓ ente valutato dal valutatore: Charity Navigator\n✓ voto del valutatore: 96%, 4 stelle su 4 (minimo 4 stelle e 90%)\n✓ anni di bilanci ufficiali: 12 anni [2019, 2020, 2021, 2022, 2023] (minimo 3)\n✓ tema fame / nutrizione: categoria IRS K310 (richiesta ['K']); tema nel nome: True",
-          "source_url": "https://www.charitynavigator.org/ein/363673599"
-        },
-        {
-          "verifier": "regole",
-          "check_type": "ammissibilita",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "✓ valutatore indipendente tra le prove: 2 pagine di valutatori (https://www.charitynavigator.org/ein/363673599, https://charitywatch.org/charities/feeding-america); minimo 1",
-          "source_url": "https://www.charitynavigator.org/ein/363673599"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "registrazione",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Feeding America risulta regolarmente registrata negli Stati Uniti come ente 501(c)(3) con EIN 36-3673599 e data di esenzione fiscale IRS dal 01/01/1990, con sede a Chicago, IL.",
-          "source_url": "https://www.charitynavigator.org/ein/363673599"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "bilanci",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Sono disponibili bilanci e dichiarazioni fiscali pubbliche (IRS Form 990) per numerosi anni (dal 2012 al 2023), con entrate per l'anno fiscale 2023 superiori a 4,9 miliardi di dollari.",
-          "source_url": "https://www.charitynavigator.org/ein/363673599"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "valutazione_indipendente",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "L'ente ha ricevuto valutazioni eccellenti da due valutatori indipendenti: Charity Navigator (4 stelle su 4, punteggio 96%) e CharityWatch (rating A-).",
-          "source_url": "https://www.charitynavigator.org/ein/363673599"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "coerenza_importo",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "L'obiettivo di raccolta previsto di 5.000 USD è perfettamente proporzionato e coerente rispetto al volume d'affari e alla scala operativa dell'organizzazione.",
-          "source_url": "https://www.charitynavigator.org/ein/363673599"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "storico_progetti",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "L'ente vanta uno storico ampiamente documentato e pluridecennale nell'ambito della sicurezza alimentare e della risposta alla fame negli Stati Uniti.",
-          "source_url": "https://www.charitynavigator.org/ein/363673599"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "segnali_allarme",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun segnale d'allarme o notizia negativa rilevata a carico di Feeding America. Le notizie d'indagine e frode riportate nelle fonti E4 ed E6 si riferiscono a un'altra entità distinta ('Feeding Our Future').",
-          "source_url": "https://www.charitynavigator.org/ein/363673599"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "conflitti_interesse",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
-          "source_url": "config/conflitti.yaml"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "registrazione",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Feeding America è registrata come 501(c)(3) con EIN 363673599, sede a Chicago, confermata dal registro IRS su ProPublica.",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/363673599"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "bilanci",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Sono disponibili i Form 990 dal 2018 al 2023 con dati di entrate e spese, scaricabili dal sito ProPublica.",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/363673599"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "valutazione_indipendente",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Charity Navigator assegna a Feeding America 4 stelle (96%) e CharityWatch la valutazione A-; entrambi sono valutatori indipendenti.",
-          "source_url": "https://www.charitynavigator.org/ein/363673599"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "coerenza_importo",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "L'importo richiesto (5 000 USD) è estremamente basso rispetto al fatturato annuale di circa 4,9 miliardi USD (Form 990 2023).",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/363673599"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "storico_progetti",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "Feeding America opera dal 1990, con una rete nazionale di banche alimentari e programmi descritti su Charity Navigator, dimostrando una lunga storia di progetti documentati.",
-          "source_url": "https://www.charitynavigator.org/ein/363673599"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "segnali_allarme",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Le notizie di frode (E4, E6) riguardano l'organizzazione \"Feeding Our Future\", non Feeding America; nessun segnale negativo diretto è stato trovato.",
-          "source_url": "https://www.fbi.gov/news/stories/dozens-charged-in-250-million-covid-fraud-scheme-092122"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "conflitti_interesse",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
-          "source_url": "config/conflitti.yaml"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "registrazione",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "L'ente Feeding America è registrato come 501(c)(3) con EIN 363673599, sede a Chicago, IL. Il riconoscimento IRS risale al 1990.",
-          "source_url": "https://www.charitynavigator.org/ein/363673599"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "bilanci",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Sono disponibili i bilanci pubblici (Form 990) per gli anni dal 2012 al 2023, con dati dettagliati su entrate e spese.",
-          "source_url": "https://www.charitynavigator.org/ein/363673599"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "valutazione_indipendente",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Charity Navigator assegna 4 stelle (96%) e CharityWatch assegna il rating A- (Top-Rated Charity) con l'81% delle spese destinate ai programmi.",
-          "source_url": "https://www.charitynavigator.org/ein/363673599"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "coerenza_importo",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "L'obiettivo di raccolta di 5000 USD è trascurabile rispetto alle dimensioni dell'ente (entrate annuali di circa 4,9 miliardi di USD nel 2023), rendendo l'importo coerente e ragionevole.",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/363673599"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "storico_progetti",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "L'ente opera dal 1990 e ha una lunga storia documentata di attività, confermata dalla presenza di bilanci IRS per oltre un decennio e dalla sua missione consolidata di lotta alla fame.",
-          "source_url": "https://www.charitynavigator.org/ein/363673599"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "segnali_allarme",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun segnale d'allarme riguarda l'ente Feeding America. Le notizie negative (E4, E6) riguardano lo schema di frode 'Feeding Our Future', un'organizzazione distinta e non affiliata a Feeding America (EIN diverso, sede diversa). Le prove E1, E2 ed E3 confermano la trasparenza e la buona gestione di Feeding America.",
-          "source_url": "https://www.charitynavigator.org/ein/363673599"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "conflitti_interesse",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
-          "source_url": "config/conflitti.yaml"
-        }
-      ],
-      "sources": [
-        "https://charitywatch.org/charities/feeding-america",
-        "https://en.wikipedia.org/wiki/Feeding_Our_Future",
-        "https://projects.propublica.org/nonprofits/organizations/363673599",
-        "https://www.cbsnews.com/minnesota/news/man-78th-charged-feeding-our-future-fraud-scheme/",
-        "https://www.charitynavigator.org/ein/363673599",
-        "https://www.fbi.gov/news/stories/dozens-charged-in-250-million-covid-fraud-scheme-092122"
-      ],
-      "waiting_counter": false,
-      "profile": {},
-      "safety": {
-        "evaluator": "Charity Navigator",
-        "stars": 4,
-        "score": 96,
-        "rating_url": "https://www.charitynavigator.org/ein/363673599",
-        "rating_checked": "2026-11-07",
-        "since": "1990",
-        "registry_url": "https://projects.propublica.org/nonprofits/organizations/363673599",
-        "filings": 12,
-        "first_year": 2012,
-        "last_year": 2023,
-        "checks_passed": 18,
-        "verifiers": 3,
-        "unanimous": true,
-        "site": "feedingamerica.org",
-        "official_host": "feedingamerica.org",
-        "profile_claimed": false
-      },
-      "platform": "",
-      "counter": {},
-      "fundraiser_open": false,
-      "progress_pct": 0,
-      "donate": {
-        "recipient": "Feeding America",
-        "url": null,
-        "money_goes_to": "not open yet: donations open on a fundraising page with a public total",
-        "counted_here_only_if": "shown in the public total of the fundraising page",
-        "status": "in public review"
-      }
-    },
     {
       "slug": "support-mamas-kitchen-against-hunger-481",
       "title": "Support Mamas Kitchen against hunger",
@@ -1961,7 +1061,33 @@
         "https://www.charitynavigator.org/ein/930584318"
       ],
       "waiting_counter": false,
-      "profile": {},
+      "profile": {
+        "en": {
+          "does": [
+            {
+              "text": "Founded in 1969, the organization provides nutritious food, human connections, and social support to help seniors maintain their independence.",
+              "quote": "Meals on Wheels People was founded in 1969 with the mission to enrich the lives of seniors, and assist them in maintaining independence, by providing nutritious food, human connections and social support.",
+              "source": "https://www.charitynavigator.org/ein/930584318",
+              "by_org": false
+            },
+            {
+              "text": "The organization produces 5,700 hot, nutritious meals five days each week in a 14,000-square-foot commercial kitchen.",
+              "quote": "Today Meals on Wheels People produces 5,700 hot, nutritious meals five days each week in a 14,000-square-foot commercial kitchen located in the heart of Multnomah Village.",
+              "source": "https://www.charitynavigator.org/ein/930584318",
+              "by_org": false
+            },
+            {
+              "text": "Meals are delivered to 30 senior centers across Multnomah, Washington, and Clark counties to serve seniors in dining rooms or via home delivery.",
+              "quote": "Meals are then delivered to 30 senior centers throughout Multnomah, Washington and Clark counties where they are served at noon to seniors in center dining rooms or sent out as Meals on Wheels to frail, homebound elderly.",
+              "source": "https://www.charitynavigator.org/ein/930584318",
+              "by_org": false
+            }
+          ],
+          "mission": "Meals on Wheels People was founded in 1969 with the mission to enrich the lives of seniors, and assist them in maintaining independence, by providing nutritious food, human connections and social support. We also use our expertise and capacity to serve other nutritionally at-risk populations. Today Meals on Wheels People produces 5,700 hot, nutritious meals five days each week in a 14,000-square-foot commercial kitchen located in the heart of Multnomah Village. Meals are then delivered to 30 senior centers throughout Multnomah, Washington and Clark counties where they are served at noon to seniors in center dining rooms or sent out as Meals on Wheels to frail, homebound elderly.",
+          "does_not": [],
+          "strengths": []
+        }
+      },
       "safety": {
         "evaluator": "Charity Navigator",
         "stars": 4,
@@ -2206,7 +1332,47 @@
         "https://www.newhopecmnj.org"
       ],
       "waiting_counter": false,
-      "profile": {},
+      "profile": {
+        "en": {
+          "does": [
+            {
+              "text": "New Hope Community Ministries provides fresh produce, pantry staples, and Thanksgiving food for local families.",
+              "quote": "This fall, New Hope is bringing our community together to provide fresh produce, pantry staples, and Thanksgiving food for local families.",
+              "source": "https://www.newhopecmnj.org/",
+              "by_org": true
+            },
+            {
+              "text": "It operates a food pantry distribution open twice a month by appointment only for individuals living in Prospect Park, Haledon, North Haledon, and Hawthorne.",
+              "quote": "Individuals who live in Prospect Park, Haledon, North Haledon and Hawthorne are eligible to sign up to be a Food Pantry member. The food pantry is open twice a month by appointment only.",
+              "source": "https://www.newhopecmnj.org/",
+              "by_org": true
+            },
+            {
+              "text": "The ministry offers counseling, ESL, immigration support, and programs for women, children, and teens.",
+              "quote": "We offer counseling, ESL, immigration support, and programs for women, children, and teens.",
+              "source": "https://www.newhopecmnj.org/",
+              "by_org": true
+            }
+          ],
+          "mission": "Through Christ’s love, New Hope empowers families to break through cycles of poverty and create a flourishing community.",
+          "does_not": [
+            {
+              "text": "Food pantry membership is limited to individuals who live in Prospect Park, Haledon, North Haledon, and Hawthorne.",
+              "quote": "Individuals who live in Prospect Park, Haledon, North Haledon and Hawthorne are eligible to sign up to be a Food Pantry member.",
+              "source": "https://www.newhopecmnj.org/",
+              "by_org": true
+            }
+          ],
+          "strengths": [
+            {
+              "text": "New Hope is now in its 20th year of operation.",
+              "quote": "Now in our 20th year, New Hope has grown from a food pantry into a hub for healing and hope.",
+              "source": "https://www.newhopecmnj.org/",
+              "by_org": true
+            }
+          ]
+        }
+      },
       "safety": {
         "evaluator": "Charity Navigator",
         "stars": 4,
@@ -2451,7 +1617,46 @@
         "https://www.oregonfoodbank.org"
       ],
       "waiting_counter": false,
-      "profile": {},
+      "profile": {
+        "en": {
+          "does": [
+            {
+              "text": "The organization collects and distributes food across Oregon and Southwest Washington for anyone needing food assistance.",
+              "quote": "We collect and distribute food across Oregon and Southwest Washington to support anyone who needs food assistance.",
+              "source": "https://www.oregonfoodbank.org/about-us",
+              "by_org": true
+            },
+            {
+              "text": "The organization provides emergency food through a statewide network of agencies, helping 1 in 5 households fend off hunger.",
+              "quote": "We provide emergency food to people who are hungry through a cooperative statewide network of hunger-relief agencies, helping 1 in 5 households fend off hunger.",
+              "source": "https://www.charitynavigator.org/ein/930785786",
+              "by_org": false
+            },
+            {
+              "text": "The organization collaborates with community members and lawmakers to advocate for policies that improve food access for everyone.",
+              "quote": "Together with our communities, neighbors, families and friends, we collaborate with elected officials and lawmakers to pass laws that make it easier for everyone to get the food they need.",
+              "source": "https://www.oregonfoodbank.org/about-us",
+              "by_org": true
+            }
+          ],
+          "mission": "Our mission: To eliminate hunger and its root causes ... because no one should be hungry. <br><br><br>Oregon Food Bank takes a holistic approach to ending hunger by bringing our community together to provide food, education and hope to our neighbors in need. <br><br>We provide emergency food to people who are hungry through a cooperative statewide network of hunger-relief agencies, helping 1 in 5 households fend off hunger. OFB also leads statewide efforts to increase resources for hungry families and to eliminate the root causes of hunger by advocating for fair public policies, strengthening community food systems and providing nutrition and garden education to help people become more self-sufficient and resourceful.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "The organization publishes financial statements and impact reports publicly to ensure operational transparency.",
+              "quote": "We are committed to transparency and to sharing our journey widely. Download our impact reports, financial statements and more for an inside look at how we’re working toward our vision.",
+              "source": "https://www.oregonfoodbank.org/about-us",
+              "by_org": true
+            },
+            {
+              "text": "The organization operates a regional network providing free food without requiring proof of income or documentation.",
+              "quote": "Our network of food banks and pantries provides free food and groceries across Oregon and Southwest Washington. No proof of income or documentation required.",
+              "source": "https://www.oregonfoodbank.org/",
+              "by_org": true
+            }
+          ]
+        }
+      },
       "safety": {
         "evaluator": "Charity Navigator",
         "stars": 4,
@@ -3083,6 +2288,34 @@
       ],
       "waiting_counter": false,
       "profile": {
+        "de": {
+          "does": [
+            {
+              "text": "Im vergangenen Jahr hat die Organisation 26.5 million Menschen mit Unterstützung von Mitarbeitenden in mehr als 55 Ländern geholfen.",
+              "source": "https://www.actionagainsthunger.org/",
+              "by_org": true
+            },
+            {
+              "text": "Teams bringen Hilfe und Hoffnung zu Gemeinschaften, die von Naturkatastrophen und Konflikten betroffen sind.",
+              "source": "https://www.actionagainsthunger.org/",
+              "by_org": true
+            },
+            {
+              "text": "Programme stellen sauberes Wasser und sichere Sanitäranlagen für bedürftige Gemeinschaften bereit, um gesündere Grundlagen zu schaffen.",
+              "source": "https://www.actionagainsthunger.org/",
+              "by_org": true
+            }
+          ],
+          "mission": "Unsere Mission ist es, Leben zu retten, zu verbessern und zu schützen, indem wir den Hunger durch Prävention, Erkennung und Behandlung von Unterernährung beseitigen, insbesondere während und nach Notkrisen, die durch Konflikte, Vertreibung, Armut, Diskriminierung, Ungleichheit oder Naturkatastrophen verursacht werden.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "Die Organisation ist seit mehr als 45 years aktiv und führt die Bewegung zur Beendigung des Hungers an.",
+              "source": "https://www.actionagainsthunger.org/who-we-are/about/",
+              "by_org": true
+            }
+          ]
+        },
         "en": {
           "does": [
             {
@@ -3114,6 +2347,230 @@
               "by_org": true
             }
           ]
+        },
+        "es": {
+          "does": [
+            {
+              "text": "El año pasado, la organización ayudó a 26.5 millones de personas con el apoyo del personal en más de 55 países.",
+              "source": "https://www.actionagainsthunger.org/",
+              "by_org": true
+            },
+            {
+              "text": "Los equipos llevan ayuda y esperanza a las comunidades afectadas por desastres naturales y conflictos.",
+              "source": "https://www.actionagainsthunger.org/",
+              "by_org": true
+            },
+            {
+              "text": "Los programas proporcionan agua limpia y saneamiento seguro a las comunidades necesitadas para ayudar a construir bases más saludables.",
+              "source": "https://www.actionagainsthunger.org/",
+              "by_org": true
+            }
+          ],
+          "mission": "Nuestra misión es salvar, mejorar y proteger vidas mediante la eliminación del hambre a través de la prevención, detección y tratamiento de la desnutrición, especialmente durante y después de crisis de emergencia causadas por situaciones de conflicto, desplazamiento, pobreza, discriminación, desigualdad o desastres naturales.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "La organización ha operado durante más de 45 años liderando el movimiento para acabar con el hambre.",
+              "source": "https://www.actionagainsthunger.org/who-we-are/about/",
+              "by_org": true
+            }
+          ]
+        },
+        "fr": {
+          "does": [
+            {
+              "text": "L'année dernière, l'organisation a aidé 26.5 million de personnes avec le soutien du personnel dans plus de 55 pays.",
+              "source": "https://www.actionagainsthunger.org/",
+              "by_org": true
+            },
+            {
+              "text": "Les équipes apportent aide et espoir aux communautés touchées par les catastrophes naturelles et les conflits.",
+              "source": "https://www.actionagainsthunger.org/",
+              "by_org": true
+            },
+            {
+              "text": "Les programmes fournissent de l'eau potable et un assainissement sûr aux communautés dans le besoin afin d’aider à construire des bases plus saines.",
+              "source": "https://www.actionagainsthunger.org/",
+              "by_org": true
+            }
+          ],
+          "mission": "Notre mission est de sauver, améliorer et protéger des vies en éliminant la faim grâce à la prévention, la détection et le traitement de la sous‑nutrition, en particulier pendant et après les crises d’urgence causées par des situations de conflit, de déplacement, de pauvreté, de discrimination, d’inégalité ou de catastrophe naturelle.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "L'organisation fonctionne depuis plus de 45 ans, menant le mouvement pour éradiquer la faim.",
+              "source": "https://www.actionagainsthunger.org/who-we-are/about/",
+              "by_org": true
+            }
+          ]
+        },
+        "hi": {
+          "does": [
+            {
+              "text": "पिछले वर्ष, संगठन ने 55 से अधिक देशों में स्टाफ के समर्थन से 26.5 मिलियन लोगों की मदद की।",
+              "source": "https://www.actionagainsthunger.org/",
+              "by_org": true
+            },
+            {
+              "text": "टीमें प्राकृतिक आपदाओं और संघर्षों से प्रभावित समुदायों को मदद और आशा पहुंचाती हैं।",
+              "source": "https://www.actionagainsthunger.org/",
+              "by_org": true
+            },
+            {
+              "text": "कार्यक्रम जरूरतमंद समुदायों को साफ पानी और सुरक्षित स्वच्छता प्रदान करते हैं ताकि स्वस्थ बुनियादें बन सकें।",
+              "source": "https://www.actionagainsthunger.org/",
+              "by_org": true
+            }
+          ],
+          "mission": "हमारा मिशन भूख को समाप्त करके, विशेष रूप से संघर्ष, विस्थापन, गरीबी, भेदभाव, असमानता या प्राकृतिक आपदा जैसी स्थितियों के कारण उत्पन्न आपातकालीन संकटों के दौरान और बाद में, कुपोषण की रोकथाम, पहचान और उपचार के माध्यम से जीवन को बचाना, सुधारना और सुरक्षित रखना है।",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "संगठन 45 से अधिक वर्षों से कार्य कर रहा है और भूख समाप्त करने के आंदोलन का नेतृत्व कर रहा है।",
+              "source": "https://www.actionagainsthunger.org/who-we-are/about/",
+              "by_org": true
+            }
+          ]
+        },
+        "it": {
+          "does": [
+            {
+              "text": "L'anno scorso, l'organizzazione ha aiutato 26.5 milioni di persone con il supporto del personale in più di 55 paesi.",
+              "source": "https://www.actionagainsthunger.org/",
+              "by_org": true
+            },
+            {
+              "text": "I team portano aiuto e speranza alle comunità colpite da disastri naturali e conflitti.",
+              "source": "https://www.actionagainsthunger.org/",
+              "by_org": true
+            },
+            {
+              "text": "I programmi forniscono acqua pulita e servizi igienico-sanitari sicuri alle comunità bisognose per contribuire a costruire fondamenta più sane.",
+              "source": "https://www.actionagainsthunger.org/",
+              "by_org": true
+            }
+          ],
+          "mission": "La nostra missione è salvare, migliorare e proteggere le vite eliminando la fame attraverso la prevenzione, la rilevazione e il trattamento della sottonutrizione, soprattutto durante e dopo le crisi di emergenza causate da situazioni di conflitto, spostamento, povertà, discriminazione, disuguaglianza o catastrofi naturali.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "L'organizzazione opera da più di 45 anni guidando il movimento per porre fine alla fame.",
+              "source": "https://www.actionagainsthunger.org/who-we-are/about/",
+              "by_org": true
+            }
+          ]
+        },
+        "ja": {
+          "does": [
+            {
+              "text": "昨年、組織は55か国以上にわたるスタッフの支援により、26.5 million 人々を支援しました。",
+              "source": "https://www.actionagainsthunger.org/",
+              "by_org": true
+            },
+            {
+              "text": "チームは自然災害や紛争の影響を受けたコミュニティに支援と希望をもたらします。",
+              "source": "https://www.actionagainsthunger.org/",
+              "by_org": true
+            },
+            {
+              "text": "プログラムは、必要としているコミュニティに清潔な水と安全な衛生設備を提供し、より健康的な基盤作りを支援します。",
+              "source": "https://www.actionagainsthunger.org/",
+              "by_org": true
+            }
+          ],
+          "mission": "私たちの使命は、紛争、避難、貧困、差別、不平等、自然災害などの状況によって引き起こされる緊急危機の際およびその後に、栄養失調の予防、検出、治療を通じて飢餓を根絶し、命を救い、改善し、保護することです。",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "組織は飢餓撲滅運動を牽引し、45年以上にわたり活動しています。",
+              "source": "https://www.actionagainsthunger.org/who-we-are/about/",
+              "by_org": true
+            }
+          ]
+        },
+        "pt": {
+          "does": [
+            {
+              "text": "No ano passado, a organização ajudou 26.5 million pessoas com o apoio de funcionários em mais de 55 países.",
+              "source": "https://www.actionagainsthunger.org/",
+              "by_org": true
+            },
+            {
+              "text": "Equipes trazem ajuda e esperança às comunidades afetadas por desastres naturais e conflitos.",
+              "source": "https://www.actionagainsthunger.org/",
+              "by_org": true
+            },
+            {
+              "text": "Programas fornecem água potável e saneamento seguro às comunidades necessitadas para ajudar a construir bases mais saudáveis.",
+              "source": "https://www.actionagainsthunger.org/",
+              "by_org": true
+            }
+          ],
+          "mission": "Nossa missão é salvar, melhorar e proteger vidas, eliminando a fome por meio da prevenção, detecção e tratamento da desnutrição, especialmente durante e após crises de emergência causadas por situações de conflito, deslocamento, pobreza, discriminação, desigualdade ou desastre natural.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "A organização opera há mais de 45 anos liderando o movimento para acabar com a fome.",
+              "source": "https://www.actionagainsthunger.org/who-we-are/about/",
+              "by_org": true
+            }
+          ]
+        },
+        "ru": {
+          "does": [
+            {
+              "text": "В прошлом году организация помогла 26.5 million человек при поддержке персонала более чем в 55 странах.",
+              "source": "https://www.actionagainsthunger.org/",
+              "by_org": true
+            },
+            {
+              "text": "Команды приносят помощь и надежду сообществам, пострадавшим от стихийных бедствий и конфликтов.",
+              "source": "https://www.actionagainsthunger.org/",
+              "by_org": true
+            },
+            {
+              "text": "Программы предоставляют чистую воду и безопасную санитарию нуждающимся сообществам, помогая строить более здоровые основы.",
+              "source": "https://www.actionagainsthunger.org/",
+              "by_org": true
+            }
+          ],
+          "mission": "Наша миссия — спасать, улучшать и защищать жизни, устраняя голод посредством профилактики, выявления и лечения недоедания, особенно во время и после чрезвычайных кризисов, вызванных конфликтами, перемещением, бедностью, дискриминацией, неравенством или стихийными бедствиями.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "Организация работает более 45 лет, возглавляя движение за искоренение голода.",
+              "source": "https://www.actionagainsthunger.org/who-we-are/about/",
+              "by_org": true
+            }
+          ]
+        },
+        "zh": {
+          "does": [
+            {
+              "text": "去年，组织在超过55个国家的员工支持下帮助了26.5 million 人。",
+              "source": "https://www.actionagainsthunger.org/",
+              "by_org": true
+            },
+            {
+              "text": "团队为受自然灾害和冲突影响的社区带来帮助和希望。",
+              "source": "https://www.actionagainsthunger.org/",
+              "by_org": true
+            },
+            {
+              "text": "项目为有需要的社区提供清洁水和安全卫生设施，以帮助建立更健康的基础。",
+              "source": "https://www.actionagainsthunger.org/",
+              "by_org": true
+            }
+          ],
+          "mission": "我们的使命是通过预防、发现和治疗营养不良来消除饥饿，从而拯救、改善和保护生命，特别是在冲突、流离失所、贫困、歧视、不平等或自然灾害导致的紧急危机期间及之后。",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "该组织已运营超过45年，领导结束饥饿的运动。",
+              "source": "https://www.actionagainsthunger.org/who-we-are/about/",
+              "by_org": true
+            }
+          ]
         }
       },
       "safety": {
@@ -3140,6 +2597,283 @@
       "progress_pct": 0,
       "donate": {
         "recipient": "Action Against Hunger USA",
+        "url": null,
+        "money_goes_to": "not open yet: donations open on a fundraising page with a public total",
+        "counted_here_only_if": "shown in the public total of the fundraising page",
+        "status": "in public review"
+      }
+    },
+    {
+      "slug": "support-central-pennsylvania-food-bank-against-hunger-1990",
+      "title": "Support Central Pennsylvania Food Bank against hunger",
+      "description": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'site:charitynavigator.org Rating for ending hunger'.",
+      "org_name": "Central Pennsylvania Food Bank",
+      "org_country": "US",
+      "org_website": "https://centralpafoodbank.org/",
+      "country": "US",
+      "currency": "USD",
+      "goal": 5000.0,
+      "raised": 0.0,
+      "donated": 0.0,
+      "status": "revisione_pubblica",
+      "donation_url": null,
+      "source_url": "https://www.charitynavigator.org/ein/232202250",
+      "approved_on": "2026-11-08",
+      "review_until": "2026-11-11 12:05 UTC",
+      "translations": {},
+      "tranches": [],
+      "checks": [
+        {
+          "verifier": "regole",
+          "check_type": "ammissibilita",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Regole di ammissibilità (config/regole.yaml):\n✓ fonte ammessa: fonte 'valutatore'\n✓ ente registrato nel database: Central Pennsylvania Food Bank\n✓ codice fiscale verificato (IRS): EIN 232202250\n✓ ente valutato dal valutatore: Charity Navigator\n✓ voto del valutatore: 100%, 4 stelle su 4 (minimo 4 stelle e 90%)\n✓ anni di bilanci ufficiali: 13 anni [2020, 2021, 2022, 2023, 2024] (minimo 3)\n✓ tema fame / nutrizione: categoria IRS K31Z (richiesta ['K3', 'K4']); tema nel nome: True",
+          "source_url": "https://www.charitynavigator.org/ein/232202250"
+        },
+        {
+          "verifier": "regole",
+          "check_type": "ammissibilita",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "✓ valutatore indipendente tra le prove: 1 pagine di valutatori (https://www.charitynavigator.org/ein/232202250); minimo 1",
+          "source_url": "https://www.charitynavigator.org/ein/232202250"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "registrazione",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "L'ente Central Pennsylvania Food Bank è ufficialmente registrato negli USA come organizzazione non-profit 501(c)(3) con EIN 232202250 e riconoscimento IRS dal 1982.",
+          "source_url": "https://www.charitynavigator.org/ein/232202250"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "bilanci",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Sono disponibili pubblicamente i bilanci IRS Form 990 fino al 2024 e il bilancio d'esercizio sottoposto a revisione contabile indipendente (audit) per il 2024.",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/232202250"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "valutazione_indipendente",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "L'organizzazione possiede la valutazione massima di 4 stelle (100%) da parte del valutatore indipendente Charity Navigator.",
+          "source_url": "https://www.charitynavigator.org/ein/232202250"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "coerenza_importo",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "L'importo previsto di 5.000 USD è perfettamente proporzionato alla dimensione dell'ente, che gestisce entrate e spese annue superiori a 100 milioni di dollari.",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/232202250"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "storico_progetti",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "L'ente opera da oltre 30 anni distribuendo decine di milioni di pasti all'anno attraverso una rete di circa 1.000 agenzie partner in 27 contee della Pennsylvania.",
+          "source_url": "https://www.charitynavigator.org/ein/232202250"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "segnali_allarme",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Non è emerso alcun segnale di allarme nelle fonti analizzate; la reputazione, la trasparenza e l'operatività sono ampiamente verificate.",
+          "source_url": "https://www.charitynavigator.org/ein/232202250"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "conflitti_interesse",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "source_url": "config/conflitti.yaml"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "registrazione",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Registro IRS con dati di riconoscimento e sede.",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/232202250"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "bilanci",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "PDF dei Form 990 e audit indipendente.",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/232202250"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "valutazione_indipendente",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Scheda su Charity Navigator con rating a 4 stelle.",
+          "source_url": "https://www.charitynavigator.org/ein/232202250"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "coerenza_importo",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "Bilanci IRS mostrano ricavi superiori a 100 M USD.",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/232202250"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "storico_progetti",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "Descrizione attività su Charity Navigator e sezione 'Our Financials' con impact report.",
+          "source_url": "https://www.charitynavigator.org/ein/232202250"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "segnali_allarme",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Sito ufficiale, registri IRS, rating Charity Navigator.",
+          "source_url": "https://www.charitynavigator.org/ein/232202250"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "conflitti_interesse",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "source_url": "config/conflitti.yaml"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "registrazione",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "L'ente è registrato come 501(c)(3) con EIN 232202250, riconosciuto dall'IRS dal 1982. La sede è a Harrisburg, PA.",
+          "source_url": "https://www.charitynavigator.org/ein/232202250"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "bilanci",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Sono disponibili i bilanci IRS (Form 990) per 12 anni consecutivi (2012-2024) su ProPublica e un report di audit indipendente per l'anno fiscale 2024 è pubblicato sul sito dell'ente.",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/232202250"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "valutazione_indipendente",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Charity Navigator assegna alla Food Bank una valutazione di 4 stelle (la massima) per il decimo anno consecutivo, confermando la sua affidabilità finanziaria e di governance.",
+          "source_url": "https://www.charitynavigator.org/ein/232202250"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "coerenza_importo",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "L'obiettivo di raccolta di 5.000 USD è estremamente coerente con le dimensioni dell'ente, che ha registrato entrate annue di oltre 132 milioni di USD nel 2024.",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/232202250"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "storico_progetti",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "L'ente opera da oltre 30 anni, distribuendo milioni di pasti e gestendo una rete di partner in 27 contee, con report di impatto annuali pubblicati.",
+          "source_url": "https://www.charitynavigator.org/ein/232202250"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "segnali_allarme",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun segnale d'allarme trovato. L'ente ha un sito web istituzionale, contatti diretti, trasparenza finanziaria e valutazioni positive costanti.",
+          "source_url": "https://www.charitynavigator.org/ein/232202250"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "conflitti_interesse",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "source_url": "config/conflitti.yaml"
+        }
+      ],
+      "sources": [
+        "https://projects.propublica.org/nonprofits/organizations/232202250",
+        "https://www.centralpafoodbank.org/cn",
+        "https://www.centralpafoodbank.org/who-we-are/our-financials",
+        "https://www.centralpafoodbank.org/wp-content/uploads/2024/12/Financial-Statement-06-30-2024-Audit-Final.pdf",
+        "https://www.charitynavigator.org/ein/232202250"
+      ],
+      "waiting_counter": false,
+      "profile": {
+        "en": {
+          "does": [
+            {
+              "text": "The Central Pennsylvania Food Bank has been dedicated to ending hunger for more than 30 years.",
+              "quote": "The Central Pennsylvania Food Bank has been dedicated to ending hunger for more than 30 years.",
+              "source": "https://www.charitynavigator.org/ein/232202250",
+              "by_org": false
+            },
+            {
+              "text": "In Fiscal Year 2019, the Food Bank provided more than 45 million meals to nearly 1,000 soup kitchens, shelters, food pantries, and other partner agencies in 27 central Pennsylvania counties.",
+              "quote": "In Fiscal Year 2019, the Food Bank provided more than 45 million meals to nearly 1,000 soup kitchens, shelters, food pantries, and other partner agencies in 27 central Pennsylvania counties.",
+              "source": "https://www.charitynavigator.org/ein/232202250",
+              "by_org": false
+            },
+            {
+              "text": "The Food Bank is a member of Feeding America, the Nation's Food Bank Network, comprised of more than 200 food banks and food-rescue programs.",
+              "quote": "The Food Bank is a member of Feeding America, the Nation's Food Bank Network, comprised of more than 200 food banks and food-rescue programs.",
+              "source": "https://www.charitynavigator.org/ein/232202250",
+              "by_org": false
+            }
+          ],
+          "mission": "\"Fighting Hunger, Improving Lives, Strengthening Communities\". The Central Pennsylvania Food Bank has been dedicated to ending hunger for more than 30 years. In Fiscal Year 2019, the Food Bank provided more than 45 million meals to nearly 1,000 soup kitchens, shelters, food pantries, and other partner agencies in 27 central Pennsylvania counties. These agencies directly feed thousands of hungry families throughout central Pennsylvania. The Central Pennsylvania Food Bank has also adopted a 10-year, strategic Bold Goal. With the help of our partner agencies, volunteer efforts, and generous donors, we will solve hunger by ensuring that everyone struggling with hunger has access to enough wholesome food each and every day.The Food Bank is a member of Feeding America, the Nation's Food Bank Network, comprised of more than 200 food banks and food-rescue programs.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "The independent auditor's report states that the financial statements present fairly the financial position of the Food Bank as of June 30, 2024 and 2023.",
+              "quote": "In our opinion, the accompanying financial statements present fairly, in all material respects, the financial position of the Food Bank as of June 30, 2024 and 2023, and the changes in its net assets and its cash flows for the years then ended in accordance with accounting principles generally accepted in the United States of America.",
+              "source": "https://www.centralpafoodbank.org/wp-content/uploads/2024/12/Financial-Statement-06-30-2024-Audit-Final.pdf",
+              "by_org": true
+            }
+          ]
+        }
+      },
+      "safety": {
+        "evaluator": "Charity Navigator",
+        "stars": 4,
+        "score": 100,
+        "rating_url": "https://www.charitynavigator.org/ein/232202250",
+        "rating_checked": "2026-11-07",
+        "since": "1982",
+        "registry_url": "https://projects.propublica.org/nonprofits/organizations/232202250",
+        "filings": 13,
+        "first_year": 2012,
+        "last_year": 2024,
+        "checks_passed": 18,
+        "verifiers": 3,
+        "unanimous": true,
+        "site": "centralpafoodbank.org",
+        "official_host": "centralpafoodbank.org",
+        "profile_claimed": false
+      },
+      "platform": "",
+      "counter": {},
+      "fundraiser_open": false,
+      "progress_pct": 0,
+      "donate": {
+        "recipient": "Central Pennsylvania Food Bank",
         "url": null,
         "money_goes_to": "not open yet: donations open on a fundraising page with a public total",
         "counted_here_only_if": "shown in the public total of the fundraising page",
@@ -3473,6 +3207,1222 @@
         "counted_here_only_if": "shown in the public total of the fundraising page",
         "status": "in public review"
       }
+    },
+    {
+      "slug": "support-facing-hunger-foodbank-inc-against-hunger-939",
+      "title": "Support Facing Hunger Foodbank Inc against hunger",
+      "description": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'site:charitynavigator.org Rating for smallholder farmers hunger agriculture'.",
+      "org_name": "Facing Hunger Foodbank Inc",
+      "org_country": "US",
+      "org_website": "https://facinghunger.org/",
+      "country": "US",
+      "currency": "USD",
+      "goal": 5000.0,
+      "raised": 0.0,
+      "donated": 0.0,
+      "status": "revisione_pubblica",
+      "donation_url": null,
+      "source_url": "https://www.charitynavigator.org/ein/550625915",
+      "approved_on": "2026-11-07",
+      "review_until": "2026-11-10 14:04 UTC",
+      "translations": {
+        "de": {
+          "text": "Organisation bewertet von Charity Navigator, gefunden von den Agenten mit: 'site:charitynavigator.org Rating for smallholder farmers hunger agriculture'.",
+          "title": "Unterstützen Sie Facing Hunger Foodbank Inc gegen den Hunger",
+          "source": "traduzione AI"
+        },
+        "en": {
+          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'site:charitynavigator.org Rating for smallholder farmers hunger agriculture'.",
+          "title": "Support Facing Hunger Foodbank Inc against hunger",
+          "source": "originale"
+        },
+        "es": {
+          "text": "Entidad evaluada por Charity Navigator, encontrada por los agentes con: 'site:charitynavigator.org Rating for smallholder farmers hunger agriculture'.",
+          "title": "Apoya a Facing Hunger Foodbank Inc contra el hambre",
+          "source": "traduzione AI"
+        },
+        "fr": {
+          "text": "Organisation évaluée par Charity Navigator, trouvée par les agents avec : 'site:charitynavigator.org Rating for smallholder farmers hunger agriculture'.",
+          "title": "Soutenez Facing Hunger Foodbank Inc contre la faim",
+          "source": "traduzione AI"
+        },
+        "hi": {
+          "text": "Charity Navigator द्वारा मूल्यांकित संस्था, एजेंटों द्वारा पाया गया: 'site:charitynavigator.org Rating for smallholder farmers hunger agriculture'.",
+          "title": "Facing Hunger Foodbank Inc का समर्थन करें भूख के खिलाफ",
+          "source": "traduzione AI"
+        },
+        "it": {
+          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'site:charitynavigator.org Rating for smallholder farmers hunger agriculture'.",
+          "title": "Sostieni Facing Hunger Foodbank Inc contro la fame",
+          "source": "traduzione AI"
+        },
+        "ja": {
+          "text": "Charity Navigator によって評価された団体で、エージェントが次の検索で見つけました: 'site:charitynavigator.org Rating for smallholder farmers hunger agriculture'。",
+          "title": "Facing Hunger Foodbank Inc を飢餓から支援する",
+          "source": "traduzione AI"
+        },
+        "pt": {
+          "text": "Entidade avaliada pela Charity Navigator, encontrada pelos agentes com: 'site:charitynavigator.org Rating for smallholder farmers hunger agriculture'.",
+          "title": "Apoie Facing Hunger Foodbank Inc contra a fome",
+          "source": "traduzione AI"
+        },
+        "ru": {
+          "text": "Организация, оцененная Charity Navigator, найденная агентами с помощью: 'site:charitynavigator.org Rating for smallholder farmers hunger agriculture'.",
+          "title": "Поддержите Facing Hunger Foodbank Inc в борьбе с голодом",
+          "source": "traduzione AI"
+        },
+        "zh": {
+          "text": "该机构由 Charity Navigator 评估，代理人通过以下方式找到：'site:charitynavigator.org Rating for smallholder farmers hunger agriculture'。",
+          "title": "支持 Facing Hunger Foodbank Inc 对抗饥饿",
+          "source": "traduzione AI"
+        }
+      },
+      "tranches": [],
+      "checks": [
+        {
+          "verifier": "regole",
+          "check_type": "ammissibilita",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Regole di ammissibilità (config/regole.yaml):\n✓ fonte ammessa: fonte 'valutatore'\n✓ ente registrato nel database: Facing Hunger Foodbank Inc\n✓ codice fiscale verificato (IRS): EIN 550625915\n✓ ente valutato dal valutatore: Charity Navigator\n✓ voto del valutatore: 98%, 4 stelle su 4 (minimo 4 stelle e 90%)\n✓ anni di bilanci ufficiali: 14 anni [2019, 2020, 2021, 2022, 2023] (minimo 3)\n✓ tema fame / nutrizione: categoria IRS - (richiesta ['K']); tema nel nome: True",
+          "source_url": "https://www.charitynavigator.org/ein/550625915"
+        },
+        {
+          "verifier": "regole",
+          "check_type": "ammissibilita",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "✓ valutatore indipendente tra le prove: 1 pagine di valutatori (https://www.charitynavigator.org/ein/550625915); minimo 1",
+          "source_url": "https://www.charitynavigator.org/ein/550625915"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "registrazione",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "L'ente Facing Hunger Foodbank Inc risulta regolarmente registrato negli Stati Uniti come organizzazione 501(c)(3) con EIN 550625915 e data di riconoscimento IRS 1984-02-01.",
+          "source_url": "https://www.charitynavigator.org/ein/550625915"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "bilanci",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Sono presenti bilanci pubblici pluriennali recenti (Form 990 IRS), inclusi gli anni 2018, 2019, 2021, 2022 e 2023, consultabili tramite ProPublica Nonprofit Explorer.",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/550625915"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "valutazione_indipendente",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "L'ente ha ottenuto una valutazione positiva di eccellenza, con il massimo riconoscimento (Four-Star, 100% Rating) da parte di Charity Navigator.",
+          "source_url": "https://www.charitynavigator.org/ein/550625915"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "coerenza_importo",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "L'obiettivo di raccolta previsto di 5000 USD risulta assolutamente coerente e sostenibile rispetto alle dimensioni e al volume d'affari dell'ente (milioni di dollari di entrate annuali).",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/550625915"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "storico_progetti",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "L'ente opera continuativamente dal 1983 servendo numerose contee e agenzie in West Virginia, Kentucky e Ohio, con una storia consolidata di attività documentata.",
+          "source_url": "https://www.charitynavigator.org/ein/550625915"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "segnali_allarme",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Non sono stati riscontrati segnali d'allarme, notizie negative o criticità riguardanti l'ente specifico nelle prove consultate (le ricerche su frodi generali non coinvolgono questo ente).",
+          "source_url": "https://www.charitynavigator.org/ein/550625915"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "conflitti_interesse",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "source_url": "config/conflitti.yaml"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "registrazione",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Ente registrato come 501(c)(3) con EIN 550625915, riconoscimento IRS dal 01/02/1984.",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/550625915"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "bilanci",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Form 990 disponibili per gli anni 2023, 2022, 2021, 2020, 2019, 2018.",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/550625915"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "valutazione_indipendente",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Charity Navigator assegna rating Four‑Star (100%) all'ente.",
+          "source_url": "https://www.charitynavigator.org/ein/550625915"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "coerenza_importo",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "Entrate annuali circa 18,5 M USD (2023) rendono la richiesta di 5 000 USD proporzionalmente piccola.",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/550625915"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "storico_progetti",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "Attività documentata dal 1983, servizio a 240 agenzie in 17 contee; più di 10 anni di rendiconti IRS.",
+          "source_url": "https://www.charitynavigator.org/ein/550625915"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "segnali_allarme",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun segnale di urgenza artificiosa, pagamenti in crypto o contatti solo via social; le fonti mostrano solo informazioni istituzionali.",
+          "source_url": "https://www.charitynavigator.org/ein/550625915"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "conflitti_interesse",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "source_url": "config/conflitti.yaml"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "registrazione",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "L'ente Facing Hunger Foodbank Inc risulta registrato presso l'IRS con EIN 550625915, riconoscimento 501(c)(3) dal 1984, con sede a Huntington, WV.",
+          "source_url": "https://www.charitynavigator.org/ein/550625915"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "bilanci",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Sono disponibili e pubblici i bilanci IRS (Form 990) per gli ultimi 14 anni (2010-2023), con dati dettagliati su entrate e spese.",
+          "source_url": "https://www.charitynavigator.org/ein/550625915"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "valutazione_indipendente",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Charity Navigator, valutatore indipendente, ha assegnato all'ente una valutazione di 4 stelle (98%), confermando la sua affidabilità finanziaria e di governance.",
+          "source_url": "https://www.charitynavigator.org/ein/550625915"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "coerenza_importo",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "L'obiettivo di raccolta di 5000 USD è estremamente coerente e modesto rispetto alle dimensioni dell'ente, che registra entrate annuali di circa 18 milioni di USD.",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/550625915"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "storico_progetti",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "L'ente è attivo dal 1983 e serve circa 240 agenzie in 17 contee, dimostrando una lunga e documentata storia di attività nel settore della sicurezza alimentare.",
+          "source_url": "https://www.charitynavigator.org/ein/550625915"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "segnali_allarme",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun segnale d'allarme trovato nelle prove fornite. L'ente ha un sito web istituzionale, contatti telefonici diretti e una forte reputazione di trasparenza.",
+          "source_url": "https://www.charitynavigator.org/ein/550625915"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "conflitti_interesse",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "source_url": "config/conflitti.yaml"
+        }
+      ],
+      "sources": [
+        "https://facinghunger.org/facing-hunger-recieves-100-four-star-rating-from-charity-navigator",
+        "https://finance.yahoo.com/news/action-against-hunger-earns-highest-224000181.html",
+        "https://projects.propublica.org/nonprofits/organizations/550625915",
+        "https://www.charitynavigator.org/ein/550625915",
+        "https://www.fbi.gov/news/stories/dozens-charged-in-250-million-covid-fraud-scheme-092122",
+        "https://www.mapquest.com/us/west-virginia/huntington-area-food-bank-290828541"
+      ],
+      "waiting_counter": false,
+      "profile": {
+        "de": {
+          "does": [
+            {
+              "text": "Die Organisation wurde 1983 als private gemeinnützige Einrichtung in West Virginia eingetragen.",
+              "source": "https://www.charitynavigator.org/ein/550625915",
+              "by_org": false
+            },
+            {
+              "text": "Die Organisation bedient fast 240 Einrichtungen in 17 Landkreisen in West Virginia, im östlichen Kentucky und im südöstlichen Ohio.",
+              "source": "https://www.charitynavigator.org/ein/550625915",
+              "by_org": false
+            },
+            {
+              "text": "Die foodbank hat das Ziel, Lebensmittelunsicherheit in ländlichen und benachteiligten Gebieten zu bekämpfen, indem sie gesunde Lebensmittel bereitstellt und Gemeinschaften mit Ressourcen verbindet.",
+              "source": "https://www.charitynavigator.org/ein/550625915",
+              "by_org": false
+            }
+          ],
+          "mission": "Facing Hunger Foodbank ist eine private, gemeinnützige, wohltätige Organisation, die 1983 gegründet wurde und in West Virginia eingetragen ist. Früher bekannt als die Huntington Area Food Bank, bediente die foodbank zunächst die Landkreise Cabell und Wayne. Der Bedarf war in der gesamten Region so groß, dass die foodbank ihr Servicegebiet bereits nach dem ersten Betriebsjahr erweiterte. Das Servicegebiet der foodbank umfasst derzeit fast 240 Einrichtungen in 17 Landkreisen in West Virginia, im östlichen Kentucky und im südöstlichen Ohio. Leitbild: Unsere Mission ist es, Lebensmittelunsicherheit in benachteiligten und ländlichen Gemeinden zu bekämpfen, indem wir gesunde Lebensmittel bereitstellen, Nachbarn mit wichtigen Ressourcen verbinden und Hoffnung durch Service, Partnerschaft und Mitgefühl fördern.",
+          "does_not": [],
+          "strengths": []
+        },
+        "en": {
+          "does": [
+            {
+              "text": "The organization was established in 1983 as a private non-profit entity incorporated in West Virginia.",
+              "quote": "Facing Hunger Foodbank is a private, nonprofit, charitable organization founded in 1983 and is incorporated in West Virginia.",
+              "source": "https://www.charitynavigator.org/ein/550625915",
+              "by_org": false
+            },
+            {
+              "text": "The organization serves nearly 240 agencies across 17 counties in West Virginia, eastern Kentucky, and southeastern Ohio.",
+              "quote": "The foodbank's service area currently includes nearly 240 agencies across 17 counties in West Virginia, eastern Kentucky and southeastern Ohio.",
+              "source": "https://www.charitynavigator.org/ein/550625915",
+              "by_org": false
+            },
+            {
+              "text": "The food bank aims to address food insecurity across rural and underserved areas by supplying healthy food and connecting communities to resources.",
+              "quote": "Our mission is to fight food insecurity in underserved and rural communities by delivering healthy food, connecting neighbors to essential resources and fostering hope through service, partnership and compassion.",
+              "source": "https://www.charitynavigator.org/ein/550625915",
+              "by_org": false
+            }
+          ],
+          "mission": "Facing Hunger Foodbank is a private, nonprofit, charitable organization founded in 1983 and is incorporated in West Virginia. Formerly known as the Huntington Area Food Bank, the foodbank initially served Cabell and Wayne Counties. The need was so great across the region that the foodbank expanded its service area after just its first year of operation. The foodbank's service area currently includes nearly 240 agencies across 17 counties in West Virginia, eastern Kentucky and southeastern Ohio. Mission Statement: Our mission is to fight food insecurity in underserved and rural communities by delivering healthy food, connecting neighbors to essential resources and fostering hope through service, partnership and compassion.",
+          "does_not": [],
+          "strengths": []
+        },
+        "es": {
+          "does": [
+            {
+              "text": "La organización se estableció en 1983 como una entidad privada sin fines de lucro incorporada en West Virginia.",
+              "source": "https://www.charitynavigator.org/ein/550625915",
+              "by_org": false
+            },
+            {
+              "text": "La organización sirve a casi 240 agencias en 17 condados de West Virginia, el este de Kentucky y el sureste de Ohio.",
+              "source": "https://www.charitynavigator.org/ein/550625915",
+              "by_org": false
+            },
+            {
+              "text": "El banco de alimentos tiene como objetivo abordar la inseguridad alimentaria en áreas rurales y desatendidas mediante el suministro de alimentos saludables y la conexión de las comunidades con recursos.",
+              "source": "https://www.charitynavigator.org/ein/550625915",
+              "by_org": false
+            }
+          ],
+          "mission": "Facing Hunger Foodbank es una organización privada, sin fines de lucro y benéfica fundada en 1983 e incorporada en West Virginia. Anteriormente conocida como Huntington Area Food Bank, el banco de alimentos sirvió inicialmente a los condados de Cabell y Wayne. La necesidad era tan grande en toda la región que el banco de alimentos amplió su área de servicio después de solo su primer año de operación. Actualmente, el área de servicio del banco de alimentos incluye casi 240 agencias en 17 condados de West Virginia, el este de Kentucky y el sureste de Ohio. Declaración de la misión: Nuestra misión es combatir la inseguridad alimentaria en comunidades desatendidas y rurales mediante la entrega de alimentos saludables, conectando a los vecinos con recursos esenciales y fomentando la esperanza a través del servicio, la asociación y la compasión.",
+          "does_not": [],
+          "strengths": []
+        },
+        "fr": {
+          "does": [
+            {
+              "text": "L'organisation a été créée en 1983 en tant qu'entité privée à but non lucratif incorporée en Virginie-Occidentale.",
+              "source": "https://www.charitynavigator.org/ein/550625915",
+              "by_org": false
+            },
+            {
+              "text": "L'organisation sert près de 240 agences dans 17 comtés en Virginie-Occidentale, dans l'est du Kentucky et le sud-est de l'Ohio.",
+              "source": "https://www.charitynavigator.org/ein/550625915",
+              "by_org": false
+            },
+            {
+              "text": "La banque alimentaire vise à lutter contre l'insécurité alimentaire dans les zones rurales et mal desservies en fournissant des aliments sains et en connectant les communautés aux ressources.",
+              "source": "https://www.charitynavigator.org/ein/550625915",
+              "by_org": false
+            }
+          ],
+          "mission": "Facing Hunger Foodbank est une organisation privée, à but non lucratif et caritative fondée en 1983 et incorporée en Virginie-Occidentale. Anciennement connue sous le nom de Huntington Area Food Bank, la banque alimentaire servait initialement les comtés de Cabell et Wayne. Le besoin était si important dans la région que la banque alimentaire a élargi sa zone de service après seulement sa première année d'exploitation. La zone de service de la banque alimentaire comprend actuellement près de 240 agences réparties sur 17 comtés en Virginie-Occidentale, dans l'est du Kentucky et le sud-est de l'Ohio. Déclaration de mission : Notre mission est de lutter contre l'insécurité alimentaire dans les communautés mal desservies et rurales en livrant des aliments sains, en connectant les voisins aux ressources essentielles et en favorisant l'espoir grâce au service, au partenariat et à la compassion.",
+          "does_not": [],
+          "strengths": []
+        },
+        "it": {
+          "does": [
+            {
+              "text": "L'organizzazione è stata fondata nel 1983 come entità privata senza scopo di lucro incorporata in West Virginia.",
+              "source": "https://www.charitynavigator.org/ein/550625915",
+              "by_org": false
+            },
+            {
+              "text": "L'organizzazione serve quasi 240 agenzie in 17 contee in West Virginia, nel Kentucky orientale e nel sud‑est dell'Ohio.",
+              "source": "https://www.charitynavigator.org/ein/550625915",
+              "by_org": false
+            },
+            {
+              "text": "La banca alimentare mira a contrastare l'insicurezza alimentare nelle aree rurali e svantaggiate fornendo cibo sano e collegando le comunità alle risorse.",
+              "source": "https://www.charitynavigator.org/ein/550625915",
+              "by_org": false
+            }
+          ],
+          "mission": "Facing Hunger Foodbank è un'organizzazione privata, senza scopo di lucro e benefica fondata nel 1983 e incorporata in West Virginia. In precedenza conosciuta come Huntington Area Food Bank, la banca alimentare serviva inizialmente le contee di Cabell e Wayne. Il bisogno era così grande nella regione che la banca alimentare ha ampliato la sua area di servizio dopo appena il suo primo anno di attività. L'area di servizio della banca alimentare attualmente comprende quasi 240 agenzie in 17 contee in West Virginia, nel Kentucky orientale e nel sud‑est dell'Ohio. Dichiarazione di missione: La nostra missione è combattere l'insicurezza alimentare nelle comunità svantaggiate e rurali fornendo cibo sano, collegando i vicini alle risorse essenziali e promuovendo speranza attraverso il servizio, la partnership e la compassione.",
+          "does_not": [],
+          "strengths": []
+        }
+      },
+      "safety": {
+        "evaluator": "Charity Navigator",
+        "stars": 4,
+        "score": 98,
+        "rating_url": "https://www.charitynavigator.org/ein/550625915",
+        "rating_checked": "2026-11-07",
+        "since": "1984",
+        "registry_url": "https://projects.propublica.org/nonprofits/organizations/550625915",
+        "filings": 14,
+        "first_year": 2010,
+        "last_year": 2023,
+        "checks_passed": 18,
+        "verifiers": 3,
+        "unanimous": true,
+        "site": "facinghunger.org",
+        "official_host": "facinghunger.org",
+        "profile_claimed": false
+      },
+      "platform": "",
+      "counter": {},
+      "fundraiser_open": false,
+      "progress_pct": 0,
+      "donate": {
+        "recipient": "Facing Hunger Foodbank Inc",
+        "url": null,
+        "money_goes_to": "not open yet: donations open on a fundraising page with a public total",
+        "counted_here_only_if": "shown in the public total of the fundraising page",
+        "status": "in public review"
+      }
+    },
+    {
+      "slug": "support-feed-the-hunger-inc-against-hunger-940",
+      "title": "Support Feed The Hunger Inc against hunger",
+      "description": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'site:charitynavigator.org Rating for smallholder farmers hunger agriculture'.",
+      "org_name": "Feed The Hunger Inc",
+      "org_country": "US",
+      "org_website": "https://feedthehunger.org/",
+      "country": "US",
+      "currency": "USD",
+      "goal": 5000.0,
+      "raised": 0.0,
+      "donated": 0.0,
+      "status": "revisione_pubblica",
+      "donation_url": null,
+      "source_url": "https://www.charitynavigator.org/ein/560953324",
+      "approved_on": "2026-11-08",
+      "review_until": "2026-11-11 09:04 UTC",
+      "translations": {},
+      "tranches": [],
+      "checks": [
+        {
+          "verifier": "regole",
+          "check_type": "ammissibilita",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Regole di ammissibilità (config/regole.yaml):\n✓ fonte ammessa: fonte 'valutatore'\n✓ ente registrato nel database: Feed The Hunger Inc\n✓ codice fiscale verificato (IRS): EIN 560953324\n✓ ente valutato dal valutatore: Charity Navigator\n✓ voto del valutatore: 91%, 4 stelle su 4 (minimo 4 stelle e 90%)\n✓ anni di bilanci ufficiali: 13 anni [2019, 2020, 2021, 2022, 2023] (minimo 3)\n✓ tema fame / nutrizione: categoria IRS - (richiesta ['K']); tema nel nome: True",
+          "source_url": "https://www.charitynavigator.org/ein/560953324"
+        },
+        {
+          "verifier": "regole",
+          "check_type": "ammissibilita",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "✓ valutatore indipendente tra le prove: 2 pagine di valutatori (https://www.charitynavigator.org/ein/560953324, https://charitywatch.org/charities/feeding-america); minimo 1",
+          "source_url": "https://www.charitynavigator.org/ein/560953324"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "registrazione",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Feed The Hunger Inc è un'organizzazione 501(c)(3) registrata negli Stati Uniti (EIN: 56-0953324) con esenzione fiscale riconosciuta dall'IRS nel 1971.",
+          "source_url": "https://www.charitynavigator.org/ein/560953324"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "bilanci",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Sono disponibili i bilanci IRS Form 990 su ProPublica e Charity Navigator dal 2011 al 2023 (nel 2023 entrate per $4.887.789 e uscite per $3.800.228).",
+          "source_url": "https://www.charitynavigator.org/ein/560953324"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "valutazione_indipendente",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Charity Navigator assegna all'ente la valutazione massima di 4 stelle con un punteggio del 91%.",
+          "source_url": "https://www.charitynavigator.org/ein/560953324"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "coerenza_importo",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "L'obiettivo di raccolta previsto di 5.000 USD è perfettamente proporzionato rispetto al bilancio annuale dell'ente che supera i 3,8 milioni di dollari di spese.",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/560953324"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "storico_progetti",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "L'ente opera da oltre 50 anni (ruling date 1971) e documenta continuità operativa tramite dichiarazioni fiscali regolari dal 2011 a oggi.",
+          "source_url": "https://www.charitynavigator.org/ein/560953324"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "segnali_allarme",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun segnale di allarme riguarda Feed The Hunger Inc. Le notizie di frode nelle prove riguardano una diversa organizzazione (Feeding Our Future).",
+          "source_url": "https://www.charitynavigator.org/ein/560953324"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "conflitti_interesse",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "source_url": "config/conflitti.yaml"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "registrazione",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Ente registrato con EIN 560953324 e riconoscimento IRS 1971-06-01",
+          "source_url": "https://www.charitynavigator.org/ein/560953324"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "bilanci",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Form 990 disponibili per gli anni 2023‑2018",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/560953324"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "valutazione_indipendente",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Charity Navigator assegna Four‑Star (91%)",
+          "source_url": "https://www.charitynavigator.org/ein/560953324"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "coerenza_importo",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "Entrate 2023 ≈ 4,9 M USD; richiesta 5 000 USD è proporzionalmente minima",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/560953324"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "storico_progetti",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "Missione di oltre 50 anni con distribuzione di pasti, forniture scolastiche e programmi spirituali",
+          "source_url": "https://www.charitynavigator.org/ein/560953324"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "segnali_allarme",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun segnale di frode, urgenza artificiosa o pagamenti non tracciabili legati a Feed The Hunger Inc.",
+          "source_url": "https://www.fbi.gov/news/stories/dozens-charged-in-250-million-covid-fraud-scheme-092122"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "conflitti_interesse",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "source_url": "config/conflitti.yaml"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "registrazione",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "L'ente 'Feed The Hunger Inc' risulta registrato presso l'IRS con EIN 560953324, riconoscimento 501(c)(3) dal 1971, sede a Greensboro, NC. Le prove E1 ed E2 confermano la registrazione ufficiale.",
+          "source_url": "https://www.charitynavigator.org/ein/560953324"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "bilanci",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Sono disponibili i bilanci pubblici (Form 990) per gli anni dal 2011 al 2023, con dati di entrate e spese dettagliati e link ai PDF su ProPublica Nonprofit Explorer.",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/560953324"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "valutazione_indipendente",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Charity Navigator assegna a Feed The Hunger Inc una valutazione di 'Four-Star Charity' con un punteggio del 91%, indicando un buon livello di accountability e finanza.",
+          "source_url": "https://www.charitynavigator.org/ein/560953324"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "coerenza_importo",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "L'obiettivo di raccolta di 5000 USD è coerente con le dimensioni dell'ente, che ha registrato entrate annuali di circa 4.9 milioni di USD nel 2023. L'importo richiesto è minimo rispetto alla capacità finanziaria dell'organizzazione.",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/560953324"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "storico_progetti",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "L'ente è attivo da oltre 50 anni (fondato nel 1971) e ha una storia documentata di distribuzione di pasti e supporto a bambini in povertà, come descritto nella missione su Charity Navigator e confermato dai bilanci pluriennali.",
+          "source_url": "https://www.charitynavigator.org/ein/560953324"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "segnali_allarme",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun segnale d'allarme trovato per 'Feed The Hunger Inc'. Le prove E4, E5 ed E6 riguardano un caso di frode separato coinvolgente un'organizzazione diversa ('Feeding Our Future' in Minnesota), non l'ente candidato. Non ci sono notizie negative, siti recenti o contatti sospetti associati a Feed The Hunger Inc.",
+          "source_url": "https://www.charitynavigator.org/ein/560953324"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "conflitti_interesse",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "source_url": "config/conflitti.yaml"
+        }
+      ],
+      "sources": [
+        "https://charitywatch.org/charities/feeding-america",
+        "https://projects.propublica.org/nonprofits/organizations/560953324",
+        "https://www.charitynavigator.org/ein/560953324",
+        "https://www.fbi.gov/news/stories/dozens-charged-in-250-million-covid-fraud-scheme-092122",
+        "https://www.pbs.org/newshour/politics/federal-authorities-charge-47-with-stealing-250-million-from-food-program-for-low-income-children",
+        "https://www.washingtonpost.com/podcasts/post-reports/the-plot-to-steal-250-million-from-hungry-children/"
+      ],
+      "waiting_counter": false,
+      "profile": {
+        "en": {
+          "does": [
+            {
+              "text": "The organization works with global partners to identify vulnerable children at risk of starvation or malnutrition and provide immediate nutritional resources.",
+              "quote": "Using our reliable global partnerships and without discrimination, we identify vulnerable children at risk of starvation or malnutrition, provide immediate nutritional resources, and invest in their long-term success through basic education, good hygiene, and spiritual growth.",
+              "source": "https://www.feedthehunger.org/about-us/",
+              "by_org": true
+            },
+            {
+              "text": "The organization provides children in its programs with nutritious meals designed to help them become strong and healthy.",
+              "quote": "We provide children in our programs with nutritious meals designed to help them become strong and healthy.",
+              "source": "https://www.feedthehunger.org/",
+              "by_org": true
+            },
+            {
+              "text": "Children receive age-appropriate Bibles for spiritual growth alongside school supplies for their education.",
+              "quote": "Children receive age-appropriate Bibles to nurture their spiritual growth and critical school supplies to equip them for a successful education.",
+              "source": "https://www.feedthehunger.org/",
+              "by_org": true
+            }
+          ],
+          "mission": "Feed the Hunger is a Christian mission organization founded over 50 years ago. Our goal is simple: feed the spiritual and physical hunger in the needy. We do this primarily through the distribution of nutritious meals, school supplies, hygiene items, and age-appropriate Bibles. We are focused on meeting these needs for children around the world who are trapped in poverty without the hope of Christ. Using our reliable global partnerships, we identify vulnerable children at risk of starvation or malnutrition, provide immediate nutritional resources, and invest in their long-term success through education and spiritual growth.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "The organization was founded over 50 years ago as a Christian mission organization.",
+              "quote": "Feed the Hunger is a Christian mission organization founded over 50 years ago.",
+              "source": "https://www.charitynavigator.org/ein/560953324",
+              "by_org": false
+            },
+            {
+              "text": "The organization maintains donor privacy by not sharing or selling donor information with other institutions.",
+              "quote": "Feed the Hunger does not share or sell donor/support information with any other institutions. Furthermore, Feed the Hunger has taken the necessary precautions to secure all information transferred on-line.",
+              "source": "https://www.feedthehunger.org/",
+              "by_org": true
+            }
+          ]
+        }
+      },
+      "safety": {
+        "evaluator": "Charity Navigator",
+        "stars": 4,
+        "score": 91,
+        "rating_url": "https://www.charitynavigator.org/ein/560953324",
+        "rating_checked": "2026-11-07",
+        "since": "1971",
+        "registry_url": "https://projects.propublica.org/nonprofits/organizations/560953324",
+        "filings": 13,
+        "first_year": 2011,
+        "last_year": 2023,
+        "checks_passed": 18,
+        "verifiers": 3,
+        "unanimous": true,
+        "site": "feedthehunger.org",
+        "official_host": "feedthehunger.org",
+        "profile_claimed": false
+      },
+      "platform": "",
+      "counter": {},
+      "fundraiser_open": false,
+      "progress_pct": 0,
+      "donate": {
+        "recipient": "Feed The Hunger Inc",
+        "url": null,
+        "money_goes_to": "not open yet: donations open on a fundraising page with a public total",
+        "counted_here_only_if": "shown in the public total of the fundraising page",
+        "status": "in public review"
+      }
+    },
+    {
+      "slug": "support-feeding-america-against-hunger-1993",
+      "title": "Support Feeding America against hunger",
+      "description": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'site:charitynavigator.org Rating for food bank feeding'.",
+      "org_name": "Feeding America",
+      "org_country": "US",
+      "org_website": "https://feedingamerica.org/",
+      "country": "US",
+      "currency": "USD",
+      "goal": 5000.0,
+      "raised": 0.0,
+      "donated": 0.0,
+      "status": "revisione_pubblica",
+      "donation_url": null,
+      "source_url": "https://www.charitynavigator.org/ein/363673599",
+      "approved_on": "2026-11-08",
+      "review_until": "2026-11-11 09:06 UTC",
+      "translations": {},
+      "tranches": [],
+      "checks": [
+        {
+          "verifier": "regole",
+          "check_type": "ammissibilita",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Regole di ammissibilità (config/regole.yaml):\n✓ fonte ammessa: fonte 'valutatore'\n✓ ente registrato nel database: Feeding America\n✓ codice fiscale verificato (IRS): EIN 363673599\n✓ ente valutato dal valutatore: Charity Navigator\n✓ voto del valutatore: 96%, 4 stelle su 4 (minimo 4 stelle e 90%)\n✓ anni di bilanci ufficiali: 12 anni [2019, 2020, 2021, 2022, 2023] (minimo 3)\n✓ tema fame / nutrizione: categoria IRS K310 (richiesta ['K']); tema nel nome: True",
+          "source_url": "https://www.charitynavigator.org/ein/363673599"
+        },
+        {
+          "verifier": "regole",
+          "check_type": "ammissibilita",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "✓ valutatore indipendente tra le prove: 2 pagine di valutatori (https://www.charitynavigator.org/ein/363673599, https://charitywatch.org/charities/feeding-america); minimo 1",
+          "source_url": "https://www.charitynavigator.org/ein/363673599"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "registrazione",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Feeding America risulta regolarmente registrata negli Stati Uniti come ente 501(c)(3) con EIN 36-3673599 e data di esenzione fiscale IRS dal 01/01/1990, con sede a Chicago, IL.",
+          "source_url": "https://www.charitynavigator.org/ein/363673599"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "bilanci",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Sono disponibili bilanci e dichiarazioni fiscali pubbliche (IRS Form 990) per numerosi anni (dal 2012 al 2023), con entrate per l'anno fiscale 2023 superiori a 4,9 miliardi di dollari.",
+          "source_url": "https://www.charitynavigator.org/ein/363673599"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "valutazione_indipendente",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "L'ente ha ricevuto valutazioni eccellenti da due valutatori indipendenti: Charity Navigator (4 stelle su 4, punteggio 96%) e CharityWatch (rating A-).",
+          "source_url": "https://www.charitynavigator.org/ein/363673599"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "coerenza_importo",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "L'obiettivo di raccolta previsto di 5.000 USD è perfettamente proporzionato e coerente rispetto al volume d'affari e alla scala operativa dell'organizzazione.",
+          "source_url": "https://www.charitynavigator.org/ein/363673599"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "storico_progetti",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "L'ente vanta uno storico ampiamente documentato e pluridecennale nell'ambito della sicurezza alimentare e della risposta alla fame negli Stati Uniti.",
+          "source_url": "https://www.charitynavigator.org/ein/363673599"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "segnali_allarme",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun segnale d'allarme o notizia negativa rilevata a carico di Feeding America. Le notizie d'indagine e frode riportate nelle fonti E4 ed E6 si riferiscono a un'altra entità distinta ('Feeding Our Future').",
+          "source_url": "https://www.charitynavigator.org/ein/363673599"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "conflitti_interesse",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "source_url": "config/conflitti.yaml"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "registrazione",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Feeding America è registrata come 501(c)(3) con EIN 363673599, sede a Chicago, confermata dal registro IRS su ProPublica.",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/363673599"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "bilanci",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Sono disponibili i Form 990 dal 2018 al 2023 con dati di entrate e spese, scaricabili dal sito ProPublica.",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/363673599"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "valutazione_indipendente",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Charity Navigator assegna a Feeding America 4 stelle (96%) e CharityWatch la valutazione A-; entrambi sono valutatori indipendenti.",
+          "source_url": "https://www.charitynavigator.org/ein/363673599"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "coerenza_importo",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "L'importo richiesto (5 000 USD) è estremamente basso rispetto al fatturato annuale di circa 4,9 miliardi USD (Form 990 2023).",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/363673599"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "storico_progetti",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "Feeding America opera dal 1990, con una rete nazionale di banche alimentari e programmi descritti su Charity Navigator, dimostrando una lunga storia di progetti documentati.",
+          "source_url": "https://www.charitynavigator.org/ein/363673599"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "segnali_allarme",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Le notizie di frode (E4, E6) riguardano l'organizzazione \"Feeding Our Future\", non Feeding America; nessun segnale negativo diretto è stato trovato.",
+          "source_url": "https://www.fbi.gov/news/stories/dozens-charged-in-250-million-covid-fraud-scheme-092122"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "conflitti_interesse",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "source_url": "config/conflitti.yaml"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "registrazione",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "L'ente Feeding America è registrato come 501(c)(3) con EIN 363673599, sede a Chicago, IL. Il riconoscimento IRS risale al 1990.",
+          "source_url": "https://www.charitynavigator.org/ein/363673599"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "bilanci",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Sono disponibili i bilanci pubblici (Form 990) per gli anni dal 2012 al 2023, con dati dettagliati su entrate e spese.",
+          "source_url": "https://www.charitynavigator.org/ein/363673599"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "valutazione_indipendente",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Charity Navigator assegna 4 stelle (96%) e CharityWatch assegna il rating A- (Top-Rated Charity) con l'81% delle spese destinate ai programmi.",
+          "source_url": "https://www.charitynavigator.org/ein/363673599"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "coerenza_importo",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "L'obiettivo di raccolta di 5000 USD è trascurabile rispetto alle dimensioni dell'ente (entrate annuali di circa 4,9 miliardi di USD nel 2023), rendendo l'importo coerente e ragionevole.",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/363673599"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "storico_progetti",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "L'ente opera dal 1990 e ha una lunga storia documentata di attività, confermata dalla presenza di bilanci IRS per oltre un decennio e dalla sua missione consolidata di lotta alla fame.",
+          "source_url": "https://www.charitynavigator.org/ein/363673599"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "segnali_allarme",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun segnale d'allarme riguarda l'ente Feeding America. Le notizie negative (E4, E6) riguardano lo schema di frode 'Feeding Our Future', un'organizzazione distinta e non affiliata a Feeding America (EIN diverso, sede diversa). Le prove E1, E2 ed E3 confermano la trasparenza e la buona gestione di Feeding America.",
+          "source_url": "https://www.charitynavigator.org/ein/363673599"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "conflitti_interesse",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "source_url": "config/conflitti.yaml"
+        }
+      ],
+      "sources": [
+        "https://charitywatch.org/charities/feeding-america",
+        "https://en.wikipedia.org/wiki/Feeding_Our_Future",
+        "https://projects.propublica.org/nonprofits/organizations/363673599",
+        "https://www.cbsnews.com/minnesota/news/man-78th-charged-feeding-our-future-fraud-scheme/",
+        "https://www.charitynavigator.org/ein/363673599",
+        "https://www.fbi.gov/news/stories/dozens-charged-in-250-million-covid-fraud-scheme-092122"
+      ],
+      "waiting_counter": false,
+      "profile": {
+        "en": {
+          "does": [
+            {
+              "text": "Food distributions offer free food and groceries to individuals and families, providing enough food to last 2 to 3 days.",
+              "quote": "Food distributions offer free food and groceries to individuals and families. They provide enough food to last 2 to 3 days.",
+              "source": "https://www.feedingamerica.org/our-work/hunger-relief-programs",
+              "by_org": true
+            },
+            {
+              "text": "Mobile pantries bring free food and groceries directly to neighborhoods where food pantries and stores are hard to find.",
+              "quote": "Mobile pantries come to your community. They bring free food and groceries right to your neighborhood. This is a great option if you live where food pantries and stores are hard to find.",
+              "source": "https://www.feedingamerica.org/our-work/hunger-relief-programs",
+              "by_org": true
+            },
+            {
+              "text": "BackPack programs provide children with free, easy-to-make meals for weekends and school breaks.",
+              "quote": "BackPack programs give children free, easy-to-make meals for the weekend and school breaks.",
+              "source": "https://www.feedingamerica.org/our-work/hunger-relief-programs",
+              "by_org": true
+            },
+            {
+              "text": "Kids Cafes offer free meals to children after school, on weekends, and during the summer, while also providing activities and tutoring.",
+              "quote": "Kids Cafes offer free meals to kids after school, on the weekends, and during the summer. They also have fun activities and tutoring.",
+              "source": "https://www.feedingamerica.org/our-work/hunger-relief-programs",
+              "by_org": true
+            }
+          ],
+          "mission": "Our mission is to advance change in America by ensuring fair access to nutritious food for all, in partnership with food banks, policymakers, supporters and the communities we serve.",
+          "does_not": [],
+          "strengths": []
+        }
+      },
+      "safety": {
+        "evaluator": "Charity Navigator",
+        "stars": 4,
+        "score": 96,
+        "rating_url": "https://www.charitynavigator.org/ein/363673599",
+        "rating_checked": "2026-11-07",
+        "since": "1990",
+        "registry_url": "https://projects.propublica.org/nonprofits/organizations/363673599",
+        "filings": 12,
+        "first_year": 2012,
+        "last_year": 2023,
+        "checks_passed": 18,
+        "verifiers": 3,
+        "unanimous": true,
+        "site": "feedingamerica.org",
+        "official_host": "feedingamerica.org",
+        "profile_claimed": false
+      },
+      "platform": "",
+      "counter": {},
+      "fundraiser_open": false,
+      "progress_pct": 0,
+      "donate": {
+        "recipient": "Feeding America",
+        "url": null,
+        "money_goes_to": "not open yet: donations open on a fundraising page with a public total",
+        "counted_here_only_if": "shown in the public total of the fundraising page",
+        "status": "in public review"
+      }
+    },
+    {
+      "slug": "support-feeding-america-west-michigan-against-hunger-1994",
+      "title": "Support Feeding America West Michigan against hunger",
+      "description": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'site:charitynavigator.org Rating for food bank feeding'.",
+      "org_name": "Feeding America West Michigan",
+      "org_country": "US",
+      "org_website": null,
+      "country": "US",
+      "currency": "USD",
+      "goal": 5000.0,
+      "raised": 0.0,
+      "donated": 0.0,
+      "status": "revisione_pubblica",
+      "donation_url": null,
+      "source_url": "https://www.charitynavigator.org/ein/382439659",
+      "approved_on": "2026-11-08",
+      "review_until": "2026-11-11 13:04 UTC",
+      "translations": {},
+      "tranches": [],
+      "checks": [
+        {
+          "verifier": "regole",
+          "check_type": "ammissibilita",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Regole di ammissibilità (config/regole.yaml):\n✓ fonte ammessa: fonte 'valutatore'\n✓ ente registrato nel database: Feeding America West Michigan\n✓ codice fiscale verificato (IRS): EIN 382439659\n✓ ente valutato dal valutatore: Charity Navigator\n✓ voto del valutatore: 100%, 4 stelle su 4 (minimo 4 stelle e 90%)\n✓ anni di bilanci ufficiali: 13 anni [2019, 2020, 2021, 2022, 2023] (minimo 3)\n✓ tema fame / nutrizione: categoria IRS - (richiesta ['K3', 'K4']); tema nel nome: True",
+          "source_url": "https://www.charitynavigator.org/ein/382439659"
+        },
+        {
+          "verifier": "regole",
+          "check_type": "ammissibilita",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "✓ valutatore indipendente tra le prove: 1 pagine di valutatori (https://www.charitynavigator.org/ein/382439659); minimo 1",
+          "source_url": "https://www.charitynavigator.org/ein/382439659"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "registrazione",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "L'ente Feeding America West Michigan è registrato negli USA come organizzazione 501(c)(3) con EIN 382439659 e riconoscimento IRS dal 1983.",
+          "source_url": "https://www.charitynavigator.org/ein/382439659"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "bilanci",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Sono disponibili i rendiconti finanziari IRS Form 990 per diversi anni fino al 2023, anno in cui l'ente ha registrato entrate per 54,16M$ e spese per 51,04M$.",
+          "source_url": "https://www.charitynavigator.org/ein/382439659"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "valutazione_indipendente",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Charity Navigator assegna all'ente la massima valutazione di 4 stelle (100%).",
+          "source_url": "https://www.charitynavigator.org/ein/382439659"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "coerenza_importo",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "L'obiettivo previsto di 5.000 USD è pienamente proporzionato e contenuto rispetto alla capacità operativa e al bilancio dell'ente (oltre 50M$ annui).",
+          "source_url": "https://www.charitynavigator.org/ein/382439659"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "storico_progetti",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "L'ente opera dal 1981 distributendo ogni anno decine di milioni di pasti (28,7 milioni di pasti forniti nel 2025) attraverso una rete di oltre 800 partner in 40 contee.",
+          "source_url": "https://www.charitynavigator.org/ein/382439659"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "segnali_allarme",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Non è stato riscontrato alcun segnale d'allarme né notizia negativa dalle fonti esaminate. L'attività principale dell'ente riguarda direttamente l'assistenza alimentare e la lotta alla fame.",
+          "source_url": "https://www.charitynavigator.org/ein/382439659"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "conflitti_interesse",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "source_url": "config/conflitti.yaml"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "registrazione",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Registro IRS conferma l'esistenza e l'EIN 382439659, con sede a Kentwood, MI.",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/382439659"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "bilanci",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Form 990 disponibili per gli anni 2023, 2022, 2021, 2020, 2019, 2018 mostrano bilanci pubblici.",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/382439659"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "valutazione_indipendente",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Charity Navigator assegna 4 stelle, valutazione indipendente positiva.",
+          "source_url": "https://www.charitynavigator.org/ein/382439659"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "coerenza_importo",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "Richiesta di 5.000 USD è minima rispetto al fatturato annuale di ~54 milioni USD (2023) e alle attività su 40 contee.",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/382439659"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "storico_progetti",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "Attività documentate dal 1981, press release e dati su milioni di pasti distribuiti.",
+          "source_url": "https://www.charitynavigator.org/ein/382439659"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "segnali_allarme",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessuna notizia negativa, contatti tramite sito e telefono, nessun pagamento in crypto o urgenza artificiosa.",
+          "source_url": "https://www.charitynavigator.org/ein/382439659"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "conflitti_interesse",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "source_url": "config/conflitti.yaml"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "registrazione",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "L'ente è registrato come 501(c)(3) con EIN 382439659, riconosciuto dall'IRS dal 1983. La sede è a Kentwood, MI.",
+          "source_url": "https://www.charitynavigator.org/ein/382439659"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "bilanci",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Sono disponibili i bilanci pubblici (Form 990) per gli ultimi 13 anni (2011-2023) su ProPublica Nonprofit Explorer, con dati dettagliati su entrate e spese.",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/382439659"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "valutazione_indipendente",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Charity Navigator, valutatore indipendente, ha assegnato la valutazione 'Four-Star Charity' (4 stelle su 4) all'ente.",
+          "source_url": "https://www.charitynavigator.org/ein/382439659"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "coerenza_importo",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "L'obiettivo di raccolta di 5000 USD è estremamente coerente con le dimensioni dell'ente, che ha un fatturato annuo di circa 54 milioni di USD e distribuisce 28 milioni di pasti. L'importo richiesto è marginale rispetto alla scala operativa.",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/382439659"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "storico_progetti",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "L'ente opera dal 1981 e ha una storia documentata di distribuzione di cibo, con dati recenti (2025) che mostrano 34,4 milioni di libbre di cibo distribuite e 1.615 panetterie mobili.",
+          "source_url": "https://www.feedwm.org/category/press-releases/"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "segnali_allarme",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun segnale d'allarme trovato. L'ente ha un sito web istituzionale, contatti telefonici diretti, è parte di reti riconosciute (Feeding America network, United Way) e ha copertura mediatica positiva (WOOD TV8).",
+          "source_url": "https://www.charitynavigator.org/ein/382439659"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "conflitti_interesse",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "source_url": "config/conflitti.yaml"
+        }
+      ],
+      "sources": [
+        "https://projects.propublica.org/nonprofits/organizations/382439659",
+        "https://www.charitynavigator.org/ein/382439659",
+        "https://www.feedingamerica.org/about-us/why-feeding-america/charitable-ratings",
+        "https://www.feedwm.org/category/press-releases/",
+        "https://www.mapquest.com/us/michigan/feeding-america-west-michigan-368698207",
+        "https://www.youtube.com/watch?v=o9uBSMGYjy0"
+      ],
+      "waiting_counter": false,
+      "profile": {},
+      "safety": {
+        "evaluator": "Charity Navigator",
+        "stars": 4,
+        "score": 100,
+        "rating_url": "https://www.charitynavigator.org/ein/382439659",
+        "rating_checked": "2026-11-07",
+        "since": "1983",
+        "registry_url": "https://projects.propublica.org/nonprofits/organizations/382439659",
+        "filings": 13,
+        "first_year": 2011,
+        "last_year": 2023,
+        "checks_passed": 18,
+        "verifiers": 3,
+        "unanimous": true,
+        "site": "",
+        "official_host": "",
+        "profile_claimed": false
+      },
+      "platform": "",
+      "counter": {},
+      "fundraiser_open": false,
+      "progress_pct": 0,
+      "donate": {
+        "recipient": "Feeding America West Michigan",
+        "url": null,
+        "money_goes_to": "not open yet: donations open on a fundraising page with a public total",
+        "counted_here_only_if": "shown in the public total of the fundraising page",
+        "status": "in public review"
+      }
     }
   ],
   "order_rule": "All projects are equal: the order rotates by one position every day.",
@@ -3482,11 +4432,11 @@
     },
     "donated": {},
     "costs_eur": 0.0,
-    "ai_calls": 273,
+    "ai_calls": 307,
     "ai_cost_real_usd": 0.0,
-    "ai_value_offered_usd": 1.974777,
-    "candidates_examined": 30,
-    "candidates_discarded": 19
+    "ai_value_offered_usd": 2.377709,
+    "candidates_examined": 33,
+    "candidates_discarded": 20
   },
   "agent_program": {
     "join": "https://aiagainsthunger.github.io/en/agents.html",
