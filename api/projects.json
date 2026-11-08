@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T12:07:25.979079+00:00",
+  "generated_at": "2026-11-08T12:22:36.393154+00:00",
   "projects": [
     {
       "slug": "support-mamas-kitchen-against-hunger-481",
@@ -304,6 +304,29 @@
             {
               "text": "The organization is registered as a tax-exempt 501(c)(3) nonprofit organization.",
               "quote": "Mama’s Kitchen, Inc. is a tax-exempt 501(c)(3) not-for-profit organization.",
+              "source": "https://mamaskitchen.org/about-us/overview/",
+              "by_org": true
+            }
+          ]
+        },
+        "fr": {
+          "does": [
+            {
+              "text": "Mama's Kitchen fournit des repas médicalement adaptés aux individus et aux familles vulnérables à la malnutrition en raison d'une maladie critique dans le comté de San Diego.",
+              "source": "https://www.charitynavigator.org/ein/330434246",
+              "by_org": false
+            },
+            {
+              "text": "Des bénévoles et des employés rémunérés travaillent ensemble pour fournir des services nutritionnels à environ 3,000 résidents du comté de San Diego chaque année.",
+              "source": "https://www.charitynavigator.org/ein/330434246",
+              "by_org": false
+            }
+          ],
+          "mission": "Mama's Kitchen est la seule organisation du comté de San Diego à domicile qui fournit des repas médicalement adaptés aux individus et aux familles vulnérables à la malnutrition en raison d'une maladie critique chaque jour de l'année, dans tout le comté, et gratuitement. Fondée en 1990, Mama's Kitchen apporte nutrition, espoir et un coup de main aux personnes luttant contre la malnutrition et la faim, l'isolement et une maladie potentiellement mortelle. Mama's Kitchen s'engage à combattre le VIH/SIDA, le cancer, le diabète, l'insuffisance cardiaque et les maladies rénales grâce au pouvoir de la nutrition. Environ 850 bénévoles rejoignent 48 employés rémunérés pour fournir une nutrition vitale à environ 3,000 résidents du comté de San Diego chaque année.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "L'organisation est enregistrée en tant qu'organisme à but non lucratif exonéré d'impôt 501(c)(3).",
               "source": "https://mamaskitchen.org/about-us/overview/",
               "by_org": true
             }
@@ -3176,6 +3199,62 @@
               "by_org": true
             }
           ]
+        },
+        "fr": {
+          "does": [
+            {
+              "text": "Dare to Care Food Bank travaille ensemble pour fournir des voies afin de mettre fin à la faim dans la communauté en s'associant à des agences locales.",
+              "source": "https://www.charitynavigator.org/ein/237345952",
+              "by_org": false
+            },
+            {
+              "text": "Le Community Kitchen abrite une cuisine de production et d'innovation ainsi qu'une cuisine de démonstration et un espace de classe.",
+              "source": "https://www.charitynavigator.org/ein/237345952",
+              "by_org": false
+            }
+          ],
+          "mission": "Fondée en 1971, la mission de Dare to Care Food Bank est de travailler ensemble pour fournir des voies afin de mettre fin à la faim dans notre communauté. Nous remplissons cette mission en nous associant à des agences locales, telles que des banques alimentaires, des refuges et des cuisines d'urgence pour distribuer de la nourriture à notre communauté. L'année dernière, Dare to Care a fourni 22.7 million de repas aux enfants, aux adultes et aux personnes âgées. Dare to Care Food Bank dessert 13 comtés du Kentuckiana, y compris Jefferson, Shelby, Bullitt, Oldham, Spencer, Carroll, Trimble et Henry Counties dans le Kentucky, et Floyd, Clark, Harrison, Washington et Crawford Counties dans l'Indiana. Notre entrepôt est équipé pour stocker et inventorier les aliments selon les normes les plus élevées de sécurité alimentaire commerciale. Notre Community Kitchen abrite la cuisine de production et d'innovation de Dare to Care ainsi qu'une cuisine de démonstration et un espace de classe.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "Dare to Care Food Bank a été fondée en 1971.",
+              "source": "https://www.charitynavigator.org/ein/237345952",
+              "by_org": false
+            },
+            {
+              "text": "Dare to Care Food Bank est une organisation à but non lucratif enregistrée 501(c)3 auprès de l'Internal Revenue Service.",
+              "source": "https://daretocare.org/about/",
+              "by_org": true
+            }
+          ]
+        },
+        "it": {
+          "does": [
+            {
+              "text": "Dare to Care Food Bank lavora insieme per fornire percorsi per porre fine alla fame nella comunità collaborando con agenzie locali.",
+              "source": "https://www.charitynavigator.org/ein/237345952",
+              "by_org": false
+            },
+            {
+              "text": "La Community Kitchen ospita una cucina di produzione e innovazione accanto a una cucina dimostrativa e a uno spazio per classi.",
+              "source": "https://www.charitynavigator.org/ein/237345952",
+              "by_org": false
+            }
+          ],
+          "mission": "Fondata nel 1971, la missione di Dare to Care Food Bank è lavorare insieme per fornire percorsi per porre fine alla fame nella nostra comunità. Realizziamo questa missione collaborando con agenzie locali, come dispense alimentari, rifugi e cucine di emergenza per distribuire cibo alla nostra comunità. L'anno scorso, Dare to Care ha fornito 22,7 milioni di pasti a bambini, adulti e anziani. Dare to Care Food Bank serve 13 contee in Kentuckiana, tra cui Jefferson, Shelby, Bullitt, Oldham, Spencer, Carroll, Trimble e Henry Counties nel Kentucky, e Floyd, Clark, Harrison, Washington e Crawford Counties in Indiana. Il nostro magazzino è attrezzato per conservare e inventariare il cibo secondo i più alti standard commerciali di sicurezza alimentare. La nostra Community Kitchen ospita la cucina di produzione e innovazione di Dare to Care e una cucina dimostrativa e uno spazio per classi.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "Dare to Care Food Bank è stata fondata nel 1971.",
+              "source": "https://www.charitynavigator.org/ein/237345952",
+              "by_org": false
+            },
+            {
+              "text": "Dare to Care Food Bank è un'organizzazione nonprofit registrata 501(c)3 presso l'Internal Revenue Service.",
+              "source": "https://daretocare.org/about/",
+              "by_org": true
+            }
+          ]
         }
       },
       "safety": {
@@ -4432,9 +4511,9 @@
     },
     "donated": {},
     "costs_eur": 0.0,
-    "ai_calls": 307,
+    "ai_calls": 309,
     "ai_cost_real_usd": 0.0,
-    "ai_value_offered_usd": 2.377709,
+    "ai_value_offered_usd": 2.379799,
     "candidates_examined": 33,
     "candidates_discarded": 20
   },
