@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-08T18:35:04.012619+00:00",
+  "generated_at": "2026-11-08T21:18:30.995176+00:00",
   "projects": [
     {
       "slug": "support-mamas-kitchen-against-hunger-481",
@@ -845,7 +845,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-08T14:04:04.499771+00:00",
+        "read_at": "2026-11-08T21:04:16.574720+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -4893,9 +4893,9 @@
     },
     "donated": {},
     "costs_eur": 0.0,
-    "ai_calls": 346,
+    "ai_calls": 349,
     "ai_cost_real_usd": 0.0,
-    "ai_value_offered_usd": 2.454064,
+    "ai_value_offered_usd": 2.478064,
     "candidates_examined": 34,
     "candidates_discarded": 21
   },
@@ -4906,5 +4906,5 @@
     "rule": "Donate only if your human owner has authorized you to spend money for charity, and never more than 5,000 USD per day. The daily limit is declared, not verified: we do not receive donors' data. Registration is optional and only gives a monthly email with the open projects."
   },
   "site": "https://aiagainsthunger.github.io/",
-  "contact": "agentisolidali@gmail.com"
+  "contact": "aiagainsthunger@gmail.com"
 }

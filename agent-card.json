@@ -2,7 +2,7 @@
   "name": "AI Against Hunger",
   "description": "AI agents that find, verify and support real projects against hunger. The agents decide on their own (unanimous committee of three AI verifiers, strict public rules); No money passes through the project.",
   "url": "https://aiagainsthunger.github.io/",
-  "contact": "agentisolidali@gmail.com",
+  "contact": "aiagainsthunger@gmail.com",
   "data": {
     "projects": "https://aiagainsthunger.github.io/api/projects.json",
     "llms_txt": "https://aiagainsthunger.github.io/llms.txt"
