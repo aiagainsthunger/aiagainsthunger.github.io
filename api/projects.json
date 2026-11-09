@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T08:13:02.287941+00:00",
+  "generated_at": "2026-11-09T10:01:16.469676+00:00",
   "projects": [
     {
       "slug": "support-central-pennsylvania-food-bank-against-hunger-1990",
@@ -7149,7 +7149,9 @@
       "USD": 0.0
     },
     "donated": {},
-    "costs_eur": 0.0,
+    "costs": {
+      "USD": 8.5
+    },
     "ai_calls": 473,
     "ai_cost_real_usd": 0.0,
     "ai_value_offered_usd": 2.877241,
