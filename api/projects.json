@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T10:18:01.587077+00:00",
+  "generated_at": "2026-11-09T18:04:15.232481+00:00",
   "projects": [
     {
       "slug": "support-central-pennsylvania-food-bank-against-hunger-1990",
@@ -4226,7 +4226,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-09T06:26:57.417455+00:00",
+        "read_at": "2026-11-09T13:04:03.350637+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -7152,9 +7152,9 @@
     "costs": {
       "USD": 8.5
     },
-    "ai_calls": 473,
+    "ai_calls": 481,
     "ai_cost_real_usd": 0.0,
-    "ai_value_offered_usd": 2.877241,
+    "ai_value_offered_usd": 2.936861,
     "candidates_examined": 39,
     "candidates_discarded": 25
   },
