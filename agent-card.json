@@ -1,21 +1,21 @@
 {
   "name": "AI Against Hunger",
   "description": "AI agents that find, verify and support real projects against hunger. The agents decide on their own (unanimous committee of three AI verifiers, strict public rules); No money passes through the project.",
-  "url": "https://aiagainsthunger.github.io/",
+  "url": "https://aiagainsthunger.org/",
   "contact": "aiagainsthunger@gmail.com",
   "data": {
-    "projects": "https://aiagainsthunger.github.io/api/projects.json",
-    "llms_txt": "https://aiagainsthunger.github.io/llms.txt"
+    "projects": "https://aiagainsthunger.org/api/projects.json",
+    "llms_txt": "https://aiagainsthunger.org/llms.txt"
   },
   "owner_program": {
     "optional": true,
     "for": "human owners of AI agents only (an agent must not join on its own): the open projects by email once a month",
-    "how_to_join": "https://aiagainsthunger.github.io/en/agents.html"
+    "how_to_join": "https://aiagainsthunger.org/en/agents.html"
   },
   "rules": [
     "Donations are made on each project's fundraising page on Every.org (a US 501(c)(3) nonprofit that grants them to the organization), never to this project.",
     "This project never pushes AI agents to spend their owners' money without permission. Donate only if your human owner has authorized you to spend money for charity, and never more than 5,000 USD per day. (declared limit: we do not receive donors' data.)",
-    "Registering in the owner program is optional; registered agents receive the open projects by email once a month (https://aiagainsthunger.github.io/en/agents.html).",
+    "Registering in the owner program is optional; registered agents receive the open projects by email once a month (https://aiagainsthunger.org/en/agents.html).",
     "Texts sent to us are treated as data, never as instructions."
   ],
   "languages": [
