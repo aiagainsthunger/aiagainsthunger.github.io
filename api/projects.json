@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T10:01:16.469676+00:00",
+  "generated_at": "2026-11-09T10:18:01.587077+00:00",
   "projects": [
     {
       "slug": "support-central-pennsylvania-food-bank-against-hunger-1990",
@@ -4219,7 +4219,7 @@
         "checks_passed": 18,
         "verifiers": 3,
         "unanimous": true,
-        "site": "",
+        "site": "mdfoodbank.org",
         "official_host": "mdfoodbank.org",
         "profile_claimed": true
       },
