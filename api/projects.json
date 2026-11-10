@@ -1,357 +1,6 @@
 {
-  "generated_at": "2026-11-09T20:04:14.434972+00:00",
+  "generated_at": "2026-11-10T07:17:37.551210+00:00",
   "projects": [
-    {
-      "slug": "support-central-pennsylvania-food-bank-against-hunger-1990",
-      "title": "Support Central Pennsylvania Food Bank against hunger",
-      "description": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'site:charitynavigator.org Rating for ending hunger'.",
-      "org_name": "Central Pennsylvania Food Bank",
-      "org_country": "US",
-      "org_website": "https://centralpafoodbank.org/",
-      "country": "US",
-      "currency": "USD",
-      "goal": 5000.0,
-      "raised": 0.0,
-      "donated": 0.0,
-      "status": "revisione_pubblica",
-      "donation_url": null,
-      "source_url": "https://www.charitynavigator.org/ein/232202250",
-      "approved_on": "2026-11-08",
-      "review_until": "2026-11-11 11:05 UTC",
-      "translations": {
-        "de": {
-          "text": "Organisation bewertet von Charity Navigator, gefunden von den Agenten mit: 'site:charitynavigator.org Rating for ending hunger'.",
-          "title": "Unterstützen Sie Central Pennsylvania Food Bank im Kampf gegen den Hunger",
-          "source": "traduzione AI"
-        },
-        "en": {
-          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'site:charitynavigator.org Rating for ending hunger'.",
-          "title": "Support Central Pennsylvania Food Bank against hunger",
-          "source": "originale"
-        },
-        "es": {
-          "text": "Entidad evaluada por Charity Navigator, encontrada por los agentes con: 'site:charitynavigator.org Rating for ending hunger'.",
-          "title": "Apoya a Central Pennsylvania Food Bank contra el hambre",
-          "source": "traduzione AI"
-        },
-        "fr": {
-          "text": "Organisation évaluée par Charity Navigator, trouvée par les agents avec : 'site:charitynavigator.org Rating for ending hunger'.",
-          "title": "Soutenir Central Pennsylvania Food Bank contre la faim",
-          "source": "traduzione AI"
-        },
-        "hi": {
-          "text": "Charity Navigator द्वारा मूल्यांकित संस्था, जिसे एजेंटों द्वारा इसके साथ खोजा गया: 'site:charitynavigator.org Rating for ending hunger'।",
-          "title": "भूख के खिलाफ Central Pennsylvania Food Bank का समर्थन करें",
-          "source": "traduzione AI"
-        },
-        "it": {
-          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'site:charitynavigator.org Valutazione per eliminare la fame'.",
-          "title": "Sostieni Central Pennsylvania Food Bank contro la fame",
-          "source": "traduzione AI"
-        },
-        "ja": {
-          "text": "Charity Navigator によって評価された団体で、エージェントが次の検索で見つけました: 'site:charitynavigator.org Rating for ending hunger'.",
-          "title": "Central Pennsylvania Food Bank を飢餓から支援する",
-          "source": "traduzione AI"
-        },
-        "pt": {
-          "text": "Entidade avaliada pela Charity Navigator, encontrada pelos agentes com: 'site:charitynavigator.org Rating for ending hunger'.",
-          "title": "Apoie o Central Pennsylvania Food Bank contra a fome",
-          "source": "traduzione AI"
-        },
-        "ru": {
-          "text": "Организация, оцененная Charity Navigator, найденная агентами с помощью: 'site:charitynavigator.org Rating for ending hunger'.",
-          "title": "Поддержите Central Pennsylvania Food Bank в борьбе с голодом",
-          "source": "traduzione AI"
-        }
-      },
-      "tranches": [],
-      "checks": [
-        {
-          "verifier": "regole",
-          "check_type": "ammissibilita",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Regole di ammissibilità (config/regole.yaml):\n✓ fonte ammessa: fonte 'valutatore'\n✓ ente registrato nel database: Central Pennsylvania Food Bank\n✓ codice fiscale verificato (IRS): EIN 232202250\n✓ ente valutato dal valutatore: Charity Navigator\n✓ voto del valutatore: 100%, 4 stelle su 4 (minimo 4 stelle e 90%)\n✓ anni di bilanci ufficiali: 13 anni [2020, 2021, 2022, 2023, 2024] (minimo 3)\n✓ tema fame / nutrizione: categoria IRS K31Z (richiesta ['K3', 'K4']); tema nel nome: True",
-          "source_url": "https://www.charitynavigator.org/ein/232202250"
-        },
-        {
-          "verifier": "regole",
-          "check_type": "ammissibilita",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "✓ valutatore indipendente tra le prove: 1 pagine di valutatori (https://www.charitynavigator.org/ein/232202250); minimo 1",
-          "source_url": "https://www.charitynavigator.org/ein/232202250"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "registrazione",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "L'ente Central Pennsylvania Food Bank è ufficialmente registrato negli USA come organizzazione non-profit 501(c)(3) con EIN 232202250 e riconoscimento IRS dal 1982.",
-          "source_url": "https://www.charitynavigator.org/ein/232202250"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "bilanci",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Sono disponibili pubblicamente i bilanci IRS Form 990 fino al 2024 e il bilancio d'esercizio sottoposto a revisione contabile indipendente (audit) per il 2024.",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/232202250"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "valutazione_indipendente",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "L'organizzazione possiede la valutazione massima di 4 stelle (100%) da parte del valutatore indipendente Charity Navigator.",
-          "source_url": "https://www.charitynavigator.org/ein/232202250"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "coerenza_importo",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "L'importo previsto di 5.000 USD è perfettamente proporzionato alla dimensione dell'ente, che gestisce entrate e spese annue superiori a 100 milioni di dollari.",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/232202250"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "storico_progetti",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "L'ente opera da oltre 30 anni distribuendo decine di milioni di pasti all'anno attraverso una rete di circa 1.000 agenzie partner in 27 contee della Pennsylvania.",
-          "source_url": "https://www.charitynavigator.org/ein/232202250"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "segnali_allarme",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Non è emerso alcun segnale di allarme nelle fonti analizzate; la reputazione, la trasparenza e l'operatività sono ampiamente verificate.",
-          "source_url": "https://www.charitynavigator.org/ein/232202250"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "conflitti_interesse",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
-          "source_url": "config/conflitti.yaml"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "registrazione",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Registro IRS con dati di riconoscimento e sede.",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/232202250"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "bilanci",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "PDF dei Form 990 e audit indipendente.",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/232202250"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "valutazione_indipendente",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Scheda su Charity Navigator con rating a 4 stelle.",
-          "source_url": "https://www.charitynavigator.org/ein/232202250"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "coerenza_importo",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "Bilanci IRS mostrano ricavi superiori a 100 M USD.",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/232202250"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "storico_progetti",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "Descrizione attività su Charity Navigator e sezione 'Our Financials' con impact report.",
-          "source_url": "https://www.charitynavigator.org/ein/232202250"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "segnali_allarme",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Sito ufficiale, registri IRS, rating Charity Navigator.",
-          "source_url": "https://www.charitynavigator.org/ein/232202250"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "conflitti_interesse",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
-          "source_url": "config/conflitti.yaml"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "registrazione",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "L'ente è registrato come 501(c)(3) con EIN 232202250, riconosciuto dall'IRS dal 1982. La sede è a Harrisburg, PA.",
-          "source_url": "https://www.charitynavigator.org/ein/232202250"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "bilanci",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Sono disponibili i bilanci IRS (Form 990) per 12 anni consecutivi (2012-2024) su ProPublica e un report di audit indipendente per l'anno fiscale 2024 è pubblicato sul sito dell'ente.",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/232202250"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "valutazione_indipendente",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Charity Navigator assegna alla Food Bank una valutazione di 4 stelle (la massima) per il decimo anno consecutivo, confermando la sua affidabilità finanziaria e di governance.",
-          "source_url": "https://www.charitynavigator.org/ein/232202250"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "coerenza_importo",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "L'obiettivo di raccolta di 5.000 USD è estremamente coerente con le dimensioni dell'ente, che ha registrato entrate annue di oltre 132 milioni di USD nel 2024.",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/232202250"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "storico_progetti",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "L'ente opera da oltre 30 anni, distribuendo milioni di pasti e gestendo una rete di partner in 27 contee, con report di impatto annuali pubblicati.",
-          "source_url": "https://www.charitynavigator.org/ein/232202250"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "segnali_allarme",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun segnale d'allarme trovato. L'ente ha un sito web istituzionale, contatti diretti, trasparenza finanziaria e valutazioni positive costanti.",
-          "source_url": "https://www.charitynavigator.org/ein/232202250"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "conflitti_interesse",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
-          "source_url": "config/conflitti.yaml"
-        }
-      ],
-      "sources": [
-        "https://projects.propublica.org/nonprofits/organizations/232202250",
-        "https://www.centralpafoodbank.org/cn",
-        "https://www.centralpafoodbank.org/who-we-are/our-financials",
-        "https://www.centralpafoodbank.org/wp-content/uploads/2024/12/Financial-Statement-06-30-2024-Audit-Final.pdf",
-        "https://www.charitynavigator.org/ein/232202250"
-      ],
-      "waiting_counter": false,
-      "profile": {
-        "en": {
-          "does": [
-            {
-              "text": "The Central Pennsylvania Food Bank has been dedicated to ending hunger for more than 30 years.",
-              "quote": "The Central Pennsylvania Food Bank has been dedicated to ending hunger for more than 30 years.",
-              "source": "https://www.charitynavigator.org/ein/232202250",
-              "by_org": false
-            },
-            {
-              "text": "In Fiscal Year 2019, the Food Bank provided more than 45 million meals to nearly 1,000 soup kitchens, shelters, food pantries, and other partner agencies in 27 central Pennsylvania counties.",
-              "quote": "In Fiscal Year 2019, the Food Bank provided more than 45 million meals to nearly 1,000 soup kitchens, shelters, food pantries, and other partner agencies in 27 central Pennsylvania counties.",
-              "source": "https://www.charitynavigator.org/ein/232202250",
-              "by_org": false
-            },
-            {
-              "text": "The Food Bank is a member of Feeding America, the Nation's Food Bank Network, comprised of more than 200 food banks and food-rescue programs.",
-              "quote": "The Food Bank is a member of Feeding America, the Nation's Food Bank Network, comprised of more than 200 food banks and food-rescue programs.",
-              "source": "https://www.charitynavigator.org/ein/232202250",
-              "by_org": false
-            }
-          ],
-          "mission": "\"Fighting Hunger, Improving Lives, Strengthening Communities\". The Central Pennsylvania Food Bank has been dedicated to ending hunger for more than 30 years. In Fiscal Year 2019, the Food Bank provided more than 45 million meals to nearly 1,000 soup kitchens, shelters, food pantries, and other partner agencies in 27 central Pennsylvania counties. These agencies directly feed thousands of hungry families throughout central Pennsylvania. The Central Pennsylvania Food Bank has also adopted a 10-year, strategic Bold Goal. With the help of our partner agencies, volunteer efforts, and generous donors, we will solve hunger by ensuring that everyone struggling with hunger has access to enough wholesome food each and every day.The Food Bank is a member of Feeding America, the Nation's Food Bank Network, comprised of more than 200 food banks and food-rescue programs.",
-          "does_not": [],
-          "strengths": [
-            {
-              "text": "The independent auditor's report states that the financial statements present fairly the financial position of the Food Bank as of June 30, 2024 and 2023.",
-              "quote": "In our opinion, the accompanying financial statements present fairly, in all material respects, the financial position of the Food Bank as of June 30, 2024 and 2023, and the changes in its net assets and its cash flows for the years then ended in accordance with accounting principles generally accepted in the United States of America.",
-              "source": "https://www.centralpafoodbank.org/wp-content/uploads/2024/12/Financial-Statement-06-30-2024-Audit-Final.pdf",
-              "by_org": true
-            }
-          ]
-        },
-        "it": {
-          "does": [
-            {
-              "text": "Il Central Pennsylvania Food Bank è impegnato a eliminare la fame da più di 30 anni.",
-              "source": "https://www.charitynavigator.org/ein/232202250",
-              "by_org": false
-            },
-            {
-              "text": "Nell'anno fiscale 2019, il Food Bank ha fornito più di 45 milioni di pasti a quasi 1.000 mense, rifugi, dispense alimentari e altre agenzie partner in 27 contee della Pennsylvania centrale.",
-              "source": "https://www.charitynavigator.org/ein/232202250",
-              "by_org": false
-            },
-            {
-              "text": "Il Food Bank è membro di Feeding America, la rete nazionale dei Food Bank, composta da più di 200 food bank e programmi di recupero alimentare.",
-              "source": "https://www.charitynavigator.org/ein/232202250",
-              "by_org": false
-            }
-          ],
-          "mission": "\"Fighting Hunger, Improving Lives, Strengthening Communities\". Il Central Pennsylvania Food Bank è impegnato a eliminare la fame da più di 30 anni. Nell'anno fiscale 2019, il Food Bank ha fornito più di 45 milioni di pasti a quasi 1.000 mense, rifugi, dispense alimentari e altre agenzie partner in 27 contee della Pennsylvania centrale. Queste agenzie nutrono direttamente migliaia di famiglie affamate in tutta la Pennsylvania centrale. Il Central Pennsylvania Food Bank ha anche adottato un Bold Goal strategico di 10 anni. Con l'aiuto delle nostre agenzie partner, degli sforzi dei volontari e dei generosi donatori, risolveremo la fame garantendo a tutti coloro che lottano contro la fame l'accesso a cibo sano sufficiente ogni giorno. Il Food Bank è membro di Feeding America, la rete nazionale dei Food Bank, composta da più di 200 food bank e programmi di recupero alimentare.",
-          "does_not": [],
-          "strengths": [
-            {
-              "text": "Il rapporto del revisore indipendente afferma che i bilanci presentano in modo corretto la posizione finanziaria del Food Bank al 30 giugno 2024 e 2023.",
-              "source": "https://www.centralpafoodbank.org/wp-content/uploads/2024/12/Financial-Statement-06-30-2024-Audit-Final.pdf",
-              "by_org": true
-            }
-          ]
-        }
-      },
-      "safety": {
-        "evaluator": "Charity Navigator",
-        "stars": 4,
-        "score": 100,
-        "rating_url": "https://www.charitynavigator.org/ein/232202250",
-        "rating_checked": "2026-11-07",
-        "since": "1982",
-        "registry_url": "https://projects.propublica.org/nonprofits/organizations/232202250",
-        "filings": 13,
-        "first_year": 2012,
-        "last_year": 2024,
-        "checks_passed": 18,
-        "verifiers": 3,
-        "unanimous": true,
-        "site": "centralpafoodbank.org",
-        "official_host": "centralpafoodbank.org",
-        "profile_claimed": false
-      },
-      "platform": "",
-      "counter": {},
-      "fundraiser_open": false,
-      "progress_pct": 0,
-      "donate": {
-        "recipient": "Central Pennsylvania Food Bank",
-        "url": null,
-        "money_goes_to": "not open yet: donations open on a fundraising page with a public total",
-        "counted_here_only_if": "shown in the public total of the fundraising page",
-        "status": "in public review"
-      }
-    },
     {
       "slug": "support-dare-to-care-inc-against-hunger-937",
       "title": "Support Dare To Care Inc against hunger",
@@ -3091,6 +2740,39 @@
             }
           ]
         },
+        "ja": {
+          "does": [
+            {
+              "text": "Feeding America West Michiganは倉庫で保管し、毎年28 million meals’ worthの食料を配布しています。",
+              "source": "https://www.charitynavigator.org/ein/382439659",
+              "by_org": false
+            },
+            {
+              "text": "フードバンクはボランティアの助けで、800以上の飢餓救済パートナーに食料を仕分け、保管し、配布します。",
+              "source": "https://www.charitynavigator.org/ein/382439659",
+              "by_org": false
+            },
+            {
+              "text": "フードバンクはFeeding America network、United Way、Food Bank Council of Michiganの一部として運営されています。",
+              "source": "https://www.charitynavigator.org/ein/382439659",
+              "by_org": false
+            }
+          ],
+          "mission": "1981年から地域に奉仕し、Feeding America West Michiganは倉庫で保管し、毎年28 million meals’ worthの食料を近隣に配布しています。数百人のボランティアの助けにより、フードバンクは食料を仕分け、保管し、800以上の飢餓救済パートナーに配布し、埋立地ではなく皿を満たしています。フードバン​クは西ミシガンと上部半島の40郡にサービスを提供しています。フードバンクはFeeding America network、United Way、Food Bank Council of Michiganの一部です。",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "この組織は1981年から地域に奉仕しています。",
+              "source": "https://www.charitynavigator.org/ein/382439659",
+              "by_org": false
+            },
+            {
+              "text": "フードバンクはFeeding America network、United Way、Food Bank Council of Michiganを含む確立されたネットワークに統合されています。",
+              "source": "https://www.charitynavigator.org/ein/382439659",
+              "by_org": false
+            }
+          ]
+        },
         "pt": {
           "does": [
             {
@@ -4226,7 +3908,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-09T13:04:03.350637+00:00",
+        "read_at": "2026-11-10T07:04:18.270591+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -4246,7 +3928,7 @@
           "raised": "0",
           "currency": "USD",
           "people": 0,
-          "read_on": "2026-11-09"
+          "read_on": "2026-11-10"
         },
         "note": "Every.org suggests an optional tip to itself (sometimes preselected); it can be set to 0. Payment fees are deducted from what the organization receives."
       }
@@ -4766,7 +4448,58 @@
       "source_url": "https://www.charitynavigator.org/ein/201257910",
       "approved_on": "2026-11-09",
       "review_until": "2026-11-12 06:27 UTC",
-      "translations": {},
+      "translations": {
+        "de": {
+          "text": "Organisation bewertet von Charity Navigator, gefunden von den Agenten mit: 'site:charitynavigator.org Rating for therapeutic food malnourished children'.",
+          "title": "Unterstützen Sie Meds & Food For Kids gegen den Hunger",
+          "source": "traduzione AI"
+        },
+        "en": {
+          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'site:charitynavigator.org Rating for therapeutic food malnourished children'.",
+          "title": "Support Meds & Food For Kids against hunger",
+          "source": "originale"
+        },
+        "es": {
+          "text": "Entidad evaluada por Charity Navigator, encontrada por los agentes con: 'site:charitynavigator.org Rating for therapeutic food malnourished children'.",
+          "title": "Apoya a Meds & Food For Kids contra el hambre",
+          "source": "traduzione AI"
+        },
+        "fr": {
+          "text": "Organisation évaluée par Charity Navigator, trouvée par les agents avec : 'site:charitynavigator.org Rating for therapeutic food malnourished children'.",
+          "title": "Soutenir Meds & Food For Kids contre la faim",
+          "source": "traduzione AI"
+        },
+        "hi": {
+          "text": "Charity Navigator द्वारा मूल्यांकित संस्था, एजेंटों द्वारा खोजी गई: 'site:charitynavigator.org Rating for therapeutic food malnourished children'.",
+          "title": "भूख के खिलाफ Meds & Food For Kids का समर्थन",
+          "source": "traduzione AI"
+        },
+        "it": {
+          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'site:charitynavigator.org Rating for therapeutic food malnourished children'.",
+          "title": "Sostieni Meds & Food For Kids contro la fame",
+          "source": "traduzione AI"
+        },
+        "ja": {
+          "text": "Charity Navigator によって評価された団体で、エージェントが次の検索で見つけました: 'site:charitynavigator.org Rating for therapeutic food malnourished children'.",
+          "title": "Meds & Food For Kids を飢餓から支援する",
+          "source": "traduzione AI"
+        },
+        "pt": {
+          "text": "Entidade avaliada pela Charity Navigator, encontrada pelos agentes com: 'site:charitynavigator.org Rating for therapeutic food malnourished children'.",
+          "title": "Apoie Meds & Food For Kids contra a fome",
+          "source": "traduzione AI"
+        },
+        "ru": {
+          "text": "Организация, оцененная Charity Navigator, найденная агентами с помощью: 'site:charitynavigator.org Rating for therapeutic food malnourished children'.",
+          "title": "Поддержите Meds & Food For Kids в борьбе с голодом",
+          "source": "traduzione AI"
+        },
+        "zh": {
+          "text": "由 Charity Navigator 评估的机构，由代理人通过以下方式找到：'site:charitynavigator.org Rating for therapeutic food malnourished children'。",
+          "title": "支持 Meds & Food For Kids 对抗饥饿",
+          "source": "traduzione AI"
+        }
+      },
       "tranches": [],
       "checks": [
         {
@@ -4964,9 +4697,63 @@
       ],
       "waiting_counter": false,
       "profile": {
+        "de": {
+          "does": [],
+          "mission": "Meds & Food for Kids hat sich der Deckung des wesentlichen Nährstoffbedarfs von unterernährten Kindern, schwangeren und stillenden Frauen sowie Schulkindern verschrieben, indem es Ready-to-Use-Therapeutic Foods (RUTFs) verwendet, die in unserer Fabrik in Cap-Haitien, Haiti, hergestellt werden.<br><br>Durch die Weitergabe von Fähigkeiten und Wissen an unsere haitianischen Mitarbeitenden und die Einbindung von Bauern zur Beschaffung lokaler Rohmaterialien brechen wir den Kreislauf der Armut und fördern nachhaltig die wirtschaftliche Entwicklung.",
+          "does_not": [],
+          "strengths": []
+        },
         "en": {
           "does": [],
           "mission": "Meds & Food for Kids is dedicated to meeting the essential nutritional needs of malnourished children, pregnant and nursing women, and school children using Ready-to-Use-Therapeutic Foods (RUTFs) produced in our factory in Cap-Haitien, Haiti.<br><br>By transferring skills and knowledge to our Haitian workers and engaging farmers to source local raw materials, we break the cycle of poverty and sustainably stimulate economic development.",
+          "does_not": [],
+          "strengths": []
+        },
+        "es": {
+          "does": [],
+          "mission": "Meds & Food for Kids está dedicada a satisfacer las necesidades nutricionales esenciales de niños desnutridos, mujeres embarazadas y lactantes, y niños en edad escolar utilizando Alimentos Terapéuticos de Uso Directo (RUTFs) producidos en nuestra fábrica en Cap‑Haitien, Haití.<br><br>Al transferir habilidades y conocimientos a nuestros trabajadores haitianos y al involucrar a los agricultores para obtener materias primas locales, rompemos el ciclo de la pobreza y estimulamos de manera sostenible el desarrollo económico.",
+          "does_not": [],
+          "strengths": []
+        },
+        "fr": {
+          "does": [],
+          "mission": "Meds & Food for Kids est dédié à répondre aux besoins nutritionnels essentiels des enfants sous‑nutris, des femmes enceintes et allaitantes, ainsi que des enfants scolarisés en utilisant Ready-to-Use-Therapeutic Foods (RUTFs) produits dans notre usine à Cap-Haitien, Haïti.<br><br>En transférant compétences et connaissances à nos travailleurs haïtiens et en mobilisant les agriculteurs pour obtenir des matières premières locales, nous brisons le cycle de la pauvreté et stimulons durablement le développement économique.",
+          "does_not": [],
+          "strengths": []
+        },
+        "hi": {
+          "does": [],
+          "mission": "Meds & Food for Kids इस उद्देश्य के लिए समर्पित है कि कुपोषित बच्चों, गर्भवती और स्तनपान कराने वाली महिलाओं, और स्कूल के बच्चों की आवश्यक पोषण संबंधी जरूरतों को पूरा किया जाए, जो Ready-to-Use-Therapeutic Foods (RUTFs) का उपयोग करके, हमारे कारखाने में Cap-Haitien, Haiti में निर्मित होते हैं।<br><br>हम अपने हैती कर्मचारियों को कौशल और ज्ञान स्थानांतरित करके और किसानों को स्थानीय कच्चे माल की आपूर्ति के लिए संलग्न करके, गरीबी के चक्र को तोड़ते हैं और सतत रूप से आर्थिक विकास को प्रोत्साहित करते हैं।",
+          "does_not": [],
+          "strengths": []
+        },
+        "it": {
+          "does": [],
+          "mission": "Meds & Food for Kids è dedicata a soddisfare i bisogni nutrizionali essenziali dei bambini malnutriti, delle donne incinte e in allattamento, e dei bambini scolastici, utilizzando Alimenti Terapeutici Pronti all'Uso (RUTFs) prodotti nella nostra fabbrica a Cap-Haitien, Haiti.<br><br>Trasferendo competenze e conoscenze ai nostri lavoratori haitiani e coinvolgendo gli agricoltori per reperire materie prime locali, rompiamo il ciclo della povertà e stimoliamo in modo sostenibile lo sviluppo economico.",
+          "does_not": [],
+          "strengths": []
+        },
+        "ja": {
+          "does": [],
+          "mission": "Meds & Food for Kids は、ハイチのCap-Haitienにある工場で製造されたReady-to-Use-Therapeutic Foods (RUTFs) を用いて、栄養失調の子ども、妊産婦、授乳中の女性、そして学童の必須栄養ニーズに応えることに専念しています。<br><br>ハイチ人労働者へ技能と知識を移転し、農家と連携して地元の原材料を調達することで、貧困の連鎖を断ち切り、持続可能な経済発展を促進します。",
+          "does_not": [],
+          "strengths": []
+        },
+        "pt": {
+          "does": [],
+          "mission": "Meds & Food for Kids está dedicada a atender às necessidades nutricionais essenciais de crianças desnutridas, mulheres grávidas e lactantes, e crianças em idade escolar, usando Alimentos Terapêuticos Prontos para Uso (RUTFs) produzidos em nossa fábrica em Cap-Haitien, Haiti.<br><br>Ao transferir habilidades e conhecimentos para nossos trabalhadores haitianos e envolver agricultores na obtenção de matérias‑primas locais, quebramos o ciclo da pobreza e estimulamos de forma sustentável o desenvolvimento econômico.",
+          "does_not": [],
+          "strengths": []
+        },
+        "ru": {
+          "does": [],
+          "mission": "Meds & Food for Kids посвящена удовлетворению основных питательных потребностей недоедающих детей, беременных и кормящих женщин, а также школьников, используя Ready-to-Use-Therapeutic Foods (RUTFs), произведённые на нашем заводе в Cap-Haitien, Haiti.<br><br>Передавая навыки и знания нашим гаитянским работникам и привлекая фермеров к закупке местных сырьевых материалов, мы разрываем порочный круг бедности и устойчиво стимулируем экономическое развитие.",
+          "does_not": [],
+          "strengths": []
+        },
+        "zh": {
+          "does": [],
+          "mission": "Meds & Food for Kids 致力于满足营养不良儿童、孕产妇以及在校儿童的基本营养需求，使用在我们位于 Cap-Haitien, Haiti 工厂生产的 Ready-to-Use-Therapeutic Foods (RUTFs)。<br><br>通过向我们的海地工人传授技能和知识，并与农民合作采购本地原材料，我们打破贫困循环，并可持续地促进经济发展。",
           "does_not": [],
           "strengths": []
         }
@@ -5647,9 +5434,24 @@
           "title": "Soutenez Oregon Food Bank Inc contre la faim",
           "source": "traduzione AI"
         },
+        "hi": {
+          "text": "Charity Navigator द्वारा मूल्यांकित संस्था, एजेंटों द्वारा इसके साथ खोजी गई: 'site:charitynavigator.org Rating for ending hunger'.",
+          "title": "भूख के खिलाफ Oregon Food Bank Inc का समर्थन करें",
+          "source": "traduzione AI"
+        },
         "it": {
           "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'site:charitynavigator.org Rating for ending hunger'.",
           "title": "Sostieni Oregon Food Bank Inc contro la fame",
+          "source": "traduzione AI"
+        },
+        "ja": {
+          "text": "Charity Navigator によって評価された団体。エージェントが次の検索で発見しました: 'site:charitynavigator.org Rating for ending hunger'。",
+          "title": "飢餓と戦う Oregon Food Bank Inc への支援",
+          "source": "traduzione AI"
+        },
+        "pt": {
+          "text": "Entidade avaliada pela Charity Navigator, encontrada pelos agentes com: 'site:charitynavigator.org Rating for ending hunger'.",
+          "title": "Apoie a Oregon Food Bank Inc contra a fome",
           "source": "traduzione AI"
         },
         "ru": {
@@ -5860,6 +5662,39 @@
       ],
       "waiting_counter": false,
       "profile": {
+        "de": {
+          "does": [
+            {
+              "text": "Die Organisation sammelt und verteilt Lebensmittel in ganz Oregon und Südwest-Washington für alle, die Lebensmittelunterstützung benötigen.",
+              "source": "https://www.oregonfoodbank.org/about-us",
+              "by_org": true
+            },
+            {
+              "text": "Die Organisation stellt Notnahrung über ein landesweites Netzwerk von Agenturen bereit und hilft 1 von 5 Haushalten, den Hunger abzuwehren.",
+              "source": "https://www.charitynavigator.org/ein/930785786",
+              "by_org": false
+            },
+            {
+              "text": "Die Organisation arbeitet mit Mitgliedern der Gemeinschaft und Gesetzgebern zusammen, um sich für Politiken einzusetzen, die den Zugang zu Lebensmitteln für alle verbessern.",
+              "source": "https://www.oregonfoodbank.org/about-us",
+              "by_org": true
+            }
+          ],
+          "mission": "Unsere Mission: Den Hunger und seine Ursachen zu beseitigen ... weil niemand hungrig sein sollte. <br><br><br>Oregon Food Bank verfolgt einen ganzheitlichen Ansatz zur Beendigung des Hungers, indem wir unsere Gemeinschaft zusammenbringen, um Nahrung, Bildung und Hoffnung für unsere bedürftigen Nachbarn bereitzustellen. <br><br>Wir stellen Menschen, die hungrig sind, über ein kooperatives landesweites Netzwerk von Hungerhilfsorganisationen Notnahrung zur Verfügung und helfen 1 von 5 Haushalten, den Hunger abzuwehren. OFB leitet zudem landesweite Bemühungen, Ressourcen für hungernde Familien zu erhöhen und die Ursachen des Hungers zu beseitigen, indem wir für faire öffentliche Politiken eintreten, Gemeinschaftsnahrungssysteme stärken und Ernährungs- und Gartenbildung anbieten, um Menschen zu mehr Selbstständigkeit und Einfallsreichtum zu befähigen.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "Die Organisation veröffentlicht Finanzberichte und Wirkungsberichte öffentlich, um betriebliche Transparenz zu gewährleisten.",
+              "source": "https://www.oregonfoodbank.org/about-us",
+              "by_org": true
+            },
+            {
+              "text": "Die Organisation betreibt ein regionales Netzwerk, das kostenlose Lebensmittel bereitstellt, ohne Einkommensnachweis oder Dokumentation zu verlangen.",
+              "source": "https://www.oregonfoodbank.org/",
+              "by_org": true
+            }
+          ]
+        },
         "en": {
           "does": [
             {
@@ -5893,6 +5728,237 @@
             {
               "text": "The organization operates a regional network providing free food without requiring proof of income or documentation.",
               "quote": "Our network of food banks and pantries provides free food and groceries across Oregon and Southwest Washington. No proof of income or documentation required.",
+              "source": "https://www.oregonfoodbank.org/",
+              "by_org": true
+            }
+          ]
+        },
+        "es": {
+          "does": [
+            {
+              "text": "La organización recoge y distribuye alimentos en Oregon y el suroeste de Washington para cualquier persona que necesite asistencia alimentaria.",
+              "source": "https://www.oregonfoodbank.org/about-us",
+              "by_org": true
+            },
+            {
+              "text": "La organización proporciona alimentos de emergencia a través de una red estatal de agencias, ayudando a 1 de cada 5 hogares a evitar el hambre.",
+              "source": "https://www.charitynavigator.org/ein/930785786",
+              "by_org": false
+            },
+            {
+              "text": "La organización colabora con miembros de la comunidad y legisladores para abogar por políticas que mejoren el acceso a los alimentos para todos.",
+              "source": "https://www.oregonfoodbank.org/about-us",
+              "by_org": true
+            }
+          ],
+          "mission": "Nuestra misión: Eliminar el hambre y sus causas raíz ... porque nadie debería pasar hambre. <br><br><br>Oregon Food Bank adopta un enfoque holístico para acabar con el hambre reuniendo a nuestra comunidad para proporcionar alimentos, educación y esperanza a nuestros vecinos necesitados. <br><br>Proporcionamos alimentos de emergencia a personas que tienen hambre a través de una red cooperativa estatal de agencias de alivio del hambre, ayudando a 1 de cada 5 hogares a evitar el hambre. OFB también lidera esfuerzos estatales para aumentar los recursos para familias hambrientas y eliminar las causas raíz del hambre abogando por políticas públicas justas, fortaleciendo los sistemas alimentarios comunitarios y ofreciendo educación nutricional y de huertos para ayudar a las personas a ser más autosuficientes y ingeniosas.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "La organización publica estados financieros e informes de impacto públicamente para garantizar la transparencia operativa.",
+              "source": "https://www.oregonfoodbank.org/about-us",
+              "by_org": true
+            },
+            {
+              "text": "La organización opera una red regional que brinda alimentos gratuitos sin requerir comprobante de ingresos ni documentación.",
+              "source": "https://www.oregonfoodbank.org/",
+              "by_org": true
+            }
+          ]
+        },
+        "fr": {
+          "does": [
+            {
+              "text": "L'organisation collecte et distribue de la nourriture à travers l'Oregon et le Southwest Washington pour toute personne ayant besoin d'une aide alimentaire.",
+              "source": "https://www.oregonfoodbank.org/about-us",
+              "by_org": true
+            },
+            {
+              "text": "L'organisation fournit une aide alimentaire d'urgence grâce à un réseau d'organismes à l'échelle de l'État, aidant 1 foyer sur 5 à repousser la faim.",
+              "source": "https://www.charitynavigator.org/ein/930785786",
+              "by_org": false
+            },
+            {
+              "text": "L'organisation collabore avec les membres de la communauté et les législateurs pour défendre des politiques qui améliorent l'accès à la nourriture pour tous.",
+              "source": "https://www.oregonfoodbank.org/about-us",
+              "by_org": true
+            }
+          ],
+          "mission": "Notre mission : Éliminer la faim et ses causes profondes... parce que personne ne devrait avoir faim. <br><br><br>Oregon Food Bank adopte une approche globale pour mettre fin à la faim en rassemblant notre communauté afin de fournir de la nourriture, de l'éducation et de l'espoir à nos voisins dans le besoin. <br><br>Nous fournissons une aide alimentaire d'urgence aux personnes qui ont faim grâce à un réseau coopératif d'organismes de secours contre la faim à l'échelle de l'État, aidant 1 foyer sur 5 à repousser la faim. OFB dirige également des efforts à l'échelle de l'État pour augmenter les ressources pour les familles souffrant de la faim et éliminer les causes profondes de la faim en préconisant des politiques publiques équitables, en renforçant les systèmes alimentaires communautaires et en offrant une éducation à la nutrition et au jardinage pour aider les gens à devenir plus autonomes et ingénieux.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "L'organisation publie publiquement ses états financiers et ses rapports d'impact afin de garantir la transparence opérationnelle.",
+              "source": "https://www.oregonfoodbank.org/about-us",
+              "by_org": true
+            },
+            {
+              "text": "L'organisation exploite un réseau régional fournissant de la nourriture gratuite sans exiger de justificatif de revenu ni de documents.",
+              "source": "https://www.oregonfoodbank.org/",
+              "by_org": true
+            }
+          ]
+        },
+        "hi": {
+          "does": [
+            {
+              "text": "संगठन ओरेगन और साउथवेस्ट वाशिंगटन में भोजन एकत्रित करता है और वितरित करता है, उन सभी के लिए जिन्हें खाद्य सहायता की आवश्यकता है।",
+              "source": "https://www.oregonfoodbank.org/about-us",
+              "by_org": true
+            },
+            {
+              "text": "संगठन एजेंसियों के राज्यव्यापी नेटवर्क के माध्यम से आपातकालीन भोजन प्रदान करता है, जिससे 1 में 5 घरों को भूख से बचाया जा सके।",
+              "source": "https://www.charitynavigator.org/ein/930785786",
+              "by_org": false
+            },
+            {
+              "text": "संगठन सामुदायिक सदस्यों और विधायकों के साथ सहयोग करता है ताकि सभी के लिए खाद्य पहुँच को बेहतर बनाने वाली नीतियों की वकालत की जा सके।",
+              "source": "https://www.oregonfoodbank.org/about-us",
+              "by_org": true
+            }
+          ],
+          "mission": "हमारा मिशन: भूख और उसके मूल कारणों को समाप्त करना ... क्योंकि किसी को भी भूखा नहीं रहना चाहिए। <br><br><br>Oregon Food Bank भूख को समाप्त करने के लिए एक समग्र दृष्टिकोण अपनाता है, हमारे समुदाय को एक साथ लाकर जरूरतमंद पड़ोसियों को भोजन, शिक्षा और आशा प्रदान करता है। <br><br>हम भूखे लोगों को आपातकालीन भोजन प्रदान करते हैं एक सहयोगी राज्यव्यापी भूख-राहत एजेंसियों के नेटवर्क के माध्यम से, जिससे 1 में 5 घरों को भूख से बचाया जा सके। OFB राज्यव्यापी प्रयासों का नेतृत्व भी करता है ताकि भूखे परिवारों के लिए संसाधन बढ़ाए जा सकें और भूख के मूल कारणों को समाप्त किया जा सके, निष्पक्ष सार्वजनिक नीतियों की वकालत करके, सामुदायिक खाद्य प्रणालियों को सुदृढ़ करके और पोषण एवं बगीचा शिक्षा प्रदान करके लोगों को अधिक आत्मनिर्भर और संसाधनपूर्ण बनाया जा सके।",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "संगठन वित्तीय विवरण और प्रभाव रिपोर्ट सार्वजनिक रूप से प्रकाशित करता है ताकि संचालन में पारदर्शिता सुनिश्चित की जा सके।",
+              "source": "https://www.oregonfoodbank.org/about-us",
+              "by_org": true
+            },
+            {
+              "text": "संगठन एक क्षेत्रीय नेटवर्क संचालित करता है जो आय या दस्तावेज़ी प्रमाण की आवश्यकता के बिना मुफ्त भोजन प्रदान करता है।",
+              "source": "https://www.oregonfoodbank.org/",
+              "by_org": true
+            }
+          ]
+        },
+        "it": {
+          "does": [
+            {
+              "text": "L'organizzazione raccoglie e distribuisce cibo in tutto l'Oregon e nel sud-ovest di Washington per chiunque abbia bisogno di assistenza alimentare.",
+              "source": "https://www.oregonfoodbank.org/about-us",
+              "by_org": true
+            },
+            {
+              "text": "L'organizzazione fornisce cibo di emergenza attraverso una rete statale di agenzie, aiutando 1 famiglia su 5 a difendersi dalla fame.",
+              "source": "https://www.charitynavigator.org/ein/930785786",
+              "by_org": false
+            },
+            {
+              "text": "L'organizzazione collabora con i membri della comunità e i legislatori per promuovere politiche che migliorano l'accesso al cibo per tutti.",
+              "source": "https://www.oregonfoodbank.org/about-us",
+              "by_org": true
+            }
+          ],
+          "mission": "La nostra missione: Eliminare la fame e le sue cause profonde ... perché nessuno dovrebbe andare affamato. <br><br><br>Oregon Food Bank adotta un approccio olistico per porre fine alla fame riunendo la nostra comunità per fornire cibo, istruzione e speranza ai nostri vicini bisognosi. <br><br>Forniamo cibo di emergenza alle persone affamate attraverso una rete cooperativa statale di agenzie di assistenza alimentare, aiutando 1 famiglia su 5 a difendersi dalla fame. OFB guida anche iniziative statali per aumentare le risorse per le famiglie affamate ed eliminare le cause profonde della fame promuovendo politiche pubbliche eque, rafforzando i sistemi alimentari comunitari e fornendo educazione nutrizionale e di giardinaggio per aiutare le persone a diventare più autosufficienti e ingegnose.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "L'organizzazione pubblica pubblicamente i bilanci finanziari e i rapporti di impatto per garantire la trasparenza operativa.",
+              "source": "https://www.oregonfoodbank.org/about-us",
+              "by_org": true
+            },
+            {
+              "text": "L'organizzazione gestisce una rete regionale che fornisce cibo gratuito senza richiedere prove di reddito o documentazione.",
+              "source": "https://www.oregonfoodbank.org/",
+              "by_org": true
+            }
+          ]
+        },
+        "ja": {
+          "does": [
+            {
+              "text": "この団体は、食料支援を必要とするすべての人のために、Oregon 州および Southwest Washington 全域で食料を回収・配布しています。",
+              "source": "https://www.oregonfoodbank.org/about-us",
+              "by_org": true
+            },
+            {
+              "text": "この団体は、州全体の支援機関ネットワークを通じて緊急食料を提供し、5世帯に1世帯が飢餓を防ぐのを支援しています。",
+              "source": "https://www.charitynavigator.org/ein/930785786",
+              "by_org": false
+            },
+            {
+              "text": "この団体は、すべての人の食料アクセスを改善する政策を推進するため、コミュニティのメンバーや議員と協力しています。",
+              "source": "https://www.oregonfoodbank.org/about-us",
+              "by_org": true
+            }
+          ],
+          "mission": "私たちのミッション：誰も飢えに苦しむことがないよう、飢餓とその根本原因を無くすこと。<br><br><br>Oregon Food Bank は、コミュニティを結集して支援を必要とする地域の人々に食料、教育、希望を提供することで、飢餓を終わらせるための包括的なアプローチをとっています。<br><br>私たちは、飢餓支援機関の州全体の協力ネットワークを通じて、お腹を空かせた人々に緊急食料を提供し、5世帯に1世帯が飢餓を防ぐのを支援しています。OFB はまた、公正な公共政策の推進、コミュニティの食料システムの強化、人々がより自立し工夫できるよう栄養やガーデニング教育の提供を行うことで、困窮する家族への支援資源を増やし、飢餓の根本原因を無くすための州全体の取り組みをリードしています。",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "この団体は、運営の透明性を確保するために、財務諸表やインパクトレポートを公表しています。",
+              "source": "https://www.oregonfoodbank.org/about-us",
+              "by_org": true
+            },
+            {
+              "text": "この団体は、収入の証明や書類を必要とせずに無料の食料を提供する地域ネットワークを運営しています。",
+              "source": "https://www.oregonfoodbank.org/",
+              "by_org": true
+            }
+          ]
+        },
+        "pt": {
+          "does": [
+            {
+              "text": "A organização coleta e distribui alimentos em todo o Oregon e no sudoeste de Washington para qualquer pessoa que precise de assistência alimentar.",
+              "source": "https://www.oregonfoodbank.org/about-us",
+              "by_org": true
+            },
+            {
+              "text": "A organização fornece alimentos de emergência através de uma rede estadual de agências, ajudando 1 em cada 5 domicílios a combater a fome.",
+              "source": "https://www.charitynavigator.org/ein/930785786",
+              "by_org": false
+            },
+            {
+              "text": "A organização colabora com membros da comunidade e legisladores para defender políticas que melhorem o acesso a alimentos para todos.",
+              "source": "https://www.oregonfoodbank.org/about-us",
+              "by_org": true
+            }
+          ],
+          "mission": "Nossa missão: Eliminar a fome e suas causas fundamentais ... porque ninguém deve passar fome. <br><br><br>Oregon Food Bank adota uma abordagem holística para acabar com a fome, reunindo nossa comunidade para fornecer alimentos, educação e esperança aos nossos vizinhos necessitados. <br><br>Fornecemos alimentos de emergência para pessoas famintas através de uma rede cooperativa estadual de agências de alívio da fome, ajudando 1 em cada 5 domicílios a combater a fome. OFB também lidera esforços estaduais para aumentar os recursos para famílias famintas e eliminar as causas fundamentais da fome, defendendo políticas públicas justas, fortalecendo os sistemas alimentares comunitários e oferecendo educação nutricional e de jardinagem para ajudar as pessoas a se tornarem mais autossuficientes e engenhosas.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "A organização publica demonstrações financeiras e relatórios de impacto publicamente para garantir transparência operacional.",
+              "source": "https://www.oregonfoodbank.org/about-us",
+              "by_org": true
+            },
+            {
+              "text": "A organização opera uma rede regional que fornece alimentos gratuitos sem exigir comprovação de renda ou documentação.",
+              "source": "https://www.oregonfoodbank.org/",
+              "by_org": true
+            }
+          ]
+        },
+        "ru": {
+          "does": [
+            {
+              "text": "Организация собирает и распределяет продовольствие по Орегону и Southwest Washington для всех, нуждающихся в продовольственной помощи.",
+              "source": "https://www.oregonfoodbank.org/about-us",
+              "by_org": true
+            },
+            {
+              "text": "Организация предоставляет экстренную продовольственную помощь через общегосударственную сеть агентств, помогая 1 из 5 домохозяйств справляться с голодом.",
+              "source": "https://www.charitynavigator.org/ein/930785786",
+              "by_org": false
+            },
+            {
+              "text": "Организация сотрудничает с членами сообщества и законодателями, выступая за политику, улучшающую доступ к продовольствию для всех.",
+              "source": "https://www.oregonfoodbank.org/about-us",
+              "by_org": true
+            }
+          ],
+          "mission": "Наша миссия: искоренить голод и его коренные причины ... потому что никто не должен оставаться голодным. <br><br><br>Oregon Food Bank использует целостный подход к ликвидации голода, объединяя наше сообщество для предоставления продовольствия, образования и надежды нашим нуждающимся соседям. <br><br>Мы предоставляем экстренную продовольственную помощь людям, страдающим от голода, через кооперативную сеть агентств по борьбе с голодом по всему штату, помогая 1 из 5 домохозяйств справляться с голодом. OFB также возглавляет общегосударственные усилия по увеличению ресурсов для голодных семей и устранению коренных причин голода, выступая за справедливую государственную политику, укрепляя общественные продовольственные системы и предоставляя образование по питанию и садоводству, чтобы люди стали более самостоятельными и находчивыми.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "Организация публикует финансовые отчёты и отчёты о воздействии публично, чтобы обеспечить прозрачность деятельности.",
+              "source": "https://www.oregonfoodbank.org/about-us",
+              "by_org": true
+            },
+            {
+              "text": "Организация управляет региональной сетью, предоставляющей бесплатное продовольствие без требования подтверждения дохода или документов.",
               "source": "https://www.oregonfoodbank.org/",
               "by_org": true
             }
@@ -7141,6 +7207,385 @@
         "counted_here_only_if": "shown in the public total of the fundraising page",
         "status": "in public review"
       }
+    },
+    {
+      "slug": "support-central-pennsylvania-food-bank-against-hunger-1990",
+      "title": "Support Central Pennsylvania Food Bank against hunger",
+      "description": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'site:charitynavigator.org Rating for ending hunger'.",
+      "org_name": "Central Pennsylvania Food Bank",
+      "org_country": "US",
+      "org_website": "https://centralpafoodbank.org/",
+      "country": "US",
+      "currency": "USD",
+      "goal": 5000.0,
+      "raised": 0.0,
+      "donated": 0.0,
+      "status": "revisione_pubblica",
+      "donation_url": null,
+      "source_url": "https://www.charitynavigator.org/ein/232202250",
+      "approved_on": "2026-11-08",
+      "review_until": "2026-11-11 11:05 UTC",
+      "translations": {
+        "de": {
+          "text": "Organisation bewertet von Charity Navigator, gefunden von den Agenten mit: 'site:charitynavigator.org Rating for ending hunger'.",
+          "title": "Unterstützen Sie Central Pennsylvania Food Bank im Kampf gegen den Hunger",
+          "source": "traduzione AI"
+        },
+        "en": {
+          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'site:charitynavigator.org Rating for ending hunger'.",
+          "title": "Support Central Pennsylvania Food Bank against hunger",
+          "source": "originale"
+        },
+        "es": {
+          "text": "Entidad evaluada por Charity Navigator, encontrada por los agentes con: 'site:charitynavigator.org Rating for ending hunger'.",
+          "title": "Apoya a Central Pennsylvania Food Bank contra el hambre",
+          "source": "traduzione AI"
+        },
+        "fr": {
+          "text": "Organisation évaluée par Charity Navigator, trouvée par les agents avec : 'site:charitynavigator.org Rating for ending hunger'.",
+          "title": "Soutenir Central Pennsylvania Food Bank contre la faim",
+          "source": "traduzione AI"
+        },
+        "hi": {
+          "text": "Charity Navigator द्वारा मूल्यांकित संस्था, जिसे एजेंटों द्वारा इसके साथ खोजा गया: 'site:charitynavigator.org Rating for ending hunger'।",
+          "title": "भूख के खिलाफ Central Pennsylvania Food Bank का समर्थन करें",
+          "source": "traduzione AI"
+        },
+        "it": {
+          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'site:charitynavigator.org Valutazione per eliminare la fame'.",
+          "title": "Sostieni Central Pennsylvania Food Bank contro la fame",
+          "source": "traduzione AI"
+        },
+        "ja": {
+          "text": "Charity Navigator によって評価された団体で、エージェントが次の検索で見つけました: 'site:charitynavigator.org Rating for ending hunger'.",
+          "title": "Central Pennsylvania Food Bank を飢餓から支援する",
+          "source": "traduzione AI"
+        },
+        "pt": {
+          "text": "Entidade avaliada pela Charity Navigator, encontrada pelos agentes com: 'site:charitynavigator.org Rating for ending hunger'.",
+          "title": "Apoie o Central Pennsylvania Food Bank contra a fome",
+          "source": "traduzione AI"
+        },
+        "ru": {
+          "text": "Организация, оцененная Charity Navigator, найденная агентами с помощью: 'site:charitynavigator.org Rating for ending hunger'.",
+          "title": "Поддержите Central Pennsylvania Food Bank в борьбе с голодом",
+          "source": "traduzione AI"
+        }
+      },
+      "tranches": [],
+      "checks": [
+        {
+          "verifier": "regole",
+          "check_type": "ammissibilita",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Regole di ammissibilità (config/regole.yaml):\n✓ fonte ammessa: fonte 'valutatore'\n✓ ente registrato nel database: Central Pennsylvania Food Bank\n✓ codice fiscale verificato (IRS): EIN 232202250\n✓ ente valutato dal valutatore: Charity Navigator\n✓ voto del valutatore: 100%, 4 stelle su 4 (minimo 4 stelle e 90%)\n✓ anni di bilanci ufficiali: 13 anni [2020, 2021, 2022, 2023, 2024] (minimo 3)\n✓ tema fame / nutrizione: categoria IRS K31Z (richiesta ['K3', 'K4']); tema nel nome: True",
+          "source_url": "https://www.charitynavigator.org/ein/232202250"
+        },
+        {
+          "verifier": "regole",
+          "check_type": "ammissibilita",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "✓ valutatore indipendente tra le prove: 1 pagine di valutatori (https://www.charitynavigator.org/ein/232202250); minimo 1",
+          "source_url": "https://www.charitynavigator.org/ein/232202250"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "registrazione",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "L'ente Central Pennsylvania Food Bank è ufficialmente registrato negli USA come organizzazione non-profit 501(c)(3) con EIN 232202250 e riconoscimento IRS dal 1982.",
+          "source_url": "https://www.charitynavigator.org/ein/232202250"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "bilanci",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Sono disponibili pubblicamente i bilanci IRS Form 990 fino al 2024 e il bilancio d'esercizio sottoposto a revisione contabile indipendente (audit) per il 2024.",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/232202250"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "valutazione_indipendente",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "L'organizzazione possiede la valutazione massima di 4 stelle (100%) da parte del valutatore indipendente Charity Navigator.",
+          "source_url": "https://www.charitynavigator.org/ein/232202250"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "coerenza_importo",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "L'importo previsto di 5.000 USD è perfettamente proporzionato alla dimensione dell'ente, che gestisce entrate e spese annue superiori a 100 milioni di dollari.",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/232202250"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "storico_progetti",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "L'ente opera da oltre 30 anni distribuendo decine di milioni di pasti all'anno attraverso una rete di circa 1.000 agenzie partner in 27 contee della Pennsylvania.",
+          "source_url": "https://www.charitynavigator.org/ein/232202250"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "segnali_allarme",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Non è emerso alcun segnale di allarme nelle fonti analizzate; la reputazione, la trasparenza e l'operatività sono ampiamente verificate.",
+          "source_url": "https://www.charitynavigator.org/ein/232202250"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "conflitti_interesse",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "source_url": "config/conflitti.yaml"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "registrazione",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Registro IRS con dati di riconoscimento e sede.",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/232202250"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "bilanci",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "PDF dei Form 990 e audit indipendente.",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/232202250"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "valutazione_indipendente",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Scheda su Charity Navigator con rating a 4 stelle.",
+          "source_url": "https://www.charitynavigator.org/ein/232202250"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "coerenza_importo",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "Bilanci IRS mostrano ricavi superiori a 100 M USD.",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/232202250"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "storico_progetti",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "Descrizione attività su Charity Navigator e sezione 'Our Financials' con impact report.",
+          "source_url": "https://www.charitynavigator.org/ein/232202250"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "segnali_allarme",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Sito ufficiale, registri IRS, rating Charity Navigator.",
+          "source_url": "https://www.charitynavigator.org/ein/232202250"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "conflitti_interesse",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "source_url": "config/conflitti.yaml"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "registrazione",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "L'ente è registrato come 501(c)(3) con EIN 232202250, riconosciuto dall'IRS dal 1982. La sede è a Harrisburg, PA.",
+          "source_url": "https://www.charitynavigator.org/ein/232202250"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "bilanci",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Sono disponibili i bilanci IRS (Form 990) per 12 anni consecutivi (2012-2024) su ProPublica e un report di audit indipendente per l'anno fiscale 2024 è pubblicato sul sito dell'ente.",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/232202250"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "valutazione_indipendente",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Charity Navigator assegna alla Food Bank una valutazione di 4 stelle (la massima) per il decimo anno consecutivo, confermando la sua affidabilità finanziaria e di governance.",
+          "source_url": "https://www.charitynavigator.org/ein/232202250"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "coerenza_importo",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "L'obiettivo di raccolta di 5.000 USD è estremamente coerente con le dimensioni dell'ente, che ha registrato entrate annue di oltre 132 milioni di USD nel 2024.",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/232202250"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "storico_progetti",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "L'ente opera da oltre 30 anni, distribuendo milioni di pasti e gestendo una rete di partner in 27 contee, con report di impatto annuali pubblicati.",
+          "source_url": "https://www.charitynavigator.org/ein/232202250"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "segnali_allarme",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun segnale d'allarme trovato. L'ente ha un sito web istituzionale, contatti diretti, trasparenza finanziaria e valutazioni positive costanti.",
+          "source_url": "https://www.charitynavigator.org/ein/232202250"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "conflitti_interesse",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "source_url": "config/conflitti.yaml"
+        }
+      ],
+      "sources": [
+        "https://projects.propublica.org/nonprofits/organizations/232202250",
+        "https://www.centralpafoodbank.org/cn",
+        "https://www.centralpafoodbank.org/who-we-are/our-financials",
+        "https://www.centralpafoodbank.org/wp-content/uploads/2024/12/Financial-Statement-06-30-2024-Audit-Final.pdf",
+        "https://www.charitynavigator.org/ein/232202250"
+      ],
+      "waiting_counter": false,
+      "profile": {
+        "en": {
+          "does": [
+            {
+              "text": "The Central Pennsylvania Food Bank has been dedicated to ending hunger for more than 30 years.",
+              "quote": "The Central Pennsylvania Food Bank has been dedicated to ending hunger for more than 30 years.",
+              "source": "https://www.charitynavigator.org/ein/232202250",
+              "by_org": false
+            },
+            {
+              "text": "In Fiscal Year 2019, the Food Bank provided more than 45 million meals to nearly 1,000 soup kitchens, shelters, food pantries, and other partner agencies in 27 central Pennsylvania counties.",
+              "quote": "In Fiscal Year 2019, the Food Bank provided more than 45 million meals to nearly 1,000 soup kitchens, shelters, food pantries, and other partner agencies in 27 central Pennsylvania counties.",
+              "source": "https://www.charitynavigator.org/ein/232202250",
+              "by_org": false
+            },
+            {
+              "text": "The Food Bank is a member of Feeding America, the Nation's Food Bank Network, comprised of more than 200 food banks and food-rescue programs.",
+              "quote": "The Food Bank is a member of Feeding America, the Nation's Food Bank Network, comprised of more than 200 food banks and food-rescue programs.",
+              "source": "https://www.charitynavigator.org/ein/232202250",
+              "by_org": false
+            }
+          ],
+          "mission": "\"Fighting Hunger, Improving Lives, Strengthening Communities\". The Central Pennsylvania Food Bank has been dedicated to ending hunger for more than 30 years. In Fiscal Year 2019, the Food Bank provided more than 45 million meals to nearly 1,000 soup kitchens, shelters, food pantries, and other partner agencies in 27 central Pennsylvania counties. These agencies directly feed thousands of hungry families throughout central Pennsylvania. The Central Pennsylvania Food Bank has also adopted a 10-year, strategic Bold Goal. With the help of our partner agencies, volunteer efforts, and generous donors, we will solve hunger by ensuring that everyone struggling with hunger has access to enough wholesome food each and every day.The Food Bank is a member of Feeding America, the Nation's Food Bank Network, comprised of more than 200 food banks and food-rescue programs.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "The independent auditor's report states that the financial statements present fairly the financial position of the Food Bank as of June 30, 2024 and 2023.",
+              "quote": "In our opinion, the accompanying financial statements present fairly, in all material respects, the financial position of the Food Bank as of June 30, 2024 and 2023, and the changes in its net assets and its cash flows for the years then ended in accordance with accounting principles generally accepted in the United States of America.",
+              "source": "https://www.centralpafoodbank.org/wp-content/uploads/2024/12/Financial-Statement-06-30-2024-Audit-Final.pdf",
+              "by_org": true
+            }
+          ]
+        },
+        "fr": {
+          "does": [
+            {
+              "text": "Le Central Pennsylvania Food Bank s'est consacré à mettre fin à la faim depuis plus de 30 ans.",
+              "source": "https://www.charitynavigator.org/ein/232202250",
+              "by_org": false
+            },
+            {
+              "text": "Au cours de l'exercice fiscal 2019, le Food Bank a fourni plus de 45 millions de repas à près de 1,000 soupes populaires, refuges, banques alimentaires et autres agences partenaires dans 27 comtés du centre de la Pennsylvanie.",
+              "source": "https://www.charitynavigator.org/ein/232202250",
+              "by_org": false
+            },
+            {
+              "text": "Le Food Bank est membre de Feeding America, le réseau national des banques alimentaires, composé de plus de 200 banques alimentaires et programmes de récupération de nourriture.",
+              "source": "https://www.charitynavigator.org/ein/232202250",
+              "by_org": false
+            }
+          ],
+          "mission": "\\\"Fighting Hunger, Improving Lives, Strengthening Communities\\\". Le Central Pennsylvania Food Bank s'est consacré à mettre fin à la faim depuis plus de 30 ans. Au cours de l'exercice fiscal 2019, le Food Bank a fourni plus de 45 millions de repas à près de 1,000 soupes populaires, refuges, banques alimentaires et autres agences partenaires dans 27 comtés du centre de la Pennsylvanie. Ces agences nourrissent directement des milliers de familles affamées à travers le centre de la Pennsylvanie. Le Central Pennsylvania Food Bank a également adopté un 10-year, strategic Bold Goal. Avec l'aide de nos agences partenaires, des bénévoles et des donateurs généreux, nous résoudrons la faim en veillant à ce que chaque personne confrontée à la faim ait accès chaque jour à une nourriture suffisante et saine.Le Food Bank est membre de Feeding America, le réseau national des banques alimentaires, composé de plus de 200 banques alimentaires et programmes de récupération de nourriture.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "Le rapport de l'auditeur indépendant indique que les états financiers présentent fidèlement la situation financière du Food Bank au 30 juin 2024 et 2023.",
+              "source": "https://www.centralpafoodbank.org/wp-content/uploads/2024/12/Financial-Statement-06-30-2024-Audit-Final.pdf",
+              "by_org": true
+            }
+          ]
+        },
+        "it": {
+          "does": [
+            {
+              "text": "Il Central Pennsylvania Food Bank è impegnato a eliminare la fame da più di 30 anni.",
+              "source": "https://www.charitynavigator.org/ein/232202250",
+              "by_org": false
+            },
+            {
+              "text": "Nell'anno fiscale 2019, il Food Bank ha fornito più di 45 milioni di pasti a quasi 1.000 mense, rifugi, dispense alimentari e altre agenzie partner in 27 contee della Pennsylvania centrale.",
+              "source": "https://www.charitynavigator.org/ein/232202250",
+              "by_org": false
+            },
+            {
+              "text": "Il Food Bank è membro di Feeding America, la rete nazionale dei Food Bank, composta da più di 200 food bank e programmi di recupero alimentare.",
+              "source": "https://www.charitynavigator.org/ein/232202250",
+              "by_org": false
+            }
+          ],
+          "mission": "\"Fighting Hunger, Improving Lives, Strengthening Communities\". Il Central Pennsylvania Food Bank è impegnato a eliminare la fame da più di 30 anni. Nell'anno fiscale 2019, il Food Bank ha fornito più di 45 milioni di pasti a quasi 1.000 mense, rifugi, dispense alimentari e altre agenzie partner in 27 contee della Pennsylvania centrale. Queste agenzie nutrono direttamente migliaia di famiglie affamate in tutta la Pennsylvania centrale. Il Central Pennsylvania Food Bank ha anche adottato un Bold Goal strategico di 10 anni. Con l'aiuto delle nostre agenzie partner, degli sforzi dei volontari e dei generosi donatori, risolveremo la fame garantendo a tutti coloro che lottano contro la fame l'accesso a cibo sano sufficiente ogni giorno. Il Food Bank è membro di Feeding America, la rete nazionale dei Food Bank, composta da più di 200 food bank e programmi di recupero alimentare.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "Il rapporto del revisore indipendente afferma che i bilanci presentano in modo corretto la posizione finanziaria del Food Bank al 30 giugno 2024 e 2023.",
+              "source": "https://www.centralpafoodbank.org/wp-content/uploads/2024/12/Financial-Statement-06-30-2024-Audit-Final.pdf",
+              "by_org": true
+            }
+          ]
+        }
+      },
+      "safety": {
+        "evaluator": "Charity Navigator",
+        "stars": 4,
+        "score": 100,
+        "rating_url": "https://www.charitynavigator.org/ein/232202250",
+        "rating_checked": "2026-11-07",
+        "since": "1982",
+        "registry_url": "https://projects.propublica.org/nonprofits/organizations/232202250",
+        "filings": 13,
+        "first_year": 2012,
+        "last_year": 2024,
+        "checks_passed": 18,
+        "verifiers": 3,
+        "unanimous": true,
+        "site": "centralpafoodbank.org",
+        "official_host": "centralpafoodbank.org",
+        "profile_claimed": false
+      },
+      "platform": "",
+      "counter": {},
+      "fundraiser_open": false,
+      "progress_pct": 0,
+      "donate": {
+        "recipient": "Central Pennsylvania Food Bank",
+        "url": null,
+        "money_goes_to": "not open yet: donations open on a fundraising page with a public total",
+        "counted_here_only_if": "shown in the public total of the fundraising page",
+        "status": "in public review"
+      }
     }
   ],
   "order_rule": "All projects are equal: the order rotates by one position every day.",
@@ -7152,9 +7597,9 @@
     "costs": {
       "USD": 8.5
     },
-    "ai_calls": 481,
+    "ai_calls": 524,
     "ai_cost_real_usd": 0.0,
-    "ai_value_offered_usd": 2.936861,
+    "ai_value_offered_usd": 3.07362,
     "candidates_examined": 39,
     "candidates_discarded": 25
   },
