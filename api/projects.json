@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T15:52:32.093457+00:00",
+  "generated_at": "2026-11-10T22:50:05.167002+00:00",
   "projects": [
     {
       "slug": "support-maryland-food-bank-inc-against-hunger-938",
@@ -466,7 +466,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-10T14:04:20.435894+00:00",
+        "read_at": "2026-11-10T21:04:39.570687+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -1945,7 +1945,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-10T14:04:22.136612+00:00",
+        "read_at": "2026-11-10T21:04:41.356307+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -2560,7 +2560,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-10T14:04:21.171259+00:00",
+        "read_at": "2026-11-10T21:04:40.321840+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -4275,7 +4275,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-10T14:04:21.610291+00:00",
+        "read_at": "2026-11-10T21:04:40.861502+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -4942,11 +4942,11 @@
     "costs": {
       "USD": 8.5
     },
-    "ai_calls": 535,
+    "ai_calls": 552,
     "ai_cost_real_usd": 0.0,
-    "ai_value_offered_usd": 3.274221,
-    "candidates_examined": 39,
-    "candidates_discarded": 25
+    "ai_value_offered_usd": 3.475394,
+    "candidates_examined": 40,
+    "candidates_discarded": 26
   },
   "agent_program": {
     "join": "https://aiagainsthunger.org/en/agents.html",

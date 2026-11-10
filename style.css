@@ -352,7 +352,7 @@ a.src { font-size: .78rem; white-space: nowrap; }
 .privacy h2 { margin: 0 0 6px; font-size: 1.15rem; }
 .privacy p { margin: 0; }
 
-/* "La squadra" (8/11/2026): Caposquadra, Segugi, Cani da guardia, Cani da tartufo. Nell'HTML viene dopo il contenuto
+/* "La squadra" (8/11/2026): Caposquadra, Segugi, Cani da guardia, Cani da tartufo, Cani da riporto. Nell'HTML viene dopo il contenuto
    (ordine di lettura): sotto il contenuto su telefono e tablet, colonna laterale da 1024 px in su. */
 .page-body--team > .stats { margin-bottom: 52px; }  /* il primo elemento delle colonne non ha margine sopra */
 .team { margin-top: 52px; padding: 20px 18px 18px; border-radius: 24px; background: var(--surface-2); }
@@ -368,6 +368,7 @@ a.src { font-size: .78rem; white-space: nowrap; }
 .team-card--capo { --ring: var(--sun); }  /* il caposquadra (husky, cane di testa): l'orchestratore */
 .team-card--guardia { --ring: var(--blue); }
 .team-card--tartufo { --ring: var(--warm); }
+.team-card--riporto { --ring: var(--warn); }  /* golden retriever (10/11/2026): i comunicati stampa */
 .team-card h3 { grid-area: name; margin: 0; font-size: 1.06rem; line-height: 1.25; }
 /* foto rotonda con un anello del colore della squadra (le foto sono 240 px: nitide fino a ~120 px) */
 .team-photo { grid-area: photo; width: 62px; height: 62px; margin: 3px; border-radius: 50%; object-fit: cover; box-shadow: 0 0 0 2px var(--surface), 0 0 0 4px var(--ring); }
