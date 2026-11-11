@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T09:04:24.709760+00:00",
+  "generated_at": "2026-11-11T10:04:05.503587+00:00",
   "projects": [
     {
       "slug": "support-maryland-food-bank-inc-against-hunger-938",
@@ -860,11 +860,11 @@
       "goal": 5000.0,
       "raised": 0.0,
       "donated": 0.0,
-      "status": "revisione_pubblica",
-      "donation_url": null,
+      "status": "attiva",
+      "donation_url": "https://www.every.org/newhopecmnj/f/ai-against-hunger-for",
       "source_url": "https://www.charitynavigator.org/ein/202893390",
       "approved_on": "2026-11-08",
-      "review_until": "2026-11-11 09:06 UTC",
+      "review_until": null,
       "translations": {
         "de": {
           "text": "Von Charity Navigator bewertete Organisation, von den Agenten gefunden mit: 'Every.org: food-security'.",
@@ -917,7 +917,13 @@
           "source": "traduzione AI"
         }
       },
-      "tranches": [],
+      "tranches": [
+        {
+          "number": 1,
+          "goal": 2000.0,
+          "status": "aperta"
+        }
+      ],
       "checks": [
         {
           "verifier": "regole",
@@ -1458,10 +1464,10 @@
       "progress_pct": 0,
       "donate": {
         "recipient": "New Hope Community Ministries A Nj Nonprofit Corp",
-        "url": null,
+        "url": "https://www.every.org/newhopecmnj/f/ai-against-hunger-for",
         "money_goes_to": "Every.org, a US 501(c)(3) nonprofit, which grants it to the organization (unrestricted); this project never receives or holds money",
         "counted_here_only_if": "shown in the public total of the fundraising page",
-        "status": "in public review",
+        "status": "open",
         "platform": "Every.org (US 501(c)(3) nonprofit; receipts tax-deductible only in the US)",
         "public_total": {
           "raised": "0",
@@ -3857,9 +3863,9 @@
     "costs": {
       "USD": 8.5
     },
-    "ai_calls": 565,
+    "ai_calls": 570,
     "ai_cost_real_usd": 0.0,
-    "ai_value_offered_usd": 3.651773,
+    "ai_value_offered_usd": 3.723977,
     "candidates_examined": 40,
     "candidates_discarded": 26
   },
