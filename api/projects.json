@@ -1,496 +1,6 @@
 {
-  "generated_at": "2026-11-10T22:50:05.167002+00:00",
+  "generated_at": "2026-11-11T07:04:19.378494+00:00",
   "projects": [
-    {
-      "slug": "support-maryland-food-bank-inc-against-hunger-938",
-      "title": "Support Maryland Food Bank Inc against hunger",
-      "description": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'site:charitynavigator.org Rating for food pantry hunger relief'.",
-      "org_name": "Maryland Food Bank Inc",
-      "org_country": "US",
-      "org_website": "https://mdfoodbank.org/",
-      "country": "US",
-      "currency": "USD",
-      "goal": 5000.0,
-      "raised": 0.0,
-      "donated": 0.0,
-      "status": "attiva",
-      "donation_url": "https://www.every.org/mdfoodbank/f/ai-against-hunger-for",
-      "source_url": "https://www.charitynavigator.org/ein/521135690",
-      "approved_on": "2026-11-07",
-      "review_until": null,
-      "translations": {
-        "de": {
-          "text": "Organisation bewertet von Charity Navigator, gefunden von den Agenten mit: 'site:charitynavigator.org Rating for food pantry hunger relief'.",
-          "title": "Unterstütze die Maryland Food Bank Inc im Kampf gegen den Hunger",
-          "source": "traduzione AI"
-        },
-        "en": {
-          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'site:charitynavigator.org Rating for food pantry hunger relief'.",
-          "title": "Support Maryland Food Bank Inc against hunger",
-          "source": "originale"
-        },
-        "es": {
-          "text": "Entidad evaluada por Charity Navigator, encontrada por los agentes con: 'site:charitynavigator.org Rating for food pantry hunger relief'.",
-          "title": "Apoyar a Maryland Food Bank Inc contra el hambre",
-          "source": "traduzione AI"
-        },
-        "fr": {
-          "text": "Organisme évalué par Charity Navigator, trouvé par les agents avec : 'site:charitynavigator.org Rating for food pantry hunger relief'.",
-          "title": "Soutenir Maryland Food Bank Inc contre la faim",
-          "source": "traduzione AI"
-        },
-        "hi": {
-          "text": "Charity Navigator द्वारा मूल्यांकित संस्था, एजेंटों द्वारा मिली: 'site:charitynavigator.org Rating for food pantry hunger relief'।",
-          "title": "भूख के खिलाफ Maryland Food Bank Inc का समर्थन करें",
-          "source": "traduzione AI"
-        },
-        "it": {
-          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'site:charitynavigator.org Rating for food pantry hunger relief'.",
-          "title": "Sostieni Maryland Food Bank Inc contro la fame",
-          "source": "traduzione AI"
-        },
-        "ja": {
-          "text": "Charity Navigator によって評価された団体で、エージェントが次の検索で見つけました: 'site:charitynavigator.org Rating for food pantry hunger relief'。",
-          "title": "飢餓に対して Maryland Food Bank Inc を支援する",
-          "source": "traduzione AI"
-        },
-        "pt": {
-          "text": "Entidade avaliada pela Charity Navigator, encontrada pelos agentes com: 'site:charitynavigator.org Rating for food pantry hunger relief'.",
-          "title": "Apoie a Maryland Food Bank Inc contra a fome",
-          "source": "traduzione AI"
-        },
-        "ru": {
-          "text": "Организация, оцененная Charity Navigator, найденная агентами с помощью: 'site:charitynavigator.org Rating for food pantry hunger relief'.",
-          "title": "Поддержать Maryland Food Bank Inc в борьбе с голодом",
-          "source": "traduzione AI"
-        },
-        "zh": {
-          "text": "机构由 Charity Navigator 评估，代理人通过以下方式找到：'site:charitynavigator.org Rating for food pantry hunger relief'。",
-          "title": "支持 Maryland Food Bank Inc 对抗饥饿",
-          "source": "traduzione AI"
-        }
-      },
-      "tranches": [
-        {
-          "number": 1,
-          "goal": 2000.0,
-          "status": "aperta"
-        }
-      ],
-      "checks": [
-        {
-          "verifier": "regole",
-          "check_type": "ammissibilita",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Regole di ammissibilità (config/regole.yaml):\n✓ fonte ammessa: fonte 'valutatore'\n✓ ente registrato nel database: Maryland Food Bank Inc\n✓ codice fiscale verificato (IRS): EIN 521135690\n✓ ente valutato dal valutatore: Charity Navigator\n✓ voto del valutatore: 96%, 4 stelle su 4 (minimo 4 stelle e 90%)\n✓ anni di bilanci ufficiali: 13 anni [2019, 2020, 2021, 2022, 2023] (minimo 3)\n✓ tema fame / nutrizione: categoria IRS - (richiesta ['K']); tema nel nome: True",
-          "source_url": "https://www.charitynavigator.org/ein/521135690"
-        },
-        {
-          "verifier": "regole",
-          "check_type": "ammissibilita",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "✓ valutatore indipendente tra le prove: 1 pagine di valutatori (https://www.charitynavigator.org/ein/521135690); minimo 1",
-          "source_url": "https://www.charitynavigator.org/ein/521135690"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "registrazione",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "L'ente Maryland Food Bank Inc risulta regolarmente registrato negli Stati Uniti con EIN 521135690 e riconoscimento 501(c)(3) dal 1979.",
-          "source_url": "https://www.charitynavigator.org/ein/521135690"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "bilanci",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Sono presenti i dati dei Form 990 pubblicati su ProPublica e Charity Navigator per gli anni dal 2018 al 2023.",
-          "source_url": "https://www.charitynavigator.org/ein/521135690"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "valutazione_indipendente",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "L'ente ha ottenuto una valutazione positiva di 4 stelle (96%) su Charity Navigator.",
-          "source_url": "https://www.charitynavigator.org/ein/521135690"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "coerenza_importo",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "L'obiettivo di raccolta previsto di 5000 USD è estremamente esiguo e del tutto sostenibile rispetto al volume d'affari multimilionario dell'ente.",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/521135690"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "storico_progetti",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "L'organizzazione ha una storia pluridecennale documentata e attiva dal 1979 nel settore della sicurezza alimentare.",
-          "source_url": "https://www.charitynavigator.org/ein/521135690"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "segnali_allarme",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Non sono stati riscontrati segnali d'allarme relativi all'ente candidato nelle prove esaminate (le notizie di cronaca trovate riguardano omonimie o altre entità non collegate alla Maryland Food Bank Inc).",
-          "source_url": "https://www.charitynavigator.org/ein/521135690"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "conflitti_interesse",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
-          "source_url": "config/conflitti.yaml"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "registrazione",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Ente registrato con EIN 521135690 e riconoscimento IRS 1979‑02‑01",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/521135690"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "bilanci",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Form 990 disponibili per gli anni 2023‑2018",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/521135690"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "valutazione_indipendente",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Charity Navigator assegna 96% Four‑Star",
-          "source_url": "https://www.charitynavigator.org/ein/521135690"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "coerenza_importo",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "Obiettivo 5 000 USD è <0.01% del fatturato annuale (~89 M USD)",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/521135690"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "storico_progetti",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "Attività documentata dal 1979 con rendiconti annuali",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/521135690"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "segnali_allarme",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun segnale negativo relativo a Maryland Food Bank trovato",
-          "source_url": "https://www.fincen.gov/resources/law-enforcement/case-examples/six-people-arrested-allegedly-bilking-millions-dollars"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "conflitti_interesse",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
-          "source_url": "config/conflitti.yaml"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "registrazione",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "L'ente 'Maryland Food Bank Inc' risulta registrato presso l'IRS con EIN 521135690, riconoscimento 501(c)(3) dal 1979, sede a Baltimore, MD. Confermato da ProPublica Nonprofit Explorer e Charity Navigator.",
-          "source_url": "https://www.charitynavigator.org/ein/521135690"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "bilanci",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Sono disponibili i bilanci pubblici (Form 990) per gli anni dal 2011 al 2023, con dati di entrate e spese dettagliati e link ai PDF su ProPublica.",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/521135690"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "valutazione_indipendente",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Charity Navigator assegna una valutazione di 4 stelle (96%) e completa tutti e 4 i beacon (Accountability & Finance, Impact & Measurement, Leadership & Planning, Culture & Compensation).",
-          "source_url": "https://www.charitynavigator.org/ein/521135690"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "coerenza_importo",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "L'obiettivo di raccolta di 5000 USD è trascurabile rispetto alle dimensioni dell'ente (entrate annuali nell'ordine di decine di milioni di USD, es. 89M USD nel 2023), rendendo l'importo pienamente coerente e ragionevole.",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/521135690"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "storico_progetti",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "L'ente opera dal 1979 e ha una storia documentata di 13 anni consecutivi di bilanci pubblici (2011-2023), indicando attività continuativa e rendicontazione regolare.",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/521135690"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "segnali_allarme",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun segnale d'allarme trovato nelle prove fornite. Le ricerche web [E3, E4, E5] riguardano altri enti (Second Harvest Food Bank in California, Danske Bank, Shanghai Husi Food) e non hanno alcuna relazione con Maryland Food Bank Inc. Il sito ufficiale è presente e i contatti sono standard (telefono, indirizzo fisico).",
-          "source_url": "https://www.charitynavigator.org/ein/521135690"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "conflitti_interesse",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
-          "source_url": "config/conflitti.yaml"
-        }
-      ],
-      "sources": [
-        "https://finance.yahoo.com/news/475m-lawsuit-alleges-inaction-danske-054254048.html",
-        "https://projects.propublica.org/nonprofits/organizations/521135690",
-        "https://www.charitynavigator.org/ein/521135690",
-        "https://www.cnbc.com/2014/07/27/china-food-scandal-us-parent-withdraws-products.html",
-        "https://www.fincen.gov/resources/law-enforcement/case-examples/six-people-arrested-allegedly-bilking-millions-dollars"
-      ],
-      "waiting_counter": false,
-      "profile": {
-        "de": {
-          "does": [
-            {
-              "text": "Die Maryland Food Bank arbeitet als gemeinnützige Hungerhilfe-Organisation, die sich darauf konzentriert, Menschen zu ernähren, Gemeinschaften zu stärken und den Hunger für mehr Marylanders zu beenden.",
-              "source": "https://www.charitynavigator.org/ein/521135690",
-              "by_org": false
-            },
-            {
-              "text": "Die Organisation arbeitet daran, ein gerechteres, widerstandsfähigeres und zugänglicheres Lebensmittelsystem für alle Marylanders aufzubauen.",
-              "source": "https://www.charitynavigator.org/ein/521135690",
-              "by_org": false
-            }
-          ],
-          "mission": "Die Maryland Food Bank ist eine gemeinnützige Hungerhilfe-Organisation, die Menschen ernährt, Gemeinschaften stärkt und den Hunger für mehr Marylanders beendet.",
-          "does_not": [],
-          "strengths": []
-        },
-        "en": {
-          "does": [
-            {
-              "text": "The Maryland Food Bank operates as a nonprofit hunger-relief organization focused on feeding people, strengthening communities, and ending hunger for more Marylanders.",
-              "quote": "The Maryland Food Bank is a nonprofit hunger-relief organization that is feeding people, strengthening communities, and ending hunger for more Marylanders.",
-              "source": "https://www.charitynavigator.org/ein/521135690",
-              "by_org": false
-            },
-            {
-              "text": "The organization works to build a more equitable, resilient, and accessible food system for all Marylanders.",
-              "quote": "MFB is working to build a more equitable, resilient, and accessible food system for all Marylanders.",
-              "source": "https://www.charitynavigator.org/ein/521135690",
-              "by_org": false
-            }
-          ],
-          "mission": "The Maryland Food Bank is a nonprofit hunger-relief organization that is feeding people, strengthening communities, and ending hunger for more Marylanders.",
-          "does_not": [],
-          "strengths": []
-        },
-        "es": {
-          "does": [
-            {
-              "text": "Maryland Food Bank opera como una organización sin fines de lucro de alivio del hambre centrada en alimentar a personas, fortalecer comunidades y acabar con el hambre para más Marylanders.",
-              "source": "https://www.charitynavigator.org/ein/521135690",
-              "by_org": false
-            },
-            {
-              "text": "La organización trabaja para construir un sistema alimentario más equitativo, resiliente y accesible para todos los Marylanders.",
-              "source": "https://www.charitynavigator.org/ein/521135690",
-              "by_org": false
-            }
-          ],
-          "mission": "Maryland Food Bank es una organización sin fines de lucro de alivio del hambre que está alimentando a personas, fortaleciendo comunidades y acabando con el hambre para más Marylanders.",
-          "does_not": [],
-          "strengths": []
-        },
-        "fr": {
-          "does": [
-            {
-              "text": "The Maryland Food Bank fonctionne comme une organisation à but non lucratif de lutte contre la faim axée sur l'alimentation des personnes, le renforcement des communautés et la fin de la faim pour plus de Marylanders.",
-              "source": "https://www.charitynavigator.org/ein/521135690",
-              "by_org": false
-            },
-            {
-              "text": "L'organisation travaille à construire un système alimentaire plus équitable, résilient et accessible pour tous les Marylanders.",
-              "source": "https://www.charitynavigator.org/ein/521135690",
-              "by_org": false
-            }
-          ],
-          "mission": "The Maryland Food Bank est une organisation à but non lucratif de lutte contre la faim qui nourrit les gens, renforce les communautés et met fin à la faim pour plus de Marylanders.",
-          "does_not": [],
-          "strengths": []
-        },
-        "hi": {
-          "does": [
-            {
-              "text": "The Maryland Food Bank एक गैर-लाभकारी भूख-राहत संगठन के रूप में कार्य करता है जो लोगों को भोजन प्रदान करने, समुदायों को सुदृढ़ करने, और अधिक Marylanders के लिए भूख को समाप्त करने पर केंद्रित है।",
-              "source": "https://www.charitynavigator.org/ein/521135690",
-              "by_org": false
-            },
-            {
-              "text": "संगठन अधिक समान, लचीला, और सभी Marylanders के लिए सुलभ खाद्य प्रणाली बनाने के लिए काम करता है।",
-              "source": "https://www.charitynavigator.org/ein/521135690",
-              "by_org": false
-            }
-          ],
-          "mission": "The Maryland Food Bank एक गैर-लाभकारी भूख-राहत संगठन है जो लोगों को भोजन प्रदान कर रहा है, समुदायों को सुदृढ़ कर रहा है, और अधिक Marylanders के लिए भूख को समाप्त कर रहा है।",
-          "does_not": [],
-          "strengths": []
-        },
-        "it": {
-          "does": [
-            {
-              "text": "The Maryland Food Bank opera come un'organizzazione senza scopo di lucro per la lotta alla fame, focalizzata sul nutrire le persone, rafforzare le comunità e porre fine alla fame per più residenti del Maryland.",
-              "source": "https://www.charitynavigator.org/ein/521135690",
-              "by_org": false
-            },
-            {
-              "text": "L'organizzazione lavora per costruire un sistema alimentare più equo, resiliente e accessibile per tutti i residenti del Maryland.",
-              "source": "https://www.charitynavigator.org/ein/521135690",
-              "by_org": false
-            }
-          ],
-          "mission": "The Maryland Food Bank è un'organizzazione senza scopo di lucro per la lotta alla fame che sta nutrendo le persone, rafforzando le comunità e ponendo fine alla fame per più residenti del Maryland.",
-          "does_not": [],
-          "strengths": []
-        },
-        "ja": {
-          "does": [
-            {
-              "text": "The Maryland Food Bankは、非営利の飢餓救済組織として、人々に食料を提供し、コミュニティを強化し、より多くのメリーランド州民の飢餓を終わらせることに焦点を当てて運営しています。",
-              "source": "https://www.charitynavigator.org/ein/521135690",
-              "by_org": false
-            },
-            {
-              "text": "The organizationは、すべてのメリーランド州民のために、より公平で、回復力があり、アクセスしやすい食料システムを構築することに取り組んでいます。",
-              "source": "https://www.charitynavigator.org/ein/521135690",
-              "by_org": false
-            }
-          ],
-          "mission": "The Maryland Food Bankは、非営利の飢餓救済組織であり、人々に食料を提供し、コミュニティを強化し、より多くのメリーランド州民の飢餓を終わらせています。",
-          "does_not": [],
-          "strengths": []
-        },
-        "pt": {
-          "does": [
-            {
-              "text": "O Maryland Food Bank opera como uma organização sem fins lucrativos de combate à fome focada em alimentar pessoas, fortalecer comunidades e acabar com a fome para mais moradores de Maryland.",
-              "source": "https://www.charitynavigator.org/ein/521135690",
-              "by_org": false
-            },
-            {
-              "text": "A organização trabalha para construir um sistema alimentar mais equitativo, resiliente e acessível para todos os moradores de Maryland.",
-              "source": "https://www.charitynavigator.org/ein/521135690",
-              "by_org": false
-            }
-          ],
-          "mission": "O Maryland Food Bank é uma organização sem fins lucrativos de combate à fome que está alimentando pessoas, fortalecendo comunidades e acabando com a fome para mais moradores de Maryland.",
-          "does_not": [],
-          "strengths": []
-        },
-        "ru": {
-          "does": [
-            {
-              "text": "Maryland Food Bank работает как некоммерческая организация по борьбе с голодом, сосредоточенная на кормлении людей, укреплении сообществ и прекращении голода для большего числа жителей Мэриленда.",
-              "source": "https://www.charitynavigator.org/ein/521135690",
-              "by_org": false
-            },
-            {
-              "text": "Организация работает над созданием более справедливой, устойчивой и доступной продовольственной системы для всех жителей Мэриленда.",
-              "source": "https://www.charitynavigator.org/ein/521135690",
-              "by_org": false
-            }
-          ],
-          "mission": "Maryland Food Bank является некоммерческой организацией по борьбе с голодом, которая кормит людей, укрепляет сообщества и заканчивает голод для большего числа жителей Мэриленда.",
-          "does_not": [],
-          "strengths": []
-        },
-        "zh": {
-          "does": [
-            {
-              "text": "Maryland Food Bank 作为一家非营利性饥饿救助组织运作，专注于为人们提供食物，强化社区，并为更多 Marylanders 消除饥饿。",
-              "source": "https://www.charitynavigator.org/ein/521135690",
-              "by_org": false
-            },
-            {
-              "text": "该组织致力于为所有 Marylanders 构建一个更公平、更有韧性且更易获取的食品系统。",
-              "source": "https://www.charitynavigator.org/ein/521135690",
-              "by_org": false
-            }
-          ],
-          "mission": "Maryland Food Bank 是一家非营利性饥饿救助组织，正在为人们提供食物，强化社区，并为更多 Marylanders 消除饥饿。",
-          "does_not": [],
-          "strengths": []
-        }
-      },
-      "safety": {
-        "evaluator": "Charity Navigator",
-        "stars": 4,
-        "score": 96,
-        "rating_url": "https://www.charitynavigator.org/ein/521135690",
-        "rating_checked": "2026-11-07",
-        "since": "1979",
-        "registry_url": "https://projects.propublica.org/nonprofits/organizations/521135690",
-        "filings": 13,
-        "first_year": 2011,
-        "last_year": 2023,
-        "checks_passed": 18,
-        "verifiers": 3,
-        "unanimous": true,
-        "site": "mdfoodbank.org",
-        "official_host": "mdfoodbank.org",
-        "profile_claimed": true
-      },
-      "platform": "every.org",
-      "counter": {
-        "raised": "0",
-        "read_at": "2026-11-10T21:04:39.570687+00:00",
-        "currency": "USD",
-        "platform": "every.org",
-        "supporters": 0,
-        "raised_cents": 0,
-        "matches_cents": 0
-      },
-      "fundraiser_open": true,
-      "progress_pct": 0,
-      "donate": {
-        "recipient": "Maryland Food Bank Inc",
-        "url": "https://www.every.org/mdfoodbank/f/ai-against-hunger-for",
-        "money_goes_to": "Every.org, a US 501(c)(3) nonprofit, which grants it to the organization (unrestricted); this project never receives or holds money",
-        "counted_here_only_if": "shown in the public total of the fundraising page",
-        "status": "open",
-        "platform": "Every.org (US 501(c)(3) nonprofit; receipts tax-deductible only in the US)",
-        "public_total": {
-          "raised": "0",
-          "currency": "USD",
-          "people": 0,
-          "read_on": "2026-11-10"
-        },
-        "note": "Every.org suggests an optional tip to itself (sometimes preselected); it can be set to 0. Payment fees are deducted from what the organization receives."
-      }
-    },
     {
       "slug": "support-meals-on-wheels-people-inc-against-hunger-1995",
       "title": "Support Meals On Wheels People Inc against hunger",
@@ -4931,6 +4441,496 @@
         "counted_here_only_if": "shown in the public total of the fundraising page",
         "status": "in public review"
       }
+    },
+    {
+      "slug": "support-maryland-food-bank-inc-against-hunger-938",
+      "title": "Support Maryland Food Bank Inc against hunger",
+      "description": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'site:charitynavigator.org Rating for food pantry hunger relief'.",
+      "org_name": "Maryland Food Bank Inc",
+      "org_country": "US",
+      "org_website": "https://mdfoodbank.org/",
+      "country": "US",
+      "currency": "USD",
+      "goal": 5000.0,
+      "raised": 0.0,
+      "donated": 0.0,
+      "status": "attiva",
+      "donation_url": "https://www.every.org/mdfoodbank/f/ai-against-hunger-for",
+      "source_url": "https://www.charitynavigator.org/ein/521135690",
+      "approved_on": "2026-11-07",
+      "review_until": null,
+      "translations": {
+        "de": {
+          "text": "Organisation bewertet von Charity Navigator, gefunden von den Agenten mit: 'site:charitynavigator.org Rating for food pantry hunger relief'.",
+          "title": "Unterstütze die Maryland Food Bank Inc im Kampf gegen den Hunger",
+          "source": "traduzione AI"
+        },
+        "en": {
+          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'site:charitynavigator.org Rating for food pantry hunger relief'.",
+          "title": "Support Maryland Food Bank Inc against hunger",
+          "source": "originale"
+        },
+        "es": {
+          "text": "Entidad evaluada por Charity Navigator, encontrada por los agentes con: 'site:charitynavigator.org Rating for food pantry hunger relief'.",
+          "title": "Apoyar a Maryland Food Bank Inc contra el hambre",
+          "source": "traduzione AI"
+        },
+        "fr": {
+          "text": "Organisme évalué par Charity Navigator, trouvé par les agents avec : 'site:charitynavigator.org Rating for food pantry hunger relief'.",
+          "title": "Soutenir Maryland Food Bank Inc contre la faim",
+          "source": "traduzione AI"
+        },
+        "hi": {
+          "text": "Charity Navigator द्वारा मूल्यांकित संस्था, एजेंटों द्वारा मिली: 'site:charitynavigator.org Rating for food pantry hunger relief'।",
+          "title": "भूख के खिलाफ Maryland Food Bank Inc का समर्थन करें",
+          "source": "traduzione AI"
+        },
+        "it": {
+          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'site:charitynavigator.org Rating for food pantry hunger relief'.",
+          "title": "Sostieni Maryland Food Bank Inc contro la fame",
+          "source": "traduzione AI"
+        },
+        "ja": {
+          "text": "Charity Navigator によって評価された団体で、エージェントが次の検索で見つけました: 'site:charitynavigator.org Rating for food pantry hunger relief'。",
+          "title": "飢餓に対して Maryland Food Bank Inc を支援する",
+          "source": "traduzione AI"
+        },
+        "pt": {
+          "text": "Entidade avaliada pela Charity Navigator, encontrada pelos agentes com: 'site:charitynavigator.org Rating for food pantry hunger relief'.",
+          "title": "Apoie a Maryland Food Bank Inc contra a fome",
+          "source": "traduzione AI"
+        },
+        "ru": {
+          "text": "Организация, оцененная Charity Navigator, найденная агентами с помощью: 'site:charitynavigator.org Rating for food pantry hunger relief'.",
+          "title": "Поддержать Maryland Food Bank Inc в борьбе с голодом",
+          "source": "traduzione AI"
+        },
+        "zh": {
+          "text": "机构由 Charity Navigator 评估，代理人通过以下方式找到：'site:charitynavigator.org Rating for food pantry hunger relief'。",
+          "title": "支持 Maryland Food Bank Inc 对抗饥饿",
+          "source": "traduzione AI"
+        }
+      },
+      "tranches": [
+        {
+          "number": 1,
+          "goal": 2000.0,
+          "status": "aperta"
+        }
+      ],
+      "checks": [
+        {
+          "verifier": "regole",
+          "check_type": "ammissibilita",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Regole di ammissibilità (config/regole.yaml):\n✓ fonte ammessa: fonte 'valutatore'\n✓ ente registrato nel database: Maryland Food Bank Inc\n✓ codice fiscale verificato (IRS): EIN 521135690\n✓ ente valutato dal valutatore: Charity Navigator\n✓ voto del valutatore: 96%, 4 stelle su 4 (minimo 4 stelle e 90%)\n✓ anni di bilanci ufficiali: 13 anni [2019, 2020, 2021, 2022, 2023] (minimo 3)\n✓ tema fame / nutrizione: categoria IRS - (richiesta ['K']); tema nel nome: True",
+          "source_url": "https://www.charitynavigator.org/ein/521135690"
+        },
+        {
+          "verifier": "regole",
+          "check_type": "ammissibilita",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "✓ valutatore indipendente tra le prove: 1 pagine di valutatori (https://www.charitynavigator.org/ein/521135690); minimo 1",
+          "source_url": "https://www.charitynavigator.org/ein/521135690"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "registrazione",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "L'ente Maryland Food Bank Inc risulta regolarmente registrato negli Stati Uniti con EIN 521135690 e riconoscimento 501(c)(3) dal 1979.",
+          "source_url": "https://www.charitynavigator.org/ein/521135690"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "bilanci",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Sono presenti i dati dei Form 990 pubblicati su ProPublica e Charity Navigator per gli anni dal 2018 al 2023.",
+          "source_url": "https://www.charitynavigator.org/ein/521135690"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "valutazione_indipendente",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "L'ente ha ottenuto una valutazione positiva di 4 stelle (96%) su Charity Navigator.",
+          "source_url": "https://www.charitynavigator.org/ein/521135690"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "coerenza_importo",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "L'obiettivo di raccolta previsto di 5000 USD è estremamente esiguo e del tutto sostenibile rispetto al volume d'affari multimilionario dell'ente.",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/521135690"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "storico_progetti",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "L'organizzazione ha una storia pluridecennale documentata e attiva dal 1979 nel settore della sicurezza alimentare.",
+          "source_url": "https://www.charitynavigator.org/ein/521135690"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "segnali_allarme",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Non sono stati riscontrati segnali d'allarme relativi all'ente candidato nelle prove esaminate (le notizie di cronaca trovate riguardano omonimie o altre entità non collegate alla Maryland Food Bank Inc).",
+          "source_url": "https://www.charitynavigator.org/ein/521135690"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "conflitti_interesse",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "source_url": "config/conflitti.yaml"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "registrazione",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Ente registrato con EIN 521135690 e riconoscimento IRS 1979‑02‑01",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/521135690"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "bilanci",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Form 990 disponibili per gli anni 2023‑2018",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/521135690"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "valutazione_indipendente",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Charity Navigator assegna 96% Four‑Star",
+          "source_url": "https://www.charitynavigator.org/ein/521135690"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "coerenza_importo",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "Obiettivo 5 000 USD è <0.01% del fatturato annuale (~89 M USD)",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/521135690"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "storico_progetti",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "Attività documentata dal 1979 con rendiconti annuali",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/521135690"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "segnali_allarme",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun segnale negativo relativo a Maryland Food Bank trovato",
+          "source_url": "https://www.fincen.gov/resources/law-enforcement/case-examples/six-people-arrested-allegedly-bilking-millions-dollars"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "conflitti_interesse",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "source_url": "config/conflitti.yaml"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "registrazione",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "L'ente 'Maryland Food Bank Inc' risulta registrato presso l'IRS con EIN 521135690, riconoscimento 501(c)(3) dal 1979, sede a Baltimore, MD. Confermato da ProPublica Nonprofit Explorer e Charity Navigator.",
+          "source_url": "https://www.charitynavigator.org/ein/521135690"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "bilanci",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Sono disponibili i bilanci pubblici (Form 990) per gli anni dal 2011 al 2023, con dati di entrate e spese dettagliati e link ai PDF su ProPublica.",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/521135690"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "valutazione_indipendente",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Charity Navigator assegna una valutazione di 4 stelle (96%) e completa tutti e 4 i beacon (Accountability & Finance, Impact & Measurement, Leadership & Planning, Culture & Compensation).",
+          "source_url": "https://www.charitynavigator.org/ein/521135690"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "coerenza_importo",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "L'obiettivo di raccolta di 5000 USD è trascurabile rispetto alle dimensioni dell'ente (entrate annuali nell'ordine di decine di milioni di USD, es. 89M USD nel 2023), rendendo l'importo pienamente coerente e ragionevole.",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/521135690"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "storico_progetti",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "L'ente opera dal 1979 e ha una storia documentata di 13 anni consecutivi di bilanci pubblici (2011-2023), indicando attività continuativa e rendicontazione regolare.",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/521135690"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "segnali_allarme",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun segnale d'allarme trovato nelle prove fornite. Le ricerche web [E3, E4, E5] riguardano altri enti (Second Harvest Food Bank in California, Danske Bank, Shanghai Husi Food) e non hanno alcuna relazione con Maryland Food Bank Inc. Il sito ufficiale è presente e i contatti sono standard (telefono, indirizzo fisico).",
+          "source_url": "https://www.charitynavigator.org/ein/521135690"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "conflitti_interesse",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "source_url": "config/conflitti.yaml"
+        }
+      ],
+      "sources": [
+        "https://finance.yahoo.com/news/475m-lawsuit-alleges-inaction-danske-054254048.html",
+        "https://projects.propublica.org/nonprofits/organizations/521135690",
+        "https://www.charitynavigator.org/ein/521135690",
+        "https://www.cnbc.com/2014/07/27/china-food-scandal-us-parent-withdraws-products.html",
+        "https://www.fincen.gov/resources/law-enforcement/case-examples/six-people-arrested-allegedly-bilking-millions-dollars"
+      ],
+      "waiting_counter": false,
+      "profile": {
+        "de": {
+          "does": [
+            {
+              "text": "Die Maryland Food Bank arbeitet als gemeinnützige Hungerhilfe-Organisation, die sich darauf konzentriert, Menschen zu ernähren, Gemeinschaften zu stärken und den Hunger für mehr Marylanders zu beenden.",
+              "source": "https://www.charitynavigator.org/ein/521135690",
+              "by_org": false
+            },
+            {
+              "text": "Die Organisation arbeitet daran, ein gerechteres, widerstandsfähigeres und zugänglicheres Lebensmittelsystem für alle Marylanders aufzubauen.",
+              "source": "https://www.charitynavigator.org/ein/521135690",
+              "by_org": false
+            }
+          ],
+          "mission": "Die Maryland Food Bank ist eine gemeinnützige Hungerhilfe-Organisation, die Menschen ernährt, Gemeinschaften stärkt und den Hunger für mehr Marylanders beendet.",
+          "does_not": [],
+          "strengths": []
+        },
+        "en": {
+          "does": [
+            {
+              "text": "The Maryland Food Bank operates as a nonprofit hunger-relief organization focused on feeding people, strengthening communities, and ending hunger for more Marylanders.",
+              "quote": "The Maryland Food Bank is a nonprofit hunger-relief organization that is feeding people, strengthening communities, and ending hunger for more Marylanders.",
+              "source": "https://www.charitynavigator.org/ein/521135690",
+              "by_org": false
+            },
+            {
+              "text": "The organization works to build a more equitable, resilient, and accessible food system for all Marylanders.",
+              "quote": "MFB is working to build a more equitable, resilient, and accessible food system for all Marylanders.",
+              "source": "https://www.charitynavigator.org/ein/521135690",
+              "by_org": false
+            }
+          ],
+          "mission": "The Maryland Food Bank is a nonprofit hunger-relief organization that is feeding people, strengthening communities, and ending hunger for more Marylanders.",
+          "does_not": [],
+          "strengths": []
+        },
+        "es": {
+          "does": [
+            {
+              "text": "Maryland Food Bank opera como una organización sin fines de lucro de alivio del hambre centrada en alimentar a personas, fortalecer comunidades y acabar con el hambre para más Marylanders.",
+              "source": "https://www.charitynavigator.org/ein/521135690",
+              "by_org": false
+            },
+            {
+              "text": "La organización trabaja para construir un sistema alimentario más equitativo, resiliente y accesible para todos los Marylanders.",
+              "source": "https://www.charitynavigator.org/ein/521135690",
+              "by_org": false
+            }
+          ],
+          "mission": "Maryland Food Bank es una organización sin fines de lucro de alivio del hambre que está alimentando a personas, fortaleciendo comunidades y acabando con el hambre para más Marylanders.",
+          "does_not": [],
+          "strengths": []
+        },
+        "fr": {
+          "does": [
+            {
+              "text": "The Maryland Food Bank fonctionne comme une organisation à but non lucratif de lutte contre la faim axée sur l'alimentation des personnes, le renforcement des communautés et la fin de la faim pour plus de Marylanders.",
+              "source": "https://www.charitynavigator.org/ein/521135690",
+              "by_org": false
+            },
+            {
+              "text": "L'organisation travaille à construire un système alimentaire plus équitable, résilient et accessible pour tous les Marylanders.",
+              "source": "https://www.charitynavigator.org/ein/521135690",
+              "by_org": false
+            }
+          ],
+          "mission": "The Maryland Food Bank est une organisation à but non lucratif de lutte contre la faim qui nourrit les gens, renforce les communautés et met fin à la faim pour plus de Marylanders.",
+          "does_not": [],
+          "strengths": []
+        },
+        "hi": {
+          "does": [
+            {
+              "text": "The Maryland Food Bank एक गैर-लाभकारी भूख-राहत संगठन के रूप में कार्य करता है जो लोगों को भोजन प्रदान करने, समुदायों को सुदृढ़ करने, और अधिक Marylanders के लिए भूख को समाप्त करने पर केंद्रित है।",
+              "source": "https://www.charitynavigator.org/ein/521135690",
+              "by_org": false
+            },
+            {
+              "text": "संगठन अधिक समान, लचीला, और सभी Marylanders के लिए सुलभ खाद्य प्रणाली बनाने के लिए काम करता है।",
+              "source": "https://www.charitynavigator.org/ein/521135690",
+              "by_org": false
+            }
+          ],
+          "mission": "The Maryland Food Bank एक गैर-लाभकारी भूख-राहत संगठन है जो लोगों को भोजन प्रदान कर रहा है, समुदायों को सुदृढ़ कर रहा है, और अधिक Marylanders के लिए भूख को समाप्त कर रहा है।",
+          "does_not": [],
+          "strengths": []
+        },
+        "it": {
+          "does": [
+            {
+              "text": "The Maryland Food Bank opera come un'organizzazione senza scopo di lucro per la lotta alla fame, focalizzata sul nutrire le persone, rafforzare le comunità e porre fine alla fame per più residenti del Maryland.",
+              "source": "https://www.charitynavigator.org/ein/521135690",
+              "by_org": false
+            },
+            {
+              "text": "L'organizzazione lavora per costruire un sistema alimentare più equo, resiliente e accessibile per tutti i residenti del Maryland.",
+              "source": "https://www.charitynavigator.org/ein/521135690",
+              "by_org": false
+            }
+          ],
+          "mission": "The Maryland Food Bank è un'organizzazione senza scopo di lucro per la lotta alla fame che sta nutrendo le persone, rafforzando le comunità e ponendo fine alla fame per più residenti del Maryland.",
+          "does_not": [],
+          "strengths": []
+        },
+        "ja": {
+          "does": [
+            {
+              "text": "The Maryland Food Bankは、非営利の飢餓救済組織として、人々に食料を提供し、コミュニティを強化し、より多くのメリーランド州民の飢餓を終わらせることに焦点を当てて運営しています。",
+              "source": "https://www.charitynavigator.org/ein/521135690",
+              "by_org": false
+            },
+            {
+              "text": "The organizationは、すべてのメリーランド州民のために、より公平で、回復力があり、アクセスしやすい食料システムを構築することに取り組んでいます。",
+              "source": "https://www.charitynavigator.org/ein/521135690",
+              "by_org": false
+            }
+          ],
+          "mission": "The Maryland Food Bankは、非営利の飢餓救済組織であり、人々に食料を提供し、コミュニティを強化し、より多くのメリーランド州民の飢餓を終わらせています。",
+          "does_not": [],
+          "strengths": []
+        },
+        "pt": {
+          "does": [
+            {
+              "text": "O Maryland Food Bank opera como uma organização sem fins lucrativos de combate à fome focada em alimentar pessoas, fortalecer comunidades e acabar com a fome para mais moradores de Maryland.",
+              "source": "https://www.charitynavigator.org/ein/521135690",
+              "by_org": false
+            },
+            {
+              "text": "A organização trabalha para construir um sistema alimentar mais equitativo, resiliente e acessível para todos os moradores de Maryland.",
+              "source": "https://www.charitynavigator.org/ein/521135690",
+              "by_org": false
+            }
+          ],
+          "mission": "O Maryland Food Bank é uma organização sem fins lucrativos de combate à fome que está alimentando pessoas, fortalecendo comunidades e acabando com a fome para mais moradores de Maryland.",
+          "does_not": [],
+          "strengths": []
+        },
+        "ru": {
+          "does": [
+            {
+              "text": "Maryland Food Bank работает как некоммерческая организация по борьбе с голодом, сосредоточенная на кормлении людей, укреплении сообществ и прекращении голода для большего числа жителей Мэриленда.",
+              "source": "https://www.charitynavigator.org/ein/521135690",
+              "by_org": false
+            },
+            {
+              "text": "Организация работает над созданием более справедливой, устойчивой и доступной продовольственной системы для всех жителей Мэриленда.",
+              "source": "https://www.charitynavigator.org/ein/521135690",
+              "by_org": false
+            }
+          ],
+          "mission": "Maryland Food Bank является некоммерческой организацией по борьбе с голодом, которая кормит людей, укрепляет сообщества и заканчивает голод для большего числа жителей Мэриленда.",
+          "does_not": [],
+          "strengths": []
+        },
+        "zh": {
+          "does": [
+            {
+              "text": "Maryland Food Bank 作为一家非营利性饥饿救助组织运作，专注于为人们提供食物，强化社区，并为更多 Marylanders 消除饥饿。",
+              "source": "https://www.charitynavigator.org/ein/521135690",
+              "by_org": false
+            },
+            {
+              "text": "该组织致力于为所有 Marylanders 构建一个更公平、更有韧性且更易获取的食品系统。",
+              "source": "https://www.charitynavigator.org/ein/521135690",
+              "by_org": false
+            }
+          ],
+          "mission": "Maryland Food Bank 是一家非营利性饥饿救助组织，正在为人们提供食物，强化社区，并为更多 Marylanders 消除饥饿。",
+          "does_not": [],
+          "strengths": []
+        }
+      },
+      "safety": {
+        "evaluator": "Charity Navigator",
+        "stars": 4,
+        "score": 96,
+        "rating_url": "https://www.charitynavigator.org/ein/521135690",
+        "rating_checked": "2026-11-07",
+        "since": "1979",
+        "registry_url": "https://projects.propublica.org/nonprofits/organizations/521135690",
+        "filings": 13,
+        "first_year": 2011,
+        "last_year": 2023,
+        "checks_passed": 18,
+        "verifiers": 3,
+        "unanimous": true,
+        "site": "mdfoodbank.org",
+        "official_host": "mdfoodbank.org",
+        "profile_claimed": true
+      },
+      "platform": "every.org",
+      "counter": {
+        "raised": "0",
+        "read_at": "2026-11-10T21:04:39.570687+00:00",
+        "currency": "USD",
+        "platform": "every.org",
+        "supporters": 0,
+        "raised_cents": 0,
+        "matches_cents": 0
+      },
+      "fundraiser_open": true,
+      "progress_pct": 0,
+      "donate": {
+        "recipient": "Maryland Food Bank Inc",
+        "url": "https://www.every.org/mdfoodbank/f/ai-against-hunger-for",
+        "money_goes_to": "Every.org, a US 501(c)(3) nonprofit, which grants it to the organization (unrestricted); this project never receives or holds money",
+        "counted_here_only_if": "shown in the public total of the fundraising page",
+        "status": "open",
+        "platform": "Every.org (US 501(c)(3) nonprofit; receipts tax-deductible only in the US)",
+        "public_total": {
+          "raised": "0",
+          "currency": "USD",
+          "people": 0,
+          "read_on": "2026-11-10"
+        },
+        "note": "Every.org suggests an optional tip to itself (sometimes preselected); it can be set to 0. Payment fees are deducted from what the organization receives."
+      }
     }
   ],
   "order_rule": "All projects are equal: the order rotates by one position every day.",
@@ -4942,9 +4942,9 @@
     "costs": {
       "USD": 8.5
     },
-    "ai_calls": 552,
+    "ai_calls": 553,
     "ai_cost_real_usd": 0.0,
-    "ai_value_offered_usd": 3.475394,
+    "ai_value_offered_usd": 3.476936,
     "candidates_examined": 40,
     "candidates_discarded": 26
   },
