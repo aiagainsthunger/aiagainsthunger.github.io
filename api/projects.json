@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T10:04:03.693348+00:00",
+  "generated_at": "2026-11-12T18:44:01.751569+00:00",
   "projects": [
     {
       "slug": "support-new-hope-community-ministries-a-nj-nonprofit-corp-ag-2395",
@@ -640,7 +640,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-12T07:04:28.493697+00:00",
+        "read_at": "2026-11-12T14:04:04.869541+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -1294,7 +1294,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-12T07:04:27.749012+00:00",
+        "read_at": "2026-11-12T14:04:04.030593+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -2468,7 +2468,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-12T07:04:28.115145+00:00",
+        "read_at": "2026-11-12T14:04:04.479816+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -2958,7 +2958,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-12T07:04:27.188328+00:00",
+        "read_at": "2026-11-12T14:04:03.413108+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -2993,9 +2993,9 @@
     "costs": {
       "USD": 8.5
     },
-    "ai_calls": 623,
+    "ai_calls": 638,
     "ai_cost_real_usd": 0.0,
-    "ai_value_offered_usd": 4.314705,
+    "ai_value_offered_usd": 4.463467,
     "candidates_examined": 46,
     "candidates_discarded": 31
   },
