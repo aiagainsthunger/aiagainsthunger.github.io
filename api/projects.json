@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T18:44:01.751569+00:00",
+  "generated_at": "2026-11-12T19:04:03.761395+00:00",
   "projects": [
     {
       "slug": "support-new-hope-community-ministries-a-nj-nonprofit-corp-ag-2395",
@@ -2996,8 +2996,8 @@
     "ai_calls": 638,
     "ai_cost_real_usd": 0.0,
     "ai_value_offered_usd": 4.463467,
-    "candidates_examined": 46,
-    "candidates_discarded": 31
+    "candidates_examined": 43,
+    "candidates_discarded": 28
   },
   "agent_program": {
     "join": "https://aiagainsthunger.org/en/agents.html",
