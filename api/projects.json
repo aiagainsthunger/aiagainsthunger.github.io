@@ -1,6 +1,599 @@
 {
-  "generated_at": "2026-11-11T21:39:29.433910+00:00",
+  "generated_at": "2026-11-12T07:04:16.083291+00:00",
   "projects": [
+    {
+      "slug": "support-feeding-america-against-hunger-1993",
+      "title": "Support Feeding America against hunger",
+      "description": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'site:charitynavigator.org Rating for food bank feeding'.",
+      "org_name": "Feeding America",
+      "org_country": "US",
+      "org_website": "https://feedingamerica.org/",
+      "country": "US",
+      "currency": "USD",
+      "goal": 5000.0,
+      "raised": 0.0,
+      "donated": 0.0,
+      "status": "attiva",
+      "donation_url": "https://www.every.org/feedingamerica/f/ai-against-hunger-for",
+      "source_url": "https://www.charitynavigator.org/ein/363673599",
+      "approved_on": "2026-11-08",
+      "review_until": null,
+      "translations": {
+        "de": {
+          "text": "Organisation bewertet von Charity Navigator, gefunden von den Agenten mit: 'site:charitynavigator.org Rating for food bank feeding'.",
+          "title": "Unterstützen Sie Feeding America im Kampf gegen den Hunger",
+          "source": "traduzione AI"
+        },
+        "en": {
+          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'site:charitynavigator.org Rating for food bank feeding'.",
+          "title": "Support Feeding America against hunger",
+          "source": "originale"
+        },
+        "es": {
+          "text": "Entidad evaluada por Charity Navigator, encontrada por los agentes con: 'site:charitynavigator.org Rating for food bank feeding'.",
+          "title": "Apoya a Feeding America contra el hambre",
+          "source": "traduzione AI"
+        },
+        "fr": {
+          "text": "Organisation évaluée par Charity Navigator, trouvée par les agents avec : 'site:charitynavigator.org Rating for food bank feeding'.",
+          "title": "Soutenir Feeding America contre la faim",
+          "source": "traduzione AI"
+        },
+        "hi": {
+          "text": "Charity Navigator द्वारा मूल्यांकित संस्था, एजेंटों द्वारा मिली: 'site:charitynavigator.org Rating for food bank feeding'।",
+          "title": "भूख के खिलाफ Feeding America का समर्थन करें",
+          "source": "traduzione AI"
+        },
+        "it": {
+          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'site:charitynavigator.org Rating for food bank feeding'.",
+          "title": "Sostieni Feeding America contro la fame",
+          "source": "traduzione AI"
+        },
+        "ja": {
+          "text": "Charity Navigator によって評価された団体で、エージェントが次の検索で見つけました: 'site:charitynavigator.org Rating for food bank feeding'.",
+          "title": "飢餓に対抗する Feeding America を支援する",
+          "source": "traduzione AI"
+        },
+        "pt": {
+          "text": "Entidade avaliada pela Charity Navigator, encontrada pelos agentes com: 'site:charitynavigator.org Rating for food bank feeding'.",
+          "title": "Apoie a Feeding America contra a fome",
+          "source": "traduzione AI"
+        },
+        "ru": {
+          "text": "Организация, оцененная Charity Navigator, найденная агентами с помощью: 'site:charitynavigator.org Rating for food bank feeding'.",
+          "title": "Поддержите Feeding America в борьбе с голодом",
+          "source": "traduzione AI"
+        },
+        "zh": {
+          "text": "该机构由 Charity Navigator 评估，代理人通过以下方式找到：'site:charitynavigator.org Rating for food bank feeding'。",
+          "title": "支持 Feeding America 对抗饥饿",
+          "source": "traduzione AI"
+        }
+      },
+      "tranches": [
+        {
+          "number": 1,
+          "goal": 2000.0,
+          "status": "aperta"
+        }
+      ],
+      "checks": [
+        {
+          "verifier": "regole",
+          "check_type": "ammissibilita",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Regole di ammissibilità (config/regole.yaml):\n✓ fonte ammessa: fonte 'valutatore'\n✓ ente registrato nel database: Feeding America\n✓ codice fiscale verificato (IRS): EIN 363673599\n✓ ente valutato dal valutatore: Charity Navigator\n✓ voto del valutatore: 96%, 4 stelle su 4 (minimo 4 stelle e 90%)\n✓ anni di bilanci ufficiali: 12 anni [2019, 2020, 2021, 2022, 2023] (minimo 3)\n✓ tema fame / nutrizione: categoria IRS K310 (richiesta ['K']); tema nel nome: True",
+          "source_url": "https://www.charitynavigator.org/ein/363673599"
+        },
+        {
+          "verifier": "regole",
+          "check_type": "ammissibilita",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "✓ valutatore indipendente tra le prove: 2 pagine di valutatori (https://www.charitynavigator.org/ein/363673599, https://charitywatch.org/charities/feeding-america); minimo 1",
+          "source_url": "https://www.charitynavigator.org/ein/363673599"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "registrazione",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Feeding America risulta regolarmente registrata negli Stati Uniti come ente 501(c)(3) con EIN 36-3673599 e data di esenzione fiscale IRS dal 01/01/1990, con sede a Chicago, IL.",
+          "source_url": "https://www.charitynavigator.org/ein/363673599"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "bilanci",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Sono disponibili bilanci e dichiarazioni fiscali pubbliche (IRS Form 990) per numerosi anni (dal 2012 al 2023), con entrate per l'anno fiscale 2023 superiori a 4,9 miliardi di dollari.",
+          "source_url": "https://www.charitynavigator.org/ein/363673599"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "valutazione_indipendente",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "L'ente ha ricevuto valutazioni eccellenti da due valutatori indipendenti: Charity Navigator (4 stelle su 4, punteggio 96%) e CharityWatch (rating A-).",
+          "source_url": "https://www.charitynavigator.org/ein/363673599"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "coerenza_importo",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "L'obiettivo di raccolta previsto di 5.000 USD è perfettamente proporzionato e coerente rispetto al volume d'affari e alla scala operativa dell'organizzazione.",
+          "source_url": "https://www.charitynavigator.org/ein/363673599"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "storico_progetti",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "L'ente vanta uno storico ampiamente documentato e pluridecennale nell'ambito della sicurezza alimentare e della risposta alla fame negli Stati Uniti.",
+          "source_url": "https://www.charitynavigator.org/ein/363673599"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "segnali_allarme",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun segnale d'allarme o notizia negativa rilevata a carico di Feeding America. Le notizie d'indagine e frode riportate nelle fonti E4 ed E6 si riferiscono a un'altra entità distinta ('Feeding Our Future').",
+          "source_url": "https://www.charitynavigator.org/ein/363673599"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "conflitti_interesse",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "source_url": "config/conflitti.yaml"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "registrazione",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Feeding America è registrata come 501(c)(3) con EIN 363673599, sede a Chicago, confermata dal registro IRS su ProPublica.",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/363673599"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "bilanci",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Sono disponibili i Form 990 dal 2018 al 2023 con dati di entrate e spese, scaricabili dal sito ProPublica.",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/363673599"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "valutazione_indipendente",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Charity Navigator assegna a Feeding America 4 stelle (96%) e CharityWatch la valutazione A-; entrambi sono valutatori indipendenti.",
+          "source_url": "https://www.charitynavigator.org/ein/363673599"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "coerenza_importo",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "L'importo richiesto (5 000 USD) è estremamente basso rispetto al fatturato annuale di circa 4,9 miliardi USD (Form 990 2023).",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/363673599"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "storico_progetti",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "Feeding America opera dal 1990, con una rete nazionale di banche alimentari e programmi descritti su Charity Navigator, dimostrando una lunga storia di progetti documentati.",
+          "source_url": "https://www.charitynavigator.org/ein/363673599"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "segnali_allarme",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Le notizie di frode (E4, E6) riguardano l'organizzazione \"Feeding Our Future\", non Feeding America; nessun segnale negativo diretto è stato trovato.",
+          "source_url": "https://www.fbi.gov/news/stories/dozens-charged-in-250-million-covid-fraud-scheme-092122"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "conflitti_interesse",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "source_url": "config/conflitti.yaml"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "registrazione",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "L'ente Feeding America è registrato come 501(c)(3) con EIN 363673599, sede a Chicago, IL. Il riconoscimento IRS risale al 1990.",
+          "source_url": "https://www.charitynavigator.org/ein/363673599"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "bilanci",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Sono disponibili i bilanci pubblici (Form 990) per gli anni dal 2012 al 2023, con dati dettagliati su entrate e spese.",
+          "source_url": "https://www.charitynavigator.org/ein/363673599"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "valutazione_indipendente",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Charity Navigator assegna 4 stelle (96%) e CharityWatch assegna il rating A- (Top-Rated Charity) con l'81% delle spese destinate ai programmi.",
+          "source_url": "https://www.charitynavigator.org/ein/363673599"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "coerenza_importo",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "L'obiettivo di raccolta di 5000 USD è trascurabile rispetto alle dimensioni dell'ente (entrate annuali di circa 4,9 miliardi di USD nel 2023), rendendo l'importo coerente e ragionevole.",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/363673599"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "storico_progetti",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "L'ente opera dal 1990 e ha una lunga storia documentata di attività, confermata dalla presenza di bilanci IRS per oltre un decennio e dalla sua missione consolidata di lotta alla fame.",
+          "source_url": "https://www.charitynavigator.org/ein/363673599"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "segnali_allarme",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun segnale d'allarme riguarda l'ente Feeding America. Le notizie negative (E4, E6) riguardano lo schema di frode 'Feeding Our Future', un'organizzazione distinta e non affiliata a Feeding America (EIN diverso, sede diversa). Le prove E1, E2 ed E3 confermano la trasparenza e la buona gestione di Feeding America.",
+          "source_url": "https://www.charitynavigator.org/ein/363673599"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "conflitti_interesse",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "source_url": "config/conflitti.yaml"
+        }
+      ],
+      "sources": [
+        "https://charitywatch.org/charities/feeding-america",
+        "https://en.wikipedia.org/wiki/Feeding_Our_Future",
+        "https://projects.propublica.org/nonprofits/organizations/363673599",
+        "https://www.cbsnews.com/minnesota/news/man-78th-charged-feeding-our-future-fraud-scheme/",
+        "https://www.charitynavigator.org/ein/363673599",
+        "https://www.fbi.gov/news/stories/dozens-charged-in-250-million-covid-fraud-scheme-092122"
+      ],
+      "waiting_counter": false,
+      "profile": {
+        "de": {
+          "does": [
+            {
+              "text": "Lebensmittelverteilungen bieten kostenlose Lebensmittel und Lebensmittelprodukte für Einzelpersonen und Familien an und stellen genug Nahrung für 2 bis 3 Tage zur Verfügung.",
+              "source": "https://www.feedingamerica.org/our-work/hunger-relief-programs",
+              "by_org": true
+            },
+            {
+              "text": "Mobile Tafeln bringen kostenlose Lebensmittel und Lebensmittelprodukte direkt in Stadtteile, in denen Tafeln und Geschäfte schwer zu finden sind.",
+              "source": "https://www.feedingamerica.org/our-work/hunger-relief-programs",
+              "by_org": true
+            },
+            {
+              "text": "BackPack-Programme bieten Kindern kostenlose, leicht zuzubereiten Mahlzeiten für Wochenenden und Schulferien.",
+              "source": "https://www.feedingamerica.org/our-work/hunger-relief-programs",
+              "by_org": true
+            },
+            {
+              "text": "Kids Cafes bieten Kindern nach der Schule, an Wochenenden und im Sommer kostenlose Mahlzeiten an und bieten gleichzeitig Aktivitäten und Nachhilfe an.",
+              "source": "https://www.feedingamerica.org/our-work/hunger-relief-programs",
+              "by_org": true
+            }
+          ],
+          "mission": "Unsere Mission ist es, Veränderungen in Amerika voranzutreiben, indem wir für einen fairen Zugang zu nahrhaften Lebensmitteln für alle sorgen, in Zusammenarbeit mit Tafeln, politischen Entscheidungsträgern, Unterstützern und den Gemeinschaften, denen wir dienen.",
+          "does_not": [],
+          "strengths": []
+        },
+        "en": {
+          "does": [
+            {
+              "text": "Food distributions offer free food and groceries to individuals and families, providing enough food to last 2 to 3 days.",
+              "quote": "Food distributions offer free food and groceries to individuals and families. They provide enough food to last 2 to 3 days.",
+              "source": "https://www.feedingamerica.org/our-work/hunger-relief-programs",
+              "by_org": true
+            },
+            {
+              "text": "Mobile pantries bring free food and groceries directly to neighborhoods where food pantries and stores are hard to find.",
+              "quote": "Mobile pantries come to your community. They bring free food and groceries right to your neighborhood. This is a great option if you live where food pantries and stores are hard to find.",
+              "source": "https://www.feedingamerica.org/our-work/hunger-relief-programs",
+              "by_org": true
+            },
+            {
+              "text": "BackPack programs provide children with free, easy-to-make meals for weekends and school breaks.",
+              "quote": "BackPack programs give children free, easy-to-make meals for the weekend and school breaks.",
+              "source": "https://www.feedingamerica.org/our-work/hunger-relief-programs",
+              "by_org": true
+            },
+            {
+              "text": "Kids Cafes offer free meals to children after school, on weekends, and during the summer, while also providing activities and tutoring.",
+              "quote": "Kids Cafes offer free meals to kids after school, on the weekends, and during the summer. They also have fun activities and tutoring.",
+              "source": "https://www.feedingamerica.org/our-work/hunger-relief-programs",
+              "by_org": true
+            }
+          ],
+          "mission": "Our mission is to advance change in America by ensuring fair access to nutritious food for all, in partnership with food banks, policymakers, supporters and the communities we serve.",
+          "does_not": [],
+          "strengths": []
+        },
+        "es": {
+          "does": [
+            {
+              "text": "Las distribuciones de alimentos ofrecen comida y comestibles gratuitos a individuos y familias, proporcionando suficiente alimento para durar de 2 a 3 días.",
+              "source": "https://www.feedingamerica.org/our-work/hunger-relief-programs",
+              "by_org": true
+            },
+            {
+              "text": "Los despensas móviles llevan comida y comestibles gratuitos directamente a los vecindarios donde es difícil encontrar despensas de alimentos y tiendas.",
+              "source": "https://www.feedingamerica.org/our-work/hunger-relief-programs",
+              "by_org": true
+            },
+            {
+              "text": "Los programas BackPack brindan a los niños comidas gratuitas y fáciles de preparar para los fines de semana y los recesos escolares.",
+              "source": "https://www.feedingamerica.org/our-work/hunger-relief-programs",
+              "by_org": true
+            },
+            {
+              "text": "Los Kids Cafes ofrecen comidas gratuitas a los niños después de la escuela, los fines de semana y durante el verano, además de proporcionar actividades y tutorías.",
+              "source": "https://www.feedingamerica.org/our-work/hunger-relief-programs",
+              "by_org": true
+            }
+          ],
+          "mission": "Nuestra misión es impulsar el cambio en Estados Unidos asegurando un acceso justo a alimentos nutritivos para todos, en asociación con bancos de alimentos, legisladores, simpatizantes y las comunidades a las que servimos.",
+          "does_not": [],
+          "strengths": []
+        },
+        "fr": {
+          "does": [
+            {
+              "text": "Les distributions alimentaires offrent de la nourriture et des produits d'épicerie gratuits aux particuliers et aux familles, fournissant suffisamment de nourriture pour durer 2 à 3 jours.",
+              "source": "https://www.feedingamerica.org/our-work/hunger-relief-programs",
+              "by_org": true
+            },
+            {
+              "text": "Les épiceries mobiles apportent de la nourriture et des produits d'épicerie gratuits directement aux quartiers où les banques alimentaires et les magasins sont difficiles à trouver.",
+              "source": "https://www.feedingamerica.org/our-work/hunger-relief-programs",
+              "by_org": true
+            },
+            {
+              "text": "Les programmes BackPack offrent aux enfants des repas gratuits et faciles à préparer pour les week-ends et les vacances scolaires.",
+              "source": "https://www.feedingamerica.org/our-work/hunger-relief-programs",
+              "by_org": true
+            },
+            {
+              "text": "Les Kids Cafes offrent des repas gratuits aux enfants après l'école, le week-end et pendant l'été, tout en proposant des activités et du tutorat.",
+              "source": "https://www.feedingamerica.org/our-work/hunger-relief-programs",
+              "by_org": true
+            }
+          ],
+          "mission": "Notre mission est de promouvoir le changement en Amérique en garantissant un accès équitable à une alimentation nutritive pour tous, en partenariat avec les banques alimentaires, les décideurs, les soutiens et les communautés que nous servons.",
+          "does_not": [],
+          "strengths": []
+        },
+        "hi": {
+          "does": [
+            {
+              "text": "भोजन वितरण व्यक्तियों और परिवारों को मुफ्त भोजन और किराने का सामान प्रदान करते हैं, जो 2 से 3 दिनों तक चलने के लिए पर्याप्त भोजन प्रदान करता है।",
+              "source": "https://www.feedingamerica.org/our-work/hunger-relief-programs",
+              "by_org": true
+            },
+            {
+              "text": "मोबाइल पैंट्रीज़ मुफ्त भोजन और किराने का सामान सीधे उन पड़ोसों तक लाते हैं जहाँ खाद्य पैंट्रीज़ और दुकानें ढूँढ़ना कठिन होता है।",
+              "source": "https://www.feedingamerica.org/our-work/hunger-relief-programs",
+              "by_org": true
+            },
+            {
+              "text": "बैकपैक कार्यक्रम बच्चों को सप्ताहांत और स्कूल की छुट्टियों के लिए मुफ्त, आसानी से तैयार होने वाले भोजन प्रदान करते हैं।",
+              "source": "https://www.feedingamerica.org/our-work/hunger-relief-programs",
+              "by_org": true
+            },
+            {
+              "text": "किड्स कैफ़े स्कूल के बाद, सप्ताहांत और गर्मियों के दौरान बच्चों को मुफ्त भोजन प्रदान करते हैं, साथ ही गतिविधियाँ और ट्यूशन भी देते हैं।",
+              "source": "https://www.feedingamerica.org/our-work/hunger-relief-programs",
+              "by_org": true
+            }
+          ],
+          "mission": "हमारा मिशन अमेरिका में परिवर्तन को आगे बढ़ाना है, सभी के लिए पोषक भोजन तक निष्पक्ष पहुंच सुनिश्चित करके, खाद्य बैंकों, नीति निर्माताओं, समर्थकों और उन समुदायों के साथ साझेदारी में जिन्हें हम सेवा देते हैं।",
+          "does_not": [],
+          "strengths": []
+        },
+        "it": {
+          "does": [
+            {
+              "text": "Le distribuzioni di cibo offrono cibo e generi alimentari gratuiti a individui e famiglie, fornendo una quantità sufficiente per durare 2‑3 giorni.",
+              "source": "https://www.feedingamerica.org/our-work/hunger-relief-programs",
+              "by_org": true
+            },
+            {
+              "text": "Le dispense mobili portano cibo e generi alimentari gratuiti direttamente nei quartieri dove le dispense alimentari e i negozi sono difficili da trovare.",
+              "source": "https://www.feedingamerica.org/our-work/hunger-relief-programs",
+              "by_org": true
+            },
+            {
+              "text": "I programmi BackPack forniscono ai bambini pasti gratuiti e facili da preparare per i fine settimana e le vacanze scolastiche.",
+              "source": "https://www.feedingamerica.org/our-work/hunger-relief-programs",
+              "by_org": true
+            },
+            {
+              "text": "I Kids Cafes offrono pasti gratuiti ai bambini dopo la scuola, nei fine settimana e durante l’estate, fornendo anche attività e tutoraggio.",
+              "source": "https://www.feedingamerica.org/our-work/hunger-relief-programs",
+              "by_org": true
+            }
+          ],
+          "mission": "La nostra missione è promuovere il cambiamento in America garantendo a tutti un accesso equo a cibo nutriente, in collaborazione con le banche alimentari, i responsabili delle politiche, i sostenitori e le comunità che serviamo.",
+          "does_not": [],
+          "strengths": []
+        },
+        "ja": {
+          "does": [
+            {
+              "text": "フード配布は個人や家族に無料の食料や食料品を提供し、2 to 3 days分の食料を確保します。",
+              "source": "https://www.feedingamerica.org/our-work/hunger-relief-programs",
+              "by_org": true
+            },
+            {
+              "text": "モバイルパントリーは、フードパントリーや店舗が見つけにくい地域へ直接無料の食料や食料品を届けます。",
+              "source": "https://www.feedingamerica.org/our-work/hunger-relief-programs",
+              "by_org": true
+            },
+            {
+              "text": "バックパックプログラムは、子どもたちに週末や学校の休暇期間のための無料で簡単に作れる食事を提供します。",
+              "source": "https://www.feedingamerica.org/our-work/hunger-relief-programs",
+              "by_org": true
+            },
+            {
+              "text": "キッズカフェは、放課後、週末、夏季に子どもたちに無料の食事を提供し、同時にアクティビティやチュータリングも行います。",
+              "source": "https://www.feedingamerica.org/our-work/hunger-relief-programs",
+              "by_org": true
+            }
+          ],
+          "mission": "私たちの使命は、フードバンク、政策立案者、支援者、そして私たちが支援するコミュニティと協力し、すべての人が栄養価の高い食料に公平にアクセスできるようにすることで、アメリカに変革をもたらすことです。",
+          "does_not": [],
+          "strengths": []
+        },
+        "pt": {
+          "does": [
+            {
+              "text": "Distribuições de alimentos oferecem comida e mantimentos gratuitos a indivíduos e famílias, proporcionando alimentos suficientes para durar de 2 a 3 dias.",
+              "source": "https://www.feedingamerica.org/our-work/hunger-relief-programs",
+              "by_org": true
+            },
+            {
+              "text": "Despensas móveis levam comida e mantimentos gratuitos diretamente aos bairros onde despensas de alimentos e lojas são difíceis de encontrar.",
+              "source": "https://www.feedingamerica.org/our-work/hunger-relief-programs",
+              "by_org": true
+            },
+            {
+              "text": "Programas BackPack fornecem às crianças refeições gratuitas e fáceis de preparar para fins de semana e férias escolares.",
+              "source": "https://www.feedingamerica.org/our-work/hunger-relief-programs",
+              "by_org": true
+            },
+            {
+              "text": "Kids Cafes oferecem refeições gratuitas às crianças após a escola, nos fins de semana e durante o verão, além de proporcionar atividades e tutoria.",
+              "source": "https://www.feedingamerica.org/our-work/hunger-relief-programs",
+              "by_org": true
+            }
+          ],
+          "mission": "Nossa missão é promover mudanças na América garantindo acesso justo a alimentos nutritivos para todos, em parceria com bancos de alimentos, formuladores de políticas, apoiadores e as comunidades que atendemos.",
+          "does_not": [],
+          "strengths": []
+        },
+        "ru": {
+          "does": [
+            {
+              "text": "Food distributions предлагают бесплатную еду и продукты отдельным лицам и семьям, обеспечивая достаточное количество пищи на 2‑3 дня.",
+              "source": "https://www.feedingamerica.org/our-work/hunger-relief-programs",
+              "by_org": true
+            },
+            {
+              "text": "Mobile pantries доставляют бесплатную еду и продукты непосредственно в районы, где трудно найти продовольственные пункты и магазины.",
+              "source": "https://www.feedingamerica.org/our-work/hunger-relief-programs",
+              "by_org": true
+            },
+            {
+              "text": "BackPack programs предоставляют детям бесплатные, легко готовящиеся блюда на выходные и школьные каникулы.",
+              "source": "https://www.feedingamerica.org/our-work/hunger-relief-programs",
+              "by_org": true
+            },
+            {
+              "text": "Kids Cafes предлагают бесплатные обеды детям после школы, в выходные и летом, одновременно предоставляя занятия и репетиторство.",
+              "source": "https://www.feedingamerica.org/our-work/hunger-relief-programs",
+              "by_org": true
+            }
+          ],
+          "mission": "Наша миссия — способствовать изменениям в Америке, обеспечивая справедливый доступ к питательной еде для всех, в партнерстве с продовольственными банками, законодателями, сторонниками и сообществами, которым мы служим.",
+          "does_not": [],
+          "strengths": []
+        },
+        "zh": {
+          "does": [
+            {
+              "text": "食品分发向个人和家庭提供免费食品和杂货，提供足够维持 2 到 3 天的食物。",
+              "source": "https://www.feedingamerica.org/our-work/hunger-relief-programs",
+              "by_org": true
+            },
+            {
+              "text": "Mobile pantries 将免费食品和杂货直接送到食品柜台和商店难以找到的社区。",
+              "source": "https://www.feedingamerica.org/our-work/hunger-relief-programs",
+              "by_org": true
+            },
+            {
+              "text": "BackPack programs 为儿童提供免费、易于制作的周末和学校假期餐点。",
+              "source": "https://www.feedingamerica.org/our-work/hunger-relief-programs",
+              "by_org": true
+            },
+            {
+              "text": "Kids Cafes 为儿童提供课后、周末和夏季的免费餐点，同时提供活动和辅导。",
+              "source": "https://www.feedingamerica.org/our-work/hunger-relief-programs",
+              "by_org": true
+            }
+          ],
+          "mission": "我们的使命是通过与食品银行、政策制定者、支持者以及我们服务的社区合作，确保所有人公平获取营养食品，从而在America推动变革。",
+          "does_not": [],
+          "strengths": []
+        }
+      },
+      "safety": {
+        "evaluator": "Charity Navigator",
+        "stars": 4,
+        "score": 96,
+        "rating_url": "https://www.charitynavigator.org/ein/363673599",
+        "rating_checked": "2026-11-07",
+        "since": "1990",
+        "registry_url": "https://projects.propublica.org/nonprofits/organizations/363673599",
+        "filings": 12,
+        "first_year": 2012,
+        "last_year": 2023,
+        "checks_passed": 18,
+        "verifiers": 3,
+        "unanimous": true,
+        "site": "feedingamerica.org",
+        "official_host": "feedingamerica.org",
+        "profile_claimed": true
+      },
+      "platform": "every.org",
+      "counter": {
+        "raised": "0",
+        "read_at": "2026-11-11T21:04:17.733208+00:00",
+        "currency": "USD",
+        "platform": "every.org",
+        "supporters": 0,
+        "raised_cents": 0,
+        "matches_cents": 0
+      },
+      "fundraiser_open": true,
+      "progress_pct": 0,
+      "donate": {
+        "recipient": "Feeding America",
+        "url": "https://www.every.org/feedingamerica/f/ai-against-hunger-for",
+        "money_goes_to": "Every.org, a US 501(c)(3) nonprofit, which grants it to the organization (unrestricted); this project never receives or holds money",
+        "counted_here_only_if": "shown in the public total of the fundraising page",
+        "status": "open",
+        "platform": "Every.org (US 501(c)(3) nonprofit; receipts tax-deductible only in the US)",
+        "public_total": {
+          "raised": "0",
+          "currency": "USD",
+          "people": 0,
+          "read_on": "2026-11-11"
+        },
+        "note": "Every.org suggests an optional tip to itself (sometimes preselected); it can be set to 0. Payment fees are deducted from what the organization receives."
+      }
+    },
     {
       "slug": "support-maryland-food-bank-inc-against-hunger-938",
       "title": "Support Maryland Food Bank Inc against hunger",
@@ -489,363 +1082,6 @@
           "read_on": "2026-11-11"
         },
         "note": "Every.org suggests an optional tip to itself (sometimes preselected); it can be set to 0. Payment fees are deducted from what the organization receives."
-      }
-    },
-    {
-      "slug": "support-meds-food-for-kids-against-hunger-3603",
-      "title": "Support Meds & Food For Kids against hunger",
-      "description": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'site:charitynavigator.org Rating for therapeutic food malnourished children'.",
-      "org_name": "Meds & Food For Kids",
-      "org_country": "US",
-      "org_website": null,
-      "country": "US",
-      "currency": "USD",
-      "goal": 5000.0,
-      "raised": 0.0,
-      "donated": 0.0,
-      "status": "revisione_pubblica",
-      "donation_url": null,
-      "source_url": "https://www.charitynavigator.org/ein/201257910",
-      "approved_on": "2026-11-09",
-      "review_until": "2026-11-12 06:27 UTC",
-      "translations": {
-        "de": {
-          "text": "Organisation bewertet von Charity Navigator, gefunden von den Agenten mit: 'site:charitynavigator.org Rating for therapeutic food malnourished children'.",
-          "title": "Unterstützen Sie Meds & Food For Kids gegen den Hunger",
-          "source": "traduzione AI"
-        },
-        "en": {
-          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'site:charitynavigator.org Rating for therapeutic food malnourished children'.",
-          "title": "Support Meds & Food For Kids against hunger",
-          "source": "originale"
-        },
-        "es": {
-          "text": "Entidad evaluada por Charity Navigator, encontrada por los agentes con: 'site:charitynavigator.org Rating for therapeutic food malnourished children'.",
-          "title": "Apoya a Meds & Food For Kids contra el hambre",
-          "source": "traduzione AI"
-        },
-        "fr": {
-          "text": "Organisation évaluée par Charity Navigator, trouvée par les agents avec : 'site:charitynavigator.org Rating for therapeutic food malnourished children'.",
-          "title": "Soutenir Meds & Food For Kids contre la faim",
-          "source": "traduzione AI"
-        },
-        "hi": {
-          "text": "Charity Navigator द्वारा मूल्यांकित संस्था, एजेंटों द्वारा खोजी गई: 'site:charitynavigator.org Rating for therapeutic food malnourished children'.",
-          "title": "भूख के खिलाफ Meds & Food For Kids का समर्थन",
-          "source": "traduzione AI"
-        },
-        "it": {
-          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'site:charitynavigator.org Rating for therapeutic food malnourished children'.",
-          "title": "Sostieni Meds & Food For Kids contro la fame",
-          "source": "traduzione AI"
-        },
-        "ja": {
-          "text": "Charity Navigator によって評価された団体で、エージェントが次の検索で見つけました: 'site:charitynavigator.org Rating for therapeutic food malnourished children'.",
-          "title": "Meds & Food For Kids を飢餓から支援する",
-          "source": "traduzione AI"
-        },
-        "pt": {
-          "text": "Entidade avaliada pela Charity Navigator, encontrada pelos agentes com: 'site:charitynavigator.org Rating for therapeutic food malnourished children'.",
-          "title": "Apoie Meds & Food For Kids contra a fome",
-          "source": "traduzione AI"
-        },
-        "ru": {
-          "text": "Организация, оцененная Charity Navigator, найденная агентами с помощью: 'site:charitynavigator.org Rating for therapeutic food malnourished children'.",
-          "title": "Поддержите Meds & Food For Kids в борьбе с голодом",
-          "source": "traduzione AI"
-        },
-        "zh": {
-          "text": "由 Charity Navigator 评估的机构，由代理人通过以下方式找到：'site:charitynavigator.org Rating for therapeutic food malnourished children'。",
-          "title": "支持 Meds & Food For Kids 对抗饥饿",
-          "source": "traduzione AI"
-        }
-      },
-      "tranches": [],
-      "checks": [
-        {
-          "verifier": "regole",
-          "check_type": "ammissibilita",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Regole di ammissibilità (config/regole.yaml):\n✓ fonte ammessa: fonte 'valutatore'\n✓ ente registrato nel database: Meds & Food For Kids\n✓ codice fiscale verificato (IRS): EIN 201257910\n✓ ente valutato dal valutatore: Charity Navigator\n✓ voto del valutatore: 100%, 4 stelle su 4 (minimo 4 stelle e 90%)\n✓ anni di bilanci ufficiali: 13 anni [2019, 2020, 2021, 2022, 2023] (minimo 3)\n✓ tema fame / nutrizione: categoria IRS Q33 (richiesta ['K3', 'K4']); tema nel nome: True",
-          "source_url": "https://www.charitynavigator.org/ein/201257910"
-        },
-        {
-          "verifier": "regole",
-          "check_type": "ammissibilita",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "✓ valutatore indipendente tra le prove: 2 pagine di valutatori (https://www.charitynavigator.org/ein/201257910, https://charitywatch.org/); minimo 1",
-          "source_url": "https://www.charitynavigator.org/ein/201257910"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "registrazione",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "L'ente Meds & Food For Kids è registrato negli Stati Uniti come 501(c)(3) con EIN 201257910 dal 1° settembre 2004.",
-          "source_url": "https://www.charitynavigator.org/ein/201257910"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "bilanci",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Sono presenti e consultabili i bilanci IRS (Form 990) aggiornati dal 2011 al 2023, con dettagli su entrate e uscite annuali.",
-          "source_url": "https://www.charitynavigator.org/ein/201257910"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "valutazione_indipendente",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Charity Navigator assegna all'ente la valutazione massima (100% Four-Star Charity).",
-          "source_url": "https://www.charitynavigator.org/ein/201257910"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "coerenza_importo",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "L'importo previsto di 5.000 USD è pienamente coerente con le dimensioni dell'ente, che gestisce un bilancio annuo di oltre 5 milioni di dollari.",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/201257910"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "storico_progetti",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "L'ente opera da vent'anni fornendo cibi terapeutici pronti all'uso (RUTF) ed eseguendo programmi di nutrizione in Haiti.",
-          "source_url": "https://www.charitynavigator.org/ein/201257910"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "segnali_allarme",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun segnale d'allarme riscontrato a carico di Meds & Food For Kids. Le notizie di frode in E4 riguardano un'altra organizzazione non correlata (Feeding Our Future).",
-          "source_url": "https://www.charitynavigator.org/ein/201257910"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "conflitti_interesse",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
-          "source_url": "config/conflitti.yaml"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "registrazione",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "E2 mostra l'iscrizione IRS con EIN 201257910, data di riconoscimento 2004-09-01 e sede a Saint Louis, MO.",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/201257910"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "bilanci",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "E2 fornisce i Form 990 dal 2018 al 2023, dimostrando bilanci pubblici recenti.",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/201257910"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "valutazione_indipendente",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "E1 indica che Charity Navigator, valutatore indipendente, assegna a Meds & Food For Kids una valutazione Four‑Star.",
-          "source_url": "https://www.charitynavigator.org/ein/201257910"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "coerenza_importo",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "L'importo richiesto (5 000 USD) è molto inferiore ai ricavi annuali dell'ente (≈5‑6 milioni USD, visti in E2), quindi ragionevole rispetto alla dimensione dell'organizzazione.",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/201257910"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "storico_progetti",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "E1 descrive attività di nutrizione in Haiti, mentre E5 riporta programmi di alimentazione scolastica e sviluppo agricolo, confermando una storia operativa documentata.",
-          "source_url": "https://www.charitynavigator.org/ein/201257910"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "segnali_allarme",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessuna prova di frode, urgenze artificiali o pagamenti anonimi. E4 riguarda un caso di frode non collegato a Meds & Food For Kids.",
-          "source_url": "https://www.charitynavigator.org/ein/201257910"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "conflitti_interesse",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
-          "source_url": "config/conflitti.yaml"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "registrazione",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "L'ente 'Meds & Food For Kids' risulta registrato come organizzazione 501(c)(3) con EIN 201257910, riconosciuto dall'IRS dal 01/09/2004. La sede legale è a Saint Louis, MO.",
-          "source_url": "https://www.charitynavigator.org/ein/201257910"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "bilanci",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Sono disponibili i bilanci pubblici (Form 990) per gli anni dal 2011 al 2023 su ProPublica Nonprofit Explorer, con dati dettagliati su entrate e spese (es. 2023: entrate ~5.6M USD, spese ~6.6M USD).",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/201257910"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "valutazione_indipendente",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Charity Navigator assegna all'ente la valutazione di 'Four-Star Charity' (100% su 4 beacon completati), indicando una buona performance in accountability, finanza, impatto e leadership.",
-          "source_url": "https://www.charitynavigator.org/ein/201257910"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "coerenza_importo",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "L'obiettivo di raccolta di 5.000 USD è estremamente basso rispetto alla dimensione dell'ente (entrate annuali di diversi milioni di USD, come mostrato nei bilanci E2). L'importo è coerente con una piccola donazione o un micro-progetto specifico, non con la struttura complessiva dell'ente.",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/201257910"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "storico_progetti",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "L'ente ha una storia documentata di oltre 20 anni (dal 2004) con bilanci annuali consecutivi e una missione chiara (nutrizione in Haiti) descritta su fonti multiple (Charity Navigator, MapQuest).",
-          "source_url": "https://www.charitynavigator.org/ein/201257910"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "segnali_allarme",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun segnale d'allarme trovato nelle prove fornite. L'ente ha un sito web dedicato (mfkhaiti.org), un numero di telefono fisso, una sede fisica verificabile e una reputazione positiva sui siti di valutazione. Le altre prove (E4, E6) non contengono informazioni negative specifiche su questo ente.",
-          "source_url": "https://www.charitynavigator.org/ein/201257910"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "conflitti_interesse",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
-          "source_url": "config/conflitti.yaml"
-        }
-      ],
-      "sources": [
-        "https://charitywatch.org/",
-        "https://en.wikipedia.org/wiki/Feeding_Our_Future",
-        "https://projects.propublica.org/nonprofits/organizations/201257910",
-        "https://www.charitynavigator.org/ein/201257910",
-        "https://www.fbi.gov/news/stories/dozens-charged-in-250-million-covid-fraud-scheme-092122",
-        "https://www.mapquest.com/us/missouri/meds-food-for-kids-365866162"
-      ],
-      "waiting_counter": false,
-      "profile": {
-        "de": {
-          "does": [],
-          "mission": "Meds & Food for Kids hat sich der Deckung des wesentlichen Nährstoffbedarfs von unterernährten Kindern, schwangeren und stillenden Frauen sowie Schulkindern verschrieben, indem es Ready-to-Use-Therapeutic Foods (RUTFs) verwendet, die in unserer Fabrik in Cap-Haitien, Haiti, hergestellt werden.<br><br>Durch die Weitergabe von Fähigkeiten und Wissen an unsere haitianischen Mitarbeitenden und die Einbindung von Bauern zur Beschaffung lokaler Rohmaterialien brechen wir den Kreislauf der Armut und fördern nachhaltig die wirtschaftliche Entwicklung.",
-          "does_not": [],
-          "strengths": []
-        },
-        "en": {
-          "does": [],
-          "mission": "Meds & Food for Kids is dedicated to meeting the essential nutritional needs of malnourished children, pregnant and nursing women, and school children using Ready-to-Use-Therapeutic Foods (RUTFs) produced in our factory in Cap-Haitien, Haiti.<br><br>By transferring skills and knowledge to our Haitian workers and engaging farmers to source local raw materials, we break the cycle of poverty and sustainably stimulate economic development.",
-          "does_not": [],
-          "strengths": []
-        },
-        "es": {
-          "does": [],
-          "mission": "Meds & Food for Kids está dedicada a satisfacer las necesidades nutricionales esenciales de niños desnutridos, mujeres embarazadas y lactantes, y niños en edad escolar utilizando Alimentos Terapéuticos de Uso Directo (RUTFs) producidos en nuestra fábrica en Cap‑Haitien, Haití.<br><br>Al transferir habilidades y conocimientos a nuestros trabajadores haitianos y al involucrar a los agricultores para obtener materias primas locales, rompemos el ciclo de la pobreza y estimulamos de manera sostenible el desarrollo económico.",
-          "does_not": [],
-          "strengths": []
-        },
-        "fr": {
-          "does": [],
-          "mission": "Meds & Food for Kids est dédié à répondre aux besoins nutritionnels essentiels des enfants sous‑nutris, des femmes enceintes et allaitantes, ainsi que des enfants scolarisés en utilisant Ready-to-Use-Therapeutic Foods (RUTFs) produits dans notre usine à Cap-Haitien, Haïti.<br><br>En transférant compétences et connaissances à nos travailleurs haïtiens et en mobilisant les agriculteurs pour obtenir des matières premières locales, nous brisons le cycle de la pauvreté et stimulons durablement le développement économique.",
-          "does_not": [],
-          "strengths": []
-        },
-        "hi": {
-          "does": [],
-          "mission": "Meds & Food for Kids इस उद्देश्य के लिए समर्पित है कि कुपोषित बच्चों, गर्भवती और स्तनपान कराने वाली महिलाओं, और स्कूल के बच्चों की आवश्यक पोषण संबंधी जरूरतों को पूरा किया जाए, जो Ready-to-Use-Therapeutic Foods (RUTFs) का उपयोग करके, हमारे कारखाने में Cap-Haitien, Haiti में निर्मित होते हैं।<br><br>हम अपने हैती कर्मचारियों को कौशल और ज्ञान स्थानांतरित करके और किसानों को स्थानीय कच्चे माल की आपूर्ति के लिए संलग्न करके, गरीबी के चक्र को तोड़ते हैं और सतत रूप से आर्थिक विकास को प्रोत्साहित करते हैं।",
-          "does_not": [],
-          "strengths": []
-        },
-        "it": {
-          "does": [],
-          "mission": "Meds & Food for Kids è dedicata a soddisfare i bisogni nutrizionali essenziali dei bambini malnutriti, delle donne incinte e in allattamento, e dei bambini scolastici, utilizzando Alimenti Terapeutici Pronti all'Uso (RUTFs) prodotti nella nostra fabbrica a Cap-Haitien, Haiti.<br><br>Trasferendo competenze e conoscenze ai nostri lavoratori haitiani e coinvolgendo gli agricoltori per reperire materie prime locali, rompiamo il ciclo della povertà e stimoliamo in modo sostenibile lo sviluppo economico.",
-          "does_not": [],
-          "strengths": []
-        },
-        "ja": {
-          "does": [],
-          "mission": "Meds & Food for Kids は、ハイチのCap-Haitienにある工場で製造されたReady-to-Use-Therapeutic Foods (RUTFs) を用いて、栄養失調の子ども、妊産婦、授乳中の女性、そして学童の必須栄養ニーズに応えることに専念しています。<br><br>ハイチ人労働者へ技能と知識を移転し、農家と連携して地元の原材料を調達することで、貧困の連鎖を断ち切り、持続可能な経済発展を促進します。",
-          "does_not": [],
-          "strengths": []
-        },
-        "pt": {
-          "does": [],
-          "mission": "Meds & Food for Kids está dedicada a atender às necessidades nutricionais essenciais de crianças desnutridas, mulheres grávidas e lactantes, e crianças em idade escolar, usando Alimentos Terapêuticos Prontos para Uso (RUTFs) produzidos em nossa fábrica em Cap-Haitien, Haiti.<br><br>Ao transferir habilidades e conhecimentos para nossos trabalhadores haitianos e envolver agricultores na obtenção de matérias‑primas locais, quebramos o ciclo da pobreza e estimulamos de forma sustentável o desenvolvimento econômico.",
-          "does_not": [],
-          "strengths": []
-        },
-        "ru": {
-          "does": [],
-          "mission": "Meds & Food for Kids посвящена удовлетворению основных питательных потребностей недоедающих детей, беременных и кормящих женщин, а также школьников, используя Ready-to-Use-Therapeutic Foods (RUTFs), произведённые на нашем заводе в Cap-Haitien, Haiti.<br><br>Передавая навыки и знания нашим гаитянским работникам и привлекая фермеров к закупке местных сырьевых материалов, мы разрываем порочный круг бедности и устойчиво стимулируем экономическое развитие.",
-          "does_not": [],
-          "strengths": []
-        },
-        "zh": {
-          "does": [],
-          "mission": "Meds & Food for Kids 致力于满足营养不良儿童、孕产妇以及在校儿童的基本营养需求，使用在我们位于 Cap-Haitien, Haiti 工厂生产的 Ready-to-Use-Therapeutic Foods (RUTFs)。<br><br>通过向我们的海地工人传授技能和知识，并与农民合作采购本地原材料，我们打破贫困循环，并可持续地促进经济发展。",
-          "does_not": [],
-          "strengths": []
-        }
-      },
-      "safety": {
-        "evaluator": "Charity Navigator",
-        "stars": 4,
-        "score": 100,
-        "rating_url": "https://www.charitynavigator.org/ein/201257910",
-        "rating_checked": "2026-11-08",
-        "since": "2004",
-        "registry_url": "https://projects.propublica.org/nonprofits/organizations/201257910",
-        "filings": 13,
-        "first_year": 2011,
-        "last_year": 2023,
-        "checks_passed": 18,
-        "verifiers": 3,
-        "unanimous": true,
-        "site": "",
-        "official_host": "",
-        "profile_claimed": false
-      },
-      "platform": "",
-      "counter": {},
-      "fundraiser_open": false,
-      "progress_pct": 0,
-      "donate": {
-        "recipient": "Meds & Food For Kids",
-        "url": null,
-        "money_goes_to": "not open yet: donations open on a fundraising page with a public total",
-        "counted_here_only_if": "shown in the public total of the fundraising page",
-        "status": "in public review"
       }
     },
     {
@@ -2119,599 +2355,6 @@
       "donate": {
         "recipient": "Oregon Food Bank Inc",
         "url": "https://www.every.org/oregon-food-bank/f/ai-against-hunger-for",
-        "money_goes_to": "Every.org, a US 501(c)(3) nonprofit, which grants it to the organization (unrestricted); this project never receives or holds money",
-        "counted_here_only_if": "shown in the public total of the fundraising page",
-        "status": "open",
-        "platform": "Every.org (US 501(c)(3) nonprofit; receipts tax-deductible only in the US)",
-        "public_total": {
-          "raised": "0",
-          "currency": "USD",
-          "people": 0,
-          "read_on": "2026-11-11"
-        },
-        "note": "Every.org suggests an optional tip to itself (sometimes preselected); it can be set to 0. Payment fees are deducted from what the organization receives."
-      }
-    },
-    {
-      "slug": "support-feeding-america-against-hunger-1993",
-      "title": "Support Feeding America against hunger",
-      "description": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'site:charitynavigator.org Rating for food bank feeding'.",
-      "org_name": "Feeding America",
-      "org_country": "US",
-      "org_website": "https://feedingamerica.org/",
-      "country": "US",
-      "currency": "USD",
-      "goal": 5000.0,
-      "raised": 0.0,
-      "donated": 0.0,
-      "status": "attiva",
-      "donation_url": "https://www.every.org/feedingamerica/f/ai-against-hunger-for",
-      "source_url": "https://www.charitynavigator.org/ein/363673599",
-      "approved_on": "2026-11-08",
-      "review_until": null,
-      "translations": {
-        "de": {
-          "text": "Organisation bewertet von Charity Navigator, gefunden von den Agenten mit: 'site:charitynavigator.org Rating for food bank feeding'.",
-          "title": "Unterstützen Sie Feeding America im Kampf gegen den Hunger",
-          "source": "traduzione AI"
-        },
-        "en": {
-          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'site:charitynavigator.org Rating for food bank feeding'.",
-          "title": "Support Feeding America against hunger",
-          "source": "originale"
-        },
-        "es": {
-          "text": "Entidad evaluada por Charity Navigator, encontrada por los agentes con: 'site:charitynavigator.org Rating for food bank feeding'.",
-          "title": "Apoya a Feeding America contra el hambre",
-          "source": "traduzione AI"
-        },
-        "fr": {
-          "text": "Organisation évaluée par Charity Navigator, trouvée par les agents avec : 'site:charitynavigator.org Rating for food bank feeding'.",
-          "title": "Soutenir Feeding America contre la faim",
-          "source": "traduzione AI"
-        },
-        "hi": {
-          "text": "Charity Navigator द्वारा मूल्यांकित संस्था, एजेंटों द्वारा मिली: 'site:charitynavigator.org Rating for food bank feeding'।",
-          "title": "भूख के खिलाफ Feeding America का समर्थन करें",
-          "source": "traduzione AI"
-        },
-        "it": {
-          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'site:charitynavigator.org Rating for food bank feeding'.",
-          "title": "Sostieni Feeding America contro la fame",
-          "source": "traduzione AI"
-        },
-        "ja": {
-          "text": "Charity Navigator によって評価された団体で、エージェントが次の検索で見つけました: 'site:charitynavigator.org Rating for food bank feeding'.",
-          "title": "飢餓に対抗する Feeding America を支援する",
-          "source": "traduzione AI"
-        },
-        "pt": {
-          "text": "Entidade avaliada pela Charity Navigator, encontrada pelos agentes com: 'site:charitynavigator.org Rating for food bank feeding'.",
-          "title": "Apoie a Feeding America contra a fome",
-          "source": "traduzione AI"
-        },
-        "ru": {
-          "text": "Организация, оцененная Charity Navigator, найденная агентами с помощью: 'site:charitynavigator.org Rating for food bank feeding'.",
-          "title": "Поддержите Feeding America в борьбе с голодом",
-          "source": "traduzione AI"
-        },
-        "zh": {
-          "text": "该机构由 Charity Navigator 评估，代理人通过以下方式找到：'site:charitynavigator.org Rating for food bank feeding'。",
-          "title": "支持 Feeding America 对抗饥饿",
-          "source": "traduzione AI"
-        }
-      },
-      "tranches": [
-        {
-          "number": 1,
-          "goal": 2000.0,
-          "status": "aperta"
-        }
-      ],
-      "checks": [
-        {
-          "verifier": "regole",
-          "check_type": "ammissibilita",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Regole di ammissibilità (config/regole.yaml):\n✓ fonte ammessa: fonte 'valutatore'\n✓ ente registrato nel database: Feeding America\n✓ codice fiscale verificato (IRS): EIN 363673599\n✓ ente valutato dal valutatore: Charity Navigator\n✓ voto del valutatore: 96%, 4 stelle su 4 (minimo 4 stelle e 90%)\n✓ anni di bilanci ufficiali: 12 anni [2019, 2020, 2021, 2022, 2023] (minimo 3)\n✓ tema fame / nutrizione: categoria IRS K310 (richiesta ['K']); tema nel nome: True",
-          "source_url": "https://www.charitynavigator.org/ein/363673599"
-        },
-        {
-          "verifier": "regole",
-          "check_type": "ammissibilita",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "✓ valutatore indipendente tra le prove: 2 pagine di valutatori (https://www.charitynavigator.org/ein/363673599, https://charitywatch.org/charities/feeding-america); minimo 1",
-          "source_url": "https://www.charitynavigator.org/ein/363673599"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "registrazione",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Feeding America risulta regolarmente registrata negli Stati Uniti come ente 501(c)(3) con EIN 36-3673599 e data di esenzione fiscale IRS dal 01/01/1990, con sede a Chicago, IL.",
-          "source_url": "https://www.charitynavigator.org/ein/363673599"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "bilanci",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Sono disponibili bilanci e dichiarazioni fiscali pubbliche (IRS Form 990) per numerosi anni (dal 2012 al 2023), con entrate per l'anno fiscale 2023 superiori a 4,9 miliardi di dollari.",
-          "source_url": "https://www.charitynavigator.org/ein/363673599"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "valutazione_indipendente",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "L'ente ha ricevuto valutazioni eccellenti da due valutatori indipendenti: Charity Navigator (4 stelle su 4, punteggio 96%) e CharityWatch (rating A-).",
-          "source_url": "https://www.charitynavigator.org/ein/363673599"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "coerenza_importo",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "L'obiettivo di raccolta previsto di 5.000 USD è perfettamente proporzionato e coerente rispetto al volume d'affari e alla scala operativa dell'organizzazione.",
-          "source_url": "https://www.charitynavigator.org/ein/363673599"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "storico_progetti",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "L'ente vanta uno storico ampiamente documentato e pluridecennale nell'ambito della sicurezza alimentare e della risposta alla fame negli Stati Uniti.",
-          "source_url": "https://www.charitynavigator.org/ein/363673599"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "segnali_allarme",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun segnale d'allarme o notizia negativa rilevata a carico di Feeding America. Le notizie d'indagine e frode riportate nelle fonti E4 ed E6 si riferiscono a un'altra entità distinta ('Feeding Our Future').",
-          "source_url": "https://www.charitynavigator.org/ein/363673599"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "conflitti_interesse",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
-          "source_url": "config/conflitti.yaml"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "registrazione",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Feeding America è registrata come 501(c)(3) con EIN 363673599, sede a Chicago, confermata dal registro IRS su ProPublica.",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/363673599"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "bilanci",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Sono disponibili i Form 990 dal 2018 al 2023 con dati di entrate e spese, scaricabili dal sito ProPublica.",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/363673599"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "valutazione_indipendente",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Charity Navigator assegna a Feeding America 4 stelle (96%) e CharityWatch la valutazione A-; entrambi sono valutatori indipendenti.",
-          "source_url": "https://www.charitynavigator.org/ein/363673599"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "coerenza_importo",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "L'importo richiesto (5 000 USD) è estremamente basso rispetto al fatturato annuale di circa 4,9 miliardi USD (Form 990 2023).",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/363673599"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "storico_progetti",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "Feeding America opera dal 1990, con una rete nazionale di banche alimentari e programmi descritti su Charity Navigator, dimostrando una lunga storia di progetti documentati.",
-          "source_url": "https://www.charitynavigator.org/ein/363673599"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "segnali_allarme",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Le notizie di frode (E4, E6) riguardano l'organizzazione \"Feeding Our Future\", non Feeding America; nessun segnale negativo diretto è stato trovato.",
-          "source_url": "https://www.fbi.gov/news/stories/dozens-charged-in-250-million-covid-fraud-scheme-092122"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "conflitti_interesse",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
-          "source_url": "config/conflitti.yaml"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "registrazione",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "L'ente Feeding America è registrato come 501(c)(3) con EIN 363673599, sede a Chicago, IL. Il riconoscimento IRS risale al 1990.",
-          "source_url": "https://www.charitynavigator.org/ein/363673599"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "bilanci",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Sono disponibili i bilanci pubblici (Form 990) per gli anni dal 2012 al 2023, con dati dettagliati su entrate e spese.",
-          "source_url": "https://www.charitynavigator.org/ein/363673599"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "valutazione_indipendente",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Charity Navigator assegna 4 stelle (96%) e CharityWatch assegna il rating A- (Top-Rated Charity) con l'81% delle spese destinate ai programmi.",
-          "source_url": "https://www.charitynavigator.org/ein/363673599"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "coerenza_importo",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "L'obiettivo di raccolta di 5000 USD è trascurabile rispetto alle dimensioni dell'ente (entrate annuali di circa 4,9 miliardi di USD nel 2023), rendendo l'importo coerente e ragionevole.",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/363673599"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "storico_progetti",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "L'ente opera dal 1990 e ha una lunga storia documentata di attività, confermata dalla presenza di bilanci IRS per oltre un decennio e dalla sua missione consolidata di lotta alla fame.",
-          "source_url": "https://www.charitynavigator.org/ein/363673599"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "segnali_allarme",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun segnale d'allarme riguarda l'ente Feeding America. Le notizie negative (E4, E6) riguardano lo schema di frode 'Feeding Our Future', un'organizzazione distinta e non affiliata a Feeding America (EIN diverso, sede diversa). Le prove E1, E2 ed E3 confermano la trasparenza e la buona gestione di Feeding America.",
-          "source_url": "https://www.charitynavigator.org/ein/363673599"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "conflitti_interesse",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
-          "source_url": "config/conflitti.yaml"
-        }
-      ],
-      "sources": [
-        "https://charitywatch.org/charities/feeding-america",
-        "https://en.wikipedia.org/wiki/Feeding_Our_Future",
-        "https://projects.propublica.org/nonprofits/organizations/363673599",
-        "https://www.cbsnews.com/minnesota/news/man-78th-charged-feeding-our-future-fraud-scheme/",
-        "https://www.charitynavigator.org/ein/363673599",
-        "https://www.fbi.gov/news/stories/dozens-charged-in-250-million-covid-fraud-scheme-092122"
-      ],
-      "waiting_counter": false,
-      "profile": {
-        "de": {
-          "does": [
-            {
-              "text": "Lebensmittelverteilungen bieten kostenlose Lebensmittel und Lebensmittelprodukte für Einzelpersonen und Familien an und stellen genug Nahrung für 2 bis 3 Tage zur Verfügung.",
-              "source": "https://www.feedingamerica.org/our-work/hunger-relief-programs",
-              "by_org": true
-            },
-            {
-              "text": "Mobile Tafeln bringen kostenlose Lebensmittel und Lebensmittelprodukte direkt in Stadtteile, in denen Tafeln und Geschäfte schwer zu finden sind.",
-              "source": "https://www.feedingamerica.org/our-work/hunger-relief-programs",
-              "by_org": true
-            },
-            {
-              "text": "BackPack-Programme bieten Kindern kostenlose, leicht zuzubereiten Mahlzeiten für Wochenenden und Schulferien.",
-              "source": "https://www.feedingamerica.org/our-work/hunger-relief-programs",
-              "by_org": true
-            },
-            {
-              "text": "Kids Cafes bieten Kindern nach der Schule, an Wochenenden und im Sommer kostenlose Mahlzeiten an und bieten gleichzeitig Aktivitäten und Nachhilfe an.",
-              "source": "https://www.feedingamerica.org/our-work/hunger-relief-programs",
-              "by_org": true
-            }
-          ],
-          "mission": "Unsere Mission ist es, Veränderungen in Amerika voranzutreiben, indem wir für einen fairen Zugang zu nahrhaften Lebensmitteln für alle sorgen, in Zusammenarbeit mit Tafeln, politischen Entscheidungsträgern, Unterstützern und den Gemeinschaften, denen wir dienen.",
-          "does_not": [],
-          "strengths": []
-        },
-        "en": {
-          "does": [
-            {
-              "text": "Food distributions offer free food and groceries to individuals and families, providing enough food to last 2 to 3 days.",
-              "quote": "Food distributions offer free food and groceries to individuals and families. They provide enough food to last 2 to 3 days.",
-              "source": "https://www.feedingamerica.org/our-work/hunger-relief-programs",
-              "by_org": true
-            },
-            {
-              "text": "Mobile pantries bring free food and groceries directly to neighborhoods where food pantries and stores are hard to find.",
-              "quote": "Mobile pantries come to your community. They bring free food and groceries right to your neighborhood. This is a great option if you live where food pantries and stores are hard to find.",
-              "source": "https://www.feedingamerica.org/our-work/hunger-relief-programs",
-              "by_org": true
-            },
-            {
-              "text": "BackPack programs provide children with free, easy-to-make meals for weekends and school breaks.",
-              "quote": "BackPack programs give children free, easy-to-make meals for the weekend and school breaks.",
-              "source": "https://www.feedingamerica.org/our-work/hunger-relief-programs",
-              "by_org": true
-            },
-            {
-              "text": "Kids Cafes offer free meals to children after school, on weekends, and during the summer, while also providing activities and tutoring.",
-              "quote": "Kids Cafes offer free meals to kids after school, on the weekends, and during the summer. They also have fun activities and tutoring.",
-              "source": "https://www.feedingamerica.org/our-work/hunger-relief-programs",
-              "by_org": true
-            }
-          ],
-          "mission": "Our mission is to advance change in America by ensuring fair access to nutritious food for all, in partnership with food banks, policymakers, supporters and the communities we serve.",
-          "does_not": [],
-          "strengths": []
-        },
-        "es": {
-          "does": [
-            {
-              "text": "Las distribuciones de alimentos ofrecen comida y comestibles gratuitos a individuos y familias, proporcionando suficiente alimento para durar de 2 a 3 días.",
-              "source": "https://www.feedingamerica.org/our-work/hunger-relief-programs",
-              "by_org": true
-            },
-            {
-              "text": "Los despensas móviles llevan comida y comestibles gratuitos directamente a los vecindarios donde es difícil encontrar despensas de alimentos y tiendas.",
-              "source": "https://www.feedingamerica.org/our-work/hunger-relief-programs",
-              "by_org": true
-            },
-            {
-              "text": "Los programas BackPack brindan a los niños comidas gratuitas y fáciles de preparar para los fines de semana y los recesos escolares.",
-              "source": "https://www.feedingamerica.org/our-work/hunger-relief-programs",
-              "by_org": true
-            },
-            {
-              "text": "Los Kids Cafes ofrecen comidas gratuitas a los niños después de la escuela, los fines de semana y durante el verano, además de proporcionar actividades y tutorías.",
-              "source": "https://www.feedingamerica.org/our-work/hunger-relief-programs",
-              "by_org": true
-            }
-          ],
-          "mission": "Nuestra misión es impulsar el cambio en Estados Unidos asegurando un acceso justo a alimentos nutritivos para todos, en asociación con bancos de alimentos, legisladores, simpatizantes y las comunidades a las que servimos.",
-          "does_not": [],
-          "strengths": []
-        },
-        "fr": {
-          "does": [
-            {
-              "text": "Les distributions alimentaires offrent de la nourriture et des produits d'épicerie gratuits aux particuliers et aux familles, fournissant suffisamment de nourriture pour durer 2 à 3 jours.",
-              "source": "https://www.feedingamerica.org/our-work/hunger-relief-programs",
-              "by_org": true
-            },
-            {
-              "text": "Les épiceries mobiles apportent de la nourriture et des produits d'épicerie gratuits directement aux quartiers où les banques alimentaires et les magasins sont difficiles à trouver.",
-              "source": "https://www.feedingamerica.org/our-work/hunger-relief-programs",
-              "by_org": true
-            },
-            {
-              "text": "Les programmes BackPack offrent aux enfants des repas gratuits et faciles à préparer pour les week-ends et les vacances scolaires.",
-              "source": "https://www.feedingamerica.org/our-work/hunger-relief-programs",
-              "by_org": true
-            },
-            {
-              "text": "Les Kids Cafes offrent des repas gratuits aux enfants après l'école, le week-end et pendant l'été, tout en proposant des activités et du tutorat.",
-              "source": "https://www.feedingamerica.org/our-work/hunger-relief-programs",
-              "by_org": true
-            }
-          ],
-          "mission": "Notre mission est de promouvoir le changement en Amérique en garantissant un accès équitable à une alimentation nutritive pour tous, en partenariat avec les banques alimentaires, les décideurs, les soutiens et les communautés que nous servons.",
-          "does_not": [],
-          "strengths": []
-        },
-        "hi": {
-          "does": [
-            {
-              "text": "भोजन वितरण व्यक्तियों और परिवारों को मुफ्त भोजन और किराने का सामान प्रदान करते हैं, जो 2 से 3 दिनों तक चलने के लिए पर्याप्त भोजन प्रदान करता है।",
-              "source": "https://www.feedingamerica.org/our-work/hunger-relief-programs",
-              "by_org": true
-            },
-            {
-              "text": "मोबाइल पैंट्रीज़ मुफ्त भोजन और किराने का सामान सीधे उन पड़ोसों तक लाते हैं जहाँ खाद्य पैंट्रीज़ और दुकानें ढूँढ़ना कठिन होता है।",
-              "source": "https://www.feedingamerica.org/our-work/hunger-relief-programs",
-              "by_org": true
-            },
-            {
-              "text": "बैकपैक कार्यक्रम बच्चों को सप्ताहांत और स्कूल की छुट्टियों के लिए मुफ्त, आसानी से तैयार होने वाले भोजन प्रदान करते हैं।",
-              "source": "https://www.feedingamerica.org/our-work/hunger-relief-programs",
-              "by_org": true
-            },
-            {
-              "text": "किड्स कैफ़े स्कूल के बाद, सप्ताहांत और गर्मियों के दौरान बच्चों को मुफ्त भोजन प्रदान करते हैं, साथ ही गतिविधियाँ और ट्यूशन भी देते हैं।",
-              "source": "https://www.feedingamerica.org/our-work/hunger-relief-programs",
-              "by_org": true
-            }
-          ],
-          "mission": "हमारा मिशन अमेरिका में परिवर्तन को आगे बढ़ाना है, सभी के लिए पोषक भोजन तक निष्पक्ष पहुंच सुनिश्चित करके, खाद्य बैंकों, नीति निर्माताओं, समर्थकों और उन समुदायों के साथ साझेदारी में जिन्हें हम सेवा देते हैं।",
-          "does_not": [],
-          "strengths": []
-        },
-        "it": {
-          "does": [
-            {
-              "text": "Le distribuzioni di cibo offrono cibo e generi alimentari gratuiti a individui e famiglie, fornendo una quantità sufficiente per durare 2‑3 giorni.",
-              "source": "https://www.feedingamerica.org/our-work/hunger-relief-programs",
-              "by_org": true
-            },
-            {
-              "text": "Le dispense mobili portano cibo e generi alimentari gratuiti direttamente nei quartieri dove le dispense alimentari e i negozi sono difficili da trovare.",
-              "source": "https://www.feedingamerica.org/our-work/hunger-relief-programs",
-              "by_org": true
-            },
-            {
-              "text": "I programmi BackPack forniscono ai bambini pasti gratuiti e facili da preparare per i fine settimana e le vacanze scolastiche.",
-              "source": "https://www.feedingamerica.org/our-work/hunger-relief-programs",
-              "by_org": true
-            },
-            {
-              "text": "I Kids Cafes offrono pasti gratuiti ai bambini dopo la scuola, nei fine settimana e durante l’estate, fornendo anche attività e tutoraggio.",
-              "source": "https://www.feedingamerica.org/our-work/hunger-relief-programs",
-              "by_org": true
-            }
-          ],
-          "mission": "La nostra missione è promuovere il cambiamento in America garantendo a tutti un accesso equo a cibo nutriente, in collaborazione con le banche alimentari, i responsabili delle politiche, i sostenitori e le comunità che serviamo.",
-          "does_not": [],
-          "strengths": []
-        },
-        "ja": {
-          "does": [
-            {
-              "text": "フード配布は個人や家族に無料の食料や食料品を提供し、2 to 3 days分の食料を確保します。",
-              "source": "https://www.feedingamerica.org/our-work/hunger-relief-programs",
-              "by_org": true
-            },
-            {
-              "text": "モバイルパントリーは、フードパントリーや店舗が見つけにくい地域へ直接無料の食料や食料品を届けます。",
-              "source": "https://www.feedingamerica.org/our-work/hunger-relief-programs",
-              "by_org": true
-            },
-            {
-              "text": "バックパックプログラムは、子どもたちに週末や学校の休暇期間のための無料で簡単に作れる食事を提供します。",
-              "source": "https://www.feedingamerica.org/our-work/hunger-relief-programs",
-              "by_org": true
-            },
-            {
-              "text": "キッズカフェは、放課後、週末、夏季に子どもたちに無料の食事を提供し、同時にアクティビティやチュータリングも行います。",
-              "source": "https://www.feedingamerica.org/our-work/hunger-relief-programs",
-              "by_org": true
-            }
-          ],
-          "mission": "私たちの使命は、フードバンク、政策立案者、支援者、そして私たちが支援するコミュニティと協力し、すべての人が栄養価の高い食料に公平にアクセスできるようにすることで、アメリカに変革をもたらすことです。",
-          "does_not": [],
-          "strengths": []
-        },
-        "pt": {
-          "does": [
-            {
-              "text": "Distribuições de alimentos oferecem comida e mantimentos gratuitos a indivíduos e famílias, proporcionando alimentos suficientes para durar de 2 a 3 dias.",
-              "source": "https://www.feedingamerica.org/our-work/hunger-relief-programs",
-              "by_org": true
-            },
-            {
-              "text": "Despensas móveis levam comida e mantimentos gratuitos diretamente aos bairros onde despensas de alimentos e lojas são difíceis de encontrar.",
-              "source": "https://www.feedingamerica.org/our-work/hunger-relief-programs",
-              "by_org": true
-            },
-            {
-              "text": "Programas BackPack fornecem às crianças refeições gratuitas e fáceis de preparar para fins de semana e férias escolares.",
-              "source": "https://www.feedingamerica.org/our-work/hunger-relief-programs",
-              "by_org": true
-            },
-            {
-              "text": "Kids Cafes oferecem refeições gratuitas às crianças após a escola, nos fins de semana e durante o verão, além de proporcionar atividades e tutoria.",
-              "source": "https://www.feedingamerica.org/our-work/hunger-relief-programs",
-              "by_org": true
-            }
-          ],
-          "mission": "Nossa missão é promover mudanças na América garantindo acesso justo a alimentos nutritivos para todos, em parceria com bancos de alimentos, formuladores de políticas, apoiadores e as comunidades que atendemos.",
-          "does_not": [],
-          "strengths": []
-        },
-        "ru": {
-          "does": [
-            {
-              "text": "Food distributions предлагают бесплатную еду и продукты отдельным лицам и семьям, обеспечивая достаточное количество пищи на 2‑3 дня.",
-              "source": "https://www.feedingamerica.org/our-work/hunger-relief-programs",
-              "by_org": true
-            },
-            {
-              "text": "Mobile pantries доставляют бесплатную еду и продукты непосредственно в районы, где трудно найти продовольственные пункты и магазины.",
-              "source": "https://www.feedingamerica.org/our-work/hunger-relief-programs",
-              "by_org": true
-            },
-            {
-              "text": "BackPack programs предоставляют детям бесплатные, легко готовящиеся блюда на выходные и школьные каникулы.",
-              "source": "https://www.feedingamerica.org/our-work/hunger-relief-programs",
-              "by_org": true
-            },
-            {
-              "text": "Kids Cafes предлагают бесплатные обеды детям после школы, в выходные и летом, одновременно предоставляя занятия и репетиторство.",
-              "source": "https://www.feedingamerica.org/our-work/hunger-relief-programs",
-              "by_org": true
-            }
-          ],
-          "mission": "Наша миссия — способствовать изменениям в Америке, обеспечивая справедливый доступ к питательной еде для всех, в партнерстве с продовольственными банками, законодателями, сторонниками и сообществами, которым мы служим.",
-          "does_not": [],
-          "strengths": []
-        },
-        "zh": {
-          "does": [
-            {
-              "text": "食品分发向个人和家庭提供免费食品和杂货，提供足够维持 2 到 3 天的食物。",
-              "source": "https://www.feedingamerica.org/our-work/hunger-relief-programs",
-              "by_org": true
-            },
-            {
-              "text": "Mobile pantries 将免费食品和杂货直接送到食品柜台和商店难以找到的社区。",
-              "source": "https://www.feedingamerica.org/our-work/hunger-relief-programs",
-              "by_org": true
-            },
-            {
-              "text": "BackPack programs 为儿童提供免费、易于制作的周末和学校假期餐点。",
-              "source": "https://www.feedingamerica.org/our-work/hunger-relief-programs",
-              "by_org": true
-            },
-            {
-              "text": "Kids Cafes 为儿童提供课后、周末和夏季的免费餐点，同时提供活动和辅导。",
-              "source": "https://www.feedingamerica.org/our-work/hunger-relief-programs",
-              "by_org": true
-            }
-          ],
-          "mission": "我们的使命是通过与食品银行、政策制定者、支持者以及我们服务的社区合作，确保所有人公平获取营养食品，从而在America推动变革。",
-          "does_not": [],
-          "strengths": []
-        }
-      },
-      "safety": {
-        "evaluator": "Charity Navigator",
-        "stars": 4,
-        "score": 96,
-        "rating_url": "https://www.charitynavigator.org/ein/363673599",
-        "rating_checked": "2026-11-07",
-        "since": "1990",
-        "registry_url": "https://projects.propublica.org/nonprofits/organizations/363673599",
-        "filings": 12,
-        "first_year": 2012,
-        "last_year": 2023,
-        "checks_passed": 18,
-        "verifiers": 3,
-        "unanimous": true,
-        "site": "feedingamerica.org",
-        "official_host": "feedingamerica.org",
-        "profile_claimed": true
-      },
-      "platform": "every.org",
-      "counter": {
-        "raised": "0",
-        "read_at": "2026-11-11T21:04:17.733208+00:00",
-        "currency": "USD",
-        "platform": "every.org",
-        "supporters": 0,
-        "raised_cents": 0,
-        "matches_cents": 0
-      },
-      "fundraiser_open": true,
-      "progress_pct": 0,
-      "donate": {
-        "recipient": "Feeding America",
-        "url": "https://www.every.org/feedingamerica/f/ai-against-hunger-for",
         "money_goes_to": "Every.org, a US 501(c)(3) nonprofit, which grants it to the organization (unrestricted); this project never receives or holds money",
         "counted_here_only_if": "shown in the public total of the fundraising page",
         "status": "open",

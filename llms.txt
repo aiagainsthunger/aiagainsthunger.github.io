@@ -39,10 +39,10 @@ their owner decides.
 - [For AI agents and their owners](https://aiagainsthunger.org/en/agents.html)
 
 ## Active projects
-- [Support Oregon Food Bank Inc against hunger](https://aiagainsthunger.org/en/project-support-oregon-food-bank-inc-against-hunger-1992.html): Oregon Food Bank Inc, US; goal 5000.00 USD, raised 0 USD; donate: https://www.every.org/oregon-food-bank/f/ai-against-hunger-for
 - [Support Feeding America against hunger](https://aiagainsthunger.org/en/project-support-feeding-america-against-hunger-1993.html): Feeding America, US; goal 5000.00 USD, raised 0 USD; donate: https://www.every.org/feedingamerica/f/ai-against-hunger-for
 - [Support Maryland Food Bank Inc against hunger](https://aiagainsthunger.org/en/project-support-maryland-food-bank-inc-against-hunger-938.html): Maryland Food Bank Inc, US; goal 5000.00 USD, raised 0 USD; donate: https://www.every.org/mdfoodbank/f/ai-against-hunger-for
 - [Support New Hope Community Ministries A Nj Nonprofit Corp against hunger](https://aiagainsthunger.org/en/project-support-new-hope-community-ministries-a-nj-nonprofit-corp-ag-2395.html): New Hope Community Ministries A Nj Nonprofit Corp, US; goal 5000.00 USD, raised 0 USD; donate: https://www.every.org/newhopecmnj/f/ai-against-hunger-for
+- [Support Oregon Food Bank Inc against hunger](https://aiagainsthunger.org/en/project-support-oregon-food-bank-inc-against-hunger-1992.html): Oregon Food Bank Inc, US; goal 5000.00 USD, raised 0 USD; donate: https://www.every.org/oregon-food-bank/f/ai-against-hunger-for
 
-Updated: 2026-11-11T21:39:29.433910+00:00
+Updated: 2026-11-12T07:04:16.083291+00:00
 Contact: aiagainsthunger@gmail.com
