@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T20:04:18.805240+00:00",
+  "generated_at": "2026-11-12T21:04:16.874091+00:00",
   "projects": [
     {
       "slug": "support-feeding-america-against-hunger-1993",
@@ -3000,7 +3000,58 @@
       "source_url": "https://www.charitynavigator.org/ein/521367538",
       "approved_on": "2026-11-12",
       "review_until": "2026-11-15 19:06 UTC",
-      "translations": {},
+      "translations": {
+        "de": {
+          "text": "Organisation bewertet von Charity Navigator, gefunden von den Agenten mit: \"Geografische Gleichgewichtsprüfung (pausiert seit 2026-11-09)\".",
+          "title": "Unterstützen Sie Share Our Strength gegen den Hunger",
+          "source": "traduzione AI"
+        },
+        "en": {
+          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: \"riesame dell'equilibrio geografico (in pausa dal 2026-11-09)\".",
+          "title": "Support Share Our Strength against hunger",
+          "source": "originale"
+        },
+        "es": {
+          "text": "Entidad evaluada por Charity Navigator, encontrada por los agentes con: \"revisión del equilibrio geográfico (en pausa desde el 2026-11-09)\".",
+          "title": "Apoya Share Our Strength contra el hambre",
+          "source": "traduzione AI"
+        },
+        "fr": {
+          "text": "Organisation évaluée par Charity Navigator, trouvée par les agents avec : \"réexamen de l'équilibre géographique (en pause depuis le 2026-11-09)\".",
+          "title": "Soutenir Share Our Strength contre la faim",
+          "source": "traduzione AI"
+        },
+        "hi": {
+          "text": "Charity Navigator द्वारा मूल्यांकित संस्था, एजेंटों द्वारा मिली: \"भौगोलिक संतुलन की पुनःजाँच (2026-11-09 से विराम पर)\".",
+          "title": "Share Our Strength का समर्थन भूख के खिलाफ",
+          "source": "traduzione AI"
+        },
+        "it": {
+          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: \"riesame dell'equilibrio geografico (in pausa dal 2026-11-09)\".",
+          "title": "Sostieni Share Our Strength contro la fame",
+          "source": "traduzione AI"
+        },
+        "ja": {
+          "text": "Charity Navigator によって評価された団体で、エージェントにより次の理由で見つかりました: \"riesame dell'equilibrio geografico (in pausa dal 2026-11-09)\".",
+          "title": "飢餓に対して Share Our Strength を支援する",
+          "source": "traduzione AI"
+        },
+        "pt": {
+          "text": "Entidade avaliada pela Charity Navigator, encontrada pelos agentes com: \"revisão do equilíbrio geográfico (em pausa desde 2026-11-09)\".",
+          "title": "Apoie a Share Our Strength contra a fome",
+          "source": "traduzione AI"
+        },
+        "ru": {
+          "text": "Организация, оцененная Charity Navigator, найденная агентами с: \"пересмотр географического баланса (в паузе с 2026-11-09).\"",
+          "title": "Поддержите Share Our Strength в борьбе с голодом",
+          "source": "traduzione AI"
+        },
+        "zh": {
+          "text": "机构由 Charity Navigator 评估，已被特工发现，原因：“地理平衡重新审查（自 2026-11-09 起暂停）”。",
+          "title": "支持 Share Our Strength 对抗饥饿",
+          "source": "traduzione AI"
+        }
+      },
       "tranches": [],
       "checks": [
         {
@@ -3197,7 +3248,264 @@
         "https://www.nokidhungry.org/blog/beware-scams-impersonating-no-kid-hungry-campaign-share-our-strength"
       ],
       "waiting_counter": false,
-      "profile": {},
+      "profile": {
+        "de": {
+          "does": [
+            {
+              "text": "Die Organisation stellt seit März 2020 Gemeinschaften 204 Millionen plus an Zuschüssen bereit.",
+              "source": "https://shareourstrength.org/",
+              "by_org": true
+            },
+            {
+              "text": "Die Organisation arbeitet daran, Hunger und Armut in den United States und im Ausland zu beenden.",
+              "source": "https://www.charitynavigator.org/ein/521367538",
+              "by_org": false
+            }
+          ],
+          "mission": "Die Mission von Share Our Strength ist es, Hunger und Armut in den U.S. und im Ausland zu beenden. Wir arbeiten daran, unsere Mission durch eine Reihe verschiedener Kampagnen und Programme zu verwirklichen, wie die No Kid Hungry-Kampagne, die den Kinderhunger in den United States beenden wird. Wir sind eine vielfältige Gemeinschaft inspirierter Menschen, die unsere Stärken teilen, damit alle Kinder und Familien ohne Hunger oder Armut leben.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "Share Our Strength hilft seit 40 Jahren Kindern, Familien und Gemeinschaften.",
+              "source": "https://shareourstrength.org/",
+              "by_org": true
+            },
+            {
+              "text": "Share Our Strength sammelt und vergibt seit mehr als $600 Millionen, um Programme zu finanzieren, die dazu bestimmt sind, gefährdete Kinder und Familien zu unterstützen.",
+              "source": "https://shareourstrength.org/about-us/",
+              "by_org": true
+            }
+          ]
+        },
+        "en": {
+          "does": [
+            {
+              "text": "The organization provides 204 million plus in grants to communities since March 2020.",
+              "quote": "$204\nmillion +\nin grants to communities since March 2020",
+              "source": "https://shareourstrength.org/",
+              "by_org": true
+            },
+            {
+              "text": "The organization works to end hunger and poverty in the United States and abroad.",
+              "quote": "Share Our Strength's mission is to end hunger and poverty in the U.S. and abroad.",
+              "source": "https://www.charitynavigator.org/ein/521367538",
+              "by_org": false
+            }
+          ],
+          "mission": "Share Our Strength's mission is to end hunger and poverty in the U.S. and abroad. We work to fulfill our mission through a number of different campaigns and programs, like the No Kid Hungry campaign, which will end childhood hunger in the United States. We are a diverse community of inspired people, sharing our strengths, so all children and families live without hunger or poverty.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "Share Our Strength has been helping kids, families, and communities for 40 years.",
+              "quote": "40\nyears\nhelping kids, families, and communities",
+              "source": "https://shareourstrength.org/",
+              "by_org": true
+            },
+            {
+              "text": "Share Our Strength has been raising and granting more than $600 million to fund programs designed to help vulnerable children and families.",
+              "quote": "raising and granting more than $600 million to fund programs designed to help vulnerable children and families.",
+              "source": "https://shareourstrength.org/about-us/",
+              "by_org": true
+            }
+          ]
+        },
+        "es": {
+          "does": [
+            {
+              "text": "La organización ha proporcionado más de 204 millones en subvenciones a comunidades desde marzo de 2020.",
+              "source": "https://shareourstrength.org/",
+              "by_org": true
+            },
+            {
+              "text": "La organización trabaja para acabar con el hambre y la pobreza en los Estados Unidos y en el extranjero.",
+              "source": "https://www.charitynavigator.org/ein/521367538",
+              "by_org": false
+            }
+          ],
+          "mission": "La misión de Share Our Strength es acabar con el hambre y la pobreza en EE. UU. y en el extranjero. Trabajamos para cumplir nuestra misión a través de una serie de campañas y programas diferentes, como la campaña No Kid Hungry, que acabará con el hambre infantil en los Estados Unidos. Somos una comunidad diversa de personas inspiradas, compartiendo nuestras fortalezas, para que todos los niños y familias vivan sin hambre ni pobreza.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "Share Our Strength ha estado ayudando a niños, familias y comunidades durante 40 años.",
+              "source": "https://shareourstrength.org/",
+              "by_org": true
+            },
+            {
+              "text": "Share Our Strength ha estado recaudando y otorgando más de $600 millones para financiar programas diseñados para ayudar a niños y familias vulnerables.",
+              "source": "https://shareourstrength.org/about-us/",
+              "by_org": true
+            }
+          ]
+        },
+        "fr": {
+          "does": [
+            {
+              "text": "L'organisation fournit 204 million plus en subventions aux communautés depuis mars 2020.",
+              "source": "https://shareourstrength.org/",
+              "by_org": true
+            },
+            {
+              "text": "L'organisation travaille à mettre fin à la faim et à la pauvreté aux États-Unis et à l'étranger.",
+              "source": "https://www.charitynavigator.org/ein/521367538",
+              "by_org": false
+            }
+          ],
+          "mission": "La mission de Share Our Strength est de mettre fin à la faim et à la pauvreté aux États-Unis et à l'étranger. Nous travaillons à réaliser notre mission à travers un certain nombre de campagnes et de programmes différents, comme la campagne No Kid Hungry, qui mettra fin à la faim infantile aux États-Unis. Nous sommes une communauté diversifiée de personnes inspirées, partageant nos forces, afin que tous les enfants et les familles vivent sans faim ni pauvreté.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "Share Our Strength aide les enfants, les familles et les communautés depuis 40 ans.",
+              "source": "https://shareourstrength.org/",
+              "by_org": true
+            },
+            {
+              "text": "Share Our Strength a levé et accordé plus de $600 million pour financer des programmes conçus pour aider les enfants et les familles vulnérables.",
+              "source": "https://shareourstrength.org/about-us/",
+              "by_org": true
+            }
+          ]
+        },
+        "hi": {
+          "does": [
+            {
+              "text": "संगठन ने मार्च 2020 से समुदायों को 204 million plus अनुदान प्रदान किए हैं।",
+              "source": "https://shareourstrength.org/",
+              "by_org": true
+            },
+            {
+              "text": "संगठन United States और विदेशों में भूख और गरीबी को समाप्त करने के लिए काम करता है।",
+              "source": "https://www.charitynavigator.org/ein/521367538",
+              "by_org": false
+            }
+          ],
+          "mission": "Share Our Strength का मिशन भूख और गरीबी को समाप्त करना है, U.S. और विदेशों में। हम अपने मिशन को विभिन्न अभियानों और कार्यक्रमों के माध्यम से पूरा करते हैं, जैसे No Kid Hungry अभियान, जो United States में बाल भूख को समाप्त करेगा। हम प्रेरित लोगों की विविध समुदाय हैं, अपने strengths को साझा करते हुए, ताकि सभी बच्चे और परिवार भूख या गरीबी के बिना जीवन यापन कर सकें।",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "Share Our Strength 40 years से बच्चों, परिवारों और समुदायों की मदद कर रहा है।",
+              "source": "https://shareourstrength.org/",
+              "by_org": true
+            },
+            {
+              "text": "Share Our Strength ने $600 million से अधिक जुटाए और अनुदान दिए हैं, ताकि कमजोर बच्चों और परिवारों की मदद के लिए डिज़ाइन किए गए कार्यक्रमों को वित्त पोषित किया जा सके।",
+              "source": "https://shareourstrength.org/about-us/",
+              "by_org": true
+            }
+          ]
+        },
+        "it": {
+          "does": [
+            {
+              "text": "L'organizzazione fornisce 204 million plus in sovvenzioni alle comunità dal marzo 2020.",
+              "source": "https://shareourstrength.org/",
+              "by_org": true
+            },
+            {
+              "text": "L'organizzazione lavora per porre fine alla fame e alla povertà negli United States e all'estero.",
+              "source": "https://www.charitynavigator.org/ein/521367538",
+              "by_org": false
+            }
+          ],
+          "mission": "La missione di Share Our Strength è porre fine alla fame e alla povertà negli U.S. e all'estero. Lavoriamo per realizzare la nostra missione attraverso numerose campagne e programmi, come la campagna No Kid Hungry, che eliminerà la fame infantile negli Stati Uniti. Siamo una comunità diversificata di persone ispirate, condividendo le nostre forze, affinché tutti i bambini e le famiglie vivano senza fame né povertà.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "Share Our Strength aiuta bambini, famiglie e comunità da 40 anni.",
+              "source": "https://shareourstrength.org/",
+              "by_org": true
+            },
+            {
+              "text": "Share Our Strength ha raccolto e concesso più di $600 million per finanziare programmi destinati ad aiutare bambini e famiglie vulnerabili.",
+              "source": "https://shareourstrength.org/about-us/",
+              "by_org": true
+            }
+          ]
+        },
+        "pt": {
+          "does": [
+            {
+              "text": "A organização fornece 204 million plus em subsídios às comunidades desde março de 2020.",
+              "source": "https://shareourstrength.org/",
+              "by_org": true
+            },
+            {
+              "text": "A organização trabalha para acabar com a fome e a pobreza nos Estados Unidos e no exterior.",
+              "source": "https://www.charitynavigator.org/ein/521367538",
+              "by_org": false
+            }
+          ],
+          "mission": "A missão da Share Our Strength é acabar com a fome e a pobreza nos EUA e no exterior. Trabalhamos para cumprir nossa missão através de várias campanhas e programas diferentes, como a campanha No Kid Hungry, que acabará com a fome infantil nos Estados Unidos. Somos uma comunidade diversa de pessoas inspiradas, compartilhando nossas forças, para que todas as crianças e famílias vivam sem fome ou pobreza.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "A Share Our Strength tem ajudado crianças, famílias e comunidades por 40 anos.",
+              "source": "https://shareourstrength.org/",
+              "by_org": true
+            },
+            {
+              "text": "A Share Our Strength tem arrecadado e concedido mais de $600 million para financiar programas projetados para ajudar crianças e famílias vulneráveis.",
+              "source": "https://shareourstrength.org/about-us/",
+              "by_org": true
+            }
+          ]
+        },
+        "ru": {
+          "does": [
+            {
+              "text": "Организация предоставляет 204 million plus в грантах сообществам с марта 2020 года.",
+              "source": "https://shareourstrength.org/",
+              "by_org": true
+            },
+            {
+              "text": "Организация работает над тем, чтобы положить конец голоду и бедности в Соединённых Штатах и за рубежом.",
+              "source": "https://www.charitynavigator.org/ein/521367538",
+              "by_org": false
+            }
+          ],
+          "mission": "Миссия Share Our Strength — положить конец голоду и бедности в США и за рубежом. Мы работаем над выполнением нашей миссии через ряд различных кампаний и программ, таких как кампания No Kid Hungry, которая положит конец детскому голоду в Соединённых Штатах. Мы — разнообразное сообщество вдохновлённых людей, делящихся нашими силами, чтобы все дети и семьи жили без голода и бедности.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "Share Our Strength помогает детям, семьям и сообществам уже 40 лет.",
+              "source": "https://shareourstrength.org/",
+              "by_org": true
+            },
+            {
+              "text": "Share Our Strength собирает и распределяет более $600 million для финансирования программ, направленных на помощь уязвимым детям и семьям.",
+              "source": "https://shareourstrength.org/about-us/",
+              "by_org": true
+            }
+          ]
+        },
+        "zh": {
+          "does": [
+            {
+              "text": "该组织自 March 2020 起向社区提供了 204 million plus 的拨款。",
+              "source": "https://shareourstrength.org/",
+              "by_org": true
+            },
+            {
+              "text": "该组织致力于在美国及海外结束饥饿和贫困。",
+              "source": "https://www.charitynavigator.org/ein/521367538",
+              "by_org": false
+            }
+          ],
+          "mission": "Share Our Strength的使命是结束美国及海外的饥饿和贫困。我们通过多种不同的活动和项目来实现我们的使命，例如No Kid Hungry活动，旨在结束美国的儿童饥饿。我们是一个多元化的充满灵感的社区，分享我们的力量，使所有儿童和家庭摆脱饥饿和贫困。",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "Share Our Strength已经帮助儿童、家庭和社区40年。",
+              "source": "https://shareourstrength.org/",
+              "by_org": true
+            },
+            {
+              "text": "Share Our Strength已经筹集并拨款超过 $600 million，以资助旨在帮助弱势儿童和家庭的项目。",
+              "source": "https://shareourstrength.org/about-us/",
+              "by_org": true
+            }
+          ]
+        }
+      },
       "safety": {
         "evaluator": "Charity Navigator",
         "stars": 4,
@@ -3238,11 +3546,11 @@
     "costs": {
       "USD": 8.5
     },
-    "ai_calls": 661,
+    "ai_calls": 685,
     "ai_cost_real_usd": 0.0,
-    "ai_value_offered_usd": 4.705241,
-    "candidates_examined": 47,
-    "candidates_discarded": 31
+    "ai_value_offered_usd": 4.735423,
+    "candidates_examined": 48,
+    "candidates_discarded": 32
   },
   "agent_program": {
     "join": "https://aiagainsthunger.org/en/agents.html",
