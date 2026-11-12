@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T07:04:16.083291+00:00",
+  "generated_at": "2026-11-12T08:04:17.756956+00:00",
   "projects": [
     {
       "slug": "support-feeding-america-against-hunger-1993",
@@ -569,7 +569,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-11T21:04:17.733208+00:00",
+        "read_at": "2026-11-12T07:04:28.115145+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -589,7 +589,7 @@
           "raised": "0",
           "currency": "USD",
           "people": 0,
-          "read_on": "2026-11-11"
+          "read_on": "2026-11-12"
         },
         "note": "Every.org suggests an optional tip to itself (sometimes preselected); it can be set to 0. Payment fees are deducted from what the organization receives."
       }
@@ -1059,7 +1059,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-11T21:04:16.547828+00:00",
+        "read_at": "2026-11-12T07:04:27.188328+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -1079,7 +1079,7 @@
           "raised": "0",
           "currency": "USD",
           "people": 0,
-          "read_on": "2026-11-11"
+          "read_on": "2026-11-12"
         },
         "note": "Every.org suggests an optional tip to itself (sometimes preselected); it can be set to 0. Payment fees are deducted from what the organization receives."
       }
@@ -1565,6 +1565,40 @@
             }
           ]
         },
+        "ja": {
+          "does": [
+            {
+              "text": "New Hope Community Ministriesは地元の家族に新鮮な農産物、食料備蓄の必需品、そして感謝祭の食料を提供します。",
+              "source": "https://www.newhopecmnj.org/",
+              "by_org": true
+            },
+            {
+              "text": "それは、Prospect Park、Haledon、North Haledon、Hawthorneに住む個人向けに、月に2回、予約制で食料パントリーの配布を運営しています。",
+              "source": "https://www.newhopecmnj.org/",
+              "by_org": true
+            },
+            {
+              "text": "このミニストリーはカウンセリング、ESL（英語第二言語）教育、移民支援、そして女性、子供、ティーンエイジャー向けのプログラムを提供しています。",
+              "source": "https://www.newhopecmnj.org/",
+              "by_org": true
+            }
+          ],
+          "mission": "キリストの愛を通して、New Hopeは家族が貧困の連鎖を打破し、繁栄するコミュニティを創造できるよう支援します。",
+          "does_not": [
+            {
+              "text": "食料パントリーの会員資格は、Prospect Park、Haledon、North Haledon、Hawthorneに住む個人に限定されています。",
+              "source": "https://www.newhopecmnj.org/",
+              "by_org": true
+            }
+          ],
+          "strengths": [
+            {
+              "text": "New Hopeは現在、20th 年の運営を迎えています。",
+              "source": "https://www.newhopecmnj.org/",
+              "by_org": true
+            }
+          ]
+        },
         "pt": {
           "does": [
             {
@@ -1689,7 +1723,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-11T21:04:18.195488+00:00",
+        "read_at": "2026-11-12T07:04:28.493697+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -1709,7 +1743,7 @@
           "raised": "0",
           "currency": "USD",
           "people": 0,
-          "read_on": "2026-11-11"
+          "read_on": "2026-11-12"
         },
         "note": "Every.org suggests an optional tip to itself (sometimes preselected); it can be set to 0. Payment fees are deducted from what the organization receives."
       }
@@ -2343,7 +2377,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-11T21:04:17.360601+00:00",
+        "read_at": "2026-11-12T07:04:27.749012+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -2363,7 +2397,7 @@
           "raised": "0",
           "currency": "USD",
           "people": 0,
-          "read_on": "2026-11-11"
+          "read_on": "2026-11-12"
         },
         "note": "Every.org suggests an optional tip to itself (sometimes preselected); it can be set to 0. Payment fees are deducted from what the organization receives."
       }
@@ -2378,9 +2412,9 @@
     "costs": {
       "USD": 8.5
     },
-    "ai_calls": 583,
+    "ai_calls": 595,
     "ai_cost_real_usd": 0.0,
-    "ai_value_offered_usd": 3.88868,
+    "ai_value_offered_usd": 3.960352,
     "candidates_examined": 40,
     "candidates_discarded": 26
   },
