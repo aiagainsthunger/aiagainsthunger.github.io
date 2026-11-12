@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T09:04:18.240712+00:00",
+  "generated_at": "2026-11-12T10:04:03.693348+00:00",
   "projects": [
     {
       "slug": "support-new-hope-community-ministries-a-nj-nonprofit-corp-ag-2395",
@@ -1336,7 +1336,58 @@
       "source_url": "https://www.charitynavigator.org/ein/161541024",
       "approved_on": "2026-11-12",
       "review_until": "2026-11-15 08:04 UTC",
-      "translations": {},
+      "translations": {
+        "de": {
+          "text": "Von Charity Navigator bewertete Organisation, von den Agenten gefunden mit: 'site:charitynavigator.org Rise Against Hunger'.",
+          "title": "Unterstützen Sie Rise Against Hunger gegen den Hunger",
+          "source": "traduzione AI"
+        },
+        "en": {
+          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'site:charitynavigator.org Rise Against Hunger'.",
+          "title": "Support Rise Against Hunger against hunger",
+          "source": "originale"
+        },
+        "es": {
+          "text": "Entidad evaluada por Charity Navigator, encontrada por los agentes con: 'site:charitynavigator.org Rise Against Hunger'.",
+          "title": "Apoya a Rise Against Hunger contra el hambre",
+          "source": "traduzione AI"
+        },
+        "fr": {
+          "text": "Organisme évalué par Charity Navigator, trouvé par les agents avec : 'site:charitynavigator.org Rise Against Hunger'.",
+          "title": "Soutenez Rise Against Hunger contre la faim",
+          "source": "traduzione AI"
+        },
+        "hi": {
+          "text": "Charity Navigator द्वारा मूल्यांकित संस्था, जिसे एजेंटों द्वारा इससे खोजा गया: 'site:charitynavigator.org Rise Against Hunger'।",
+          "title": "भूख के खिलाफ Rise Against Hunger का समर्थन करें",
+          "source": "traduzione AI"
+        },
+        "it": {
+          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'site:charitynavigator.org Rise Against Hunger'.",
+          "title": "Sostieni Rise Against Hunger contro la fame",
+          "source": "traduzione AI"
+        },
+        "ja": {
+          "text": "Charity Navigator によって評価された団体。エージェントが 'site:charitynavigator.org Rise Against Hunger' で発見しました。",
+          "title": "飢餓に立ち向かう Rise Against Hunger を支援",
+          "source": "traduzione AI"
+        },
+        "pt": {
+          "text": "Entidade avaliada pela Charity Navigator, encontrada pelos agentes com: 'site:charitynavigator.org Rise Against Hunger'.",
+          "title": "Apoie a Rise Against Hunger contra a fome",
+          "source": "traduzione AI"
+        },
+        "ru": {
+          "text": "Организация, оценённая Charity Navigator, найдена агентами с помощью: 'site:charitynavigator.org Rise Against Hunger'.",
+          "title": "Поддержите Rise Against Hunger в борьбе с голодом",
+          "source": "traduzione AI"
+        },
+        "zh": {
+          "text": "经 Charity Navigator 评估的机构，由代理通过以下内容找到：'site:charitynavigator.org Rise Against Hunger'。",
+          "title": "支持 Rise Against Hunger 对抗饥饿",
+          "source": "traduzione AI"
+        }
+      },
       "tranches": [],
       "checks": [
         {
@@ -1533,7 +1584,292 @@
         "https://www.instagram.com/riseagainsthunger?hl=en"
       ],
       "waiting_counter": false,
-      "profile": {},
+      "profile": {
+        "de": {
+          "does": [
+            {
+              "text": "Die Organisation unterstützt benachteiligte Menschen weltweit dabei, Ernährungssicherheit und Resilienz durch Ernährung, Bildung und wirtschaftliche Stärkung zu erreichen.",
+              "source": "https://www.charitynavigator.org/ein/161541024",
+              "by_org": false
+            },
+            {
+              "text": "Die Organisation arbeitet mit 3,100 Kleinbauern in Malawi zusammen, um die Lebensmittel- und Ernährungssicherheit durch die Verbesserung von Produktionsmethoden, Ernährungspraktiken und Haushaltseinkommen zu stärken.",
+              "source": "https://riseagainsthunger.org/",
+              "by_org": true
+            },
+            {
+              "text": "Von 2026-2028 plant die Organisation, 16.9 Millionen von Hunger betroffene Menschen durch Programme für Ernährungssicherheit, Bildung, Ernährung und wirtschaftliche Entwicklung zu erreichen.",
+              "source": "https://www.charitynavigator.org/ein/161541024",
+              "by_org": false
+            }
+          ],
+          "mission": "Rise Against Hunger hilft benachteiligten Menschen weltweit, Ernährungssicherheit und Resilienz durch Ernährung, Bildung und wirtschaftliche Stärkung zu erreichen, angetrieben von einer globalen Bewegung aus Freiwilligen und Partnern.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "Die Organisation strebt an, bis 2028 $89 Millionen zu sammeln, um Programme zur Förderung von Ernährungssicherheit und langfristiger Resilienz zu unterstützen.",
+              "source": "https://www.charitynavigator.org/ein/161541024",
+              "by_org": false
+            }
+          ]
+        },
+        "en": {
+          "does": [
+            {
+              "text": "The organization assists underserved people worldwide to achieve food security and resilience through nutrition, education and economic empowerment.",
+              "quote": "Rise Against Hunger helps underserved people worldwide achieve food security and resilience through nutrition, education and economic empowerment, fueled by a global movement of volunteers and partners.",
+              "source": "https://www.charitynavigator.org/ein/161541024",
+              "by_org": false
+            },
+            {
+              "text": "The organization works with 3,100 smallholder farmers in Malawi to strengthen food and nutrition security by improving production methods, nutrition practices and household income.",
+              "quote": "The project works with 3,100 smallholder farmers in Malawi’s Karonga and Mzimba districts to strengthen food and nutrition security by improving production methods, nutrition practices and household income.",
+              "source": "https://riseagainsthunger.org/",
+              "by_org": true
+            },
+            {
+              "text": "From 2026-2028, the organization aims to serve 16.9 million people affected by hunger through food security, education, nutrition and economic programming.",
+              "quote": "From 2026-2028, serve 16.9 million people affected by hunger through food security, education, nutrition and economic programming.",
+              "source": "https://www.charitynavigator.org/ein/161541024",
+              "by_org": false
+            }
+          ],
+          "mission": "Rise Against Hunger helps underserved people worldwide achieve food security and resilience through nutrition, education and economic empowerment, fueled by a global movement of volunteers and partners.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "The organization targets raising $89 million by 2028 to support programs that advance food security and long-term resilience.",
+              "quote": "By 2028, inspire and mobilize a global movement of volunteers, donors and partners to raise $89 million in support of programs that advance food security and long-term resilience.",
+              "source": "https://www.charitynavigator.org/ein/161541024",
+              "by_org": false
+            }
+          ]
+        },
+        "es": {
+          "does": [
+            {
+              "text": "La organización ayuda a las personas desatendidas en todo el mundo a lograr la seguridad alimentaria y la resiliencia a través de la nutrición, la educación y el empoderamiento económico.",
+              "source": "https://www.charitynavigator.org/ein/161541024",
+              "by_org": false
+            },
+            {
+              "text": "La organización trabaja con 3,100 pequeños agricultores en Malawi para fortalecer la seguridad alimentaria y nutricional mejorando los métodos de producción, las prácticas de nutrición y los ingresos del hogar.",
+              "source": "https://riseagainsthunger.org/",
+              "by_org": true
+            },
+            {
+              "text": "De 2026-2028, la organización tiene como objetivo atender a 16.9 millones de personas afectadas por el hambre a través de programas de seguridad alimentaria, educación, nutrición y desarrollo económico.",
+              "source": "https://www.charitynavigator.org/ein/161541024",
+              "by_org": false
+            }
+          ],
+          "mission": "Rise Against Hunger ayuda a las personas desatendidas en todo el mundo a lograr la seguridad alimentaria y la resiliencia a través de la nutrición, la educación y el empoderamiento económico, impulsada por un movimiento global de voluntarios y socios.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "La organización tiene como objetivo recaudar $89 millones para 2028 para apoyar programas que impulsan la seguridad alimentaria y la resiliencia a largo plazo.",
+              "source": "https://www.charitynavigator.org/ein/161541024",
+              "by_org": false
+            }
+          ]
+        },
+        "fr": {
+          "does": [
+            {
+              "text": "L'organisation aide les populations défavorisées du monde entier à atteindre la sécurité alimentaire et la résilience grâce à la nutrition, l'éducation et l'autonomisation économique.",
+              "source": "https://www.charitynavigator.org/ein/161541024",
+              "by_org": false
+            },
+            {
+              "text": "L'organisation travaille avec 3,100 petits agriculteurs au Malawi pour renforcer la sécurité alimentaire et nutritionnelle en améliorant les méthodes de production, les pratiques nutritionnelles et les revenus des ménages.",
+              "source": "https://riseagainsthunger.org/",
+              "by_org": true
+            },
+            {
+              "text": "De 2026-2028, l'organisation vise à venir en aide à 16.9 millions de personnes touchées par la faim grâce à des programmes de sécurité alimentaire, d'éducation, de nutrition et de développement économique.",
+              "source": "https://www.charitynavigator.org/ein/161541024",
+              "by_org": false
+            }
+          ],
+          "mission": "Rise Against Hunger aide les populations défavorisées du monde entier à atteindre la sécurité alimentaire et la résilience grâce à la nutrition, l'éducation et l'autonomisation économique, portée par un mouvement mondial de bénévoles et de partenaires.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "L'organisation a pour objectif de récolter $89 million d'ici 2028 pour soutenir des programmes qui font progresser la sécurité alimentaire et la résilience à long terme.",
+              "source": "https://www.charitynavigator.org/ein/161541024",
+              "by_org": false
+            }
+          ]
+        },
+        "hi": {
+          "does": [
+            {
+              "text": "यह संगठन पोषण, शिक्षा और आर्थिक सशक्तिकरण के माध्यम से दुनिया भर के वंचित लोगों को खाद्य सुरक्षा और लचीलापन हासिल करने में सहायता करता है।",
+              "source": "https://www.charitynavigator.org/ein/161541024",
+              "by_org": false
+            },
+            {
+              "text": "यह संगठन उत्पादन तरीकों, पोषण प्रथाओं और घरेलू आय में सुधार करके खाद्य और पोषण सुरक्षा को मजबूत करने के लिए मलावी में 3,100 छोटे किसानों के साथ काम करता है।",
+              "source": "https://riseagainsthunger.org/",
+              "by_org": true
+            },
+            {
+              "text": "2026-2028 तक, संगठन का लक्ष्य खाद्य सुरक्षा, शिक्षा, पोषण और आर्थिक कार्यक्रमों के माध्यम से भूख से प्रभावित 16.9 मिलियन लोगों की सेवा करना है।",
+              "source": "https://www.charitynavigator.org/ein/161541024",
+              "by_org": false
+            }
+          ],
+          "mission": "Rise Against Hunger स्वयंसेवकों और भागीदारों के एक वैश्विक आंदोलन द्वारा संचालित, पोषण, शिक्षा और आर्थिक सशक्तिकरण के माध्यम से दुनिया भर के वंचित लोगों को खाद्य सुरक्षा और लचीलापन हासिल करने में मदद करता है।",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "संगठन का लक्ष्य 2028 तक $89 मिलियन जुटाना है ताकि उन कार्यक्रमों का समर्थन किया जा सके जो खाद्य सुरक्षा और दीर्घकालिक लचीलेपन को बढ़ावा देते हैं।",
+              "source": "https://www.charitynavigator.org/ein/161541024",
+              "by_org": false
+            }
+          ]
+        },
+        "it": {
+          "does": [
+            {
+              "text": "L'organizzazione assiste le persone svantaggiate in tutto il mondo a raggiungere la sicurezza alimentare e la resilienza attraverso la nutrizione, l'istruzione e l'emancipazione economica.",
+              "source": "https://www.charitynavigator.org/ein/161541024",
+              "by_org": false
+            },
+            {
+              "text": "L'organizzazione lavora con 3,100 piccoli agricoltori in Malawi per rafforzare la sicurezza alimentare e nutrizionale migliorando i metodi di produzione, le pratiche nutrizionali e il reddito familiare.",
+              "source": "https://riseagainsthunger.org/",
+              "by_org": true
+            },
+            {
+              "text": "Dal 2026-2028, l'organizzazione mira a servire 16.9 milioni di persone colpite dalla fame attraverso programmi di sicurezza alimentare, istruzione, nutrizione e sviluppo economico.",
+              "source": "https://www.charitynavigator.org/ein/161541024",
+              "by_org": false
+            }
+          ],
+          "mission": "Rise Against Hunger aiuta le persone svantaggiate in tutto il mondo a raggiungere la sicurezza alimentare e la resilienza attraverso la nutrizione, l'istruzione e l'emancipazione economica, alimentata da un movimento globale di volontari e partner.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "L'organizzazione ha l'obiettivo di raccogliere $89 milioni entro il 2028 per sostenere programmi che promuovono la sicurezza alimentare e la resilienza a lungo termine.",
+              "source": "https://www.charitynavigator.org/ein/161541024",
+              "by_org": false
+            }
+          ]
+        },
+        "ja": {
+          "does": [
+            {
+              "text": "同団体は、栄養、教育、経済的エンパワーメントを通じて、世界中の支援が行き届いていない人々が食料安全保障とレジリエンスを達成できるよう支援しています。",
+              "source": "https://www.charitynavigator.org/ein/161541024",
+              "by_org": false
+            },
+            {
+              "text": "同団体は、生産方法、栄養の実践、世帯収入を改善することにより、食料および栄養の安全保障を強化するため、Malawiの3,100人の小規模農家と協力しています。",
+              "source": "https://riseagainsthunger.org/",
+              "by_org": true
+            },
+            {
+              "text": "2026-2028年にかけて、同団体は食料安全保障、教育、栄養、経済プログラムを通じて、飢餓の影響を受けている16.9ミリオンの人々を支援することを目指しています。",
+              "source": "https://www.charitynavigator.org/ein/161541024",
+              "by_org": false
+            }
+          ],
+          "mission": "Rise Against Hungerは、ボランティアやパートナーのグローバルな運動に支えられ、栄養、教育、経済的エンパワーメントを通じて、世界中の支援が行き届いていない人々が食料安全保障とレジリエンスを達成できるよう支援しています。",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "同団体は、食料安全保障と長期的なレジリエンスを推進するプログラムを支援するため、2028年までに89ミリオンドルの資金調達を目指しています。",
+              "source": "https://www.charitynavigator.org/ein/161541024",
+              "by_org": false
+            }
+          ]
+        },
+        "pt": {
+          "does": [
+            {
+              "text": "A organização auxilia pessoas desfavorecidas em todo o mundo a alcançar segurança alimentar e resiliência por meio de nutrição, educação e empoderamento econômico.",
+              "source": "https://www.charitynavigator.org/ein/161541024",
+              "by_org": false
+            },
+            {
+              "text": "A organização trabalha com 3,100 pequenos agricultores em Malawi para fortalecer a segurança alimentar e nutricional, melhorando os métodos de produção, as práticas de nutrição e a renda familiar.",
+              "source": "https://riseagainsthunger.org/",
+              "by_org": true
+            },
+            {
+              "text": "De 2026-2028, a organização pretende atender 16.9 milhões de pessoas afetadas pela fome por meio de segurança alimentar, educação, nutrição e programas econômicos.",
+              "source": "https://www.charitynavigator.org/ein/161541024",
+              "by_org": false
+            }
+          ],
+          "mission": "Rise Against Hunger ajuda pessoas desfavorecidas em todo o mundo a alcançar segurança alimentar e resiliência por meio de nutrição, educação e empoderamento econômico, impulsionado por um movimento global de voluntários e parceiros.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "A organização tem como meta arrecadar $89 milhões até 2028 para apoiar programas que promovem a segurança alimentar e a resiliência a longo prazo.",
+              "source": "https://www.charitynavigator.org/ein/161541024",
+              "by_org": false
+            }
+          ]
+        },
+        "ru": {
+          "does": [
+            {
+              "text": "Организация помогает нуждающимся людям по всему миру достигать продовольственной безопасности и устойчивости посредством питания, образования и расширения экономических возможностей.",
+              "source": "https://www.charitynavigator.org/ein/161541024",
+              "by_org": false
+            },
+            {
+              "text": "Организация работает с 3,100 мелкими фермерами в Малави над укреплением продовольственной безопасности и улучшением питания путем усовершенствования методов производства, практики питания и повышения доходов домохозяйств.",
+              "source": "https://riseagainsthunger.org/",
+              "by_org": true
+            },
+            {
+              "text": "В период 2026-2028 годов организация планирует помочь 16.9 миллионам человек, страдающих от голода, посредством программ в области продовольственной безопасности, образования, питания и экономики.",
+              "source": "https://www.charitynavigator.org/ein/161541024",
+              "by_org": false
+            }
+          ],
+          "mission": "Rise Against Hunger помогает нуждающимся людям по всему миру достигать продовольственной безопасности и устойчивости посредством питания, образования и расширения экономических возможностей, опираясь на глобальное движение волонтеров и партнеров.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "Организация планирует привлечь $89 миллионов к 2028 году для поддержки программ, способствующих укреплению продовольственной безопасности и долгосрочной устойчивости.",
+              "source": "https://www.charitynavigator.org/ein/161541024",
+              "by_org": false
+            }
+          ]
+        },
+        "zh": {
+          "does": [
+            {
+              "text": "该组织帮助全球弱势人群通过营养、教育和经济赋权实现粮食安全和韧性。",
+              "source": "https://www.charitynavigator.org/ein/161541024",
+              "by_org": false
+            },
+            {
+              "text": "该组织与马拉维的3,100名小农合作，通过改进生产方法、营养实践和家庭收入来加强粮食和营养安全。",
+              "source": "https://riseagainsthunger.org/",
+              "by_org": true
+            },
+            {
+              "text": "从2026-2028年，组织旨在通过粮食安全、教育、营养和经济项目为受饥饿影响的16.9 million人提供帮助。",
+              "source": "https://www.charitynavigator.org/ein/161541024",
+              "by_org": false
+            }
+          ],
+          "mission": "Rise Against Hunger帮助全球弱势人群通过营养、教育和经济赋权实现粮食安全和韧性，这一切由全球志愿者和合作伙伴的运动推动。",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "该组织计划在2028年前筹集$89 million，以支持促进粮食安全和长期韧性的项目。",
+              "source": "https://www.charitynavigator.org/ein/161541024",
+              "by_org": false
+            }
+          ]
+        }
+      },
       "safety": {
         "evaluator": "Charity Navigator",
         "stars": 4,
@@ -2657,9 +2993,9 @@
     "costs": {
       "USD": 8.5
     },
-    "ai_calls": 603,
+    "ai_calls": 623,
     "ai_cost_real_usd": 0.0,
-    "ai_value_offered_usd": 4.08192,
+    "ai_value_offered_usd": 4.314705,
     "candidates_examined": 46,
     "candidates_discarded": 31
   },
