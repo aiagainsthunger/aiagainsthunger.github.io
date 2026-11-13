@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T09:04:25.670355+00:00",
+  "generated_at": "2026-11-13T10:04:06.232199+00:00",
   "projects": [
     {
       "slug": "support-mana-nutritive-aid-products-inc-against-hunger-3605",
@@ -18,7 +18,58 @@
       "source_url": "https://www.charitynavigator.org/ein/270165743",
       "approved_on": "2026-11-13",
       "review_until": "2026-11-16 08:11 UTC",
-      "translations": {},
+      "translations": {
+        "de": {
+          "text": "Organisation bewertet von Charity Navigator, von Agenten gefunden mit: 'Every.org: malnutrition children africa'.",
+          "title": "Support Mana Nutritive Aid Products Inc against hunger",
+          "source": "traduzione AI"
+        },
+        "en": {
+          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'Every.org: malnutrition children africa'.",
+          "title": "Support Mana Nutritive Aid Products Inc against hunger",
+          "source": "originale"
+        },
+        "es": {
+          "text": "Entidad evaluada por Charity Navigator, encontrada por los agentes con: 'Every.org: malnutrition children africa'.",
+          "title": "Apoya a Mana Nutritive Aid Products Inc contra la hambruna",
+          "source": "traduzione AI"
+        },
+        "fr": {
+          "text": "Entité évaluée par Charity Navigator, trouvée par les agents avec : 'Every.org: malnutrition children africa'.",
+          "title": "Soutenir Mana Nutritive Aid Products Inc contre la faim",
+          "source": "traduzione AI"
+        },
+        "hi": {
+          "text": "Charity Navigator द्वारा मूल्यांकित संस्था, एजेंटों द्वारा पाया गया: 'Every.org: malnutrition children africa'.",
+          "title": "भूख के खिलाफ Mana Nutritive Aid Products Inc का समर्थन करें",
+          "source": "traduzione AI"
+        },
+        "it": {
+          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'Every.org: malnutrition children africa'.",
+          "title": "Sostieni Mana Nutritive Aid Products Inc contro la fame",
+          "source": "traduzione AI"
+        },
+        "ja": {
+          "text": "Charity Navigatorで評価された団体、'Every.org: malnutrition children africa'で見つけられました。",
+          "title": "飢餓に対抗するMana Nutritive Aid Products Incを支援",
+          "source": "traduzione AI"
+        },
+        "pt": {
+          "text": "Entidade avaliada pelo Charity Navigator, encontrada pelos agentes com: 'Every.org: malnutrition children africa'.",
+          "title": "Apoie Mana Nutritive Aid Products Inc contra a fome",
+          "source": "traduzione AI"
+        },
+        "ru": {
+          "text": "Организация оценена Charity Navigator, найдена агентами с: 'Every.org: непитание детей Африки'.",
+          "title": "Поддержите Mana Nutritive Aid Products Inc против голода",
+          "source": "traduzione AI"
+        },
+        "zh": {
+          "text": "该机构已被 Charity Navigator 评估，代理人通过 'Every.org: malnutrition children africa' 找到。",
+          "title": "支持 Mana Nutritive Aid Products Inc 对抗饥饿",
+          "source": "traduzione AI"
+        }
+      },
       "tranches": [],
       "checks": [
         {
@@ -3205,7 +3256,58 @@
       "source_url": "https://www.charitynavigator.org/ein/042717782",
       "approved_on": "2026-11-13",
       "review_until": "2026-11-16 08:08 UTC",
-      "translations": {},
+      "translations": {
+        "de": {
+          "text": "Organisation bewertet von Charity Navigator, gefunden von den Agenten mit: \"Geografische Gleichgewichtsprüfung (pausiert seit 2026-11-09)\".",
+          "title": "Unterstützen Sie The Greater Boston Food Bank Inc gegen den Hunger",
+          "source": "traduzione AI"
+        },
+        "en": {
+          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: \"riesame dell'equilibrio geografico (in pausa dal 2026-11-09)\".",
+          "title": "Support The Greater Boston Food Bank Inc against hunger",
+          "source": "originale"
+        },
+        "es": {
+          "text": "Entidad evaluada por Charity Navigator, encontrada por los agentes con: \"revisión del equilibrio geográfico (en pausa desde el 2026-11-09)\".",
+          "title": "Apoya The Greater Boston Food Bank Inc contra el hambre",
+          "source": "traduzione AI"
+        },
+        "fr": {
+          "text": "Organisation évaluée par Charity Navigator, trouvée par les agents avec : \"réexamen de l'équilibre géographique (en pause depuis le 2026-11-09)\".",
+          "title": "Soutenez The Greater Boston Food Bank Inc contre la faim",
+          "source": "traduzione AI"
+        },
+        "hi": {
+          "text": "Charity Navigator द्वारा मूल्यांकित संस्था, एजेंटों द्वारा पाई गई: \"भौगोलिक संतुलन की पुनः समीक्षा (से विराम पर 2026-11-09)\".",
+          "title": "भूख के खिलाफ The Greater Boston Food Bank Inc का समर्थन करें",
+          "source": "traduzione AI"
+        },
+        "it": {
+          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: \"riesame dell'equilibrio geografico (in pausa dal 2026-11-09)\".",
+          "title": "Sostieni The Greater Boston Food Bank Inc contro la fame",
+          "source": "traduzione AI"
+        },
+        "ja": {
+          "text": "Charity Navigator によって評価された団体、エージェントにより見つけられた: \"riesame dell'equilibrio geografico (in pausa dal 2026-11-09)\".",
+          "title": "The Greater Boston Food Bank Inc を飢餓から支援する",
+          "source": "traduzione AI"
+        },
+        "pt": {
+          "text": "Entidade avaliada pela Charity Navigator, encontrada pelos agentes com: \"revisão do equilíbrio geográfico (em pausa desde 2026-11-09)\".",
+          "title": "Apoie The Greater Boston Food Bank Inc contra a fome",
+          "source": "traduzione AI"
+        },
+        "ru": {
+          "text": "Организация, оцененная Charity Navigator, найденная агентами с: \"пересмотр географического баланса (в паузе с 2026-11-09)\".",
+          "title": "Поддержите The Greater Boston Food Bank Inc в борьбе с голодом",
+          "source": "traduzione AI"
+        },
+        "zh": {
+          "text": "机构经 Charity Navigator 评估，由特工发现，带有：“地理平衡重新审查（自 2026-11-09 起暂停）”。",
+          "title": "支持 The Greater Boston Food Bank Inc 对抗饥饿",
+          "source": "traduzione AI"
+        }
+      },
       "tranches": [],
       "checks": [
         {
@@ -3402,7 +3504,292 @@
         "https://www.mapquest.com/us/massachusetts/greater-boston-food-bank-304551519"
       ],
       "waiting_counter": false,
-      "profile": {},
+      "profile": {
+        "de": {
+          "does": [
+            {
+              "text": "Die Mission der Organisation ist es, den Hunger in Eastern Massachusetts zu beenden.",
+              "source": "https://www.charitynavigator.org/ein/042717782",
+              "by_org": false
+            },
+            {
+              "text": "Seit 1981 arbeitet die Organisation daran, Nachbarn in Not mit gesunden Lebensmitteln und Ressourcen zu versorgen.",
+              "source": "https://www.charitynavigator.org/ein/042717782",
+              "by_org": false
+            },
+            {
+              "text": "Die Organisation schafft einen gerechten Zugang zu nahrhaften und kulturell angemessenen Lebensmitteln.",
+              "source": "https://www.charitynavigator.org/ein/042717782",
+              "by_org": false
+            }
+          ],
+          "mission": "Die Mission der Greater Boston Food Bank (GBFB) ist es, den Hunger hier in Eastern Massachusetts zu beenden. Seit 1981 arbeitet GBFB leidenschaftlich daran, unseren Nachbarn in Not gesunde Lebensmittel und Ressourcen bereitzustellen, die sie benötigen, um zu gedeihen. GBFB glaubt, dass der Zugang zu gesunden Lebensmitteln ein Menschenrecht ist, unabhängig von den Umständen des Einzelnen. Die Organisation erfüllt die wachsenden und sich verändernden Bedürfnisse der Gemeinschaft, indem sie Barrieren beseitigt und durch alle verfügbaren Ressourcen einen gerechten Zugang zu nahrhaften und kulturell angemessenen Lebensmitteln schafft. Durch die Erreichung von Ernährungssicherheit schafft GBFB Möglichkeiten für Nachbarn, zu gedeihen und Hoffnung wiederherzustellen.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "Die Organisation ist seit 1981 tätig.",
+              "source": "https://www.charitynavigator.org/ein/042717782",
+              "by_org": false
+            }
+          ]
+        },
+        "en": {
+          "does": [
+            {
+              "text": "The mission of the organization is to end hunger in Eastern Massachusetts.",
+              "quote": "The mission of the Greater Boston Food Bank (GBFB) is to end hunger here in Eastern Massachusetts.",
+              "source": "https://www.charitynavigator.org/ein/042717782",
+              "by_org": false
+            },
+            {
+              "text": "Since 1981, the organization has worked to provide neighbors in need with healthy food and resources.",
+              "quote": "Since 1981, GBFB has worked passionately to provide our neighbors in need with the healthy food and resources they need to thrive.",
+              "source": "https://www.charitynavigator.org/ein/042717782",
+              "by_org": false
+            },
+            {
+              "text": "The organization creates equitable access to nutritious and culturally responsive food.",
+              "quote": "The organization meets the growing and changing needs of the community by removing barriers and creating equitable access to nutritious and culturally responsive food through all available resources.",
+              "source": "https://www.charitynavigator.org/ein/042717782",
+              "by_org": false
+            }
+          ],
+          "mission": "The mission of the Greater Boston Food Bank (GBFB) is to end hunger here in Eastern Massachusetts. Since 1981, GBFB has worked passionately to provide our neighbors in need with the healthy food and resources they need to thrive. GBFB believes that access to healthy food is a human right regardless of an individual’s circumstances. The organization meets the growing and changing needs of the community by removing barriers and creating equitable access to nutritious and culturally responsive food through all available resources. By achieving food security, GBFB creates opportunities for neighbors to thrive and restore hope.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "The organization has operated since 1981.",
+              "quote": "Since 1981, GBFB has worked passionately to provide our neighbors in need with the healthy food and resources they need to thrive.",
+              "source": "https://www.charitynavigator.org/ein/042717782",
+              "by_org": false
+            }
+          ]
+        },
+        "es": {
+          "does": [
+            {
+              "text": "La misión de la organización es acabar con el hambre en el este de Massachusetts.",
+              "source": "https://www.charitynavigator.org/ein/042717782",
+              "by_org": false
+            },
+            {
+              "text": "Desde 1981, la organización ha trabajado para proporcionar a los vecinos necesitados alimentos saludables y recursos.",
+              "source": "https://www.charitynavigator.org/ein/042717782",
+              "by_org": false
+            },
+            {
+              "text": "La organización crea acceso equitativo a alimentos nutritivos y culturalmente adaptados.",
+              "source": "https://www.charitynavigator.org/ein/042717782",
+              "by_org": false
+            }
+          ],
+          "mission": "La misión de The Greater Boston Food Bank (GBFB) es acabar con el hambre aquí en el este de Massachusetts. Desde 1981, GBFB ha trabajado apasionadamente para proporcionar a nuestros vecinos necesitados los alimentos saludables y los recursos que necesitan para prosperar. GBFB cree que el acceso a alimentos saludables es un derecho humano sin importar las circunstancias de una persona. La organización satisface las necesidades crecientes y cambiantes de la comunidad al eliminar barreras y crear acceso equitativo a alimentos nutritivos y culturalmente adaptados mediante todos los recursos disponibles. Al lograr la seguridad alimentaria, GBFB crea oportunidades para que los vecinos prosperen y restauren la esperanza.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "La organización ha operado desde 1981.",
+              "source": "https://www.charitynavigator.org/ein/042717782",
+              "by_org": false
+            }
+          ]
+        },
+        "fr": {
+          "does": [
+            {
+              "text": "La mission de l'organisation est de mettre fin à la faim dans l’Est du Massachusetts.",
+              "source": "https://www.charitynavigator.org/ein/042717782",
+              "by_org": false
+            },
+            {
+              "text": "Depuis 1981, l'organisation travaille pour fournir aux voisins dans le besoin des aliments sains et des ressources.",
+              "source": "https://www.charitynavigator.org/ein/042717782",
+              "by_org": false
+            },
+            {
+              "text": "L'organisation crée un accès équitable à une nourriture nutritive et culturellement adaptée.",
+              "source": "https://www.charitynavigator.org/ein/042717782",
+              "by_org": false
+            }
+          ],
+          "mission": "La mission du Greater Boston Food Bank (GBFB) est de mettre fin à la faim ici dans l’Est du Massachusetts. Depuis 1981, GBFB travaille avec passion pour fournir à nos voisins dans le besoin des aliments sains et les ressources dont ils ont besoin pour prospérer. GBFB croit que l’accès à une alimentation saine est un droit humain, quels que soient les circonstances d’un individu. L’organisation répond aux besoins croissants et changeants de la communauté en supprimant les obstacles et en créant un accès équitable à une nourriture nutritive et culturellement adaptée grâce à toutes les ressources disponibles. En atteignant la sécurité alimentaire, GBFB crée des opportunités pour que les voisins prospèrent et retrouve l’espoir.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "L'organisation fonctionne depuis 1981.",
+              "source": "https://www.charitynavigator.org/ein/042717782",
+              "by_org": false
+            }
+          ]
+        },
+        "hi": {
+          "does": [
+            {
+              "text": "संगठन का मिशन ईस्टर्न मैसाचुसेट्स में भूख को समाप्त करना है।",
+              "source": "https://www.charitynavigator.org/ein/042717782",
+              "by_org": false
+            },
+            {
+              "text": "1981 से, संगठन ने ज़रूरतमंद पड़ोसियों को स्वस्थ भोजन और संसाधन प्रदान करने के लिए काम किया है।",
+              "source": "https://www.charitynavigator.org/ein/042717782",
+              "by_org": false
+            },
+            {
+              "text": "संगठन पोषक और सांस्कृतिक रूप से उत्तरदायी भोजन तक समान पहुंच बनाता है।",
+              "source": "https://www.charitynavigator.org/ein/042717782",
+              "by_org": false
+            }
+          ],
+          "mission": "Greater Boston Food Bank (GBFB) का मिशन यहाँ ईस्टर्न मैसाचुसेट्स में भूख को समाप्त करना है। 1981 से, GBFB ने ज़रूरतमंद पड़ोसियों को स्वस्थ भोजन और संसाधन प्रदान करने के लिए जुनून के साथ काम किया है जिससे वे फल-फूल सकें। GBFB मानता है कि स्वस्थ भोजन तक पहुंच एक मानव अधिकार है, चाहे किसी व्यक्ति की परिस्थितियाँ कुछ भी हों। संगठन समुदाय की बढ़ती और बदलती जरूरतों को बाधाओं को हटाकर और सभी उपलब्ध संसाधनों के माध्यम से पोषक और सांस्कृतिक रूप से उत्तरदायी भोजन तक समान पहुंच बनाकर पूरा करता है। खाद्य सुरक्षा हासिल करके, GBFB पड़ोसियों के लिए फलने-फूलने के अवसर बनाता है और आशा को पुनर्स्थापित करता है।",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "संगठन 1981 से संचालित हो रहा है।",
+              "source": "https://www.charitynavigator.org/ein/042717782",
+              "by_org": false
+            }
+          ]
+        },
+        "it": {
+          "does": [
+            {
+              "text": "La missione dell'organizzazione è porre fine alla fame in Eastern Massachusetts.",
+              "source": "https://www.charitynavigator.org/ein/042717782",
+              "by_org": false
+            },
+            {
+              "text": "Dal 1981, l'organizzazione ha lavorato per fornire ai vicini bisognosi cibo sano e risorse.",
+              "source": "https://www.charitynavigator.org/ein/042717782",
+              "by_org": false
+            },
+            {
+              "text": "L'organizzazione crea un accesso equo a cibo nutriente e culturalmente adeguato.",
+              "source": "https://www.charitynavigator.org/ein/042717782",
+              "by_org": false
+            }
+          ],
+          "mission": "La missione del Greater Boston Food Bank (GBFB) è porre fine alla fame qui in Eastern Massachusetts. Dal 1981, GBFB ha lavorato con passione per fornire ai nostri vicini bisognosi cibo sano e le risorse di cui hanno bisogno per prosperare. GBFB crede che l'accesso a cibo sano sia un diritto umano indipendentemente dalle circostanze individuali. L'organizzazione soddisfa le esigenze crescenti e mutevoli della comunità rimuovendo le barriere e creando un accesso equo a cibo nutriente e culturalmente adeguato attraverso tutte le risorse disponibili. Raggiungendo la sicurezza alimentare, GBFB crea opportunità per i vicini di prosperare e ristabilire la speranza.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "L'organizzazione opera dal 1981.",
+              "source": "https://www.charitynavigator.org/ein/042717782",
+              "by_org": false
+            }
+          ]
+        },
+        "ja": {
+          "does": [
+            {
+              "text": "組織のミッションは、東マサチューセッツで飢餓を終わらせることです。",
+              "source": "https://www.charitynavigator.org/ein/042717782",
+              "by_org": false
+            },
+            {
+              "text": "1981年から、組織は必要としている近隣住民に健康的な食料とリソースを提供するために取り組んできました。",
+              "source": "https://www.charitynavigator.org/ein/042717782",
+              "by_org": false
+            },
+            {
+              "text": "組織は、栄養豊富で文化的に対応した食料への公平なアクセスを創出します。",
+              "source": "https://www.charitynavigator.org/ein/042717782",
+              "by_org": false
+            }
+          ],
+          "mission": "The Greater Boston Food Bank (GBFB) のミッションは、東マサチューセッツで飢餓を終わらせることです。1981年から、GBFBは必要としている近隣住民に健康的な食料と繁栄に必要なリソースを情熱的に提供してきました。GBFBは、健康的な食料へのアクセスは個人の状況に関わらず人権であると信じています。組織は、障壁を取り除き、利用可能なすべてのリソースを通じて栄養豊富で文化的に対応した食料への公平なアクセスを創出することで、コミュニティの増大し変化するニーズに応えます。食料安全保障を達成することにより、GBFBは近隣住民が繁栄し希望を取り戻す機会を創出します。",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "組織は1981年から運営されています。",
+              "source": "https://www.charitynavigator.org/ein/042717782",
+              "by_org": false
+            }
+          ]
+        },
+        "pt": {
+          "does": [
+            {
+              "text": "A missão da organização é acabar com a fome no Leste de Massachusetts.",
+              "source": "https://www.charitynavigator.org/ein/042717782",
+              "by_org": false
+            },
+            {
+              "text": "Desde 1981, a organização tem trabalhado para fornecer aos vizinhos necessitados alimentos saudáveis e recursos.",
+              "source": "https://www.charitynavigator.org/ein/042717782",
+              "by_org": false
+            },
+            {
+              "text": "A organização cria acesso equitativo a alimentos nutritivos e culturalmente responsivos.",
+              "source": "https://www.charitynavigator.org/ein/042717782",
+              "by_org": false
+            }
+          ],
+          "mission": "A missão do Greater Boston Food Bank (GBFB) é acabar com a fome aqui no Leste de Massachusetts. Desde 1981, o GBFB tem trabalhado apaixonadamente para fornecer aos nossos vizinhos necessitados alimentos saudáveis e recursos de que precisam para prosperar. O GBFB acredita que o acesso a alimentos saudáveis é um direito humano, independentemente das circunstâncias de cada indivíduo. A organização atende às necessidades crescentes e mutáveis da comunidade, removendo barreiras e criando acesso equitativo a alimentos nutritivos e culturalmente responsivos por meio de todos os recursos disponíveis. Ao alcançar a segurança alimentar, o GBFB cria oportunidades para que os vizinhos prosperem e restaure a esperança.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "A organização opera desde 1981.",
+              "source": "https://www.charitynavigator.org/ein/042717782",
+              "by_org": false
+            }
+          ]
+        },
+        "ru": {
+          "does": [
+            {
+              "text": "Миссия организации — положить конец голоду в Восточном Массачусетсе.",
+              "source": "https://www.charitynavigator.org/ein/042717782",
+              "by_org": false
+            },
+            {
+              "text": "С 1981 года организация работает, чтобы предоставить соседям, нуждающимся, здоровую пищу и ресурсы.",
+              "source": "https://www.charitynavigator.org/ein/042717782",
+              "by_org": false
+            },
+            {
+              "text": "Организация создает справедливый доступ к питательной и культурно‑адаптированной пище.",
+              "source": "https://www.charitynavigator.org/ein/042717782",
+              "by_org": false
+            }
+          ],
+          "mission": "Миссия The Greater Boston Food Bank (GBFB) — положить конец голоду здесь, в Восточном Массачусетсе. С 1981 года GBFB страстно работает, чтобы предоставить нашим соседям, нуждающимся, здоровую пищу и ресурсы, необходимые им для процветания. GBFB считает, что доступ к здоровой пище является человеческим правом независимо от обстоятельств человека. Организация удовлетворяет растущие и меняющиеся потребности сообщества, устраняя барьеры и создавая справедливый доступ к питательной и культурно‑адаптированной пище через все доступные ресурсы. Добиваясь продовольственной безопасности, GBFB создает возможности для процветания соседей и восстанавливает надежду.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "Организация работает с 1981 года.",
+              "source": "https://www.charitynavigator.org/ein/042717782",
+              "by_org": false
+            }
+          ]
+        },
+        "zh": {
+          "does": [
+            {
+              "text": "该组织的使命是结束东马萨诸塞州的饥饿。",
+              "source": "https://www.charitynavigator.org/ein/042717782",
+              "by_org": false
+            },
+            {
+              "text": "自1981年以来，该组织一直致力于为有需要的邻居提供健康食品和资源。",
+              "source": "https://www.charitynavigator.org/ein/042717782",
+              "by_org": false
+            },
+            {
+              "text": "该组织创造了对营养且符合文化需求的食品的公平获取。",
+              "source": "https://www.charitynavigator.org/ein/042717782",
+              "by_org": false
+            }
+          ],
+          "mission": "The Greater Boston Food Bank (GBFB)的使命是结束东马萨诸塞州的饥饿。自1981年以来，GBFB一直热情地为有需要的邻居提供健康食品和他们茁壮成长所需的资源。GBFB相信，无论个人处境如何，获取健康食品都是一项人权。该组织通过消除障碍并利用所有可用资源，创造对营养且符合文化需求的食品的公平获取，以满足社区日益增长和变化的需求。通过实现粮食安全，GBFB为邻居创造了茁壮成长和恢复希望的机会。",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "该组织自1981年以来一直在运营。",
+              "source": "https://www.charitynavigator.org/ein/042717782",
+              "by_org": false
+            }
+          ]
+        }
+      },
       "safety": {
         "evaluator": "Charity Navigator",
         "stars": 4,
@@ -3450,7 +3837,58 @@
       "source_url": "https://www.charitynavigator.org/ein/870212453",
       "approved_on": "2026-11-13",
       "review_until": "2026-11-16 07:09 UTC",
-      "translations": {},
+      "translations": {
+        "de": {
+          "text": "Organisation bewertet von Charity Navigator, gefunden von den Agenten mit: \"Geografische Gleichgewichtsprüfung (pausiert seit 2026-11-09)\".",
+          "title": "Unterstützen Sie Utah Food Bank im Kampf gegen den Hunger",
+          "source": "traduzione AI"
+        },
+        "en": {
+          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: \"riesame dell'equilibrio geografico (in pausa dal 2026-11-09)\".",
+          "title": "Support Utah Food Bank against hunger",
+          "source": "originale"
+        },
+        "es": {
+          "text": "Entidad evaluada por Charity Navigator, encontrada por los agentes con: \"revisión del equilibrio geográfico (en pausa desde el 2026-11-09)\".",
+          "title": "Apoya a Utah Food Bank contra el hambre",
+          "source": "traduzione AI"
+        },
+        "fr": {
+          "text": "Organisation évaluée par Charity Navigator, trouvée par les agents avec : \"réexamen de l'équilibre géographique (en pause depuis le 2026-11-09)\"",
+          "title": "Soutenez Utah Food Bank contre la faim",
+          "source": "traduzione AI"
+        },
+        "hi": {
+          "text": "Charity Navigator द्वारा मूल्यांकित संस्था, एजेंटों द्वारा पाया गया: \"भौगोलिक संतुलन की पुनःजाँच (2026-11-09 से विराम में)\".",
+          "title": "Utah Food Bank का समर्थन भूख के खिलाफ",
+          "source": "traduzione AI"
+        },
+        "it": {
+          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: \"riesame dell'equilibrio geografico (in pausa dal 2026-11-09)\".",
+          "title": "Sostieni Utah Food Bank contro la fame",
+          "source": "traduzione AI"
+        },
+        "ja": {
+          "text": "Charity Navigator によって評価された団体、エージェントが次で見つけた: \"地理的バランスの再検討（2026-11-09 から一時停止中）\".",
+          "title": "Utah Food Bank を飢餓から支援する",
+          "source": "traduzione AI"
+        },
+        "pt": {
+          "text": "Entidade avaliada pela Charity Navigator, encontrada pelos agentes com: \"revisão do equilíbrio geográfico (em pausa desde 2026-11-09)\".",
+          "title": "Apoie a Utah Food Bank contra a fome",
+          "source": "traduzione AI"
+        },
+        "ru": {
+          "text": "Организация, оцененная Charity Navigator, найденная агентами с: \"пересмотр географического баланса (приостановлен с 2026-11-09)\".",
+          "title": "Поддержите Utah Food Bank в борьбе с голодом",
+          "source": "traduzione AI"
+        },
+        "zh": {
+          "text": "组织经 Charity Navigator 评估，由代理人发现，带有：“地理平衡重新审查（自 2026-11-09 起暂停）”。",
+          "title": "支持 Utah Food Bank 对抗饥饿",
+          "source": "traduzione AI"
+        }
+      },
       "tranches": [],
       "checks": [
         {
@@ -3648,6 +4086,39 @@
       ],
       "waiting_counter": false,
       "profile": {
+        "de": {
+          "does": [
+            {
+              "text": "Die Organisation verteilte im letzten Jahr 57.8 Millionen Mahlzeiten im gesamten Utah über seven owned and operated facilities.",
+              "source": "https://www.utahfoodbank.org/",
+              "by_org": true
+            },
+            {
+              "text": "Die Organisation verteilte Lebensmittel über ein landesweites Netzwerk von 390 Partnerorganisationen, die in allen 29 Landkreisen verteilt sind.",
+              "source": "https://www.utahfoodbank.org/about/",
+              "by_org": true
+            },
+            {
+              "text": "Die Organisation verteilt Lebensmittel über Direktservice-Programme und Partnerorganisationen von four in Utah befindlichen Lagerhäusern.",
+              "source": "https://www.utahfoodbank.org/about/",
+              "by_org": true
+            }
+          ],
+          "mission": "Utah Food Bank bleibt standhaft in unserer Mission, den Hunger im ganzen Bundesstaat zu bekämpfen, indem wir gemeinsam mit Gemeindepartnern und Freiwilligen dafür sorgen, dass unsere verletzlichsten Nachbarn zuverlässigen Zugang zu Notfall-Lebensmittelhilfe haben. Durch ein landesweites Netzwerk von more than 380 Partnerorganisationen und Lebensmittelkammern helfen wir, kritische Lücken beim Lebensmittelzugang zu schließen, indem wir Großlebensmittel kostenlos an Partner liefern, ohne Mitglieds- oder Transportgebühren. Durch die Beseitigung dieser finanziellen Barrieren stellt Utah Food Bank sicher, dass die Regale der Tafeln gefüllt bleiben, sodass sich die Partner voll und ganz darauf konzentrieren können, den hungernden Utahern zu helfen.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "Gegründet im Jahr 1904, arbeitet die Organisation mit der Mission, den Hunger im gesamten Bundesstaat zu bekämpfen.",
+              "source": "https://www.utahfoodbank.org/",
+              "by_org": true
+            },
+            {
+              "text": "Die Organisation stellt wichtige Dokumente öffentlich zur Verfügung, um Transparenz und Rechenschaftspflicht zu gewährleisten.",
+              "source": "https://www.utahfoodbank.org/about/financial-information",
+              "by_org": true
+            }
+          ]
+        },
         "en": {
           "does": [
             {
@@ -3681,6 +4152,171 @@
             {
               "text": "The organization shares key documents publicly in the interest of transparency and accountability.",
               "quote": "In the interest of transparency and accountability, Utah Food Bank shares the following documents for public access.",
+              "source": "https://www.utahfoodbank.org/about/financial-information",
+              "by_org": true
+            }
+          ]
+        },
+        "es": {
+          "does": [
+            {
+              "text": "La organización distribuyó 57.8 millones de comidas en todo Utah el año pasado en siete instalaciones propias y operadas.",
+              "source": "https://www.utahfoodbank.org/",
+              "by_org": true
+            },
+            {
+              "text": "La organización distribuyó alimentos a través de una red estatal de 390 agencias asociadas ubicadas en los 29 condados.",
+              "source": "https://www.utahfoodbank.org/about/",
+              "by_org": true
+            },
+            {
+              "text": "La organización distribuye alimentos mediante programas de servicio directo y agencias asociadas desde cuatro almacenes ubicados en Utah.",
+              "source": "https://www.utahfoodbank.org/about/",
+              "by_org": true
+            }
+          ],
+          "mission": "Utah Food Bank permanece firme en nuestra misión, Luchando contra el hambre a nivel estatal, trabajando junto a socios comunitarios y voluntarios para garantizar que nuestros vecinos más vulnerables tengan acceso confiable a asistencia alimentaria de emergencia. A través de una red estatal de más de 380 agencias asociadas y despensas de alimentos, ayudamos a cerrar brechas críticas en el acceso a alimentos entregando alimentos a granel a los socios sin cuotas de membresía ni tarifas de transporte. Al eliminar estas barreras financieras, Utah Food Bank asegura que los estantes de las despensas permanezcan abastecidos para que los socios puedan centrarse plenamente en servir a los utahenses que enfrentan hambre.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "Fundada en 1904, la organización ha operado con la misión de luchar contra el hambre a nivel estatal.",
+              "source": "https://www.utahfoodbank.org/",
+              "by_org": true
+            },
+            {
+              "text": "La organización comparte documentos clave públicamente en interés de la transparencia y la rendición de cuentas.",
+              "source": "https://www.utahfoodbank.org/about/financial-information",
+              "by_org": true
+            }
+          ]
+        },
+        "fr": {
+          "does": [
+            {
+              "text": "L'organisation a distribué 57.8 million de repas à travers l'Utah l'année dernière dans sept installations détenues et exploitées.",
+              "source": "https://www.utahfoodbank.org/",
+              "by_org": true
+            },
+            {
+              "text": "L'organisation a distribué de la nourriture via un réseau d'État de 390 agences partenaires situées dans les 29 comtés.",
+              "source": "https://www.utahfoodbank.org/about/",
+              "by_org": true
+            },
+            {
+              "text": "L'organisation distribue de la nourriture à travers des programmes de service direct et des agences partenaires depuis quatre entrepôts situés dans l'Utah.",
+              "source": "https://www.utahfoodbank.org/about/",
+              "by_org": true
+            }
+          ],
+          "mission": "Utah Food Bank reste ferme dans notre mission, Lutter contre la faim à l'échelle de l'État, en travaillant aux côtés des partenaires communautaires et des bénévoles pour garantir que nos voisins les plus vulnérables aient un accès fiable à l'aide alimentaire d'urgence. Grâce à un réseau d'État de plus de 380 agences partenaires et épiceries solidaires, nous aidons à combler les lacunes critiques en matière d'accès à la nourriture en livrant des denrées en vrac aux partenaires sans frais d'adhésion ni de transport. En supprimant ces obstacles financiers, Utah Food Bank veille à ce que les étagères des banques alimentaires restent approvisionnées afin que les partenaires puissent se concentrer pleinement sur le service aux habitants de l'Utah confrontés à la faim.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "Fondée en 1904, l'organisation fonctionne avec la mission de lutter contre la faim à l'échelle de l'État.",
+              "source": "https://www.utahfoodbank.org/",
+              "by_org": true
+            },
+            {
+              "text": "L'organisation partage publiquement les documents clés dans l'intérêt de la transparence et de la responsabilité.",
+              "source": "https://www.utahfoodbank.org/about/financial-information",
+              "by_org": true
+            }
+          ]
+        },
+        "it": {
+          "does": [
+            {
+              "text": "L'organizzazione ha distribuito 57.8 million pasti in tutto lo Utah lo scorso anno attraverso sette strutture di proprietà e gestite.",
+              "source": "https://www.utahfoodbank.org/",
+              "by_org": true
+            },
+            {
+              "text": "L'organizzazione ha distribuito cibo tramite una rete a livello statale di 390 agenzie partner situate in tutte le 29 contee.",
+              "source": "https://www.utahfoodbank.org/about/",
+              "by_org": true
+            },
+            {
+              "text": "L'organizzazione distribuisce cibo attraverso programmi di servizio diretto e agenzie partner da quattro magazzini situati nello Utah.",
+              "source": "https://www.utahfoodbank.org/about/",
+              "by_org": true
+            }
+          ],
+          "mission": "Utah Food Bank rimane ferma nella nostra missione, Combattere la fame a livello statale, lavorando insieme a partner della comunità e volontari per garantire che i nostri vicini più vulnerabili abbiano un accesso affidabile all'assistenza alimentare d'emergenza. Attraverso una rete a livello statale di oltre 380 agenzie partner e bancarelle alimentari, aiutiamo a colmare le lacune critiche nell'accesso al cibo consegnando cibo sfuso ai partner senza costi di adesione o di trasporto. Rimuovendo queste barriere finanziarie, Utah Food Bank assicura che gli scaffali delle dispense rimangano riforniti così che i partner possano concentrarsi completamente sul servire gli Utahns che affrontano la fame.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "Fondata nel 1904, l'organizzazione opera con la missione di combattere la fame a livello statale.",
+              "source": "https://www.utahfoodbank.org/",
+              "by_org": true
+            },
+            {
+              "text": "L'organizzazione condivide pubblicamente i documenti chiave nell'interesse della trasparenza e della responsabilità.",
+              "source": "https://www.utahfoodbank.org/about/financial-information",
+              "by_org": true
+            }
+          ]
+        },
+        "ru": {
+          "does": [
+            {
+              "text": "Организация распределила 57.8 миллиона порций по всей Юте в прошлом году через seven собственных и управляемых объектов.",
+              "source": "https://www.utahfoodbank.org/",
+              "by_org": true
+            },
+            {
+              "text": "Организация распределяла продовольствие через сеть из 390 партнёрских агентств, расположенных во всех 29 округах штата.",
+              "source": "https://www.utahfoodbank.org/about/",
+              "by_org": true
+            },
+            {
+              "text": "Организация распределяет продовольствие через программы прямого обслуживания и партнёрские агентства из four складов, расположенных в Юте.",
+              "source": "https://www.utahfoodbank.org/about/",
+              "by_org": true
+            }
+          ],
+          "mission": "Utah Food Bank остаётся твёрдо привержённым нашей миссии, борясь с голодом по всему штату, работая вместе с партнёрами из сообщества и волонтёрами, чтобы наши самые уязвимые соседи имели надёжный доступ к экстренной продовольственной помощи. Через сеть более 380 партнёрских агентств и продовольственных пунктов по всему штату мы помогаем закрывать критические пробелы в доступе к пище, доставляя оптовую еду партнёрам без членских или транспортных сборов. Убирая эти финансовые барьеры, Utah Food Bank обеспечивает постоянное наличие товаров на полках пунктов, чтобы партнёры могли полностью сосредоточиться на обслуживании жителей Юты, сталкивающихся с голодом.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "Основанная в 1904 году, организация работает с миссией борьбы с голодом по всему штату.",
+              "source": "https://www.utahfoodbank.org/",
+              "by_org": true
+            },
+            {
+              "text": "Организация публично делится ключевыми документами в интересах прозрачности и подотчётности.",
+              "source": "https://www.utahfoodbank.org/about/financial-information",
+              "by_org": true
+            }
+          ]
+        },
+        "zh": {
+          "does": [
+            {
+              "text": "该组织去年在犹他州通过七个自有运营设施分发了 57.8 million 餐食。",
+              "source": "https://www.utahfoodbank.org/",
+              "by_org": true
+            },
+            {
+              "text": "该组织通过覆盖全州的 390 家合作机构网络，在全部 29 个县分发食品。",
+              "source": "https://www.utahfoodbank.org/about/",
+              "by_org": true
+            },
+            {
+              "text": "该组织通过直接服务项目和合作机构，从位于犹他州的四个仓库分发食品。",
+              "source": "https://www.utahfoodbank.org/about/",
+              "by_org": true
+            }
+          ],
+          "mission": "Utah Food Bank 在我们的使命中始终坚定不移，致力于全州抗击饥饿，通过与社区合作伙伴和志愿者合作，确保我们最脆弱的邻居能够可靠地获得紧急食品援助。通过覆盖全州的超过 380 家合作机构和食品储藏室网络，我们通过向合作伙伴免费提供散装食品（无需会员费或运输费）来帮助弥补食品获取的关键缺口。通过消除这些经济障碍，Utah Food Bank 确保食品储藏室的货架保持充足，以便合作伙伴能够全力服务面临饥饿的犹他州居民。",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "该组织成立于 1904 年，一直以全州抗击饥饿的使命运营。",
+              "source": "https://www.utahfoodbank.org/",
+              "by_org": true
+            },
+            {
+              "text": "该组织出于透明度和问责性的考虑，公开分享关键文件。",
               "source": "https://www.utahfoodbank.org/about/financial-information",
               "by_org": true
             }
@@ -3734,7 +4370,58 @@
       "source_url": "https://www.charitynavigator.org/ein/273521132",
       "approved_on": "2026-11-13",
       "review_until": "2026-11-16 08:10 UTC",
-      "translations": {},
+      "translations": {
+        "de": {
+          "text": "Organisation bewertet von Charity Navigator, gefunden von den Agenten mit: 'Every.org: food-security'.",
+          "title": "Unterstützen Sie World Central Kitchen Incorporated im Kampf gegen den Hunger",
+          "source": "traduzione AI"
+        },
+        "en": {
+          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'Every.org: food-security'.",
+          "title": "Support World Central Kitchen Incorporated against hunger",
+          "source": "originale"
+        },
+        "es": {
+          "text": "Entidad evaluada por Charity Navigator, encontrada por los agentes con: 'Every.org: food-security'.",
+          "title": "Apoya World Central Kitchen Incorporated contra el hambre",
+          "source": "traduzione AI"
+        },
+        "fr": {
+          "text": "Organisation évaluée par Charity Navigator, trouvée par les agents avec : 'Every.org: food-security'.",
+          "title": "Soutenez World Central Kitchen Incorporated contre la faim",
+          "source": "traduzione AI"
+        },
+        "hi": {
+          "text": "Charity Navigator द्वारा मूल्यांकित संस्था, एजेंटों द्वारा पाया गया: 'Every.org: food-security'।",
+          "title": "भूख के खिलाफ World Central Kitchen Incorporated का समर्थन करें",
+          "source": "traduzione AI"
+        },
+        "it": {
+          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'Every.org: food-security'.",
+          "title": "Sostieni World Central Kitchen Incorporated contro la fame",
+          "source": "traduzione AI"
+        },
+        "ja": {
+          "text": "Charity Navigator によって評価された団体で、エージェントが次のように見つけました: 'Every.org: food-security'。",
+          "title": "World Central Kitchen Incorporated を飢餓から支援する",
+          "source": "traduzione AI"
+        },
+        "pt": {
+          "text": "Entidade avaliada pela Charity Navigator, encontrada pelos agentes com: 'Every.org: food-security'.",
+          "title": "Apoie World Central Kitchen Incorporated contra a fome",
+          "source": "traduzione AI"
+        },
+        "ru": {
+          "text": "Организация, оцененная Charity Navigator, найденная агентами с: 'Every.org: food-security'.",
+          "title": "Поддержите World Central Kitchen Incorporated в борьбе с голодом",
+          "source": "traduzione AI"
+        },
+        "zh": {
+          "text": "机构经 Charity Navigator 评估，由代理人通过：'Every.org: food-security' 找到。",
+          "title": "支持 World Central Kitchen Incorporated 对抗饥饿",
+          "source": "traduzione AI"
+        }
+      },
       "tranches": [],
       "checks": [
         {
@@ -3931,7 +4618,241 @@
         "https://www.charitynavigator.org/ein/273521132"
       ],
       "waiting_counter": false,
-      "profile": {},
+      "profile": {
+        "de": {
+          "does": [
+            {
+              "text": "World Central Kitchen stellt frische Mahlzeiten als Reaktion auf Krisen bereit und ist die Erste an vorderster Front.",
+              "source": "https://www.charitynavigator.org/ein/273521132",
+              "by_org": false
+            },
+            {
+              "text": "Die Organisation wendet ein Modell schnellen Handelns an, nutzt lokale Ressourcen und passt sich in Echtzeit an, um Mahlzeiten weltweit zu servieren.",
+              "source": "https://www.charitynavigator.org/ein/273521132",
+              "by_org": false
+            }
+          ],
+          "mission": "Gegründet im Jahr 2010 von Chef José Andrés, World Central Kitchen (WCK) ist die Erste an vorderster Front, die frische Mahlzeiten als Reaktion auf Krisen bereitstellt. Durch Anwendung unseres Modells schnellen Handelns, Nutzung lokaler Ressourcen und Echtzeit‑Anpassung hat WCK weltweit Hunderte von Millionen Mahlzeiten serviert.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "World Central Kitchen wurde 2010 gegründet.",
+              "source": "https://www.charitynavigator.org/ein/273521132",
+              "by_org": false
+            }
+          ]
+        },
+        "en": {
+          "does": [
+            {
+              "text": "World Central Kitchen provides fresh meals in response to crises, acting as first to the frontlines.",
+              "quote": "World Central Kitchen (WCK) is first to the frontlines providing fresh meals in response to crises.",
+              "source": "https://www.charitynavigator.org/ein/273521132",
+              "by_org": false
+            },
+            {
+              "text": "The organization applies a model of quick action, leveraging local resources, and adapting in real time to serve meals around the world.",
+              "quote": "Applying our model of quick action, leveraging local resources, and adapting in real time, WCK has served hundreds of millions of meals around the world.",
+              "source": "https://www.charitynavigator.org/ein/273521132",
+              "by_org": false
+            }
+          ],
+          "mission": "Founded in 2010 by Chef José Andrés, World Central Kitchen (WCK) is first to the frontlines providing fresh meals in response to crises. Applying our model of quick action, leveraging local resources, and adapting in real time, WCK has served hundreds of millions of meals around the world.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "World Central Kitchen was founded in 2010.",
+              "quote": "Founded in 2010 by Chef José Andrés, World Central Kitchen (WCK) is first to the frontlines providing fresh meals in response to crises.",
+              "source": "https://www.charitynavigator.org/ein/273521132",
+              "by_org": false
+            }
+          ]
+        },
+        "es": {
+          "does": [
+            {
+              "text": "World Central Kitchen proporciona comidas frescas en respuesta a crisis, actuando como la primera en la primera línea.",
+              "source": "https://www.charitynavigator.org/ein/273521132",
+              "by_org": false
+            },
+            {
+              "text": "La organización aplica un modelo de acción rápida, aprovechando recursos locales y adaptándose en tiempo real para servir comidas en todo el mundo.",
+              "source": "https://www.charitynavigator.org/ein/273521132",
+              "by_org": false
+            }
+          ],
+          "mission": "Fundada en 2010 por el Chef José Andrés, World Central Kitchen (WCK) es la primera en la primera línea proporcionando comidas frescas en respuesta a crisis. Aplicando nuestro modelo de acción rápida, aprovechando recursos locales y adaptándose en tiempo real, WCK ha servido cientos de millones de comidas en todo el mundo.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "World Central Kitchen fue fundada en 2010.",
+              "source": "https://www.charitynavigator.org/ein/273521132",
+              "by_org": false
+            }
+          ]
+        },
+        "fr": {
+          "does": [
+            {
+              "text": "World Central Kitchen fournit des repas frais en réponse aux crises, agissant en première ligne.",
+              "source": "https://www.charitynavigator.org/ein/273521132",
+              "by_org": false
+            },
+            {
+              "text": "L'organisation applique un modèle d'action rapide, mobilise les ressources locales et s'adapte en temps réel pour servir des repas à travers le monde.",
+              "source": "https://www.charitynavigator.org/ein/273521132",
+              "by_org": false
+            }
+          ],
+          "mission": "Fondée en 2010 par le Chef José Andrés, World Central Kitchen (WCK) est la première à être en première ligne pour fournir des repas frais en réponse aux crises. En appliquant notre modèle d'action rapide, en mobilisant les ressources locales et en s'adaptant en temps réel, WCK a servi des centaines de millions de repas à travers le monde.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "World Central Kitchen a été fondée en 2010.",
+              "source": "https://www.charitynavigator.org/ein/273521132",
+              "by_org": false
+            }
+          ]
+        },
+        "hi": {
+          "does": [
+            {
+              "text": "World Central Kitchen संकटों के जवाब में ताज़े भोजन प्रदान करता है, अग्रिम पंक्ति में पहला के रूप में कार्य करता है।",
+              "source": "https://www.charitynavigator.org/ein/273521132",
+              "by_org": false
+            },
+            {
+              "text": "संगठन तेज़ कार्रवाई, स्थानीय संसाधनों का उपयोग, और वास्तविक समय में अनुकूलन का मॉडल लागू करता है ताकि दुनिया भर में भोजन परोसा जा सके।",
+              "source": "https://www.charitynavigator.org/ein/273521132",
+              "by_org": false
+            }
+          ],
+          "mission": "2010 में Chef José Andrés द्वारा स्थापित, World Central Kitchen (WCK) संकटों के जवाब में ताज़े भोजन प्रदान करते हुए अग्रिम पंक्ति में पहला है। हमारी तेज़ कार्रवाई, स्थानीय संसाधनों का उपयोग, और वास्तविक समय में अनुकूलन के मॉडल को लागू करते हुए, WCK ने दुनिया भर में सैकड़ों मिलियन भोजन परोसे हैं।",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "World Central Kitchen की स्थापना 2010 में हुई।",
+              "source": "https://www.charitynavigator.org/ein/273521132",
+              "by_org": false
+            }
+          ]
+        },
+        "it": {
+          "does": [
+            {
+              "text": "World Central Kitchen fornisce pasti freschi in risposta alle crisi, agendo come prima in prima linea.",
+              "source": "https://www.charitynavigator.org/ein/273521132",
+              "by_org": false
+            },
+            {
+              "text": "L'organizzazione applica un modello di azione rapida, sfruttando le risorse locali e adattandosi in tempo reale per servire pasti in tutto il mondo.",
+              "source": "https://www.charitynavigator.org/ein/273521132",
+              "by_org": false
+            }
+          ],
+          "mission": "Fondata nel 2010 da Chef José Andrés, World Central Kitchen (WCK) è la prima in prima linea a fornire pasti freschi in risposta alle crisi. Applicando il nostro modello di azione rapida, sfruttando le risorse locali e adattandosi in tempo reale, WCK ha servito hundreds of millions di pasti in tutto il mondo.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "World Central Kitchen è stata fondata nel 2010.",
+              "source": "https://www.charitynavigator.org/ein/273521132",
+              "by_org": false
+            }
+          ]
+        },
+        "ja": {
+          "does": [
+            {
+              "text": "World Central Kitchenは危機に対応して新鮮な食事を提供し、最前線に立つ組織です。",
+              "source": "https://www.charitynavigator.org/ein/273521132",
+              "by_org": false
+            },
+            {
+              "text": "World Central Kitchenは迅速な行動モデルを適用し、現地のリソースを活用し、リアルタイムで適応して世界中に食事を提供します。",
+              "source": "https://www.charitynavigator.org/ein/273521132",
+              "by_org": false
+            }
+          ],
+          "mission": "2010年にシェフ・ホセ・アンドレスによって設立されたWorld Central Kitchen (WCK)は、危機に対応して新鮮な食事を提供する最前線に立つ組織です。迅速な行動モデルを適用し、現地のリソースを活用し、リアルタイムで適応することで、WCKは世界中でhundreds of millions の食事を提供してきました。",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "World Central Kitchenは2010年に設立されました。",
+              "source": "https://www.charitynavigator.org/ein/273521132",
+              "by_org": false
+            }
+          ]
+        },
+        "pt": {
+          "does": [
+            {
+              "text": "World Central Kitchen fornece refeições frescas em resposta a crises, atuando como a primeira nas frentes.",
+              "source": "https://www.charitynavigator.org/ein/273521132",
+              "by_org": false
+            },
+            {
+              "text": "A organização aplica um modelo de ação rápida, aproveitando recursos locais e adaptando em tempo real para servir refeições ao redor do mundo.",
+              "source": "https://www.charitynavigator.org/ein/273521132",
+              "by_org": false
+            }
+          ],
+          "mission": "Fundada em 2010 pelo Chef José Andrés, World Central Kitchen (WCK) é a primeira a chegar às frentes, fornecendo refeições frescas em resposta a crises. Aplicando nosso modelo de ação rápida, aproveitando recursos locais e adaptando em tempo real, o WCK já serviu centenas de milhões de refeições ao redor do mundo.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "World Central Kitchen foi fundada em 2010.",
+              "source": "https://www.charitynavigator.org/ein/273521132",
+              "by_org": false
+            }
+          ]
+        },
+        "ru": {
+          "does": [
+            {
+              "text": "World Central Kitchen предоставляет свежие блюда в ответ на кризисы, действуя как первая на передовой.",
+              "source": "https://www.charitynavigator.org/ein/273521132",
+              "by_org": false
+            },
+            {
+              "text": "Организация применяет модель быстрой реакции, используя местные ресурсы и адаптируясь в реальном времени, чтобы обслуживать блюда по всему миру.",
+              "source": "https://www.charitynavigator.org/ein/273521132",
+              "by_org": false
+            }
+          ],
+          "mission": "Основана в 2010 году шеф‑поваром Chef José Andrés, World Central Kitchen (WCK) является первой на передовой, предоставляя свежие блюда в ответ на кризисы. Применяя нашу модель быстрой реакции, используя местные ресурсы и адаптируясь в реальном времени, WCK обслужила сотни миллионов блюд по всему миру.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "World Central Kitchen была основана в 2010 году.",
+              "source": "https://www.charitynavigator.org/ein/273521132",
+              "by_org": false
+            }
+          ]
+        },
+        "zh": {
+          "does": [
+            {
+              "text": "World Central Kitchen 在危机中提供新鲜餐食，充当第一线的角色。",
+              "source": "https://www.charitynavigator.org/ein/273521132",
+              "by_org": false
+            },
+            {
+              "text": "该组织采用快速行动模式，利用当地资源，并实时适应，以在全球提供餐食。",
+              "source": "https://www.charitynavigator.org/ein/273521132",
+              "by_org": false
+            }
+          ],
+          "mission": "2010年由Chef José Andrés创立，World Central Kitchen (WCK) 是第一线提供新鲜餐食以应对危机的组织。我们采用快速行动模式，利用当地资源，并实时适应，WCK 已在全球提供了数以亿计的餐食。",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "World Central Kitchen 成立于2010年。",
+              "source": "https://www.charitynavigator.org/ein/273521132",
+              "by_org": false
+            }
+          ]
+        }
+      },
       "safety": {
         "evaluator": "Charity Navigator",
         "stars": 4,
@@ -4572,7 +5493,58 @@
       "source_url": "https://www.charitynavigator.org/ein/810399818",
       "approved_on": "2026-11-13",
       "review_until": "2026-11-16 07:07 UTC",
-      "translations": {},
+      "translations": {
+        "de": {
+          "text": "Organisation bewertet von Charity Navigator, gefunden von den Agenten mit: 'Every.org: food-security'.",
+          "title": "Unterstützen Sie Flathead Food Bank Inc im Kampf gegen den Hunger",
+          "source": "traduzione AI"
+        },
+        "en": {
+          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'Every.org: food-security'.",
+          "title": "Support Flathead Food Bank Inc against hunger",
+          "source": "originale"
+        },
+        "es": {
+          "text": "Entidad evaluada por Charity Navigator, encontrada por los agentes con: 'Every.org: food-security'.",
+          "title": "Apoya a Flathead Food Bank Inc contra el hambre",
+          "source": "traduzione AI"
+        },
+        "fr": {
+          "text": "Organisation évaluée par Charity Navigator, trouvée par les agents avec : 'Every.org: food-security'.",
+          "title": "Soutenez Flathead Food Bank Inc contre la faim",
+          "source": "traduzione AI"
+        },
+        "hi": {
+          "text": "Charity Navigator द्वारा मूल्यांकित संस्था, एजेंटों द्वारा पाया गया: 'Every.org: food-security'।",
+          "title": "भूख के खिलाफ Flathead Food Bank Inc का समर्थन करें",
+          "source": "traduzione AI"
+        },
+        "it": {
+          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'Every.org: food-security'.",
+          "title": "Sostieni Flathead Food Bank Inc contro la fame",
+          "source": "traduzione AI"
+        },
+        "ja": {
+          "text": "Charity Navigator によって評価された団体で、エージェントが次で見つけました: 'Every.org: food-security'.",
+          "title": "飢餓に対して Flathead Food Bank Inc を支援する",
+          "source": "traduzione AI"
+        },
+        "pt": {
+          "text": "Entidade avaliada pela Charity Navigator, encontrada pelos agentes com: 'Every.org: food-security'.",
+          "title": "Apoie a Flathead Food Bank Inc contra a fome",
+          "source": "traduzione AI"
+        },
+        "ru": {
+          "text": "Организация оценена Charity Navigator, найдена агентами с помощью: 'Every.org: food-security'.",
+          "title": "Поддержите Flathead Food Bank Inc в борьбе с голодом",
+          "source": "traduzione AI"
+        },
+        "zh": {
+          "text": "机构经 Charity Navigator 评估，由代理人发现，使用：“Every.org: food-security”。",
+          "title": "支持 Flathead Food Bank Inc 对抗饥饿",
+          "source": "traduzione AI"
+        }
+      },
       "tranches": [],
       "checks": [
         {
@@ -4770,6 +5742,39 @@
       ],
       "waiting_counter": false,
       "profile": {
+        "de": {
+          "does": [
+            {
+              "text": "Die Flathead Food Bank arbeitet daran, den Hunger im Flathead Valley durch den Zugang zu gesunden, nahrhaften Lebensmitteln zu beseitigen.",
+              "source": "https://flatheadfoodbank.org/",
+              "by_org": true
+            },
+            {
+              "text": "Jeder $1, der an die Organisation gespendet wird, stellt drei Mahlzeiten für Montaner bereit, die mit Ernährungsunsicherheit kämpfen.",
+              "source": "https://flatheadfoodbank.org/",
+              "by_org": true
+            },
+            {
+              "text": "Die Organisation arbeitet gewissenhaft daran, sicherzustellen, dass jeder in der Gemeinschaft Zugang zu gesunden und nahrhaften Lebensmitteln hat.",
+              "source": "https://flatheadfoodbank.org/",
+              "by_org": true
+            }
+          ],
+          "mission": "Den Hunger im Flathead Valley durch kollaborative Partnerschaften beseitigen, die effektive Lösungen schaffen, um Einzelpersonen, Familien und die Gemeinschaft durch den Zugang zu gesunden, nahrhaften Lebensmitteln zu verbinden und zu stärken.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "Der unabhängige Prüfungsbericht stellt die finanzielle Lage der Flathead Food Bank, Inc. zum 31. Dezember 2019 fair dar.",
+              "source": "https://flatheadfoodbank.org/wp-content/uploads/2022/05/2019-Audited-Financial-Statements.pdf",
+              "by_org": true
+            },
+            {
+              "text": "Die Organisation gibt ihre Website im Steuerformular an, um Transparenz zu fördern und der Öffentlichkeit Zugang zu ermöglichen.",
+              "source": "https://www.charitynavigator.org/ein/810399818",
+              "by_org": false
+            }
+          ]
+        },
         "en": {
           "does": [
             {
@@ -4803,6 +5808,237 @@
             {
               "text": "The organization discloses its website on the tax form to promote transparency and provide access to the public.",
               "quote": "Website Reported on Tax Form:Yes SCORE100% Disclosing the charity’s website promotes transparency and provides access to the public.",
+              "source": "https://www.charitynavigator.org/ein/810399818",
+              "by_org": false
+            }
+          ]
+        },
+        "es": {
+          "does": [
+            {
+              "text": "Flathead Food Bank trabaja para eliminar el hambre en el Valle de Flathead mediante el acceso a alimentos saludables y nutritivos.",
+              "source": "https://flatheadfoodbank.org/",
+              "by_org": true
+            },
+            {
+              "text": "Cada $1 contribuido a la organización proporciona tres comidas para Montanans que luchan contra la inseguridad alimentaria.",
+              "source": "https://flatheadfoodbank.org/",
+              "by_org": true
+            },
+            {
+              "text": "La organización trabaja diligentemente para garantizar que todos en la comunidad tengan acceso a alimentos saludables y nutritivos.",
+              "source": "https://flatheadfoodbank.org/",
+              "by_org": true
+            }
+          ],
+          "mission": "Eliminar el hambre en el Valle de Flathead a través de asociaciones colaborativas que crean soluciones efectivas para conectar y fortalecer a individuos, familias y la comunidad mediante el acceso a alimentos saludables y nutritivos.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "El informe del auditor independiente presenta de manera justa la posición financiera de Flathead Food Bank, Inc. as of December 31, 2019.",
+              "source": "https://flatheadfoodbank.org/wp-content/uploads/2022/05/2019-Audited-Financial-Statements.pdf",
+              "by_org": true
+            },
+            {
+              "text": "La organización divulga su sitio web en el formulario fiscal para promover la transparencia y proporcionar acceso al público.",
+              "source": "https://www.charitynavigator.org/ein/810399818",
+              "by_org": false
+            }
+          ]
+        },
+        "fr": {
+          "does": [
+            {
+              "text": "La Flathead Food Bank travaille à éliminer la faim dans la vallée de Flathead grâce à l'accès à une alimentation saine et nutritive.",
+              "source": "https://flatheadfoodbank.org/",
+              "by_org": true
+            },
+            {
+              "text": "Chaque $1 contribué à l'organisation fournit trois repas aux Montanais confrontés à l'insécurité alimentaire.",
+              "source": "https://flatheadfoodbank.org/",
+              "by_org": true
+            },
+            {
+              "text": "L'organisation travaille avec diligence pour garantir que chacun dans la communauté ait accès à des aliments sains et nutritifs.",
+              "source": "https://flatheadfoodbank.org/",
+              "by_org": true
+            }
+          ],
+          "mission": "Éliminer la faim dans la vallée de Flathead grâce à des partenariats collaboratifs créant des solutions efficaces pour connecter et renforcer les individus, les familles et la communauté grâce à l'accès à une alimentation saine et nutritive.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "Le rapport d'audit indépendant présente fidèlement la situation financière de Flathead Food Bank, Inc. au 31 décembre 2019.",
+              "source": "https://flatheadfoodbank.org/wp-content/uploads/2022/05/2019-Audited-Financial-Statements.pdf",
+              "by_org": true
+            },
+            {
+              "text": "L'organisation indique son site web sur le formulaire fiscal afin de promouvoir la transparence et de fournir un accès au public.",
+              "source": "https://www.charitynavigator.org/ein/810399818",
+              "by_org": false
+            }
+          ]
+        },
+        "hi": {
+          "does": [
+            {
+              "text": "Flathead Food Bank स्वस्थ पोषक भोजन तक पहुँच के माध्यम से फ्लैटहेड वैली में भूख को समाप्त करने के लिए काम करता है।",
+              "source": "https://flatheadfoodbank.org/",
+              "by_org": true
+            },
+            {
+              "text": "संगठन को दिया गया प्रत्येक $1 मॉन्टाना के उन लोगों के लिए तीन भोजन प्रदान करता है जो खाद्य असुरक्षा से जूझ रहे हैं।",
+              "source": "https://flatheadfoodbank.org/",
+              "by_org": true
+            },
+            {
+              "text": "संगठन मेहनत से काम करता है ताकि समुदाय में हर व्यक्ति को स्वस्थ और पोषक खाद्य पदार्थों तक पहुँच सुनिश्चित हो सके।",
+              "source": "https://flatheadfoodbank.org/",
+              "by_org": true
+            }
+          ],
+          "mission": "सहयोगी साझेदारियों के माध्यम से फ्लैटहेड वैली में भूख को समाप्त करें, प्रभावी समाधान बनाते हुए व्यक्तियों, परिवारों और समुदाय को स्वस्थ पोषक भोजन तक पहुँच के माध्यम से जोड़ें और सुदृढ़ करें।",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "स्वतंत्र ऑडिटर रिपोर्ट Flathead Food Bank, Inc. की वित्तीय स्थिति को 31 दिसंबर, 2019 तक निष्पक्ष रूप से प्रस्तुत करती है।",
+              "source": "https://flatheadfoodbank.org/wp-content/uploads/2022/05/2019-Audited-Financial-Statements.pdf",
+              "by_org": true
+            },
+            {
+              "text": "संगठन अपनी वेबसाइट को कर फॉर्म पर प्रकट करता है ताकि पारदर्शिता को बढ़ावा दिया जा सके और जनता को पहुँच प्रदान की जा सके।",
+              "source": "https://www.charitynavigator.org/ein/810399818",
+              "by_org": false
+            }
+          ]
+        },
+        "it": {
+          "does": [
+            {
+              "text": "La Flathead Food Bank lavora per eliminare la fame nella Flathead Valley attraverso l'accesso a cibi sani e nutrienti.",
+              "source": "https://flatheadfoodbank.org/",
+              "by_org": true
+            },
+            {
+              "text": "Ogni $1 contribuito all'organizzazione fornisce tre pasti per i Montanans che lottano contro l'insicurezza alimentare.",
+              "source": "https://flatheadfoodbank.org/",
+              "by_org": true
+            },
+            {
+              "text": "L'organizzazione lavora diligentemente per garantire che tutti nella comunità abbiano accesso a cibi sani e nutrienti.",
+              "source": "https://flatheadfoodbank.org/",
+              "by_org": true
+            }
+          ],
+          "mission": "Eliminare la fame nella Flathead Valley attraverso partnership collaborative che creano soluzioni efficaci per connettere e rafforzare individui, famiglie e la comunità mediante l'accesso a cibi sani e nutrienti.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "Il rapporto dell'auditor indipendente presenta in modo corretto la posizione finanziaria di Flathead Food Bank, Inc. al 31 dicembre 2019.",
+              "source": "https://flatheadfoodbank.org/wp-content/uploads/2022/05/2019-Audited-Financial-Statements.pdf",
+              "by_org": true
+            },
+            {
+              "text": "L'organizzazione dichiara il proprio sito web nel modulo fiscale per promuovere la trasparenza e fornire accesso al pubblico.",
+              "source": "https://www.charitynavigator.org/ein/810399818",
+              "by_org": false
+            }
+          ]
+        },
+        "pt": {
+          "does": [
+            {
+              "text": "O Flathead Food Bank trabalha para eliminar a fome no Vale Flathead por meio do acesso a alimentos saudáveis e nutritivos.",
+              "source": "https://flatheadfoodbank.org/",
+              "by_org": true
+            },
+            {
+              "text": "Cada $1 contribuído para a organização fornece três refeições para Montanans que enfrentam insegurança alimentar.",
+              "source": "https://flatheadfoodbank.org/",
+              "by_org": true
+            },
+            {
+              "text": "A organização trabalha diligentemente para garantir que todos na comunidade tenham acesso a alimentos saudáveis e nutritivos.",
+              "source": "https://flatheadfoodbank.org/",
+              "by_org": true
+            }
+          ],
+          "mission": "Eliminar a fome no Vale Flathead através de parcerias colaborativas que criam soluções eficazes para conectar e fortalecer indivíduos, famílias e a comunidade por meio do acesso a alimentos saudáveis e nutritivos.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "O relatório do auditor independente apresenta de forma justa a posição financeira da Flathead Food Bank, Inc. em 31 de dezembro de 2019.",
+              "source": "https://flatheadfoodbank.org/wp-content/uploads/2022/05/2019-Audited-Financial-Statements.pdf",
+              "by_org": true
+            },
+            {
+              "text": "A organização divulga seu site no formulário fiscal para promover transparência e proporcionar acesso ao público.",
+              "source": "https://www.charitynavigator.org/ein/810399818",
+              "by_org": false
+            }
+          ]
+        },
+        "ru": {
+          "does": [
+            {
+              "text": "Flathead Food Bank работает над искоренением голода в Flathead Valley посредством доступа к здоровой питательной еде.",
+              "source": "https://flatheadfoodbank.org/",
+              "by_org": true
+            },
+            {
+              "text": "Каждый $1, внесённый в организацию, обеспечивает три приёма пищи для монтанцев, сталкивающихся с продовольственной небезопасностью.",
+              "source": "https://flatheadfoodbank.org/",
+              "by_org": true
+            },
+            {
+              "text": "Организация усердно работает, чтобы каждый в сообществе имел доступ к здоровой и питательной еде.",
+              "source": "https://flatheadfoodbank.org/",
+              "by_org": true
+            }
+          ],
+          "mission": "Исключить голод в Flathead Valley через совместные партнёрства, создающие эффективные решения для соединения и укрепления отдельных лиц, семей и сообщества посредством доступа к здоровой питательной еде.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "Отчёт независимого аудитора достоверно представляет финансовое положение Flathead Food Bank, Inc. по состоянию на December 31, 2019.",
+              "source": "https://flatheadfoodbank.org/wp-content/uploads/2022/05/2019-Audited-Financial-Statements.pdf",
+              "by_org": true
+            },
+            {
+              "text": "Организация указывает свой веб‑сайт в налоговой форме, чтобы способствовать прозрачности и предоставить доступ общественности.",
+              "source": "https://www.charitynavigator.org/ein/810399818",
+              "by_org": false
+            }
+          ]
+        },
+        "zh": {
+          "does": [
+            {
+              "text": "Flathead Food Bank致力于通过获取健康营养的食物，消除Flathead Valley的饥饿。",
+              "source": "https://flatheadfoodbank.org/",
+              "by_org": true
+            },
+            {
+              "text": "每捐赠$1，可为面临食品不安全的Montanans提供三餐。",
+              "source": "https://flatheadfoodbank.org/",
+              "by_org": true
+            },
+            {
+              "text": "该组织勤勉工作，确保社区中的每个人都能获取健康且营养的食物。",
+              "source": "https://flatheadfoodbank.org/",
+              "by_org": true
+            }
+          ],
+          "mission": "通过协作伙伴关系，创造有效的解决方案，以连接和加强个人、家庭和社区，通过获取健康营养的食物，消除Flathead Valley的饥饿。",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "独立审计报告如实呈现截至December 31, 2019的Flathead Food Bank, Inc.的财务状况。",
+              "source": "https://flatheadfoodbank.org/wp-content/uploads/2022/05/2019-Audited-Financial-Statements.pdf",
+              "by_org": true
+            },
+            {
+              "text": "该组织在税表上披露其网站，以促进透明度并向公众提供访问渠道。",
               "source": "https://www.charitynavigator.org/ein/810399818",
               "by_org": false
             }
@@ -5455,7 +6691,58 @@
       "source_url": "https://www.charitynavigator.org/ein/930793059",
       "approved_on": "2026-11-13",
       "review_until": "2026-11-16 07:06 UTC",
-      "translations": {},
+      "translations": {
+        "de": {
+          "text": "Organisation bewertet von Charity Navigator, gefunden von den Agenten mit: 'Every.org: food-security'.",
+          "title": "Unterstützen Sie Food Share Of Lincoln County gegen den Hunger",
+          "source": "traduzione AI"
+        },
+        "en": {
+          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'Every.org: food-security'.",
+          "title": "Support Food Share Of Lincoln County against hunger",
+          "source": "originale"
+        },
+        "es": {
+          "text": "Entidad evaluada por Charity Navigator, encontrada por los agentes con: 'Every.org: food-security'.",
+          "title": "Apoya Food Share Of Lincoln County contra el hambre",
+          "source": "traduzione AI"
+        },
+        "fr": {
+          "text": "Organisation évaluée par Charity Navigator, trouvée par les agents avec : 'Every.org: food-security'.",
+          "title": "Soutenez Food Share Of Lincoln County contre la faim",
+          "source": "traduzione AI"
+        },
+        "hi": {
+          "text": "Charity Navigator द्वारा मूल्यांकित संस्था, एजेंटों द्वारा मिली: 'Every.org: food-security'।",
+          "title": "भूख के खिलाफ Food Share Of Lincoln County का समर्थन करें",
+          "source": "traduzione AI"
+        },
+        "it": {
+          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'Every.org: food-security'.",
+          "title": "Sostieni Food Share Of Lincoln County contro la fame",
+          "source": "traduzione AI"
+        },
+        "ja": {
+          "text": "Charity Navigator によって評価された団体で、エージェントが次で見つけました: 'Every.org: food-security'.",
+          "title": "飢餓に対して Food Share Of Lincoln County を支援する",
+          "source": "traduzione AI"
+        },
+        "pt": {
+          "text": "Entidade avaliada pela Charity Navigator, encontrada pelos agentes com: 'Every.org: food-security'.",
+          "title": "Apoie Food Share Of Lincoln County contra a fome",
+          "source": "traduzione AI"
+        },
+        "ru": {
+          "text": "Организация, оцененная Charity Navigator, найденная агентами с: 'Every.org: food-security'.",
+          "title": "Поддержите Food Share Of Lincoln County в борьбе с голодом",
+          "source": "traduzione AI"
+        },
+        "zh": {
+          "text": "机构由 Charity Navigator 评估，已被代理人通过以下方式找到：'Every.org: food-security'。",
+          "title": "支持 Food Share Of Lincoln County 抗击饥饿",
+          "source": "traduzione AI"
+        }
+      },
       "tranches": [],
       "checks": [
         {
@@ -5653,6 +6940,49 @@
       ],
       "waiting_counter": false,
       "profile": {
+        "de": {
+          "does": [
+            {
+              "text": "Die Organisation verteilt Notfall-Lebensmittelboxen über ein Netzwerk von seven angeschlossenen Tafeln im gesamten Lincoln County.",
+              "source": "https://foodsharelc.org/about-us/",
+              "by_org": true
+            },
+            {
+              "text": "Die Wohltätigkeitsorganisation verteilt jährlich über 1,000,000 Pfund Lebensmittel, was 4,000,000 Mahlzeiten entspricht, aus verschiedenen Lieferquellen.",
+              "source": "https://foodsharelc.org/about-us/",
+              "by_org": true
+            },
+            {
+              "text": "Die Einheit stellt Lebensmittel und gespendete Gegenstände lokalen Partneragenturen zur Verfügung, um deren Betriebsbudgets zu erweitern.",
+              "source": "https://foodsharelc.org/about-us/",
+              "by_org": true
+            },
+            {
+              "text": "Die Organisation sammelt und verteilt Lebensmittel über Agenturnetzwerke und bietet gleichzeitig temporäre Unterstützung für Einzelpersonen und Familien.",
+              "source": "https://www.charitynavigator.org/ein/930793059",
+              "by_org": false
+            }
+          ],
+          "mission": "UM HUNGER IM LINCOLN COUNTY ZU LINDERN, INDEM Nahrungsmittel ANGEFORDERT, GESAMMELT UND ÜBER EIN NETZWERK VON AGENTUREN VERTEILT WERDEN. UM TEMPORÄRE DIENSTLEISTUNGEN FÜR EINZELPERSONEN UND FAMILIEN IN NOTLAGEN ZU BEREITEN. UM KLIENTEN ZU HILFEN, SELBSTVERSTÄNDIGER ZU WERDEN UND DAS BEWUSSTSEIN DER GEMEINSCHAFT FÜR HUNGER ZU STEIGERN.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "Die Organisation leitet seit 1982 die Bemühungen zur Beseitigung von Hunger in der Gemeinschaft von Lincoln County.",
+              "source": "https://foodsharelc.org/about-us/",
+              "by_org": true
+            },
+            {
+              "text": "Die Organisation stellt auf ihrer Website öffentlichen Zugang zu ihrem jährlichen IRS Tax Form 990 bereit.",
+              "source": "https://foodsharelc.org/about-us/",
+              "by_org": true
+            },
+            {
+              "text": "Die Wohltätigkeitsorganisation bietet öffentlichen Zugang zu ihrem Jahresbericht für das Geschäftsjahr 2023.",
+              "source": "https://foodsharelc.org/about-us/",
+              "by_org": true
+            }
+          ]
+        },
         "en": {
           "does": [
             {
@@ -5698,6 +7028,350 @@
             {
               "text": "The charity provides public access to its annual report for Fiscal Year 2023.",
               "quote": "The FSLC Annual Report for Fiscal Year 2023 can be accessed with the button below.",
+              "source": "https://foodsharelc.org/about-us/",
+              "by_org": true
+            }
+          ]
+        },
+        "es": {
+          "does": [
+            {
+              "text": "La organización distribuye cajas de alimentos de emergencia a través de una red de seven despensas afiliadas en Lincoln County.",
+              "source": "https://foodsharelc.org/about-us/",
+              "by_org": true
+            },
+            {
+              "text": "La organización benéfica distribuye más de 1,000,000 libras de alimentos, equivalentes a 4,000,000 comidas, cada año de diversas fuentes de suministro.",
+              "source": "https://foodsharelc.org/about-us/",
+              "by_org": true
+            },
+            {
+              "text": "La entidad proporciona alimentos y artículos donados a agencias locales asociadas para ayudar a ampliar sus presupuestos operativos.",
+              "source": "https://foodsharelc.org/about-us/",
+              "by_org": true
+            },
+            {
+              "text": "La organización recoge y distribuye alimentos a través de redes de agencias mientras brinda asistencia temporal a individuos y familias.",
+              "source": "https://www.charitynavigator.org/ein/930793059",
+              "by_org": false
+            }
+          ],
+          "mission": "PARA ALIVIAR EL HAMBRE EN LINCOLN COUNTY SOLICITANDO, RECOGIENDO Y DISTRIBUYENDO ALIMENTOS A TRAVÉS DE UNA RED DE AGENCIAS. PARA PROPORCIONAR SERVICIOS TEMPORALES A INDIVIDUOS Y FAMILIAS EN MOMENTOS DE NECESIDAD. PARA AYUDAR A LOS CLIENTES A VOLVERSE MÁS AUTOSUFICIENTES Y AUMENTAR LA CONCIENCIA COMUNITARIA SOBRE EL HAMBRE.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "La organización ha liderado los esfuerzos de eliminación del hambre comunitaria en Lincoln County desde 1982.",
+              "source": "https://foodsharelc.org/about-us/",
+              "by_org": true
+            },
+            {
+              "text": "La organización mantiene el acceso público a su formulario anual IRS Tax Form 990 en su sitio web.",
+              "source": "https://foodsharelc.org/about-us/",
+              "by_org": true
+            },
+            {
+              "text": "La organización benéfica brinda acceso público a su informe anual del año fiscal 2023.",
+              "source": "https://foodsharelc.org/about-us/",
+              "by_org": true
+            }
+          ]
+        },
+        "fr": {
+          "does": [
+            {
+              "text": "L'organisation distribue des boîtes alimentaires d'urgence via un réseau de sept épiceries associées à travers le comté de Lincoln.",
+              "source": "https://foodsharelc.org/about-us/",
+              "by_org": true
+            },
+            {
+              "text": "La charité distribue plus de 1,000,000 livres de nourriture, équivalant à 4,000,000 repas, chaque année provenant de diverses sources d'approvisionnement.",
+              "source": "https://foodsharelc.org/about-us/",
+              "by_org": true
+            },
+            {
+              "text": "L'entité fournit de la nourriture et des articles donnés aux agences partenaires locales pour aider à étendre leurs budgets opérationnels.",
+              "source": "https://foodsharelc.org/about-us/",
+              "by_org": true
+            },
+            {
+              "text": "L'organisation collecte et distribue de la nourriture via des réseaux d'agences tout en fournissant une assistance temporaire aux individus et aux familles.",
+              "source": "https://www.charitynavigator.org/ein/930793059",
+              "by_org": false
+            }
+          ],
+          "mission": "ALLEVIER LA FAMÉE DANS LE COMTÉ DE LINCOLN EN SOLLICITANT, COLLECTANT ET DISTRIBUANT DE LA NOURRITURE PAR LE BORD D'UN RÉSEAU D'AGENCES. FOURNIR DES SERVICES TEMPORAIRE AUX INDIVIDUS ET AUX FAMILLES EN CAS DE BESOIN. AIDER LES CLIENTS À DEVENIR PLUS AUTONOMES ET AUGMENTER LA CONSCIENCE COMMUNAUTAIRE DE LA FAMÉE.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "L'organisation dirige les efforts d'élimination de la faim communautaire dans le comté de Lincoln depuis 1982.",
+              "source": "https://foodsharelc.org/about-us/",
+              "by_org": true
+            },
+            {
+              "text": "L'organisation maintient l'accès public à son IRS Tax Form 990 sur son site Web.",
+              "source": "https://foodsharelc.org/about-us/",
+              "by_org": true
+            },
+            {
+              "text": "La charité fournit un accès public à son rapport annuel pour l'exercice fiscal 2023.",
+              "source": "https://foodsharelc.org/about-us/",
+              "by_org": true
+            }
+          ]
+        },
+        "hi": {
+          "does": [
+            {
+              "text": "संगठन लिंकन काउंटी में सात संबद्ध पैंट्रीज़ के नेटवर्क के माध्यम से आपातकालीन खाद्य बॉक्स वितरित करता है।",
+              "source": "https://foodsharelc.org/about-us/",
+              "by_org": true
+            },
+            {
+              "text": "चैरिटी प्रत्येक वर्ष विभिन्न आपूर्ति स्रोतों से 1,000,000 पाउंड से अधिक भोजन वितरित करती है, जो 4,000,000 भोजन के बराबर है।",
+              "source": "https://foodsharelc.org/about-us/",
+              "by_org": true
+            },
+            {
+              "text": "इकाई स्थानीय साझेदार एजेंसियों को भोजन और दान किए गए सामान प्रदान करती है ताकि उनके संचालन बजट को बढ़ाया जा सके।",
+              "source": "https://foodsharelc.org/about-us/",
+              "by_org": true
+            },
+            {
+              "text": "संगठन एजेंसी नेटवर्क के माध्यम से भोजन एकत्रित और वितरित करता है, साथ ही व्यक्तियों और परिवारों को अस्थायी सहायता प्रदान करता है।",
+              "source": "https://www.charitynavigator.org/ein/930793059",
+              "by_org": false
+            }
+          ],
+          "mission": "लिंकन काउंटी में भूख को कम करने के लिए एजेंसियों के नेटवर्क के माध्यम से भोजन का अनुरोध, संग्रह और वितरण किया जाता है। आवश्यकता के समय व्यक्तियों और परिवारों को अस्थायी सेवाएँ प्रदान की जाती हैं। ग्राहकों को अधिक आत्मनिर्भर बनने में सहायता करना और समुदाय में भूख के प्रति जागरूकता बढ़ाना।",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "संगठन 1982 से लिंकन काउंटी में सामुदायिक भूख उन्मूलन प्रयासों का नेतृत्व कर रहा है।",
+              "source": "https://foodsharelc.org/about-us/",
+              "by_org": true
+            },
+            {
+              "text": "संगठन अपनी वेबसाइट पर वार्षिक IRS टैक्स फॉर्म 990 के सार्वजनिक अभिगम को बनाए रखता है।",
+              "source": "https://foodsharelc.org/about-us/",
+              "by_org": true
+            },
+            {
+              "text": "चैरिटी वित्तीय वर्ष 2023 की अपनी वार्षिक रिपोर्ट के सार्वजनिक अभिगम को प्रदान करती है।",
+              "source": "https://foodsharelc.org/about-us/",
+              "by_org": true
+            }
+          ]
+        },
+        "it": {
+          "does": [
+            {
+              "text": "L'organizzazione distribuisce scatole di cibo di emergenza attraverso una rete di sette dispense affiliate in tutta Lincoln County.",
+              "source": "https://foodsharelc.org/about-us/",
+              "by_org": true
+            },
+            {
+              "text": "L'associazione distribuisce oltre 1,000,000 libbre di cibo, equivalenti a 4,000,000 pasti, ogni anno da varie fonti di approvvigionamento.",
+              "source": "https://foodsharelc.org/about-us/",
+              "by_org": true
+            },
+            {
+              "text": "L'entità fornisce cibo e articoli donati alle agenzie partner locali per aiutare ad estendere i loro budget operativi.",
+              "source": "https://foodsharelc.org/about-us/",
+              "by_org": true
+            },
+            {
+              "text": "L'organizzazione raccoglie e distribuisce cibo attraverso reti di agenzie fornendo assistenza temporanea a individui e famiglie.",
+              "source": "https://www.charitynavigator.org/ein/930793059",
+              "by_org": false
+            }
+          ],
+          "mission": "PER ALLEVIARE LA FAME NELLA CONTEA DI LINCOLN RICHIEDENDO, RACCOGLIENDO E DISTRIBUENDO CIBO ATTRAVERSO UNA RETE DI AGENZIE. PER FORNIRE SERVIZI TEMPORANEI A PERSONE E FAMIGLIE IN MOMENTO DI NECESSITÀ. PER AIUTARE I CLIENTI A DIVENTARE PIÙ AUTOSUFFICIENTI E AUMENTARE LA CONSAPEVOLEZZA DELLA COMUNITÀ SULLA FAME.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "L'organizzazione guida gli sforzi di eliminazione della fame nella comunità di Lincoln County dal 1982.",
+              "source": "https://foodsharelc.org/about-us/",
+              "by_org": true
+            },
+            {
+              "text": "L'organizzazione mantiene l'accesso pubblico al suo modulo annuale IRS Tax Form 990 sul suo sito web.",
+              "source": "https://foodsharelc.org/about-us/",
+              "by_org": true
+            },
+            {
+              "text": "L'associazione fornisce l'accesso pubblico al suo rapporto annuale per Fiscal Year 2023.",
+              "source": "https://foodsharelc.org/about-us/",
+              "by_org": true
+            }
+          ]
+        },
+        "ja": {
+          "does": [
+            {
+              "text": "この組織は、Lincoln County全域にある7つの提携パントリーのネットワークを通じて緊急食料ボックスを配布します。",
+              "source": "https://foodsharelc.org/about-us/",
+              "by_org": true
+            },
+            {
+              "text": "この慈善団体は、さまざまな供給源から毎年1,000,000 poundsの食料を配布し、これは4,000,000 mealsに相当します。",
+              "source": "https://foodsharelc.org/about-us/",
+              "by_org": true
+            },
+            {
+              "text": "この団体は、地元のパートナー機関に食料と寄付品を提供し、運営予算の拡大を支援します。",
+              "source": "https://foodsharelc.org/about-us/",
+              "by_org": true
+            },
+            {
+              "text": "この組織は、エージェンシーネットワークを通じて食料を収集・配布し、個人や家族に一時的な支援を提供します。",
+              "source": "https://www.charitynavigator.org/ein/930793059",
+              "by_org": false
+            }
+          ],
+          "mission": "LINCOLN COUNTYで飢餓を緩和するために、エージェンシーのネットワークを通じて食料を募集・収集・配布します。必要な時に個人や家族に一時的な支援を提供します。クライアントがより自立できるよう支援し、飢餓に対する地域の認識を高めます。",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "この組織は、1982年からLincoln Countyで地域の飢餓撲滅活動を主導しています。",
+              "source": "https://foodsharelc.org/about-us/",
+              "by_org": true
+            },
+            {
+              "text": "この組織は、ウェブサイト上で年次IRS Tax Form 990への公開アクセスを維持しています。",
+              "source": "https://foodsharelc.org/about-us/",
+              "by_org": true
+            },
+            {
+              "text": "この慈善団体は、Fiscal Year 2023の年次報告書への公開アクセスを提供します。",
+              "source": "https://foodsharelc.org/about-us/",
+              "by_org": true
+            }
+          ]
+        },
+        "pt": {
+          "does": [
+            {
+              "text": "A organização distribui caixas de alimentos de emergência por meio de uma rede de sete despensas afiliadas em todo o Condado de Lincoln.",
+              "source": "https://foodsharelc.org/about-us/",
+              "by_org": true
+            },
+            {
+              "text": "A caridade distribui mais de 1,000,000 libras de alimentos, equivalendo a 4,000,000 refeições, a cada ano, de diversas fontes de suprimento.",
+              "source": "https://foodsharelc.org/about-us/",
+              "by_org": true
+            },
+            {
+              "text": "A entidade fornece alimentos e itens doados a agências parceiras locais para ajudar a ampliar seus orçamentos operacionais.",
+              "source": "https://foodsharelc.org/about-us/",
+              "by_org": true
+            },
+            {
+              "text": "A organização coleta e distribui alimentos por meio de redes de agências enquanto oferece assistência temporária a indivíduos e famílias.",
+              "source": "https://www.charitynavigator.org/ein/930793059",
+              "by_org": false
+            }
+          ],
+          "mission": "ALMEJAR A FOME NO CONDADO DE LINCOLN SOLICITANDO, COLETANDO E DISTRIBUINDO ALIMENTOS ATRAVÉS DE UMA REDE DE AGÊNCIAS. PROVER SERVIÇOS TEMPORÁRIOS A INDIVIDUOS E FAMÍLIAS EM TEMPOS DE NECESSIDADE. AUXILIAR CLIENTES A SE TORNAR MAIS AUTONÔMOS E AUMENTAR A CONSCIENTIZAÇÃO COMUNITÁRIA SOBRE A FOME.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "A organização tem liderado os esforços de eliminação da fome na comunidade do Condado de Lincoln desde 1982.",
+              "source": "https://foodsharelc.org/about-us/",
+              "by_org": true
+            },
+            {
+              "text": "A organização mantém acesso público ao seu Formulário de Imposto de Renda 990 anual no site.",
+              "source": "https://foodsharelc.org/about-us/",
+              "by_org": true
+            },
+            {
+              "text": "A caridade fornece acesso público ao seu relatório anual para o Ano Fiscal de 2023.",
+              "source": "https://foodsharelc.org/about-us/",
+              "by_org": true
+            }
+          ]
+        },
+        "ru": {
+          "does": [
+            {
+              "text": "Организация распределяет экстренные продовольственные коробки через сеть из семи аффилированных продовольственных пунктов по всему Lincoln County.",
+              "source": "https://foodsharelc.org/about-us/",
+              "by_org": true
+            },
+            {
+              "text": "Благотворительная организация распределяет более 1,000,000 фунтов продовольствия, что эквивалентно 4,000,000 приемам пищи, каждый год из различных источников поставок.",
+              "source": "https://foodsharelc.org/about-us/",
+              "by_org": true
+            },
+            {
+              "text": "Субъект предоставляет продовольствие и пожертвованные предметы местным партнерским агентствам, чтобы помочь расширить их операционные бюджеты.",
+              "source": "https://foodsharelc.org/about-us/",
+              "by_org": true
+            },
+            {
+              "text": "Организация собирает и распределяет продовольствие через сети агентств, одновременно предоставляя временную помощь отдельным лицам и семьям.",
+              "source": "https://www.charitynavigator.org/ein/930793059",
+              "by_org": false
+            }
+          ],
+          "mission": "Для снижения голода в Lincoln County путем привлечения, сбора и распределения продовольствия через сеть агентств. Для предоставления временных услуг отдельным лицам и семьям в период необходимости. Для помощи клиентам стать более самодостаточными и повышения осведомленности сообщества о голоде.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "Организация возглавляет усилия по искоренению голода в сообществе Lincoln County с 1982 года.",
+              "source": "https://foodsharelc.org/about-us/",
+              "by_org": true
+            },
+            {
+              "text": "Организация поддерживает публичный доступ к своей ежегодной форме IRS Tax Form 990 на своем веб-сайте.",
+              "source": "https://foodsharelc.org/about-us/",
+              "by_org": true
+            },
+            {
+              "text": "Благотворительная организация предоставляет публичный доступ к своему ежегодному отчету за Fiscal Year 2023.",
+              "source": "https://foodsharelc.org/about-us/",
+              "by_org": true
+            }
+          ]
+        },
+        "zh": {
+          "does": [
+            {
+              "text": "该组织通过覆盖林肯县七个关联食品储藏室的网络分发紧急食品盒。",
+              "source": "https://foodsharelc.org/about-us/",
+              "by_org": true
+            },
+            {
+              "text": "该慈善机构每年从各类供应来源分发超过1,000,000磅的食物，相当于4,000,000餐。",
+              "source": "https://foodsharelc.org/about-us/",
+              "by_org": true
+            },
+            {
+              "text": "该实体向当地合作机构提供食物和捐赠物品，以帮助扩大其运营预算。",
+              "source": "https://foodsharelc.org/about-us/",
+              "by_org": true
+            },
+            {
+              "text": "该组织通过机构网络收集并分发食物，同时为个人和家庭提供临时援助。",
+              "source": "https://www.charitynavigator.org/ein/930793059",
+              "by_org": false
+            }
+          ],
+          "mission": "通过与机构网络合作，征求、收集并分发食物，以缓解林肯县的饥饿问题。为个人和家庭在需要时提供临时服务。帮助客户变得更自给自足，并提高社区对饥饿的认识。",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "该组织自1982年以来一直领导林肯县的社区消除饥饿工作。",
+              "source": "https://foodsharelc.org/about-us/",
+              "by_org": true
+            },
+            {
+              "text": "该组织在其网站上提供年度IRS税表990的公开访问。",
+              "source": "https://foodsharelc.org/about-us/",
+              "by_org": true
+            },
+            {
+              "text": "该慈善机构提供2023财年的年度报告公开访问。",
               "source": "https://foodsharelc.org/about-us/",
               "by_org": true
             }
@@ -6427,11 +8101,11 @@
     "costs": {
       "USD": 8.5
     },
-    "ai_calls": 789,
+    "ai_calls": 892,
     "ai_cost_real_usd": 0.0,
-    "ai_value_offered_usd": 5.438859,
-    "candidates_examined": 51,
-    "candidates_discarded": 27
+    "ai_value_offered_usd": 5.507425,
+    "candidates_examined": 52,
+    "candidates_discarded": 28
   },
   "agent_program": {
     "join": "https://aiagainsthunger.org/en/agents.html",
