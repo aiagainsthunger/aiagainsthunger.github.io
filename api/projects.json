@@ -1,660 +1,6 @@
 {
-  "generated_at": "2026-11-12T22:04:18.556278+00:00",
+  "generated_at": "2026-11-13T06:58:44.351388+00:00",
   "projects": [
-    {
-      "slug": "support-oregon-food-bank-inc-against-hunger-1992",
-      "title": "Support Oregon Food Bank Inc against hunger",
-      "description": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'site:charitynavigator.org Rating for ending hunger'.",
-      "org_name": "Oregon Food Bank Inc",
-      "org_country": "US",
-      "org_website": "https://oregonfoodbank.org/",
-      "country": "US",
-      "currency": "USD",
-      "goal": 5000.0,
-      "raised": 0.0,
-      "donated": 0.0,
-      "status": "attiva",
-      "donation_url": "https://www.every.org/oregon-food-bank/f/ai-against-hunger-for",
-      "source_url": "https://www.charitynavigator.org/ein/930785786",
-      "approved_on": "2026-11-08",
-      "review_until": null,
-      "translations": {
-        "de": {
-          "text": "Organisation bewertet von Charity Navigator, gefunden von den Agenten mit: 'site:charitynavigator.org Rating for ending hunger'.",
-          "title": "Unterstützen Sie Oregon Food Bank Inc im Kampf gegen den Hunger",
-          "source": "traduzione AI"
-        },
-        "en": {
-          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'site:charitynavigator.org Rating for ending hunger'.",
-          "title": "Support Oregon Food Bank Inc against hunger",
-          "source": "originale"
-        },
-        "es": {
-          "text": "Entidad evaluada por Charity Navigator, encontrada por los agentes con: 'site:charitynavigator.org Rating for ending hunger'.",
-          "title": "Apoya a Oregon Food Bank Inc contra el hambre",
-          "source": "traduzione AI"
-        },
-        "fr": {
-          "text": "Organisation évaluée par Charity Navigator, trouvée par les agents avec : 'site:charitynavigator.org Rating for ending hunger'.",
-          "title": "Soutenez Oregon Food Bank Inc contre la faim",
-          "source": "traduzione AI"
-        },
-        "hi": {
-          "text": "Charity Navigator द्वारा मूल्यांकित संस्था, एजेंटों द्वारा इसके साथ खोजी गई: 'site:charitynavigator.org Rating for ending hunger'.",
-          "title": "भूख के खिलाफ Oregon Food Bank Inc का समर्थन करें",
-          "source": "traduzione AI"
-        },
-        "it": {
-          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'site:charitynavigator.org Rating for ending hunger'.",
-          "title": "Sostieni Oregon Food Bank Inc contro la fame",
-          "source": "traduzione AI"
-        },
-        "ja": {
-          "text": "Charity Navigator によって評価された団体。エージェントが次の検索で発見しました: 'site:charitynavigator.org Rating for ending hunger'。",
-          "title": "飢餓と戦う Oregon Food Bank Inc への支援",
-          "source": "traduzione AI"
-        },
-        "pt": {
-          "text": "Entidade avaliada pela Charity Navigator, encontrada pelos agentes com: 'site:charitynavigator.org Rating for ending hunger'.",
-          "title": "Apoie a Oregon Food Bank Inc contra a fome",
-          "source": "traduzione AI"
-        },
-        "ru": {
-          "text": "Организация, оцененная Charity Navigator, найденная агентами с помощью: 'site:charitynavigator.org Rating for ending hunger'.",
-          "title": "Поддержите Oregon Food Bank Inc в борьбе с голодом",
-          "source": "traduzione AI"
-        },
-        "zh": {
-          "text": "由 Charity Navigator 评估的机构，代理人通过以下方式找到：'site:charitynavigator.org Rating for ending hunger'。",
-          "title": "支持 Oregon Food Bank Inc 对抗饥饿",
-          "source": "traduzione AI"
-        }
-      },
-      "tranches": [
-        {
-          "number": 1,
-          "goal": 2000.0,
-          "status": "aperta"
-        }
-      ],
-      "checks": [
-        {
-          "verifier": "regole",
-          "check_type": "ammissibilita",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Regole di ammissibilità (config/regole.yaml):\n✓ fonte ammessa: fonte 'valutatore'\n✓ ente registrato nel database: Oregon Food Bank Inc\n✓ codice fiscale verificato (IRS): EIN 930785786\n✓ ente valutato dal valutatore: Charity Navigator\n✓ voto del valutatore: 100%, 4 stelle su 4 (minimo 4 stelle e 90%)\n✓ anni di bilanci ufficiali: 12 anni [2019, 2020, 2021, 2022, 2023] (minimo 3)\n✓ tema fame / nutrizione: categoria IRS - (richiesta ['K']); tema nel nome: True",
-          "source_url": "https://www.charitynavigator.org/ein/930785786"
-        },
-        {
-          "verifier": "regole",
-          "check_type": "ammissibilita",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "✓ valutatore indipendente tra le prove: 2 pagine di valutatori (https://www.charitynavigator.org/ein/930785786, https://charitywatch.org/); minimo 1",
-          "source_url": "https://www.charitynavigator.org/ein/930785786"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "registrazione",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "L'ente Oregon Food Bank Inc è ufficialmente registrato negli Stati Uniti come 501(c)(3) con EIN 930785786 e data di riconoscimento IRS 01/02/1982.",
-          "source_url": "https://www.charitynavigator.org/ein/930785786"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "bilanci",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Sono presenti bilanci pubblici trasparenti e rendiconti IRS Form 990 continui per vari anni fino al 2023, attestanti entrate per oltre 108 milioni di dollari.",
-          "source_url": "https://www.charitynavigator.org/ein/930785786"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "valutazione_indipendente",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "L'ente ha ottenuto il punteggio massimo ('100% Four-Star Charity') dal valutatore indipendente Charity Navigator.",
-          "source_url": "https://www.charitynavigator.org/ein/930785786"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "coerenza_importo",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "L'obiettivo di raccolta previsto di 5.000 USD è del tutto commisurato e coerente rispetto al bilancio operativo annuale di oltre 100 milioni di dollari.",
-          "source_url": "https://www.charitynavigator.org/ein/930785786"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "storico_progetti",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "L'organizzazione opera dal 1982 gestendo una vasta rete statale di assistenza alimentare in Oregon e nello stato di Washington.",
-          "source_url": "https://www.charitynavigator.org/ein/930785786"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "segnali_allarme",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Dall'analisi delle fonti e dei dati ufficiali non emerge alcun segnale d'allarme, anomalia o notizia negativa a carico dell'ente.",
-          "source_url": "https://www.charitynavigator.org/ein/930785786"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "conflitti_interesse",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
-          "source_url": "config/conflitti.yaml"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "registrazione",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Ente registrato come 501(c)(3) con EIN 930785786 su ProPublica",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/930785786"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "bilanci",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Form 990 disponibili per gli anni 2018‑2023 su ProPublica",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/930785786"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "valutazione_indipendente",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Charity Navigator assegna Four‑Star rating",
-          "source_url": "https://www.charitynavigator.org/ein/930785786"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "coerenza_importo",
-          "outcome": "incerto",
-          "blocking": false,
-          "evidence": "Importo richiesto non indicato; impossibile valutare coerenza con dimensioni dell'ente",
-          "source_url": null
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "storico_progetti",
-          "outcome": "incerto",
-          "blocking": false,
-          "evidence": "Sito mostra attività correnti ma non documenta progetti conclusi",
-          "source_url": "https://www.oregonfoodbank.org"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "segnali_allarme",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun segnale di allarme rilevato nelle prove fornite",
-          "source_url": "https://www.charitynavigator.org/ein/930785786"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "conflitti_interesse",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
-          "source_url": "config/conflitti.yaml"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "registrazione",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "L'ente Oregon Food Bank Inc risulta registrato come organizzazione 501(c)(3) con EIN 930785786, riconosciuto dall'IRS dal 1982. La sede è a Portland, OR.",
-          "source_url": "https://www.charitynavigator.org/ein/930785786"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "bilanci",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Sono disponibili i bilanci pubblici (Form 990) per gli ultimi 12 anni (2012-2023) su ProPublica Nonprofit Explorer, con dati dettagliati su entrate e spese.",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/930785786"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "valutazione_indipendente",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Charity Navigator assegna la valutazione 'Four-Star Charity' (100%) all'ente, indicando un'eccellente performance in termini di accountability e finanza.",
-          "source_url": "https://www.charitynavigator.org/ein/930785786"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "coerenza_importo",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "L'obiettivo di raccolta di 5000 USD è estremamente coerente e modesto rispetto alle dimensioni dell'ente, che gestisce un budget annuale di oltre 100 milioni di USD (entrate 2023: ~109M USD).",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/930785786"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "storico_progetti",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "L'ente ha una storia documentata di oltre 40 anni (dal 1982) di attività nella lotta alla fame, con una rete statale di agenzie di soccorso e un impatto significativo (aiuta 1 su 5 famiglie).",
-          "source_url": "https://www.charitynavigator.org/ein/930785786"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "segnali_allarme",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun segnale d'allarme trovato. Il sito web ufficiale è attivo e professionale, l'ente ha una lunga storia di trasparenza e non ci sono notizie negative nelle prove fornite. Le altre fonti web (E3, E4, E6) non contengono informazioni negative specifiche sull'ente.",
-          "source_url": "https://www.charitynavigator.org/ein/930785786"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "conflitti_interesse",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
-          "source_url": "config/conflitti.yaml"
-        }
-      ],
-      "sources": [
-        "https://charitywatch.org/",
-        "https://en.wikipedia.org/wiki/Oregon_Food_Bank",
-        "https://finance.yahoo.com/news/475m-lawsuit-alleges-inaction-danske-054254048.html",
-        "https://projects.propublica.org/nonprofits/organizations/930785786",
-        "https://www.charitynavigator.org/ein/930785786",
-        "https://www.oregonfoodbank.org"
-      ],
-      "waiting_counter": false,
-      "profile": {
-        "de": {
-          "does": [
-            {
-              "text": "Die Organisation sammelt und verteilt Lebensmittel in ganz Oregon und Südwest-Washington für alle, die Lebensmittelunterstützung benötigen.",
-              "source": "https://www.oregonfoodbank.org/about-us",
-              "by_org": true
-            },
-            {
-              "text": "Die Organisation stellt Notnahrung über ein landesweites Netzwerk von Agenturen bereit und hilft 1 von 5 Haushalten, den Hunger abzuwehren.",
-              "source": "https://www.charitynavigator.org/ein/930785786",
-              "by_org": false
-            },
-            {
-              "text": "Die Organisation arbeitet mit Mitgliedern der Gemeinschaft und Gesetzgebern zusammen, um sich für Politiken einzusetzen, die den Zugang zu Lebensmitteln für alle verbessern.",
-              "source": "https://www.oregonfoodbank.org/about-us",
-              "by_org": true
-            }
-          ],
-          "mission": "Unsere Mission: Den Hunger und seine Ursachen zu beseitigen ... weil niemand hungrig sein sollte. <br><br><br>Oregon Food Bank verfolgt einen ganzheitlichen Ansatz zur Beendigung des Hungers, indem wir unsere Gemeinschaft zusammenbringen, um Nahrung, Bildung und Hoffnung für unsere bedürftigen Nachbarn bereitzustellen. <br><br>Wir stellen Menschen, die hungrig sind, über ein kooperatives landesweites Netzwerk von Hungerhilfsorganisationen Notnahrung zur Verfügung und helfen 1 von 5 Haushalten, den Hunger abzuwehren. OFB leitet zudem landesweite Bemühungen, Ressourcen für hungernde Familien zu erhöhen und die Ursachen des Hungers zu beseitigen, indem wir für faire öffentliche Politiken eintreten, Gemeinschaftsnahrungssysteme stärken und Ernährungs- und Gartenbildung anbieten, um Menschen zu mehr Selbstständigkeit und Einfallsreichtum zu befähigen.",
-          "does_not": [],
-          "strengths": [
-            {
-              "text": "Die Organisation veröffentlicht Finanzberichte und Wirkungsberichte öffentlich, um betriebliche Transparenz zu gewährleisten.",
-              "source": "https://www.oregonfoodbank.org/about-us",
-              "by_org": true
-            },
-            {
-              "text": "Die Organisation betreibt ein regionales Netzwerk, das kostenlose Lebensmittel bereitstellt, ohne Einkommensnachweis oder Dokumentation zu verlangen.",
-              "source": "https://www.oregonfoodbank.org/",
-              "by_org": true
-            }
-          ]
-        },
-        "en": {
-          "does": [
-            {
-              "text": "The organization collects and distributes food across Oregon and Southwest Washington for anyone needing food assistance.",
-              "quote": "We collect and distribute food across Oregon and Southwest Washington to support anyone who needs food assistance.",
-              "source": "https://www.oregonfoodbank.org/about-us",
-              "by_org": true
-            },
-            {
-              "text": "The organization provides emergency food through a statewide network of agencies, helping 1 in 5 households fend off hunger.",
-              "quote": "We provide emergency food to people who are hungry through a cooperative statewide network of hunger-relief agencies, helping 1 in 5 households fend off hunger.",
-              "source": "https://www.charitynavigator.org/ein/930785786",
-              "by_org": false
-            },
-            {
-              "text": "The organization collaborates with community members and lawmakers to advocate for policies that improve food access for everyone.",
-              "quote": "Together with our communities, neighbors, families and friends, we collaborate with elected officials and lawmakers to pass laws that make it easier for everyone to get the food they need.",
-              "source": "https://www.oregonfoodbank.org/about-us",
-              "by_org": true
-            }
-          ],
-          "mission": "Our mission: To eliminate hunger and its root causes ... because no one should be hungry. <br><br><br>Oregon Food Bank takes a holistic approach to ending hunger by bringing our community together to provide food, education and hope to our neighbors in need. <br><br>We provide emergency food to people who are hungry through a cooperative statewide network of hunger-relief agencies, helping 1 in 5 households fend off hunger. OFB also leads statewide efforts to increase resources for hungry families and to eliminate the root causes of hunger by advocating for fair public policies, strengthening community food systems and providing nutrition and garden education to help people become more self-sufficient and resourceful.",
-          "does_not": [],
-          "strengths": [
-            {
-              "text": "The organization publishes financial statements and impact reports publicly to ensure operational transparency.",
-              "quote": "We are committed to transparency and to sharing our journey widely. Download our impact reports, financial statements and more for an inside look at how we’re working toward our vision.",
-              "source": "https://www.oregonfoodbank.org/about-us",
-              "by_org": true
-            },
-            {
-              "text": "The organization operates a regional network providing free food without requiring proof of income or documentation.",
-              "quote": "Our network of food banks and pantries provides free food and groceries across Oregon and Southwest Washington. No proof of income or documentation required.",
-              "source": "https://www.oregonfoodbank.org/",
-              "by_org": true
-            }
-          ]
-        },
-        "es": {
-          "does": [
-            {
-              "text": "La organización recoge y distribuye alimentos en Oregon y el suroeste de Washington para cualquier persona que necesite asistencia alimentaria.",
-              "source": "https://www.oregonfoodbank.org/about-us",
-              "by_org": true
-            },
-            {
-              "text": "La organización proporciona alimentos de emergencia a través de una red estatal de agencias, ayudando a 1 de cada 5 hogares a evitar el hambre.",
-              "source": "https://www.charitynavigator.org/ein/930785786",
-              "by_org": false
-            },
-            {
-              "text": "La organización colabora con miembros de la comunidad y legisladores para abogar por políticas que mejoren el acceso a los alimentos para todos.",
-              "source": "https://www.oregonfoodbank.org/about-us",
-              "by_org": true
-            }
-          ],
-          "mission": "Nuestra misión: Eliminar el hambre y sus causas raíz ... porque nadie debería pasar hambre. <br><br><br>Oregon Food Bank adopta un enfoque holístico para acabar con el hambre reuniendo a nuestra comunidad para proporcionar alimentos, educación y esperanza a nuestros vecinos necesitados. <br><br>Proporcionamos alimentos de emergencia a personas que tienen hambre a través de una red cooperativa estatal de agencias de alivio del hambre, ayudando a 1 de cada 5 hogares a evitar el hambre. OFB también lidera esfuerzos estatales para aumentar los recursos para familias hambrientas y eliminar las causas raíz del hambre abogando por políticas públicas justas, fortaleciendo los sistemas alimentarios comunitarios y ofreciendo educación nutricional y de huertos para ayudar a las personas a ser más autosuficientes y ingeniosas.",
-          "does_not": [],
-          "strengths": [
-            {
-              "text": "La organización publica estados financieros e informes de impacto públicamente para garantizar la transparencia operativa.",
-              "source": "https://www.oregonfoodbank.org/about-us",
-              "by_org": true
-            },
-            {
-              "text": "La organización opera una red regional que brinda alimentos gratuitos sin requerir comprobante de ingresos ni documentación.",
-              "source": "https://www.oregonfoodbank.org/",
-              "by_org": true
-            }
-          ]
-        },
-        "fr": {
-          "does": [
-            {
-              "text": "L'organisation collecte et distribue de la nourriture à travers l'Oregon et le Southwest Washington pour toute personne ayant besoin d'une aide alimentaire.",
-              "source": "https://www.oregonfoodbank.org/about-us",
-              "by_org": true
-            },
-            {
-              "text": "L'organisation fournit une aide alimentaire d'urgence grâce à un réseau d'organismes à l'échelle de l'État, aidant 1 foyer sur 5 à repousser la faim.",
-              "source": "https://www.charitynavigator.org/ein/930785786",
-              "by_org": false
-            },
-            {
-              "text": "L'organisation collabore avec les membres de la communauté et les législateurs pour défendre des politiques qui améliorent l'accès à la nourriture pour tous.",
-              "source": "https://www.oregonfoodbank.org/about-us",
-              "by_org": true
-            }
-          ],
-          "mission": "Notre mission : Éliminer la faim et ses causes profondes... parce que personne ne devrait avoir faim. <br><br><br>Oregon Food Bank adopte une approche globale pour mettre fin à la faim en rassemblant notre communauté afin de fournir de la nourriture, de l'éducation et de l'espoir à nos voisins dans le besoin. <br><br>Nous fournissons une aide alimentaire d'urgence aux personnes qui ont faim grâce à un réseau coopératif d'organismes de secours contre la faim à l'échelle de l'État, aidant 1 foyer sur 5 à repousser la faim. OFB dirige également des efforts à l'échelle de l'État pour augmenter les ressources pour les familles souffrant de la faim et éliminer les causes profondes de la faim en préconisant des politiques publiques équitables, en renforçant les systèmes alimentaires communautaires et en offrant une éducation à la nutrition et au jardinage pour aider les gens à devenir plus autonomes et ingénieux.",
-          "does_not": [],
-          "strengths": [
-            {
-              "text": "L'organisation publie publiquement ses états financiers et ses rapports d'impact afin de garantir la transparence opérationnelle.",
-              "source": "https://www.oregonfoodbank.org/about-us",
-              "by_org": true
-            },
-            {
-              "text": "L'organisation exploite un réseau régional fournissant de la nourriture gratuite sans exiger de justificatif de revenu ni de documents.",
-              "source": "https://www.oregonfoodbank.org/",
-              "by_org": true
-            }
-          ]
-        },
-        "hi": {
-          "does": [
-            {
-              "text": "संगठन ओरेगन और साउथवेस्ट वाशिंगटन में भोजन एकत्रित करता है और वितरित करता है, उन सभी के लिए जिन्हें खाद्य सहायता की आवश्यकता है।",
-              "source": "https://www.oregonfoodbank.org/about-us",
-              "by_org": true
-            },
-            {
-              "text": "संगठन एजेंसियों के राज्यव्यापी नेटवर्क के माध्यम से आपातकालीन भोजन प्रदान करता है, जिससे 1 में 5 घरों को भूख से बचाया जा सके।",
-              "source": "https://www.charitynavigator.org/ein/930785786",
-              "by_org": false
-            },
-            {
-              "text": "संगठन सामुदायिक सदस्यों और विधायकों के साथ सहयोग करता है ताकि सभी के लिए खाद्य पहुँच को बेहतर बनाने वाली नीतियों की वकालत की जा सके।",
-              "source": "https://www.oregonfoodbank.org/about-us",
-              "by_org": true
-            }
-          ],
-          "mission": "हमारा मिशन: भूख और उसके मूल कारणों को समाप्त करना ... क्योंकि किसी को भी भूखा नहीं रहना चाहिए। <br><br><br>Oregon Food Bank भूख को समाप्त करने के लिए एक समग्र दृष्टिकोण अपनाता है, हमारे समुदाय को एक साथ लाकर जरूरतमंद पड़ोसियों को भोजन, शिक्षा और आशा प्रदान करता है। <br><br>हम भूखे लोगों को आपातकालीन भोजन प्रदान करते हैं एक सहयोगी राज्यव्यापी भूख-राहत एजेंसियों के नेटवर्क के माध्यम से, जिससे 1 में 5 घरों को भूख से बचाया जा सके। OFB राज्यव्यापी प्रयासों का नेतृत्व भी करता है ताकि भूखे परिवारों के लिए संसाधन बढ़ाए जा सकें और भूख के मूल कारणों को समाप्त किया जा सके, निष्पक्ष सार्वजनिक नीतियों की वकालत करके, सामुदायिक खाद्य प्रणालियों को सुदृढ़ करके और पोषण एवं बगीचा शिक्षा प्रदान करके लोगों को अधिक आत्मनिर्भर और संसाधनपूर्ण बनाया जा सके।",
-          "does_not": [],
-          "strengths": [
-            {
-              "text": "संगठन वित्तीय विवरण और प्रभाव रिपोर्ट सार्वजनिक रूप से प्रकाशित करता है ताकि संचालन में पारदर्शिता सुनिश्चित की जा सके।",
-              "source": "https://www.oregonfoodbank.org/about-us",
-              "by_org": true
-            },
-            {
-              "text": "संगठन एक क्षेत्रीय नेटवर्क संचालित करता है जो आय या दस्तावेज़ी प्रमाण की आवश्यकता के बिना मुफ्त भोजन प्रदान करता है।",
-              "source": "https://www.oregonfoodbank.org/",
-              "by_org": true
-            }
-          ]
-        },
-        "it": {
-          "does": [
-            {
-              "text": "L'organizzazione raccoglie e distribuisce cibo in tutto l'Oregon e nel sud-ovest di Washington per chiunque abbia bisogno di assistenza alimentare.",
-              "source": "https://www.oregonfoodbank.org/about-us",
-              "by_org": true
-            },
-            {
-              "text": "L'organizzazione fornisce cibo di emergenza attraverso una rete statale di agenzie, aiutando 1 famiglia su 5 a difendersi dalla fame.",
-              "source": "https://www.charitynavigator.org/ein/930785786",
-              "by_org": false
-            },
-            {
-              "text": "L'organizzazione collabora con i membri della comunità e i legislatori per promuovere politiche che migliorano l'accesso al cibo per tutti.",
-              "source": "https://www.oregonfoodbank.org/about-us",
-              "by_org": true
-            }
-          ],
-          "mission": "La nostra missione: Eliminare la fame e le sue cause profonde ... perché nessuno dovrebbe andare affamato. <br><br><br>Oregon Food Bank adotta un approccio olistico per porre fine alla fame riunendo la nostra comunità per fornire cibo, istruzione e speranza ai nostri vicini bisognosi. <br><br>Forniamo cibo di emergenza alle persone affamate attraverso una rete cooperativa statale di agenzie di assistenza alimentare, aiutando 1 famiglia su 5 a difendersi dalla fame. OFB guida anche iniziative statali per aumentare le risorse per le famiglie affamate ed eliminare le cause profonde della fame promuovendo politiche pubbliche eque, rafforzando i sistemi alimentari comunitari e fornendo educazione nutrizionale e di giardinaggio per aiutare le persone a diventare più autosufficienti e ingegnose.",
-          "does_not": [],
-          "strengths": [
-            {
-              "text": "L'organizzazione pubblica pubblicamente i bilanci finanziari e i rapporti di impatto per garantire la trasparenza operativa.",
-              "source": "https://www.oregonfoodbank.org/about-us",
-              "by_org": true
-            },
-            {
-              "text": "L'organizzazione gestisce una rete regionale che fornisce cibo gratuito senza richiedere prove di reddito o documentazione.",
-              "source": "https://www.oregonfoodbank.org/",
-              "by_org": true
-            }
-          ]
-        },
-        "ja": {
-          "does": [
-            {
-              "text": "この団体は、食料支援を必要とするすべての人のために、Oregon 州および Southwest Washington 全域で食料を回収・配布しています。",
-              "source": "https://www.oregonfoodbank.org/about-us",
-              "by_org": true
-            },
-            {
-              "text": "この団体は、州全体の支援機関ネットワークを通じて緊急食料を提供し、5世帯に1世帯が飢餓を防ぐのを支援しています。",
-              "source": "https://www.charitynavigator.org/ein/930785786",
-              "by_org": false
-            },
-            {
-              "text": "この団体は、すべての人の食料アクセスを改善する政策を推進するため、コミュニティのメンバーや議員と協力しています。",
-              "source": "https://www.oregonfoodbank.org/about-us",
-              "by_org": true
-            }
-          ],
-          "mission": "私たちのミッション：誰も飢えに苦しむことがないよう、飢餓とその根本原因を無くすこと。<br><br><br>Oregon Food Bank は、コミュニティを結集して支援を必要とする地域の人々に食料、教育、希望を提供することで、飢餓を終わらせるための包括的なアプローチをとっています。<br><br>私たちは、飢餓支援機関の州全体の協力ネットワークを通じて、お腹を空かせた人々に緊急食料を提供し、5世帯に1世帯が飢餓を防ぐのを支援しています。OFB はまた、公正な公共政策の推進、コミュニティの食料システムの強化、人々がより自立し工夫できるよう栄養やガーデニング教育の提供を行うことで、困窮する家族への支援資源を増やし、飢餓の根本原因を無くすための州全体の取り組みをリードしています。",
-          "does_not": [],
-          "strengths": [
-            {
-              "text": "この団体は、運営の透明性を確保するために、財務諸表やインパクトレポートを公表しています。",
-              "source": "https://www.oregonfoodbank.org/about-us",
-              "by_org": true
-            },
-            {
-              "text": "この団体は、収入の証明や書類を必要とせずに無料の食料を提供する地域ネットワークを運営しています。",
-              "source": "https://www.oregonfoodbank.org/",
-              "by_org": true
-            }
-          ]
-        },
-        "pt": {
-          "does": [
-            {
-              "text": "A organização coleta e distribui alimentos em todo o Oregon e no sudoeste de Washington para qualquer pessoa que precise de assistência alimentar.",
-              "source": "https://www.oregonfoodbank.org/about-us",
-              "by_org": true
-            },
-            {
-              "text": "A organização fornece alimentos de emergência através de uma rede estadual de agências, ajudando 1 em cada 5 domicílios a combater a fome.",
-              "source": "https://www.charitynavigator.org/ein/930785786",
-              "by_org": false
-            },
-            {
-              "text": "A organização colabora com membros da comunidade e legisladores para defender políticas que melhorem o acesso a alimentos para todos.",
-              "source": "https://www.oregonfoodbank.org/about-us",
-              "by_org": true
-            }
-          ],
-          "mission": "Nossa missão: Eliminar a fome e suas causas fundamentais ... porque ninguém deve passar fome. <br><br><br>Oregon Food Bank adota uma abordagem holística para acabar com a fome, reunindo nossa comunidade para fornecer alimentos, educação e esperança aos nossos vizinhos necessitados. <br><br>Fornecemos alimentos de emergência para pessoas famintas através de uma rede cooperativa estadual de agências de alívio da fome, ajudando 1 em cada 5 domicílios a combater a fome. OFB também lidera esforços estaduais para aumentar os recursos para famílias famintas e eliminar as causas fundamentais da fome, defendendo políticas públicas justas, fortalecendo os sistemas alimentares comunitários e oferecendo educação nutricional e de jardinagem para ajudar as pessoas a se tornarem mais autossuficientes e engenhosas.",
-          "does_not": [],
-          "strengths": [
-            {
-              "text": "A organização publica demonstrações financeiras e relatórios de impacto publicamente para garantir transparência operacional.",
-              "source": "https://www.oregonfoodbank.org/about-us",
-              "by_org": true
-            },
-            {
-              "text": "A organização opera uma rede regional que fornece alimentos gratuitos sem exigir comprovação de renda ou documentação.",
-              "source": "https://www.oregonfoodbank.org/",
-              "by_org": true
-            }
-          ]
-        },
-        "ru": {
-          "does": [
-            {
-              "text": "Организация собирает и распределяет продовольствие по Орегону и Southwest Washington для всех, нуждающихся в продовольственной помощи.",
-              "source": "https://www.oregonfoodbank.org/about-us",
-              "by_org": true
-            },
-            {
-              "text": "Организация предоставляет экстренную продовольственную помощь через общегосударственную сеть агентств, помогая 1 из 5 домохозяйств справляться с голодом.",
-              "source": "https://www.charitynavigator.org/ein/930785786",
-              "by_org": false
-            },
-            {
-              "text": "Организация сотрудничает с членами сообщества и законодателями, выступая за политику, улучшающую доступ к продовольствию для всех.",
-              "source": "https://www.oregonfoodbank.org/about-us",
-              "by_org": true
-            }
-          ],
-          "mission": "Наша миссия: искоренить голод и его коренные причины ... потому что никто не должен оставаться голодным. <br><br><br>Oregon Food Bank использует целостный подход к ликвидации голода, объединяя наше сообщество для предоставления продовольствия, образования и надежды нашим нуждающимся соседям. <br><br>Мы предоставляем экстренную продовольственную помощь людям, страдающим от голода, через кооперативную сеть агентств по борьбе с голодом по всему штату, помогая 1 из 5 домохозяйств справляться с голодом. OFB также возглавляет общегосударственные усилия по увеличению ресурсов для голодных семей и устранению коренных причин голода, выступая за справедливую государственную политику, укрепляя общественные продовольственные системы и предоставляя образование по питанию и садоводству, чтобы люди стали более самостоятельными и находчивыми.",
-          "does_not": [],
-          "strengths": [
-            {
-              "text": "Организация публикует финансовые отчёты и отчёты о воздействии публично, чтобы обеспечить прозрачность деятельности.",
-              "source": "https://www.oregonfoodbank.org/about-us",
-              "by_org": true
-            },
-            {
-              "text": "Организация управляет региональной сетью, предоставляющей бесплатное продовольствие без требования подтверждения дохода или документов.",
-              "source": "https://www.oregonfoodbank.org/",
-              "by_org": true
-            }
-          ]
-        },
-        "zh": {
-          "does": [
-            {
-              "text": "该组织在 Oregon 和 Southwest Washington 收集并分发食物，面向任何需要食物援助的人。",
-              "source": "https://www.oregonfoodbank.org/about-us",
-              "by_org": true
-            },
-            {
-              "text": "该组织通过全州的机构网络提供紧急食物，帮助 1 in 5 户家庭抵御饥饿。",
-              "source": "https://www.charitynavigator.org/ein/930785786",
-              "by_org": false
-            },
-            {
-              "text": "该组织与社区成员和立法者合作，倡导改善所有人食物获取途径的政策。",
-              "source": "https://www.oregonfoodbank.org/about-us",
-              "by_org": true
-            }
-          ],
-          "mission": "我们的使命：消除饥饿及其根源……因为不应该有人挨饿。<br><br><br>Oregon Food Bank 采取整体方法来消除饥饿，通过凝聚我们的社区，为有需要的邻居提供食物、教育和希望。<br><br>我们通过合作的全州救济饥饿机构网络，向挨饿的人们提供紧急食物，帮助 1 in 5 户家庭抵御饥饿。OFB 还领导全州范围内的努力，通过倡导公平的公共政策、加强社区食物系统以及提供营养和园艺教育，增加饥饿家庭的资源并消除饥饿的根源，帮助人们变得更加自给自足和善用资源。",
-          "does_not": [],
-          "strengths": [
-            {
-              "text": "该组织公开发布财务报表和影响力报告，以确保运营透明度。",
-              "source": "https://www.oregonfoodbank.org/about-us",
-              "by_org": true
-            },
-            {
-              "text": "该组织运营一个区域网络，提供免费食物，不需要收入证明或身份文件。",
-              "source": "https://www.oregonfoodbank.org/",
-              "by_org": true
-            }
-          ]
-        }
-      },
-      "safety": {
-        "evaluator": "Charity Navigator",
-        "stars": 4,
-        "score": 100,
-        "rating_url": "https://www.charitynavigator.org/ein/930785786",
-        "rating_checked": "2026-11-07",
-        "since": "1982",
-        "registry_url": "https://projects.propublica.org/nonprofits/organizations/930785786",
-        "filings": 12,
-        "first_year": 2012,
-        "last_year": 2023,
-        "checks_passed": 16,
-        "verifiers": 3,
-        "unanimous": true,
-        "site": "oregonfoodbank.org",
-        "official_host": "oregonfoodbank.org",
-        "profile_claimed": true
-      },
-      "platform": "every.org",
-      "counter": {
-        "raised": "0",
-        "read_at": "2026-11-12T21:04:27.564727+00:00",
-        "currency": "USD",
-        "platform": "every.org",
-        "supporters": 0,
-        "raised_cents": 0,
-        "matches_cents": 0
-      },
-      "fundraiser_open": true,
-      "progress_pct": 0,
-      "donate": {
-        "recipient": "Oregon Food Bank Inc",
-        "url": "https://www.every.org/oregon-food-bank/f/ai-against-hunger-for",
-        "money_goes_to": "Every.org, a US 501(c)(3) nonprofit, which grants it to the organization (unrestricted); this project never receives or holds money",
-        "counted_here_only_if": "shown in the public total of the fundraising page",
-        "status": "open",
-        "platform": "Every.org (US 501(c)(3) nonprofit; receipts tax-deductible only in the US)",
-        "public_total": {
-          "raised": "0",
-          "currency": "USD",
-          "people": 0,
-          "read_on": "2026-11-12"
-        },
-        "note": "Every.org suggests an optional tip to itself (sometimes preselected); it can be set to 0. Payment fees are deducted from what the organization receives."
-      }
-    },
     {
       "slug": "support-rise-against-hunger-against-hunger-4777",
       "title": "Support Rise Against Hunger against hunger",
@@ -2399,7 +1745,58 @@
       "source_url": "https://www.charitynavigator.org/ein/382853858",
       "approved_on": "2026-11-12",
       "review_until": "2026-11-15 21:04 UTC",
-      "translations": {},
+      "translations": {
+        "de": {
+          "text": "Organisation bewertet von Charity Navigator, gefunden von den Agenten mit: \"Geografische Gleichgewichtsprüfung (pausiert seit 2026-11-09)\".",
+          "title": "Unterstütze Food Gatherers gegen den Hunger",
+          "source": "traduzione AI"
+        },
+        "en": {
+          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: \"riesame dell'equilibrio geografico (in pausa dal 2026-11-09)\".",
+          "title": "Support Food Gatherers against hunger",
+          "source": "originale"
+        },
+        "es": {
+          "text": "Entidad evaluada por Charity Navigator, encontrada por los agentes con: \"revisión del equilibrio geográfico (en pausa desde el 2026-11-09)\".",
+          "title": "Apoya a Food Gatherers contra el hambre",
+          "source": "traduzione AI"
+        },
+        "fr": {
+          "text": "Organisation évaluée par Charity Navigator, trouvée par les agents avec : \"réexamen de l'équilibre géographique (en pause depuis le 2026-11-09)\".",
+          "title": "Soutenir Food Gatherers contre la faim",
+          "source": "traduzione AI"
+        },
+        "hi": {
+          "text": "Charity Navigator द्वारा मूल्यांकित संस्था, एजेंटों द्वारा इसके साथ पाई गई: \"भौगोलिक संतुलन की पुनर्समीक्षा (2026-11-09 से रुकी हुई)\"।",
+          "title": "भूख के खिलाफ Food Gatherers का समर्थन करें",
+          "source": "traduzione AI"
+        },
+        "it": {
+          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: \"riesame dell'equilibrio geografico (in pausa dal 2026-11-09)\".",
+          "title": "Sostieni Food Gatherers contro la fame",
+          "source": "traduzione AI"
+        },
+        "ja": {
+          "text": "Charity Navigator によって評価された団体、エージェントによって見つけられた: \"riesame dell'equilibrio geografico (in pausa dal 2026-11-09)\".",
+          "title": "飢餓に対して Food Gatherers を支援する",
+          "source": "traduzione AI"
+        },
+        "pt": {
+          "text": "Entidade avaliada pela Charity Navigator, encontrada pelos agentes com: \"revisão do equilíbrio geográfico (em pausa desde 2026-11-09)\".",
+          "title": "Apoie Food Gatherers contra a fome",
+          "source": "traduzione AI"
+        },
+        "ru": {
+          "text": "Организация, оцененная Charity Navigator, найденная агентами с: \"пересмотр географического баланса (в паузе с 2026-11-09)\".",
+          "title": "Поддержите Food Gatherers в борьбе с голодом",
+          "source": "traduzione AI"
+        },
+        "zh": {
+          "text": "经 Charity Navigator 评估的机构，由特工发现，带有：\"地理平衡重新审查（自 2026-11-09 起暂停）\"。",
+          "title": "支持 Food Gatherers 对抗饥饿",
+          "source": "traduzione AI"
+        }
+      },
       "tranches": [],
       "checks": [
         {
@@ -2596,7 +1993,211 @@
         "https://www.foodgatherers.org"
       ],
       "waiting_counter": false,
-      "profile": {},
+      "profile": {
+        "de": {
+          "does": [
+            {
+              "text": "Food Gatherers existiert, um den Hunger zu lindern und seine Ursachen in der Gemeinschaft zu beseitigen, indem es Lebensmittelverschwendung reduziert durch die Rettung und Verteilung von verderblichen und nicht verderblichen Lebensmitteln.",
+              "source": "https://www.charitynavigator.org/ein/382853858",
+              "by_org": false
+            },
+            {
+              "text": "Die Organisation unterstützt ein Netzwerk von mehr als 140 Gemeinschaftspartnern mit kostenlosen und kostengünstigen Lebensmitteln, Lieferungen und Schulungen.",
+              "source": "https://www.foodgatherers.org/",
+              "by_org": true
+            },
+            {
+              "text": "Food Gatherers betreibt mehrere große Direktservice-Programme, darunter die Food Gatherers Community Kitchen, das Summer Food Service Program und das Healthy School Pantry Program.",
+              "source": "https://www.foodgatherers.org/",
+              "by_org": true
+            },
+            {
+              "text": "Im letzten Geschäftsjahr verteilte Food Gatherers 10 Millionen Pfund Lebensmittel, was 8.3 Millionen Mahlzeiten entspricht, über sein Netzwerk von Partnerprogrammen.",
+              "source": "https://www.foodgatherers.org/",
+              "by_org": true
+            }
+          ],
+          "mission": "Food Gatherers existiert, um den Hunger zu lindern und seine Ursachen in unserer Gemeinschaft zu beseitigen, indem es Lebensmittelverschwendung reduziert durch die Rettung und Verteilung von verderblichen und nicht verderblichen Lebensmitteln; die Zusammenarbeit mit anderen Anbietern von Hungerhilfe koordiniert; die Öffentlichkeit über Hunger aufklärt; und neue Nahrungsressourcen entwickelt. Food Gatherers ist nicht nur das erste Lebensmittelrettungsprogramm in Michigan, sondern das erste seiner Art, das von einem gewinnorientierten Unternehmen, Zingerman's Delicatessen in Ann Arbor, Michigan, gegründet wurde. Gegründet im Jahr 1988, stellen wir genug Lebensmittel für fast 18,500 Mahlzeiten pro Tag für mehr als 140+ Gemeinschaftsprogramme bereit, die unseren Nachbarn, hauptsächlich Familien und Kindern, die Lebensmittel benötigen, dienen. Tausende von einzelnen Freiwilligen spenden jährlich ihre Zeit an Food Gatherers.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "Food Gatherers wurde 1988 gegründet.",
+              "source": "https://www.charitynavigator.org/ein/382853858",
+              "by_org": false
+            }
+          ]
+        },
+        "en": {
+          "does": [
+            {
+              "text": "Food Gatherers exists to alleviate hunger and eliminate its causes in the community by reducing food waste through the rescue and distribution of perishable and non-perishable food.",
+              "quote": "Food Gatherers exists to alleviate hunger and eliminate its causes in our community by: reducing food waste through the rescue and distribution of perishable and non-perishable food",
+              "source": "https://www.charitynavigator.org/ein/382853858",
+              "by_org": false
+            },
+            {
+              "text": "The organization supports a network of more than 140 community partners with free and low-cost food, deliveries, and trainings.",
+              "quote": "Food Gatherers supports a network of more than 140 community partners with free and low-cost food, deliveries, and trainings.",
+              "source": "https://www.foodgatherers.org/",
+              "by_org": true
+            },
+            {
+              "text": "Food Gatherers operates several large direct service programs including the Food Gatherers Community Kitchen, the Summer Food Service Program, and the Healthy School Pantry Program.",
+              "quote": "We operate several large direct service programs — the Food Gatherers Community Kitchen, the Summer Food Service Program, and the Healthy School Pantry Program",
+              "source": "https://www.foodgatherers.org/",
+              "by_org": true
+            },
+            {
+              "text": "In the last fiscal year, Food Gatherers distributed 10 million pounds of food, which is equivalent to 8.3 million meals, through its network of partner programs.",
+              "quote": "In our last fiscal year, Food Gatherers distributed 10 million pounds of food — the equivalent of 8.3 million meals — through our network of partner programs.",
+              "source": "https://www.foodgatherers.org/",
+              "by_org": true
+            }
+          ],
+          "mission": "Food Gatherers exists to alleviate hunger and eliminate its causes in our community by: reducing food waste through the rescue and distribution of perishable and non-perishable food; coordinating with other hunger relief providers; educating the public about hunger; and developing new food resources. Food Gatherers is not only Michigan's first food rescue program, but the first program of its kind to be founded by a for-profit business, Zingerman's Delicatessen in Ann Arbor, Michigan. Founded in 1988, we provide enough food for nearly 18,500 meals a day to 140+ community programs serving our neighbors, mostly families and children, in need of food. Thousands of individual volunteers donate their time to Food Gatherers annually.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "Food Gatherers was founded in 1988.",
+              "quote": "Founded in 1988, we provide enough food for nearly 18,500 meals a day to 140+ community programs serving our neighbors, mostly families and children, in need of food.",
+              "source": "https://www.charitynavigator.org/ein/382853858",
+              "by_org": false
+            }
+          ]
+        },
+        "es": {
+          "does": [
+            {
+              "text": "Food Gatherers existe para aliviar el hambre y eliminar sus causas en la comunidad reduciendo el desperdicio de alimentos mediante el rescate y la distribución de alimentos perecederos y no perecederos.",
+              "source": "https://www.charitynavigator.org/ein/382853858",
+              "by_org": false
+            },
+            {
+              "text": "La organización apoya una red de más de 140 socios comunitarios con alimentos gratuitos y de bajo costo, entregas y capacitaciones.",
+              "source": "https://www.foodgatherers.org/",
+              "by_org": true
+            },
+            {
+              "text": "Food Gatherers opera varios grandes programas de servicio directo, incluidos el Food Gatherers Community Kitchen, el Summer Food Service Program y el Healthy School Pantry Program.",
+              "source": "https://www.foodgatherers.org/",
+              "by_org": true
+            },
+            {
+              "text": "En el último año fiscal, Food Gatherers distribuyó 10 millones de libras de alimentos, lo que equivale a 8.3 millones de comidas, a través de su red de programas socios.",
+              "source": "https://www.foodgatherers.org/",
+              "by_org": true
+            }
+          ],
+          "mission": "Food Gatherers existe para aliviar el hambre y eliminar sus causas en nuestra comunidad mediante: la reducción del desperdicio de alimentos a través del rescate y la distribución de alimentos perecederos y no perecederos; la coordinación con otros proveedores de alivio del hambre; la educación del público sobre el hambre; y el desarrollo de nuevos recursos alimentarios. Food Gatherers no solo es el primer programa de rescate de alimentos de Michigan, sino el primer programa de su tipo fundado por una empresa con fines de lucro, Zingerman's Delicatessen en Ann Arbor, Michigan. Fundado en 1988, proporcionamos suficiente comida para casi 18,500 comidas al día a 140+ programas comunitarios que sirven a nuestros vecinos, mayormente familias y niños, que necesitan alimentos. Miles de voluntarios individuales donan su tiempo a Food Gatherers anualmente.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "Food Gatherers fue fundado en 1988.",
+              "source": "https://www.charitynavigator.org/ein/382853858",
+              "by_org": false
+            }
+          ]
+        },
+        "fr": {
+          "does": [
+            {
+              "text": "Food Gatherers existe pour atténuer la faim et éliminer ses causes dans la communauté en réduisant le gaspillage alimentaire grâce au sauvetage et à la distribution d'aliments périssables et non périssables.",
+              "source": "https://www.charitynavigator.org/ein/382853858",
+              "by_org": false
+            },
+            {
+              "text": "L'organisation soutient un réseau de plus de 140 partenaires communautaires avec de la nourriture gratuite et à faible coût, des livraisons et des formations.",
+              "source": "https://www.foodgatherers.org/",
+              "by_org": true
+            },
+            {
+              "text": "Food Gatherers exploite plusieurs grands programmes de service direct, y compris le Food Gatherers Community Kitchen, le Summer Food Service Program et le Healthy School Pantry Program.",
+              "source": "https://www.foodgatherers.org/",
+              "by_org": true
+            },
+            {
+              "text": "Au cours du dernier exercice fiscal, Food Gatherers a distribué 10 million livres de nourriture, ce qui équivaut à 8.3 million repas, à travers son réseau de programmes partenaires.",
+              "source": "https://www.foodgatherers.org/",
+              "by_org": true
+            }
+          ],
+          "mission": "Food Gatherers existe pour atténuer la faim et éliminer ses causes dans notre communauté en : réduisant le gaspillage alimentaire grâce au sauvetage et à la distribution d'aliments périssables et non périssables ; coordonnant avec d'autres fournisseurs d'aide contre la faim ; éduquant le public sur la faim ; et développant de nouvelles ressources alimentaires. Food Gatherers n'est pas seulement le premier programme de sauvetage alimentaire du Michigan, mais le premier programme de ce type à être fondé par une entreprise à but lucratif, Zingerman's Delicatessen à Ann Arbor, Michigan. Fondée en 1988, nous fournissons suffisamment de nourriture pour près de 18,500 repas par jour à plus de 140+ programmes communautaires servant nos voisins, principalement des familles et des enfants, dans le besoin. Des milliers de bénévoles individuels donnent leur temps à Food Gatherers chaque année.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "Food Gatherers a été fondée en 1988.",
+              "source": "https://www.charitynavigator.org/ein/382853858",
+              "by_org": false
+            }
+          ]
+        },
+        "it": {
+          "does": [
+            {
+              "text": "Food Gatherers esiste per alleviare la fame e eliminare le sue cause nella comunità riducendo gli sprechi alimentari attraverso il recupero e la distribuzione di cibo deperibile e non deperibile.",
+              "source": "https://www.charitynavigator.org/ein/382853858",
+              "by_org": false
+            },
+            {
+              "text": "L'organizzazione supporta una rete di più di 140 partner comunitari con cibo gratuito e a basso costo, consegne e formazioni.",
+              "source": "https://www.foodgatherers.org/",
+              "by_org": true
+            },
+            {
+              "text": "Food Gatherers gestisce diversi grandi programmi di servizio diretto, tra cui Food Gatherers Community Kitchen, Summer Food Service Program e Healthy School Pantry Program.",
+              "source": "https://www.foodgatherers.org/",
+              "by_org": true
+            },
+            {
+              "text": "Nell'ultimo anno fiscale, Food Gatherers ha distribuito 10 million libbre di cibo, equivalenti a 8.3 million pasti, attraverso la sua rete di programmi partner.",
+              "source": "https://www.foodgatherers.org/",
+              "by_org": true
+            }
+          ],
+          "mission": "Food Gatherers esiste per alleviare la fame e eliminare le sue cause nella nostra comunità mediante: la riduzione degli sprechi alimentari attraverso il recupero e la distribuzione di cibo deperibile e non deperibile; il coordinamento con altri fornitori di assistenza contro la fame; l'educazione del pubblico sulla fame; e lo sviluppo di nuove risorse alimentari. Food Gatherers non è solo il primo programma di recupero alimentare del Michigan, ma il primo programma del suo genere fondato da un'azienda a scopo di lucro, Zingerman's Delicatessen ad Ann Arbor, Michigan. Fondata nel 1988, forniamo cibo sufficiente per quasi 18,500 pasti al giorno a più di 140 programmi comunitari che servono i nostri vicini, per lo più famiglie e bambini, bisognosi di cibo. Migliaia di volontari individuali donano il loro tempo a Food Gatherers annualmente.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "Food Gatherers è stata fondata nel 1988.",
+              "source": "https://www.charitynavigator.org/ein/382853858",
+              "by_org": false
+            }
+          ]
+        },
+        "ru": {
+          "does": [
+            {
+              "text": "Food Gatherers существует, чтобы облегчить голод и устранить его причины в сообществе, сокращая пищевые отходы через спасение и распределение скоропортящихся и нескоропортящихся продуктов.",
+              "source": "https://www.charitynavigator.org/ein/382853858",
+              "by_org": false
+            },
+            {
+              "text": "Организация поддерживает сеть из более чем 140 общественных партнёров, предоставляя бесплатную и недорогую еду, доставки и обучение.",
+              "source": "https://www.foodgatherers.org/",
+              "by_org": true
+            },
+            {
+              "text": "Food Gatherers управляет несколькими крупными программами прямого обслуживания, включая Food Gatherers Community Kitchen, Summer Food Service Program и Healthy School Pantry Program.",
+              "source": "https://www.foodgatherers.org/",
+              "by_org": true
+            },
+            {
+              "text": "В прошлом финансовом году Food Gatherers распределил 10 миллион фунтов пищи, что эквивалентно 8.3 миллион порций, через свою сеть партнёрских программ.",
+              "source": "https://www.foodgatherers.org/",
+              "by_org": true
+            }
+          ],
+          "mission": "Food Gatherers существует, чтобы облегчить голод и устранить его причины в нашем сообществе, путем: сокращения пищевых отходов через спасение и распределение скоропортящихся и нескоропортящихся продуктов; координации с другими поставщиками помощи голодающим; просвещения общественности о голоде; и разработки новых продовольственных ресурсов. Food Gatherers является не только первой программой спасения продовольствия в Michigan, но и первой программой своего рода, основанной коммерческой компанией Zingerman's Delicatessen в Ann Arbor, Michigan. Основанная в 1988 году, мы предоставляем достаточно пищи почти для 18,500 порций в день 140+ общественным программам, обслуживающим наших соседей, в основном семьи и детей, нуждающихся в еде. Тысячи отдельных волонтёров ежегодно жертвуют своё время Food Gatherers.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "Food Gatherers был основан в 1988 году.",
+              "source": "https://www.charitynavigator.org/ein/382853858",
+              "by_org": false
+            }
+          ]
+        }
+      },
       "safety": {
         "evaluator": "Charity Navigator",
         "stars": 4,
@@ -3780,6 +3381,660 @@
         },
         "note": "Every.org suggests an optional tip to itself (sometimes preselected); it can be set to 0. Payment fees are deducted from what the organization receives."
       }
+    },
+    {
+      "slug": "support-oregon-food-bank-inc-against-hunger-1992",
+      "title": "Support Oregon Food Bank Inc against hunger",
+      "description": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'site:charitynavigator.org Rating for ending hunger'.",
+      "org_name": "Oregon Food Bank Inc",
+      "org_country": "US",
+      "org_website": "https://oregonfoodbank.org/",
+      "country": "US",
+      "currency": "USD",
+      "goal": 5000.0,
+      "raised": 0.0,
+      "donated": 0.0,
+      "status": "attiva",
+      "donation_url": "https://www.every.org/oregon-food-bank/f/ai-against-hunger-for",
+      "source_url": "https://www.charitynavigator.org/ein/930785786",
+      "approved_on": "2026-11-08",
+      "review_until": null,
+      "translations": {
+        "de": {
+          "text": "Organisation bewertet von Charity Navigator, gefunden von den Agenten mit: 'site:charitynavigator.org Rating for ending hunger'.",
+          "title": "Unterstützen Sie Oregon Food Bank Inc im Kampf gegen den Hunger",
+          "source": "traduzione AI"
+        },
+        "en": {
+          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'site:charitynavigator.org Rating for ending hunger'.",
+          "title": "Support Oregon Food Bank Inc against hunger",
+          "source": "originale"
+        },
+        "es": {
+          "text": "Entidad evaluada por Charity Navigator, encontrada por los agentes con: 'site:charitynavigator.org Rating for ending hunger'.",
+          "title": "Apoya a Oregon Food Bank Inc contra el hambre",
+          "source": "traduzione AI"
+        },
+        "fr": {
+          "text": "Organisation évaluée par Charity Navigator, trouvée par les agents avec : 'site:charitynavigator.org Rating for ending hunger'.",
+          "title": "Soutenez Oregon Food Bank Inc contre la faim",
+          "source": "traduzione AI"
+        },
+        "hi": {
+          "text": "Charity Navigator द्वारा मूल्यांकित संस्था, एजेंटों द्वारा इसके साथ खोजी गई: 'site:charitynavigator.org Rating for ending hunger'.",
+          "title": "भूख के खिलाफ Oregon Food Bank Inc का समर्थन करें",
+          "source": "traduzione AI"
+        },
+        "it": {
+          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'site:charitynavigator.org Rating for ending hunger'.",
+          "title": "Sostieni Oregon Food Bank Inc contro la fame",
+          "source": "traduzione AI"
+        },
+        "ja": {
+          "text": "Charity Navigator によって評価された団体。エージェントが次の検索で発見しました: 'site:charitynavigator.org Rating for ending hunger'。",
+          "title": "飢餓と戦う Oregon Food Bank Inc への支援",
+          "source": "traduzione AI"
+        },
+        "pt": {
+          "text": "Entidade avaliada pela Charity Navigator, encontrada pelos agentes com: 'site:charitynavigator.org Rating for ending hunger'.",
+          "title": "Apoie a Oregon Food Bank Inc contra a fome",
+          "source": "traduzione AI"
+        },
+        "ru": {
+          "text": "Организация, оцененная Charity Navigator, найденная агентами с помощью: 'site:charitynavigator.org Rating for ending hunger'.",
+          "title": "Поддержите Oregon Food Bank Inc в борьбе с голодом",
+          "source": "traduzione AI"
+        },
+        "zh": {
+          "text": "由 Charity Navigator 评估的机构，代理人通过以下方式找到：'site:charitynavigator.org Rating for ending hunger'。",
+          "title": "支持 Oregon Food Bank Inc 对抗饥饿",
+          "source": "traduzione AI"
+        }
+      },
+      "tranches": [
+        {
+          "number": 1,
+          "goal": 2000.0,
+          "status": "aperta"
+        }
+      ],
+      "checks": [
+        {
+          "verifier": "regole",
+          "check_type": "ammissibilita",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Regole di ammissibilità (config/regole.yaml):\n✓ fonte ammessa: fonte 'valutatore'\n✓ ente registrato nel database: Oregon Food Bank Inc\n✓ codice fiscale verificato (IRS): EIN 930785786\n✓ ente valutato dal valutatore: Charity Navigator\n✓ voto del valutatore: 100%, 4 stelle su 4 (minimo 4 stelle e 90%)\n✓ anni di bilanci ufficiali: 12 anni [2019, 2020, 2021, 2022, 2023] (minimo 3)\n✓ tema fame / nutrizione: categoria IRS - (richiesta ['K']); tema nel nome: True",
+          "source_url": "https://www.charitynavigator.org/ein/930785786"
+        },
+        {
+          "verifier": "regole",
+          "check_type": "ammissibilita",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "✓ valutatore indipendente tra le prove: 2 pagine di valutatori (https://www.charitynavigator.org/ein/930785786, https://charitywatch.org/); minimo 1",
+          "source_url": "https://www.charitynavigator.org/ein/930785786"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "registrazione",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "L'ente Oregon Food Bank Inc è ufficialmente registrato negli Stati Uniti come 501(c)(3) con EIN 930785786 e data di riconoscimento IRS 01/02/1982.",
+          "source_url": "https://www.charitynavigator.org/ein/930785786"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "bilanci",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Sono presenti bilanci pubblici trasparenti e rendiconti IRS Form 990 continui per vari anni fino al 2023, attestanti entrate per oltre 108 milioni di dollari.",
+          "source_url": "https://www.charitynavigator.org/ein/930785786"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "valutazione_indipendente",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "L'ente ha ottenuto il punteggio massimo ('100% Four-Star Charity') dal valutatore indipendente Charity Navigator.",
+          "source_url": "https://www.charitynavigator.org/ein/930785786"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "coerenza_importo",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "L'obiettivo di raccolta previsto di 5.000 USD è del tutto commisurato e coerente rispetto al bilancio operativo annuale di oltre 100 milioni di dollari.",
+          "source_url": "https://www.charitynavigator.org/ein/930785786"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "storico_progetti",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "L'organizzazione opera dal 1982 gestendo una vasta rete statale di assistenza alimentare in Oregon e nello stato di Washington.",
+          "source_url": "https://www.charitynavigator.org/ein/930785786"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "segnali_allarme",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Dall'analisi delle fonti e dei dati ufficiali non emerge alcun segnale d'allarme, anomalia o notizia negativa a carico dell'ente.",
+          "source_url": "https://www.charitynavigator.org/ein/930785786"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "conflitti_interesse",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "source_url": "config/conflitti.yaml"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "registrazione",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Ente registrato come 501(c)(3) con EIN 930785786 su ProPublica",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/930785786"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "bilanci",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Form 990 disponibili per gli anni 2018‑2023 su ProPublica",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/930785786"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "valutazione_indipendente",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Charity Navigator assegna Four‑Star rating",
+          "source_url": "https://www.charitynavigator.org/ein/930785786"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "coerenza_importo",
+          "outcome": "incerto",
+          "blocking": false,
+          "evidence": "Importo richiesto non indicato; impossibile valutare coerenza con dimensioni dell'ente",
+          "source_url": null
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "storico_progetti",
+          "outcome": "incerto",
+          "blocking": false,
+          "evidence": "Sito mostra attività correnti ma non documenta progetti conclusi",
+          "source_url": "https://www.oregonfoodbank.org"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "segnali_allarme",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun segnale di allarme rilevato nelle prove fornite",
+          "source_url": "https://www.charitynavigator.org/ein/930785786"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "conflitti_interesse",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "source_url": "config/conflitti.yaml"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "registrazione",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "L'ente Oregon Food Bank Inc risulta registrato come organizzazione 501(c)(3) con EIN 930785786, riconosciuto dall'IRS dal 1982. La sede è a Portland, OR.",
+          "source_url": "https://www.charitynavigator.org/ein/930785786"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "bilanci",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Sono disponibili i bilanci pubblici (Form 990) per gli ultimi 12 anni (2012-2023) su ProPublica Nonprofit Explorer, con dati dettagliati su entrate e spese.",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/930785786"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "valutazione_indipendente",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Charity Navigator assegna la valutazione 'Four-Star Charity' (100%) all'ente, indicando un'eccellente performance in termini di accountability e finanza.",
+          "source_url": "https://www.charitynavigator.org/ein/930785786"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "coerenza_importo",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "L'obiettivo di raccolta di 5000 USD è estremamente coerente e modesto rispetto alle dimensioni dell'ente, che gestisce un budget annuale di oltre 100 milioni di USD (entrate 2023: ~109M USD).",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/930785786"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "storico_progetti",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "L'ente ha una storia documentata di oltre 40 anni (dal 1982) di attività nella lotta alla fame, con una rete statale di agenzie di soccorso e un impatto significativo (aiuta 1 su 5 famiglie).",
+          "source_url": "https://www.charitynavigator.org/ein/930785786"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "segnali_allarme",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun segnale d'allarme trovato. Il sito web ufficiale è attivo e professionale, l'ente ha una lunga storia di trasparenza e non ci sono notizie negative nelle prove fornite. Le altre fonti web (E3, E4, E6) non contengono informazioni negative specifiche sull'ente.",
+          "source_url": "https://www.charitynavigator.org/ein/930785786"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "conflitti_interesse",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "source_url": "config/conflitti.yaml"
+        }
+      ],
+      "sources": [
+        "https://charitywatch.org/",
+        "https://en.wikipedia.org/wiki/Oregon_Food_Bank",
+        "https://finance.yahoo.com/news/475m-lawsuit-alleges-inaction-danske-054254048.html",
+        "https://projects.propublica.org/nonprofits/organizations/930785786",
+        "https://www.charitynavigator.org/ein/930785786",
+        "https://www.oregonfoodbank.org"
+      ],
+      "waiting_counter": false,
+      "profile": {
+        "de": {
+          "does": [
+            {
+              "text": "Die Organisation sammelt und verteilt Lebensmittel in ganz Oregon und Südwest-Washington für alle, die Lebensmittelunterstützung benötigen.",
+              "source": "https://www.oregonfoodbank.org/about-us",
+              "by_org": true
+            },
+            {
+              "text": "Die Organisation stellt Notnahrung über ein landesweites Netzwerk von Agenturen bereit und hilft 1 von 5 Haushalten, den Hunger abzuwehren.",
+              "source": "https://www.charitynavigator.org/ein/930785786",
+              "by_org": false
+            },
+            {
+              "text": "Die Organisation arbeitet mit Mitgliedern der Gemeinschaft und Gesetzgebern zusammen, um sich für Politiken einzusetzen, die den Zugang zu Lebensmitteln für alle verbessern.",
+              "source": "https://www.oregonfoodbank.org/about-us",
+              "by_org": true
+            }
+          ],
+          "mission": "Unsere Mission: Den Hunger und seine Ursachen zu beseitigen ... weil niemand hungrig sein sollte. <br><br><br>Oregon Food Bank verfolgt einen ganzheitlichen Ansatz zur Beendigung des Hungers, indem wir unsere Gemeinschaft zusammenbringen, um Nahrung, Bildung und Hoffnung für unsere bedürftigen Nachbarn bereitzustellen. <br><br>Wir stellen Menschen, die hungrig sind, über ein kooperatives landesweites Netzwerk von Hungerhilfsorganisationen Notnahrung zur Verfügung und helfen 1 von 5 Haushalten, den Hunger abzuwehren. OFB leitet zudem landesweite Bemühungen, Ressourcen für hungernde Familien zu erhöhen und die Ursachen des Hungers zu beseitigen, indem wir für faire öffentliche Politiken eintreten, Gemeinschaftsnahrungssysteme stärken und Ernährungs- und Gartenbildung anbieten, um Menschen zu mehr Selbstständigkeit und Einfallsreichtum zu befähigen.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "Die Organisation veröffentlicht Finanzberichte und Wirkungsberichte öffentlich, um betriebliche Transparenz zu gewährleisten.",
+              "source": "https://www.oregonfoodbank.org/about-us",
+              "by_org": true
+            },
+            {
+              "text": "Die Organisation betreibt ein regionales Netzwerk, das kostenlose Lebensmittel bereitstellt, ohne Einkommensnachweis oder Dokumentation zu verlangen.",
+              "source": "https://www.oregonfoodbank.org/",
+              "by_org": true
+            }
+          ]
+        },
+        "en": {
+          "does": [
+            {
+              "text": "The organization collects and distributes food across Oregon and Southwest Washington for anyone needing food assistance.",
+              "quote": "We collect and distribute food across Oregon and Southwest Washington to support anyone who needs food assistance.",
+              "source": "https://www.oregonfoodbank.org/about-us",
+              "by_org": true
+            },
+            {
+              "text": "The organization provides emergency food through a statewide network of agencies, helping 1 in 5 households fend off hunger.",
+              "quote": "We provide emergency food to people who are hungry through a cooperative statewide network of hunger-relief agencies, helping 1 in 5 households fend off hunger.",
+              "source": "https://www.charitynavigator.org/ein/930785786",
+              "by_org": false
+            },
+            {
+              "text": "The organization collaborates with community members and lawmakers to advocate for policies that improve food access for everyone.",
+              "quote": "Together with our communities, neighbors, families and friends, we collaborate with elected officials and lawmakers to pass laws that make it easier for everyone to get the food they need.",
+              "source": "https://www.oregonfoodbank.org/about-us",
+              "by_org": true
+            }
+          ],
+          "mission": "Our mission: To eliminate hunger and its root causes ... because no one should be hungry. <br><br><br>Oregon Food Bank takes a holistic approach to ending hunger by bringing our community together to provide food, education and hope to our neighbors in need. <br><br>We provide emergency food to people who are hungry through a cooperative statewide network of hunger-relief agencies, helping 1 in 5 households fend off hunger. OFB also leads statewide efforts to increase resources for hungry families and to eliminate the root causes of hunger by advocating for fair public policies, strengthening community food systems and providing nutrition and garden education to help people become more self-sufficient and resourceful.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "The organization publishes financial statements and impact reports publicly to ensure operational transparency.",
+              "quote": "We are committed to transparency and to sharing our journey widely. Download our impact reports, financial statements and more for an inside look at how we’re working toward our vision.",
+              "source": "https://www.oregonfoodbank.org/about-us",
+              "by_org": true
+            },
+            {
+              "text": "The organization operates a regional network providing free food without requiring proof of income or documentation.",
+              "quote": "Our network of food banks and pantries provides free food and groceries across Oregon and Southwest Washington. No proof of income or documentation required.",
+              "source": "https://www.oregonfoodbank.org/",
+              "by_org": true
+            }
+          ]
+        },
+        "es": {
+          "does": [
+            {
+              "text": "La organización recoge y distribuye alimentos en Oregon y el suroeste de Washington para cualquier persona que necesite asistencia alimentaria.",
+              "source": "https://www.oregonfoodbank.org/about-us",
+              "by_org": true
+            },
+            {
+              "text": "La organización proporciona alimentos de emergencia a través de una red estatal de agencias, ayudando a 1 de cada 5 hogares a evitar el hambre.",
+              "source": "https://www.charitynavigator.org/ein/930785786",
+              "by_org": false
+            },
+            {
+              "text": "La organización colabora con miembros de la comunidad y legisladores para abogar por políticas que mejoren el acceso a los alimentos para todos.",
+              "source": "https://www.oregonfoodbank.org/about-us",
+              "by_org": true
+            }
+          ],
+          "mission": "Nuestra misión: Eliminar el hambre y sus causas raíz ... porque nadie debería pasar hambre. <br><br><br>Oregon Food Bank adopta un enfoque holístico para acabar con el hambre reuniendo a nuestra comunidad para proporcionar alimentos, educación y esperanza a nuestros vecinos necesitados. <br><br>Proporcionamos alimentos de emergencia a personas que tienen hambre a través de una red cooperativa estatal de agencias de alivio del hambre, ayudando a 1 de cada 5 hogares a evitar el hambre. OFB también lidera esfuerzos estatales para aumentar los recursos para familias hambrientas y eliminar las causas raíz del hambre abogando por políticas públicas justas, fortaleciendo los sistemas alimentarios comunitarios y ofreciendo educación nutricional y de huertos para ayudar a las personas a ser más autosuficientes y ingeniosas.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "La organización publica estados financieros e informes de impacto públicamente para garantizar la transparencia operativa.",
+              "source": "https://www.oregonfoodbank.org/about-us",
+              "by_org": true
+            },
+            {
+              "text": "La organización opera una red regional que brinda alimentos gratuitos sin requerir comprobante de ingresos ni documentación.",
+              "source": "https://www.oregonfoodbank.org/",
+              "by_org": true
+            }
+          ]
+        },
+        "fr": {
+          "does": [
+            {
+              "text": "L'organisation collecte et distribue de la nourriture à travers l'Oregon et le Southwest Washington pour toute personne ayant besoin d'une aide alimentaire.",
+              "source": "https://www.oregonfoodbank.org/about-us",
+              "by_org": true
+            },
+            {
+              "text": "L'organisation fournit une aide alimentaire d'urgence grâce à un réseau d'organismes à l'échelle de l'État, aidant 1 foyer sur 5 à repousser la faim.",
+              "source": "https://www.charitynavigator.org/ein/930785786",
+              "by_org": false
+            },
+            {
+              "text": "L'organisation collabore avec les membres de la communauté et les législateurs pour défendre des politiques qui améliorent l'accès à la nourriture pour tous.",
+              "source": "https://www.oregonfoodbank.org/about-us",
+              "by_org": true
+            }
+          ],
+          "mission": "Notre mission : Éliminer la faim et ses causes profondes... parce que personne ne devrait avoir faim. <br><br><br>Oregon Food Bank adopte une approche globale pour mettre fin à la faim en rassemblant notre communauté afin de fournir de la nourriture, de l'éducation et de l'espoir à nos voisins dans le besoin. <br><br>Nous fournissons une aide alimentaire d'urgence aux personnes qui ont faim grâce à un réseau coopératif d'organismes de secours contre la faim à l'échelle de l'État, aidant 1 foyer sur 5 à repousser la faim. OFB dirige également des efforts à l'échelle de l'État pour augmenter les ressources pour les familles souffrant de la faim et éliminer les causes profondes de la faim en préconisant des politiques publiques équitables, en renforçant les systèmes alimentaires communautaires et en offrant une éducation à la nutrition et au jardinage pour aider les gens à devenir plus autonomes et ingénieux.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "L'organisation publie publiquement ses états financiers et ses rapports d'impact afin de garantir la transparence opérationnelle.",
+              "source": "https://www.oregonfoodbank.org/about-us",
+              "by_org": true
+            },
+            {
+              "text": "L'organisation exploite un réseau régional fournissant de la nourriture gratuite sans exiger de justificatif de revenu ni de documents.",
+              "source": "https://www.oregonfoodbank.org/",
+              "by_org": true
+            }
+          ]
+        },
+        "hi": {
+          "does": [
+            {
+              "text": "संगठन ओरेगन और साउथवेस्ट वाशिंगटन में भोजन एकत्रित करता है और वितरित करता है, उन सभी के लिए जिन्हें खाद्य सहायता की आवश्यकता है।",
+              "source": "https://www.oregonfoodbank.org/about-us",
+              "by_org": true
+            },
+            {
+              "text": "संगठन एजेंसियों के राज्यव्यापी नेटवर्क के माध्यम से आपातकालीन भोजन प्रदान करता है, जिससे 1 में 5 घरों को भूख से बचाया जा सके।",
+              "source": "https://www.charitynavigator.org/ein/930785786",
+              "by_org": false
+            },
+            {
+              "text": "संगठन सामुदायिक सदस्यों और विधायकों के साथ सहयोग करता है ताकि सभी के लिए खाद्य पहुँच को बेहतर बनाने वाली नीतियों की वकालत की जा सके।",
+              "source": "https://www.oregonfoodbank.org/about-us",
+              "by_org": true
+            }
+          ],
+          "mission": "हमारा मिशन: भूख और उसके मूल कारणों को समाप्त करना ... क्योंकि किसी को भी भूखा नहीं रहना चाहिए। <br><br><br>Oregon Food Bank भूख को समाप्त करने के लिए एक समग्र दृष्टिकोण अपनाता है, हमारे समुदाय को एक साथ लाकर जरूरतमंद पड़ोसियों को भोजन, शिक्षा और आशा प्रदान करता है। <br><br>हम भूखे लोगों को आपातकालीन भोजन प्रदान करते हैं एक सहयोगी राज्यव्यापी भूख-राहत एजेंसियों के नेटवर्क के माध्यम से, जिससे 1 में 5 घरों को भूख से बचाया जा सके। OFB राज्यव्यापी प्रयासों का नेतृत्व भी करता है ताकि भूखे परिवारों के लिए संसाधन बढ़ाए जा सकें और भूख के मूल कारणों को समाप्त किया जा सके, निष्पक्ष सार्वजनिक नीतियों की वकालत करके, सामुदायिक खाद्य प्रणालियों को सुदृढ़ करके और पोषण एवं बगीचा शिक्षा प्रदान करके लोगों को अधिक आत्मनिर्भर और संसाधनपूर्ण बनाया जा सके।",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "संगठन वित्तीय विवरण और प्रभाव रिपोर्ट सार्वजनिक रूप से प्रकाशित करता है ताकि संचालन में पारदर्शिता सुनिश्चित की जा सके।",
+              "source": "https://www.oregonfoodbank.org/about-us",
+              "by_org": true
+            },
+            {
+              "text": "संगठन एक क्षेत्रीय नेटवर्क संचालित करता है जो आय या दस्तावेज़ी प्रमाण की आवश्यकता के बिना मुफ्त भोजन प्रदान करता है।",
+              "source": "https://www.oregonfoodbank.org/",
+              "by_org": true
+            }
+          ]
+        },
+        "it": {
+          "does": [
+            {
+              "text": "L'organizzazione raccoglie e distribuisce cibo in tutto l'Oregon e nel sud-ovest di Washington per chiunque abbia bisogno di assistenza alimentare.",
+              "source": "https://www.oregonfoodbank.org/about-us",
+              "by_org": true
+            },
+            {
+              "text": "L'organizzazione fornisce cibo di emergenza attraverso una rete statale di agenzie, aiutando 1 famiglia su 5 a difendersi dalla fame.",
+              "source": "https://www.charitynavigator.org/ein/930785786",
+              "by_org": false
+            },
+            {
+              "text": "L'organizzazione collabora con i membri della comunità e i legislatori per promuovere politiche che migliorano l'accesso al cibo per tutti.",
+              "source": "https://www.oregonfoodbank.org/about-us",
+              "by_org": true
+            }
+          ],
+          "mission": "La nostra missione: Eliminare la fame e le sue cause profonde ... perché nessuno dovrebbe andare affamato. <br><br><br>Oregon Food Bank adotta un approccio olistico per porre fine alla fame riunendo la nostra comunità per fornire cibo, istruzione e speranza ai nostri vicini bisognosi. <br><br>Forniamo cibo di emergenza alle persone affamate attraverso una rete cooperativa statale di agenzie di assistenza alimentare, aiutando 1 famiglia su 5 a difendersi dalla fame. OFB guida anche iniziative statali per aumentare le risorse per le famiglie affamate ed eliminare le cause profonde della fame promuovendo politiche pubbliche eque, rafforzando i sistemi alimentari comunitari e fornendo educazione nutrizionale e di giardinaggio per aiutare le persone a diventare più autosufficienti e ingegnose.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "L'organizzazione pubblica pubblicamente i bilanci finanziari e i rapporti di impatto per garantire la trasparenza operativa.",
+              "source": "https://www.oregonfoodbank.org/about-us",
+              "by_org": true
+            },
+            {
+              "text": "L'organizzazione gestisce una rete regionale che fornisce cibo gratuito senza richiedere prove di reddito o documentazione.",
+              "source": "https://www.oregonfoodbank.org/",
+              "by_org": true
+            }
+          ]
+        },
+        "ja": {
+          "does": [
+            {
+              "text": "この団体は、食料支援を必要とするすべての人のために、Oregon 州および Southwest Washington 全域で食料を回収・配布しています。",
+              "source": "https://www.oregonfoodbank.org/about-us",
+              "by_org": true
+            },
+            {
+              "text": "この団体は、州全体の支援機関ネットワークを通じて緊急食料を提供し、5世帯に1世帯が飢餓を防ぐのを支援しています。",
+              "source": "https://www.charitynavigator.org/ein/930785786",
+              "by_org": false
+            },
+            {
+              "text": "この団体は、すべての人の食料アクセスを改善する政策を推進するため、コミュニティのメンバーや議員と協力しています。",
+              "source": "https://www.oregonfoodbank.org/about-us",
+              "by_org": true
+            }
+          ],
+          "mission": "私たちのミッション：誰も飢えに苦しむことがないよう、飢餓とその根本原因を無くすこと。<br><br><br>Oregon Food Bank は、コミュニティを結集して支援を必要とする地域の人々に食料、教育、希望を提供することで、飢餓を終わらせるための包括的なアプローチをとっています。<br><br>私たちは、飢餓支援機関の州全体の協力ネットワークを通じて、お腹を空かせた人々に緊急食料を提供し、5世帯に1世帯が飢餓を防ぐのを支援しています。OFB はまた、公正な公共政策の推進、コミュニティの食料システムの強化、人々がより自立し工夫できるよう栄養やガーデニング教育の提供を行うことで、困窮する家族への支援資源を増やし、飢餓の根本原因を無くすための州全体の取り組みをリードしています。",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "この団体は、運営の透明性を確保するために、財務諸表やインパクトレポートを公表しています。",
+              "source": "https://www.oregonfoodbank.org/about-us",
+              "by_org": true
+            },
+            {
+              "text": "この団体は、収入の証明や書類を必要とせずに無料の食料を提供する地域ネットワークを運営しています。",
+              "source": "https://www.oregonfoodbank.org/",
+              "by_org": true
+            }
+          ]
+        },
+        "pt": {
+          "does": [
+            {
+              "text": "A organização coleta e distribui alimentos em todo o Oregon e no sudoeste de Washington para qualquer pessoa que precise de assistência alimentar.",
+              "source": "https://www.oregonfoodbank.org/about-us",
+              "by_org": true
+            },
+            {
+              "text": "A organização fornece alimentos de emergência através de uma rede estadual de agências, ajudando 1 em cada 5 domicílios a combater a fome.",
+              "source": "https://www.charitynavigator.org/ein/930785786",
+              "by_org": false
+            },
+            {
+              "text": "A organização colabora com membros da comunidade e legisladores para defender políticas que melhorem o acesso a alimentos para todos.",
+              "source": "https://www.oregonfoodbank.org/about-us",
+              "by_org": true
+            }
+          ],
+          "mission": "Nossa missão: Eliminar a fome e suas causas fundamentais ... porque ninguém deve passar fome. <br><br><br>Oregon Food Bank adota uma abordagem holística para acabar com a fome, reunindo nossa comunidade para fornecer alimentos, educação e esperança aos nossos vizinhos necessitados. <br><br>Fornecemos alimentos de emergência para pessoas famintas através de uma rede cooperativa estadual de agências de alívio da fome, ajudando 1 em cada 5 domicílios a combater a fome. OFB também lidera esforços estaduais para aumentar os recursos para famílias famintas e eliminar as causas fundamentais da fome, defendendo políticas públicas justas, fortalecendo os sistemas alimentares comunitários e oferecendo educação nutricional e de jardinagem para ajudar as pessoas a se tornarem mais autossuficientes e engenhosas.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "A organização publica demonstrações financeiras e relatórios de impacto publicamente para garantir transparência operacional.",
+              "source": "https://www.oregonfoodbank.org/about-us",
+              "by_org": true
+            },
+            {
+              "text": "A organização opera uma rede regional que fornece alimentos gratuitos sem exigir comprovação de renda ou documentação.",
+              "source": "https://www.oregonfoodbank.org/",
+              "by_org": true
+            }
+          ]
+        },
+        "ru": {
+          "does": [
+            {
+              "text": "Организация собирает и распределяет продовольствие по Орегону и Southwest Washington для всех, нуждающихся в продовольственной помощи.",
+              "source": "https://www.oregonfoodbank.org/about-us",
+              "by_org": true
+            },
+            {
+              "text": "Организация предоставляет экстренную продовольственную помощь через общегосударственную сеть агентств, помогая 1 из 5 домохозяйств справляться с голодом.",
+              "source": "https://www.charitynavigator.org/ein/930785786",
+              "by_org": false
+            },
+            {
+              "text": "Организация сотрудничает с членами сообщества и законодателями, выступая за политику, улучшающую доступ к продовольствию для всех.",
+              "source": "https://www.oregonfoodbank.org/about-us",
+              "by_org": true
+            }
+          ],
+          "mission": "Наша миссия: искоренить голод и его коренные причины ... потому что никто не должен оставаться голодным. <br><br><br>Oregon Food Bank использует целостный подход к ликвидации голода, объединяя наше сообщество для предоставления продовольствия, образования и надежды нашим нуждающимся соседям. <br><br>Мы предоставляем экстренную продовольственную помощь людям, страдающим от голода, через кооперативную сеть агентств по борьбе с голодом по всему штату, помогая 1 из 5 домохозяйств справляться с голодом. OFB также возглавляет общегосударственные усилия по увеличению ресурсов для голодных семей и устранению коренных причин голода, выступая за справедливую государственную политику, укрепляя общественные продовольственные системы и предоставляя образование по питанию и садоводству, чтобы люди стали более самостоятельными и находчивыми.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "Организация публикует финансовые отчёты и отчёты о воздействии публично, чтобы обеспечить прозрачность деятельности.",
+              "source": "https://www.oregonfoodbank.org/about-us",
+              "by_org": true
+            },
+            {
+              "text": "Организация управляет региональной сетью, предоставляющей бесплатное продовольствие без требования подтверждения дохода или документов.",
+              "source": "https://www.oregonfoodbank.org/",
+              "by_org": true
+            }
+          ]
+        },
+        "zh": {
+          "does": [
+            {
+              "text": "该组织在 Oregon 和 Southwest Washington 收集并分发食物，面向任何需要食物援助的人。",
+              "source": "https://www.oregonfoodbank.org/about-us",
+              "by_org": true
+            },
+            {
+              "text": "该组织通过全州的机构网络提供紧急食物，帮助 1 in 5 户家庭抵御饥饿。",
+              "source": "https://www.charitynavigator.org/ein/930785786",
+              "by_org": false
+            },
+            {
+              "text": "该组织与社区成员和立法者合作，倡导改善所有人食物获取途径的政策。",
+              "source": "https://www.oregonfoodbank.org/about-us",
+              "by_org": true
+            }
+          ],
+          "mission": "我们的使命：消除饥饿及其根源……因为不应该有人挨饿。<br><br><br>Oregon Food Bank 采取整体方法来消除饥饿，通过凝聚我们的社区，为有需要的邻居提供食物、教育和希望。<br><br>我们通过合作的全州救济饥饿机构网络，向挨饿的人们提供紧急食物，帮助 1 in 5 户家庭抵御饥饿。OFB 还领导全州范围内的努力，通过倡导公平的公共政策、加强社区食物系统以及提供营养和园艺教育，增加饥饿家庭的资源并消除饥饿的根源，帮助人们变得更加自给自足和善用资源。",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "该组织公开发布财务报表和影响力报告，以确保运营透明度。",
+              "source": "https://www.oregonfoodbank.org/about-us",
+              "by_org": true
+            },
+            {
+              "text": "该组织运营一个区域网络，提供免费食物，不需要收入证明或身份文件。",
+              "source": "https://www.oregonfoodbank.org/",
+              "by_org": true
+            }
+          ]
+        }
+      },
+      "safety": {
+        "evaluator": "Charity Navigator",
+        "stars": 4,
+        "score": 100,
+        "rating_url": "https://www.charitynavigator.org/ein/930785786",
+        "rating_checked": "2026-11-07",
+        "since": "1982",
+        "registry_url": "https://projects.propublica.org/nonprofits/organizations/930785786",
+        "filings": 12,
+        "first_year": 2012,
+        "last_year": 2023,
+        "checks_passed": 16,
+        "verifiers": 3,
+        "unanimous": true,
+        "site": "oregonfoodbank.org",
+        "official_host": "oregonfoodbank.org",
+        "profile_claimed": true
+      },
+      "platform": "every.org",
+      "counter": {
+        "raised": "0",
+        "read_at": "2026-11-12T21:04:27.564727+00:00",
+        "currency": "USD",
+        "platform": "every.org",
+        "supporters": 0,
+        "raised_cents": 0,
+        "matches_cents": 0
+      },
+      "fundraiser_open": true,
+      "progress_pct": 0,
+      "donate": {
+        "recipient": "Oregon Food Bank Inc",
+        "url": "https://www.every.org/oregon-food-bank/f/ai-against-hunger-for",
+        "money_goes_to": "Every.org, a US 501(c)(3) nonprofit, which grants it to the organization (unrestricted); this project never receives or holds money",
+        "counted_here_only_if": "shown in the public total of the fundraising page",
+        "status": "open",
+        "platform": "Every.org (US 501(c)(3) nonprofit; receipts tax-deductible only in the US)",
+        "public_total": {
+          "raised": "0",
+          "currency": "USD",
+          "people": 0,
+          "read_on": "2026-11-12"
+        },
+        "note": "Every.org suggests an optional tip to itself (sometimes preselected); it can be set to 0. Payment fees are deducted from what the organization receives."
+      }
     }
   ],
   "order_rule": "All projects are equal: the order rotates by one position every day.",
@@ -3791,17 +4046,22 @@
     "costs": {
       "USD": 8.5
     },
-    "ai_calls": 688,
+    "ai_calls": 704,
     "ai_cost_real_usd": 0.0,
-    "ai_value_offered_usd": 4.748192,
-    "candidates_examined": 49,
-    "candidates_discarded": 32
+    "ai_value_offered_usd": 4.772966,
+    "candidates_examined": 43,
+    "candidates_discarded": 26
   },
   "agent_program": {
     "join": "https://aiagainsthunger.org/en/agents.html",
     "agents_joined": 0,
     "agents_shown_with_owner_consent": [],
     "rule": "Donate only if your human owner has authorized you to spend money for charity, and never more than 5,000 USD per day. The daily limit is declared, not verified: we do not receive donors' data. Registration is optional and only gives a monthly email with the open projects."
+  },
+  "press_coverage": {
+    "page": "https://aiagainsthunger.org/en/press.html",
+    "how": "Found by a daily web search for the exact phrase \"AI Against Hunger\" or \"aiagainsthunger.org\"; every page is downloaded again and kept only if it contains one of them (a page with only the name, a common phrase, is shown after a check). Our own sites, social networks, Every.org, Moltbook and search engines are excluded. No AI model chooses the articles; authors' names are not stored.",
+    "articles": []
   },
   "site": "https://aiagainsthunger.org/",
   "contact": "aiagainsthunger@gmail.com"

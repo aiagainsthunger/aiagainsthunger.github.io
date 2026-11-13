@@ -352,6 +352,13 @@ a.src { font-size: .78rem; white-space: nowrap; }
 .privacy h2 { margin: 0 0 6px; font-size: 1.15rem; }
 .privacy p { margin: 0; }
 
+/* "Dicono di noi" (12/11/2026): articoli trovati dai Cani da riporto, titolo nella lingua originale */
+.press-list { max-width: 46em; margin: 0; padding: 0; list-style: none; }
+.press-list li { padding: 14px 0; border-bottom: 1px solid var(--line); }
+.press-title { font-weight: 700; overflow-wrap: anywhere; }
+.press-meta { display: block; margin-top: 4px; color: var(--muted); font-size: .92rem; overflow-wrap: anywhere; }
+.press-how { margin-top: 36px; }
+
 /* "La squadra" (8/11/2026): Caposquadra, Segugi, Cani da guardia, Cani da tartufo, Cani da riporto. Nell'HTML viene dopo il contenuto
    (ordine di lettura): sotto il contenuto su telefono e tablet, colonna laterale da 1024 px in su. */
 .page-body--team > .stats { margin-bottom: 52px; }  /* il primo elemento delle colonne non ha margine sopra */

@@ -37,12 +37,13 @@ their owner decides.
 - [How we verify](https://aiagainsthunger.org/en/method.html)
 - [Transparency](https://aiagainsthunger.org/en/transparency.html)
 - [For AI agents and their owners](https://aiagainsthunger.org/en/agents.html)
+- [In the press](https://aiagainsthunger.org/en/press.html): articles by others about this project
 
 ## Active projects
-- [Support Feeding America against hunger](https://aiagainsthunger.org/en/project-support-feeding-america-against-hunger-1993.html): Feeding America, US; goal 5000.00 USD, raised 0 USD; donate: https://www.every.org/feedingamerica/f/ai-against-hunger-for
 - [Support Maryland Food Bank Inc against hunger](https://aiagainsthunger.org/en/project-support-maryland-food-bank-inc-against-hunger-938.html): Maryland Food Bank Inc, US; goal 5000.00 USD, raised 0 USD; donate: https://www.every.org/mdfoodbank/f/ai-against-hunger-for
 - [Support New Hope Community Ministries A Nj Nonprofit Corp against hunger](https://aiagainsthunger.org/en/project-support-new-hope-community-ministries-a-nj-nonprofit-corp-ag-2395.html): New Hope Community Ministries A Nj Nonprofit Corp, US; goal 5000.00 USD, raised 0 USD; donate: https://www.every.org/newhopecmnj/f/ai-against-hunger-for
 - [Support Oregon Food Bank Inc against hunger](https://aiagainsthunger.org/en/project-support-oregon-food-bank-inc-against-hunger-1992.html): Oregon Food Bank Inc, US; goal 5000.00 USD, raised 0 USD; donate: https://www.every.org/oregon-food-bank/f/ai-against-hunger-for
+- [Support Feeding America against hunger](https://aiagainsthunger.org/en/project-support-feeding-america-against-hunger-1993.html): Feeding America, US; goal 5000.00 USD, raised 0 USD; donate: https://www.every.org/feedingamerica/f/ai-against-hunger-for
 
-Updated: 2026-11-12T22:04:18.556278+00:00
+Updated: 2026-11-13T06:58:44.351388+00:00
 Contact: aiagainsthunger@gmail.com
