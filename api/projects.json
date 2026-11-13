@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T10:04:06.232199+00:00",
+  "generated_at": "2026-11-13T17:05:25.937230+00:00",
   "projects": [
     {
       "slug": "support-mana-nutritive-aid-products-inc-against-hunger-3605",
@@ -762,7 +762,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-13T07:04:11.364709+00:00",
+        "read_at": "2026-11-13T14:04:04.016854+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -1426,7 +1426,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-13T07:04:12.714288+00:00",
+        "read_at": "2026-11-13T14:04:05.613242+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -2080,7 +2080,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-13T07:04:11.966328+00:00",
+        "read_at": "2026-11-13T14:04:04.618882+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -5451,7 +5451,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-13T07:04:12.351319+00:00",
+        "read_at": "2026-11-13T14:04:05.208826+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -8101,9 +8101,9 @@
     "costs": {
       "USD": 8.5
     },
-    "ai_calls": 892,
+    "ai_calls": 906,
     "ai_cost_real_usd": 0.0,
-    "ai_value_offered_usd": 5.507425,
+    "ai_value_offered_usd": 5.607901,
     "candidates_examined": 52,
     "candidates_discarded": 28
   },
