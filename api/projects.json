@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T17:05:25.937230+00:00",
+  "generated_at": "2026-11-13T20:04:24.202065+00:00",
   "projects": [
     {
       "slug": "support-mana-nutritive-aid-products-inc-against-hunger-3605",
@@ -8101,9 +8101,9 @@
     "costs": {
       "USD": 8.5
     },
-    "ai_calls": 906,
+    "ai_calls": 913,
     "ai_cost_real_usd": 0.0,
-    "ai_value_offered_usd": 5.607901,
+    "ai_value_offered_usd": 5.690141,
     "candidates_examined": 52,
     "candidates_discarded": 28
   },
