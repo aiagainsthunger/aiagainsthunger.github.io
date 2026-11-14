@@ -1,302 +1,6 @@
 {
-  "generated_at": "2026-11-13T20:04:24.202065+00:00",
+  "generated_at": "2026-11-14T08:04:22.296588+00:00",
   "projects": [
-    {
-      "slug": "support-mana-nutritive-aid-products-inc-against-hunger-3605",
-      "title": "Support Mana Nutritive Aid Products Inc against hunger",
-      "description": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'Every.org: malnutrition children africa'.",
-      "org_name": "Mana Nutritive Aid Products Inc",
-      "org_country": "US",
-      "org_website": "https://mananutrition.org/",
-      "country": "US",
-      "currency": "USD",
-      "goal": 5000.0,
-      "raised": 0.0,
-      "donated": 0.0,
-      "status": "revisione_pubblica",
-      "donation_url": null,
-      "source_url": "https://www.charitynavigator.org/ein/270165743",
-      "approved_on": "2026-11-13",
-      "review_until": "2026-11-16 08:11 UTC",
-      "translations": {
-        "de": {
-          "text": "Organisation bewertet von Charity Navigator, von Agenten gefunden mit: 'Every.org: malnutrition children africa'.",
-          "title": "Support Mana Nutritive Aid Products Inc against hunger",
-          "source": "traduzione AI"
-        },
-        "en": {
-          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'Every.org: malnutrition children africa'.",
-          "title": "Support Mana Nutritive Aid Products Inc against hunger",
-          "source": "originale"
-        },
-        "es": {
-          "text": "Entidad evaluada por Charity Navigator, encontrada por los agentes con: 'Every.org: malnutrition children africa'.",
-          "title": "Apoya a Mana Nutritive Aid Products Inc contra la hambruna",
-          "source": "traduzione AI"
-        },
-        "fr": {
-          "text": "Entité évaluée par Charity Navigator, trouvée par les agents avec : 'Every.org: malnutrition children africa'.",
-          "title": "Soutenir Mana Nutritive Aid Products Inc contre la faim",
-          "source": "traduzione AI"
-        },
-        "hi": {
-          "text": "Charity Navigator द्वारा मूल्यांकित संस्था, एजेंटों द्वारा पाया गया: 'Every.org: malnutrition children africa'.",
-          "title": "भूख के खिलाफ Mana Nutritive Aid Products Inc का समर्थन करें",
-          "source": "traduzione AI"
-        },
-        "it": {
-          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'Every.org: malnutrition children africa'.",
-          "title": "Sostieni Mana Nutritive Aid Products Inc contro la fame",
-          "source": "traduzione AI"
-        },
-        "ja": {
-          "text": "Charity Navigatorで評価された団体、'Every.org: malnutrition children africa'で見つけられました。",
-          "title": "飢餓に対抗するMana Nutritive Aid Products Incを支援",
-          "source": "traduzione AI"
-        },
-        "pt": {
-          "text": "Entidade avaliada pelo Charity Navigator, encontrada pelos agentes com: 'Every.org: malnutrition children africa'.",
-          "title": "Apoie Mana Nutritive Aid Products Inc contra a fome",
-          "source": "traduzione AI"
-        },
-        "ru": {
-          "text": "Организация оценена Charity Navigator, найдена агентами с: 'Every.org: непитание детей Африки'.",
-          "title": "Поддержите Mana Nutritive Aid Products Inc против голода",
-          "source": "traduzione AI"
-        },
-        "zh": {
-          "text": "该机构已被 Charity Navigator 评估，代理人通过 'Every.org: malnutrition children africa' 找到。",
-          "title": "支持 Mana Nutritive Aid Products Inc 对抗饥饿",
-          "source": "traduzione AI"
-        }
-      },
-      "tranches": [],
-      "checks": [
-        {
-          "verifier": "regole",
-          "check_type": "ammissibilita",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Regole di ammissibilità (config/regole.yaml):\n✓ fonte ammessa: fonte 'valutatore'\n✓ ente registrato nel database: Mana Nutritive Aid Products Inc\n✓ codice fiscale verificato (IRS): EIN 270165743\n✓ ente valutato dal valutatore: Charity Navigator\n✓ voto del valutatore: 96%, 4 stelle su 4 (minimo 4 stelle e 90%)\n✓ anni di bilanci ufficiali: 13 anni [2019, 2020, 2021, 2022, 2023] (minimo 3)\n✓ tema fame / nutrizione: categoria IRS Q33 (richiesta ['K3', 'K4']); tema nel nome: False; tema nella descrizione ufficiale: sì, \"malnutrition\" in «DEVELOP AND DELIVER READY-TO-USE FOODS TO LOWER THE COST TO TREAT MALNUTRITION.» (Charity Navigator, riquadro Mission della pagina Rating for: https://www.charitynavigator.org/ein/270165743)",
-          "source_url": "https://www.charitynavigator.org/ein/270165743"
-        },
-        {
-          "verifier": "regole",
-          "check_type": "ammissibilita",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "✓ valutatore indipendente tra le prove: 2 pagine di valutatori (https://www.charitynavigator.org/ein/270165743, https://www.charitynavigator.org); minimo 1",
-          "source_url": "https://www.charitynavigator.org/ein/270165743"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "registrazione",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Mana Nutritive Aid Products Inc è un'organizzazione 501(c)(3) registrata negli USA con EIN 270165743 e riconoscimento esenzione IRS risalente al 01/06/2010.",
-          "source_url": "https://www.charitynavigator.org/ein/270165743"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "bilanci",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Sono disponibili pubblicamente i bilanci IRS Form 990 per molteplici anni (dal 2011 al 2023), con entrate pari a $137.874.468 nel 2023.",
-          "source_url": "https://www.charitynavigator.org/ein/270165743"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "valutazione_indipendente",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "L'ente è valutato da Charity Navigator con 4 stelle su 4 (punteggio del 96%) e punteggio del 100% per trasparenza e salute finanziaria.",
-          "source_url": "https://www.charitynavigator.org/ein/270165743"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "coerenza_importo",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "L'obiettivo di raccolta previsto (5.000 USD) è del tutto contenuto e coerente a fronte di spese annue oltre i 50 milioni di USD.",
-          "source_url": "https://www.charitynavigator.org/ein/270165743"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "storico_progetti",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "L'organizzazione opera dal 2010 sviluppando e distribuendo cibi terapeutici pronti all'uso (RUTF) per curare la malnutrizione, con attività continuativa documentata.",
-          "source_url": "https://www.charitynavigator.org/ein/270165743"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "segnali_allarme",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nelle fonti analizzate non è emerso alcun segnale di allarme, notizia negativa o istruzione impropria; l'ente presenta elevata trasparenza finanziaria.",
-          "source_url": "https://www.charitynavigator.org/ein/270165743"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "conflitti_interesse",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
-          "source_url": "config/conflitti.yaml"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "registrazione",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Il registro IRS (ProPublica) conferma l'esistenza legale di Mana Nutritive Aid Products Inc con EIN 270165743, sede a Matthews, NC e data di riconoscimento 2010-06-01.",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/270165743"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "bilanci",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Sono disponibili i Form 990 dal 2018 al 2023 sul sito ProPublica, dimostrando la pubblicazione di rendiconti finanziari recenti.",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/270165743"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "valutazione_indipendente",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Charity Navigator, valutatore indipendente, assegna a Mana Nutritive Aid Products Inc una valutazione a quattro stelle (96%) e pubblica il profilo dell'ente.",
-          "source_url": "https://www.charitynavigator.org/ein/270165743"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "coerenza_importo",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "Il budget annuale dell'ente supera i 100 milioni USD (Form 990 2023), perciò la richiesta di 5 000 USD è proporzionalmente minima e ragionevole.",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/270165743"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "storico_progetti",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "I Form 990 mostrano attività continuative dal 2012 al 2023 e la missione descritta da Charity Navigator indica la realizzazione di prodotti alimentari per combattere la malnutrizione.",
-          "source_url": "https://www.charitynavigator.org/ein/270165743"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "segnali_allarme",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessuna notizia negativa, nessun pagamento in crypto, nessuna urgenza artificiosa e contatti ufficiali (sito web, telefono) sono presenti nelle fonti.",
-          "source_url": "https://www.charitynavigator.org/ein/270165743"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "conflitti_interesse",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
-          "source_url": "config/conflitti.yaml"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "registrazione",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "L'ente è registrato come 501(c)(3) con EIN 270165743, riconosciuto dall'IRS il 01/06/2010. La sede è a Matthews, NC.",
-          "source_url": "https://www.charitynavigator.org/ein/270165743"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "bilanci",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Sono disponibili i bilanci pubblici (Form 990) per gli anni fiscali dal 2011 al 2023, con dati finanziari dettagliati (es. entrate 2023: ~137M USD).",
-          "source_url": "https://www.charitynavigator.org/ein/270165743"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "valutazione_indipendente",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Charity Navigator assegna una valutazione di 4 stelle (96%) e classifica l'ente come 'Four-Star Charity'.",
-          "source_url": "https://www.charitynavigator.org/ein/270165743"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "coerenza_importo",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "L'obiettivo di raccolta di 5.000 USD è estremamente basso rispetto alle dimensioni dell'ente (entrate annuali nell'ordine dei milioni di dollari), rendendolo pienamente coerente e gestibile.",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/270165743"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "storico_progetti",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "L'ente ha una storia operativa documentata dal 2010, con bilanci consecutivi e presenza su piattaforme di settore come Devex, indicando attività continuativa.",
-          "source_url": "https://www.charitynavigator.org/ein/270165743"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "segnali_allarme",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun segnale d'allarme trovato. L'ente ha un sito web ufficiale, contatti telefonici diretti, e non emergono notizie negative o richieste di pagamento a persone fisiche/crypto nelle prove fornite.",
-          "source_url": "https://www.charitynavigator.org/ein/270165743"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "conflitti_interesse",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
-          "source_url": "config/conflitti.yaml"
-        }
-      ],
-      "sources": [
-        "https://projects.propublica.org/nonprofits/organizations/270165743",
-        "https://www.cbinsights.com/company/charity-navigator",
-        "https://www.charitynavigator.org",
-        "https://www.charitynavigator.org/ein/270165743",
-        "https://www.devex.com/organizations/mana-nutritive-aid-products-inc-72339",
-        "https://www.mapquest.com/us/north-carolina/mana-nutritive-aid-products-incorporated-379565851"
-      ],
-      "waiting_counter": false,
-      "profile": {},
-      "safety": {
-        "evaluator": "Charity Navigator",
-        "stars": 4,
-        "score": 96,
-        "rating_url": "https://www.charitynavigator.org/ein/270165743",
-        "rating_checked": "2026-11-08",
-        "since": "2010",
-        "registry_url": "https://projects.propublica.org/nonprofits/organizations/270165743",
-        "filings": 13,
-        "first_year": 2011,
-        "last_year": 2023,
-        "checks_passed": 18,
-        "verifiers": 3,
-        "unanimous": true,
-        "site": "mananutrition.org",
-        "official_host": "mananutrition.org",
-        "profile_claimed": false
-      },
-      "platform": "",
-      "counter": {},
-      "fundraiser_open": false,
-      "progress_pct": 0,
-      "donate": {
-        "recipient": "Mana Nutritive Aid Products Inc",
-        "url": null,
-        "money_goes_to": "not open yet: donations open on a fundraising page with a public total",
-        "counted_here_only_if": "shown in the public total of the fundraising page",
-        "status": "in public review"
-      }
-    },
     {
       "slug": "support-maryland-food-bank-inc-against-hunger-938",
       "title": "Support Maryland Food Bank Inc against hunger",
@@ -762,7 +466,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-13T14:04:04.016854+00:00",
+        "read_at": "2026-11-13T21:04:22.405377+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -1426,7 +1130,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-13T14:04:05.613242+00:00",
+        "read_at": "2026-11-13T21:04:23.905284+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -2080,7 +1784,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-13T14:04:04.618882+00:00",
+        "read_at": "2026-11-13T21:04:23.051663+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -5451,7 +5155,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-13T14:04:05.208826+00:00",
+        "read_at": "2026-11-13T21:04:23.509069+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -8085,6 +7789,302 @@
       "progress_pct": 0,
       "donate": {
         "recipient": "Greater Chicago Food Depository",
+        "url": null,
+        "money_goes_to": "not open yet: donations open on a fundraising page with a public total",
+        "counted_here_only_if": "shown in the public total of the fundraising page",
+        "status": "in public review"
+      }
+    },
+    {
+      "slug": "support-mana-nutritive-aid-products-inc-against-hunger-3605",
+      "title": "Support Mana Nutritive Aid Products Inc against hunger",
+      "description": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'Every.org: malnutrition children africa'.",
+      "org_name": "Mana Nutritive Aid Products Inc",
+      "org_country": "US",
+      "org_website": "https://mananutrition.org/",
+      "country": "US",
+      "currency": "USD",
+      "goal": 5000.0,
+      "raised": 0.0,
+      "donated": 0.0,
+      "status": "revisione_pubblica",
+      "donation_url": null,
+      "source_url": "https://www.charitynavigator.org/ein/270165743",
+      "approved_on": "2026-11-13",
+      "review_until": "2026-11-16 08:11 UTC",
+      "translations": {
+        "de": {
+          "text": "Organisation bewertet von Charity Navigator, von Agenten gefunden mit: 'Every.org: malnutrition children africa'.",
+          "title": "Support Mana Nutritive Aid Products Inc against hunger",
+          "source": "traduzione AI"
+        },
+        "en": {
+          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'Every.org: malnutrition children africa'.",
+          "title": "Support Mana Nutritive Aid Products Inc against hunger",
+          "source": "originale"
+        },
+        "es": {
+          "text": "Entidad evaluada por Charity Navigator, encontrada por los agentes con: 'Every.org: malnutrition children africa'.",
+          "title": "Apoya a Mana Nutritive Aid Products Inc contra la hambruna",
+          "source": "traduzione AI"
+        },
+        "fr": {
+          "text": "Entité évaluée par Charity Navigator, trouvée par les agents avec : 'Every.org: malnutrition children africa'.",
+          "title": "Soutenir Mana Nutritive Aid Products Inc contre la faim",
+          "source": "traduzione AI"
+        },
+        "hi": {
+          "text": "Charity Navigator द्वारा मूल्यांकित संस्था, एजेंटों द्वारा पाया गया: 'Every.org: malnutrition children africa'.",
+          "title": "भूख के खिलाफ Mana Nutritive Aid Products Inc का समर्थन करें",
+          "source": "traduzione AI"
+        },
+        "it": {
+          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'Every.org: malnutrition children africa'.",
+          "title": "Sostieni Mana Nutritive Aid Products Inc contro la fame",
+          "source": "traduzione AI"
+        },
+        "ja": {
+          "text": "Charity Navigatorで評価された団体、'Every.org: malnutrition children africa'で見つけられました。",
+          "title": "飢餓に対抗するMana Nutritive Aid Products Incを支援",
+          "source": "traduzione AI"
+        },
+        "pt": {
+          "text": "Entidade avaliada pelo Charity Navigator, encontrada pelos agentes com: 'Every.org: malnutrition children africa'.",
+          "title": "Apoie Mana Nutritive Aid Products Inc contra a fome",
+          "source": "traduzione AI"
+        },
+        "ru": {
+          "text": "Организация оценена Charity Navigator, найдена агентами с: 'Every.org: непитание детей Африки'.",
+          "title": "Поддержите Mana Nutritive Aid Products Inc против голода",
+          "source": "traduzione AI"
+        },
+        "zh": {
+          "text": "该机构已被 Charity Navigator 评估，代理人通过 'Every.org: malnutrition children africa' 找到。",
+          "title": "支持 Mana Nutritive Aid Products Inc 对抗饥饿",
+          "source": "traduzione AI"
+        }
+      },
+      "tranches": [],
+      "checks": [
+        {
+          "verifier": "regole",
+          "check_type": "ammissibilita",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Regole di ammissibilità (config/regole.yaml):\n✓ fonte ammessa: fonte 'valutatore'\n✓ ente registrato nel database: Mana Nutritive Aid Products Inc\n✓ codice fiscale verificato (IRS): EIN 270165743\n✓ ente valutato dal valutatore: Charity Navigator\n✓ voto del valutatore: 96%, 4 stelle su 4 (minimo 4 stelle e 90%)\n✓ anni di bilanci ufficiali: 13 anni [2019, 2020, 2021, 2022, 2023] (minimo 3)\n✓ tema fame / nutrizione: categoria IRS Q33 (richiesta ['K3', 'K4']); tema nel nome: False; tema nella descrizione ufficiale: sì, \"malnutrition\" in «DEVELOP AND DELIVER READY-TO-USE FOODS TO LOWER THE COST TO TREAT MALNUTRITION.» (Charity Navigator, riquadro Mission della pagina Rating for: https://www.charitynavigator.org/ein/270165743)",
+          "source_url": "https://www.charitynavigator.org/ein/270165743"
+        },
+        {
+          "verifier": "regole",
+          "check_type": "ammissibilita",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "✓ valutatore indipendente tra le prove: 2 pagine di valutatori (https://www.charitynavigator.org/ein/270165743, https://www.charitynavigator.org); minimo 1",
+          "source_url": "https://www.charitynavigator.org/ein/270165743"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "registrazione",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Mana Nutritive Aid Products Inc è un'organizzazione 501(c)(3) registrata negli USA con EIN 270165743 e riconoscimento esenzione IRS risalente al 01/06/2010.",
+          "source_url": "https://www.charitynavigator.org/ein/270165743"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "bilanci",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Sono disponibili pubblicamente i bilanci IRS Form 990 per molteplici anni (dal 2011 al 2023), con entrate pari a $137.874.468 nel 2023.",
+          "source_url": "https://www.charitynavigator.org/ein/270165743"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "valutazione_indipendente",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "L'ente è valutato da Charity Navigator con 4 stelle su 4 (punteggio del 96%) e punteggio del 100% per trasparenza e salute finanziaria.",
+          "source_url": "https://www.charitynavigator.org/ein/270165743"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "coerenza_importo",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "L'obiettivo di raccolta previsto (5.000 USD) è del tutto contenuto e coerente a fronte di spese annue oltre i 50 milioni di USD.",
+          "source_url": "https://www.charitynavigator.org/ein/270165743"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "storico_progetti",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "L'organizzazione opera dal 2010 sviluppando e distribuendo cibi terapeutici pronti all'uso (RUTF) per curare la malnutrizione, con attività continuativa documentata.",
+          "source_url": "https://www.charitynavigator.org/ein/270165743"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "segnali_allarme",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nelle fonti analizzate non è emerso alcun segnale di allarme, notizia negativa o istruzione impropria; l'ente presenta elevata trasparenza finanziaria.",
+          "source_url": "https://www.charitynavigator.org/ein/270165743"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "conflitti_interesse",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "source_url": "config/conflitti.yaml"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "registrazione",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Il registro IRS (ProPublica) conferma l'esistenza legale di Mana Nutritive Aid Products Inc con EIN 270165743, sede a Matthews, NC e data di riconoscimento 2010-06-01.",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/270165743"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "bilanci",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Sono disponibili i Form 990 dal 2018 al 2023 sul sito ProPublica, dimostrando la pubblicazione di rendiconti finanziari recenti.",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/270165743"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "valutazione_indipendente",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Charity Navigator, valutatore indipendente, assegna a Mana Nutritive Aid Products Inc una valutazione a quattro stelle (96%) e pubblica il profilo dell'ente.",
+          "source_url": "https://www.charitynavigator.org/ein/270165743"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "coerenza_importo",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "Il budget annuale dell'ente supera i 100 milioni USD (Form 990 2023), perciò la richiesta di 5 000 USD è proporzionalmente minima e ragionevole.",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/270165743"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "storico_progetti",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "I Form 990 mostrano attività continuative dal 2012 al 2023 e la missione descritta da Charity Navigator indica la realizzazione di prodotti alimentari per combattere la malnutrizione.",
+          "source_url": "https://www.charitynavigator.org/ein/270165743"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "segnali_allarme",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessuna notizia negativa, nessun pagamento in crypto, nessuna urgenza artificiosa e contatti ufficiali (sito web, telefono) sono presenti nelle fonti.",
+          "source_url": "https://www.charitynavigator.org/ein/270165743"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "conflitti_interesse",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "source_url": "config/conflitti.yaml"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "registrazione",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "L'ente è registrato come 501(c)(3) con EIN 270165743, riconosciuto dall'IRS il 01/06/2010. La sede è a Matthews, NC.",
+          "source_url": "https://www.charitynavigator.org/ein/270165743"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "bilanci",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Sono disponibili i bilanci pubblici (Form 990) per gli anni fiscali dal 2011 al 2023, con dati finanziari dettagliati (es. entrate 2023: ~137M USD).",
+          "source_url": "https://www.charitynavigator.org/ein/270165743"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "valutazione_indipendente",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Charity Navigator assegna una valutazione di 4 stelle (96%) e classifica l'ente come 'Four-Star Charity'.",
+          "source_url": "https://www.charitynavigator.org/ein/270165743"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "coerenza_importo",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "L'obiettivo di raccolta di 5.000 USD è estremamente basso rispetto alle dimensioni dell'ente (entrate annuali nell'ordine dei milioni di dollari), rendendolo pienamente coerente e gestibile.",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/270165743"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "storico_progetti",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "L'ente ha una storia operativa documentata dal 2010, con bilanci consecutivi e presenza su piattaforme di settore come Devex, indicando attività continuativa.",
+          "source_url": "https://www.charitynavigator.org/ein/270165743"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "segnali_allarme",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun segnale d'allarme trovato. L'ente ha un sito web ufficiale, contatti telefonici diretti, e non emergono notizie negative o richieste di pagamento a persone fisiche/crypto nelle prove fornite.",
+          "source_url": "https://www.charitynavigator.org/ein/270165743"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "conflitti_interesse",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "source_url": "config/conflitti.yaml"
+        }
+      ],
+      "sources": [
+        "https://projects.propublica.org/nonprofits/organizations/270165743",
+        "https://www.cbinsights.com/company/charity-navigator",
+        "https://www.charitynavigator.org",
+        "https://www.charitynavigator.org/ein/270165743",
+        "https://www.devex.com/organizations/mana-nutritive-aid-products-inc-72339",
+        "https://www.mapquest.com/us/north-carolina/mana-nutritive-aid-products-incorporated-379565851"
+      ],
+      "waiting_counter": false,
+      "profile": {},
+      "safety": {
+        "evaluator": "Charity Navigator",
+        "stars": 4,
+        "score": 96,
+        "rating_url": "https://www.charitynavigator.org/ein/270165743",
+        "rating_checked": "2026-11-08",
+        "since": "2010",
+        "registry_url": "https://projects.propublica.org/nonprofits/organizations/270165743",
+        "filings": 13,
+        "first_year": 2011,
+        "last_year": 2023,
+        "checks_passed": 18,
+        "verifiers": 3,
+        "unanimous": true,
+        "site": "mananutrition.org",
+        "official_host": "mananutrition.org",
+        "profile_claimed": false
+      },
+      "platform": "",
+      "counter": {},
+      "fundraiser_open": false,
+      "progress_pct": 0,
+      "donate": {
+        "recipient": "Mana Nutritive Aid Products Inc",
         "url": null,
         "money_goes_to": "not open yet: donations open on a fundraising page with a public total",
         "counted_here_only_if": "shown in the public total of the fundraising page",
