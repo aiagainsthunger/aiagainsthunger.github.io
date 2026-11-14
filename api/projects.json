@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T08:04:22.296588+00:00",
+  "generated_at": "2026-11-14T09:04:05.038276+00:00",
   "projects": [
     {
       "slug": "support-maryland-food-bank-inc-against-hunger-938",
@@ -466,7 +466,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-13T21:04:22.405377+00:00",
+        "read_at": "2026-11-14T08:09:04.059157+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -486,7 +486,7 @@
           "raised": "0",
           "currency": "USD",
           "people": 0,
-          "read_on": "2026-11-13"
+          "read_on": "2026-11-14"
         },
         "note": "Every.org suggests an optional tip to itself (sometimes preselected); it can be set to 0. Payment fees are deducted from what the organization receives."
       }
@@ -1130,7 +1130,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-13T21:04:23.905284+00:00",
+        "read_at": "2026-11-14T08:09:05.642680+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -1150,7 +1150,7 @@
           "raised": "0",
           "currency": "USD",
           "people": 0,
-          "read_on": "2026-11-13"
+          "read_on": "2026-11-14"
         },
         "note": "Every.org suggests an optional tip to itself (sometimes preselected); it can be set to 0. Payment fees are deducted from what the organization receives."
       }
@@ -1784,7 +1784,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-13T21:04:23.051663+00:00",
+        "read_at": "2026-11-14T08:09:04.766131+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -1804,9 +1804,254 @@
           "raised": "0",
           "currency": "USD",
           "people": 0,
-          "read_on": "2026-11-13"
+          "read_on": "2026-11-14"
         },
         "note": "Every.org suggests an optional tip to itself (sometimes preselected); it can be set to 0. Payment fees are deducted from what the organization receives."
+      }
+    },
+    {
+      "slug": "support-our-daily-bread-food-pantry-against-hunger-5987",
+      "title": "Support Our Daily Bread Food Pantry against hunger",
+      "description": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'Every.org: food pantry'.",
+      "org_name": "Our Daily Bread Food Pantry",
+      "org_country": "US",
+      "org_website": "https://ourdailybreadfoodpantry.org/",
+      "country": "US",
+      "currency": "USD",
+      "goal": 5000.0,
+      "raised": 0.0,
+      "donated": 0.0,
+      "status": "revisione_pubblica",
+      "donation_url": null,
+      "source_url": "https://www.charitynavigator.org/ein/832956050",
+      "approved_on": "2026-11-14",
+      "review_until": "2026-11-17 08:13 UTC",
+      "translations": {},
+      "tranches": [],
+      "checks": [
+        {
+          "verifier": "regole",
+          "check_type": "ammissibilita",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Regole di ammissibilità (config/regole.yaml):\n✓ fonte ammessa: fonte 'valutatore'\n✓ ente registrato nel database: Our Daily Bread Food Pantry\n✓ codice fiscale verificato (IRS): EIN 832956050\n✓ ente valutato dal valutatore: Charity Navigator\n✓ voto del valutatore: 98%, 4 stelle su 4 (minimo 4 stelle e 90%)\n✓ anni di bilanci ufficiali: 5 anni [2019, 2020, 2021, 2022, 2023] (minimo 3)\n✓ tema fame / nutrizione: categoria IRS K31 (richiesta ['K3', 'K4']); tema nel nome: True; tema nella descrizione ufficiale: sì, \"food pantry\" in «Our Daily Bread Food Pantry exists to share the love of God by reducing hunger & building relationships in our community.» (Every.org, campo description: https://www.every.org/our-daily-bread-food-pantry-3c49; API https://partners.every.org/v0.2/nonprofit/832956050)",
+          "source_url": "https://www.charitynavigator.org/ein/832956050"
+        },
+        {
+          "verifier": "regole",
+          "check_type": "ammissibilita",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "✓ valutatore indipendente tra le prove: 1 pagine di valutatori (https://www.charitynavigator.org/ein/832956050); minimo 1",
+          "source_url": "https://www.charitynavigator.org/ein/832956050"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "registrazione",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "L'ente Our Daily Bread Food Pantry è ufficialmente registrato negli USA come organizzazione 501(c)(3) con EIN 832956050 e riconoscimento esenzione IRS in data 01/06/2019.",
+          "source_url": "https://www.charitynavigator.org/ein/832956050"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "bilanci",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Sono pubblici e consultabili i bilanci IRS (Form 990) per gli anni dal 2019 al 2023; nel 2023 l'ente ha registrato entrate per 6.031.873 USD e spese per 3.038.333 USD.",
+          "source_url": "https://www.charitynavigator.org/ein/832956050"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "valutazione_indipendente",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "L'ente è stato valutato dall'organismo indipendente Charity Navigator con un punteggio del 98% (4 stelle su 4).",
+          "source_url": "https://www.charitynavigator.org/ein/832956050"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "coerenza_importo",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "L'obiettivo di raccolta previsto di 5.000 USD è pienamente proporzionato e contenuto rispetto alla dimensione finanziaria dell'ente (oltre 6 milioni di USD di entrate nel 2023).",
+          "source_url": "https://www.charitynavigator.org/ein/832956050"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "storico_progetti",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "L'organizzazione opera dal 2019 fornendo servizi alimentari, banchi alimentari e programmi nutrizionali per bambini e anziani nella contea di Collier (Florida).",
+          "source_url": "https://www.charitynavigator.org/ein/832956050"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "segnali_allarme",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Non sono stati riscontrati segnali d'allarme riguardanti Our Daily Bread Food Pantry. Le notizie negative di irregolarità in E4 ed E5 si riferiscono a un'entità canadese distinta (Daily Bread Food Bank / Feed Scarborough a Toronto).",
+          "source_url": "https://www.charitynavigator.org/ein/832956050"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "conflitti_interesse",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "source_url": "config/conflitti.yaml"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "registrazione",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "L'ente è registrato come 501(c)(3) con EIN 832956050, sede a Marco Island, FL, confermato da Charity Navigator e dal registro IRS di ProPublica.",
+          "source_url": "https://www.charitynavigator.org/ein/832956050"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "bilanci",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Sono disponibili i moduli 990 per gli anni 2019‑2023 con dati di entrate e spese, scaricabili dal sito ProPublica.",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/832956050"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "valutazione_indipendente",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Charity Navigator, valutatore indipendente, assegna all'ente rating a quattro stelle (98% Complete Profile).",
+          "source_url": "https://www.charitynavigator.org/ein/832956050"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "coerenza_importo",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "L'importo richiesto (5 000 USD) è inferiore all'1 % delle entrate annuali (≈6 M USD nel 2023), quindi proporzionato all'attività dell'ente.",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/832956050"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "storico_progetti",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "L'ente opera da almeno il 2019, con programmi alimentari documentati nei 990 e nella scheda Charity Navigator, dimostrando una storia di progetti conclusi e rendicontati.",
+          "source_url": "https://www.charitynavigator.org/ein/832956050"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "segnali_allarme",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun segnale di allarme relativo all'ente; le notizie su Daily Bread Food Bank riguardano un'organizzazione canadese diversa, non Our Daily Bread Food Pantry.",
+          "source_url": "https://globalnews.ca/video/11610285/daily-bread-cuts-funding-from-scarborough-food-bank-over-allegations-of-financial-mismanagement"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "conflitti_interesse",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "source_url": "config/conflitti.yaml"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "registrazione",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "L'ente 'Our Daily Bread Food Pantry' è registrato come 501(c)(3) con EIN 832956050, riconosciuto dall'IRS il 01/06/2019. La sede è a Marco Island, FL.",
+          "source_url": "https://www.charitynavigator.org/ein/832956050"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "bilanci",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Sono disponibili i bilanci pubblici (Form 990) per gli anni 2019, 2020, 2021, 2022 e 2023 su ProPublica Nonprofit Explorer, con dati finanziari dettagliati (es. entrate 2023: $6.031.873).",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/832956050"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "valutazione_indipendente",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Charity Navigator, un valutatore indipendente riconosciuto, assegna all'ente una valutazione di 4 stelle (98%) e completa 4 su 4 'Beacons' (Accountability & Finance, Impact & Measurement, Leadership & Planning, Culture & Compensation).",
+          "source_url": "https://www.charitynavigator.org/ein/832956050"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "coerenza_importo",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "L'obiettivo di raccolta di 5.000 USD è estremamente coerente con le dimensioni dell'ente, che ha registrato entrate annuali di oltre 6 milioni di USD nel 2023. La somma richiesta è marginale rispetto alla capacità finanziaria dell'organizzazione.",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/832956050"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "storico_progetti",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "L'ente ha una storia documentata di attività continua dal 2019 (data di riconoscimento IRS) con bilanci annuali pubblicati. La missione specifica la fornitura di cibo a bambini, famiglie e anziani nella Contea di Collier, con programmi attivi come 'Healthy Kids School' e servizi per anziani.",
+          "source_url": "https://www.charitynavigator.org/ein/832956050"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "segnali_allarme",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun segnale d'allarme trovato per l'ente specifico 'Our Daily Bread Food Pantry' (EIN 832956050, Florida). Le prove E4 ed E5 riguardano un ente diverso ('Daily Bread Food Bank' di Toronto, Canada) coinvolto in una controversia con un'altra agenzia ('Feed Scarborough'); non c'è alcuna evidenza di legame tra questi enti e il candidato in esame. Il sito web dell'ente è attivo e i contatti sono standard (telefono, email, indirizzo fisico).",
+          "source_url": "https://www.charitynavigator.org/ein/832956050"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "conflitti_interesse",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "source_url": "config/conflitti.yaml"
+        }
+      ],
+      "sources": [
+        "https://globalnews.ca/video/11610285/daily-bread-cuts-funding-from-scarborough-food-bank-over-allegations-of-financial-mismanagement",
+        "https://projects.propublica.org/nonprofits/organizations/832956050",
+        "https://www.cbc.ca/news/canada/toronto/daily-bread-food-bank-feed-scarborough-9.7039918",
+        "https://www.cbinsights.com/company/charity-navigator",
+        "https://www.charitynavigator.org/ein/832956050",
+        "https://www.mapquest.com/us/massachusetts/daily-bread-food-pantry-84083"
+      ],
+      "waiting_counter": false,
+      "profile": {},
+      "safety": {
+        "evaluator": "Charity Navigator",
+        "stars": 4,
+        "score": 98,
+        "rating_url": "https://www.charitynavigator.org/ein/832956050",
+        "rating_checked": "2026-11-13",
+        "since": "2019",
+        "registry_url": "https://projects.propublica.org/nonprofits/organizations/832956050",
+        "filings": 5,
+        "first_year": 2019,
+        "last_year": 2023,
+        "checks_passed": 18,
+        "verifiers": 3,
+        "unanimous": true,
+        "site": "ourdailybreadfoodpantry.org",
+        "official_host": "ourdailybreadfoodpantry.org",
+        "profile_claimed": false
+      },
+      "platform": "",
+      "counter": {},
+      "fundraiser_open": false,
+      "progress_pct": 0,
+      "donate": {
+        "recipient": "Our Daily Bread Food Pantry",
+        "url": null,
+        "money_goes_to": "not open yet: donations open on a fundraising page with a public total",
+        "counted_here_only_if": "shown in the public total of the fundraising page",
+        "status": "in public review"
       }
     },
     {
@@ -2384,6 +2629,250 @@
       "progress_pct": 0,
       "donate": {
         "recipient": "Rise Against Hunger",
+        "url": null,
+        "money_goes_to": "not open yet: donations open on a fundraising page with a public total",
+        "counted_here_only_if": "shown in the public total of the fundraising page",
+        "status": "in public review"
+      }
+    },
+    {
+      "slug": "support-santa-clarita-valley-food-pantry-against-hunger-5985",
+      "title": "Support Santa Clarita Valley Food Pantry against hunger",
+      "description": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'Every.org: food pantry'.",
+      "org_name": "Santa Clarita Valley Food Pantry",
+      "org_country": "US",
+      "org_website": "https://scvfoodpantry.org/",
+      "country": "US",
+      "currency": "USD",
+      "goal": 5000.0,
+      "raised": 0.0,
+      "donated": 0.0,
+      "status": "revisione_pubblica",
+      "donation_url": null,
+      "source_url": "https://www.charitynavigator.org/ein/954014804",
+      "approved_on": "2026-11-14",
+      "review_until": "2026-11-17 08:10 UTC",
+      "translations": {},
+      "tranches": [],
+      "checks": [
+        {
+          "verifier": "regole",
+          "check_type": "ammissibilita",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Regole di ammissibilità (config/regole.yaml):\n✓ fonte ammessa: fonte 'valutatore'\n✓ ente registrato nel database: Santa Clarita Valley Food Pantry\n✓ codice fiscale verificato (IRS): EIN 954014804\n✓ ente valutato dal valutatore: Charity Navigator\n✓ voto del valutatore: 97%, 4 stelle su 4 (minimo 4 stelle e 90%)\n✓ anni di bilanci ufficiali: 13 anni [2019, 2020, 2021, 2022, 2023] (minimo 3)\n✓ tema fame / nutrizione: categoria IRS - (richiesta ['K3', 'K4']); tema nel nome: True; tema nella descrizione ufficiale: sì, \"food pantry\" in «Santa Clarita Valley Food Pantry is a nonprofit organization.» (Every.org, campo description: https://www.every.org/scvfoodpantry; API https://partners.every.org/v0.2/nonprofit/954014804)",
+          "source_url": "https://www.charitynavigator.org/ein/954014804"
+        },
+        {
+          "verifier": "regole",
+          "check_type": "ammissibilita",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "✓ valutatore indipendente tra le prove: 1 pagine di valutatori (https://www.charitynavigator.org/ein/954014804); minimo 1",
+          "source_url": "https://www.charitynavigator.org/ein/954014804"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "registrazione",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "L'ente risulta regolarmente registrato come organizzazione 501(c)(3) negli Stati Uniti con EIN 954014804 e ruling date 1986-03-01.",
+          "source_url": "https://www.charitynavigator.org/ein/954014804"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "bilanci",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Sono disponibili i bilanci IRS Form 990 pubblici e dettagliati relativi agli anni recenti (dal 2018 al 2023).",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/954014804"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "valutazione_indipendente",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "L'ente ha ottenuto una valutazione eccellente da parte di Charity Navigator (Four-Star Charity con un punteggio del 97%).",
+          "source_url": "https://www.charitynavigator.org/ein/954014804"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "coerenza_importo",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "L'obiettivo di raccolta previsto di 5000 USD è assolutamente coerente e di piccola entità rispetto al bilancio annuale dell'ente (che gestisce entrate e spese superiori a 1 milione di dollari).",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/954014804"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "storico_progetti",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "L'ente vanta decenni di attività documentata (fondato oltre 40 anni fa) nel fornire assistenza alimentare diretta e continuativa nella Santa Clarita Valley.",
+          "source_url": "https://www.charitynavigator.org/ein/954014804"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "segnali_allarme",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun segnale d'allarme riscontrato nelle verifiche: l'ente ha una sede fisica verificabile, contatti trasparenti, bilanci ufficiali e ottime valutazioni indipendenti.",
+          "source_url": "https://www.charitynavigator.org/ein/954014804"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "conflitti_interesse",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "source_url": "config/conflitti.yaml"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "registrazione",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Entity appears in IRS registry (ProPublica) with EIN 954014804, address 24133 Railroad Ave, Newhall, CA and 501(c)(3) status; also listed on Charity Navigator.",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/954014804"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "bilanci",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Form 990 filings for 2023, 2022, 2021, 2020, 2019 and 2018 are publicly downloadable via ProPublica.",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/954014804"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "valutazione_indipendente",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Charity Navigator rates the pantry as a Four‑Star charity (97% score).",
+          "source_url": "https://www.charitynavigator.org/ein/954014804"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "coerenza_importo",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "Requested $5,000 is a tiny fraction of the pantry’s annual revenue (~$1.4 M) and matches its stated capital‑campaign needs.",
+          "source_url": "https://www.scvfoodpantry.org"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "storico_progetti",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "Website cites 41 years of operation; LA Food Bank article documents ongoing monthly assistance to thousands of clients.",
+          "source_url": "https://www.scvfoodpantry.org"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "segnali_allarme",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "No urgent payment demands, crypto transfers, or suspicious contact methods found in any source.",
+          "source_url": "https://www.charitynavigator.org/ein/954014804"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "conflitti_interesse",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "source_url": "config/conflitti.yaml"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "registrazione",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "L'ente è registrato come 501(c)(3) con EIN 954014804, riconosciuto dall'IRS dal 1986. La sede è a Newhall, CA.",
+          "source_url": "https://www.charitynavigator.org/ein/954014804"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "bilanci",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Sono disponibili i bilanci IRS (Form 990) pubblici per gli ultimi 13 anni (2011-2023), con dati su entrate e spese accessibili tramite ProPublica.",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/954014804"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "valutazione_indipendente",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Charity Navigator assegna 4 stelle (97%) e completa 3 dei 4 beacon di valutazione, indicando una forte accountability finanziaria e di governance.",
+          "source_url": "https://www.charitynavigator.org/ein/954014804"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "coerenza_importo",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "L'obiettivo di 5000 USD è coerente con le dimensioni dell'ente, che ha entrate annuali di circa 1.4-2.4 milioni di USD e serve 2000 individui al mese.",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/954014804"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "storico_progetti",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "L'ente opera da 41 anni (dal 1986) con una storia documentata di distribuzione di cibo, partnership con LA Food Bank e programmi specifici (senior outreach, diaper program).",
+          "source_url": "https://www.scvfoodpantry.org"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "segnali_allarme",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun segnale d'allarme trovato. L'ente ha un sito web istituzionale, contatti diretti (telefono/email), è partner di un'organizzazione nota (LA Food Bank) e non vi sono menzioni di pagamenti a persone fisiche o crypto.",
+          "source_url": "https://www.charitynavigator.org/ein/954014804"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "conflitti_interesse",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "source_url": "config/conflitti.yaml"
+        }
+      ],
+      "sources": [
+        "https://projects.propublica.org/nonprofits/organizations/954014804",
+        "https://rocketreach.co/the-santa-clarita-valley-signal-profile_b5c5ab92f42e0e79",
+        "https://www.charitynavigator.org/ein/954014804",
+        "https://www.lafoodbank.org/stories/the-scv-food-pantry-helps-thousands-each-month-through-food-assistance/",
+        "https://www.scvfoodpantry.org"
+      ],
+      "waiting_counter": false,
+      "profile": {},
+      "safety": {
+        "evaluator": "Charity Navigator",
+        "stars": 4,
+        "score": 97,
+        "rating_url": "https://www.charitynavigator.org/ein/954014804",
+        "rating_checked": "2026-11-13",
+        "since": "1986",
+        "registry_url": "https://projects.propublica.org/nonprofits/organizations/954014804",
+        "filings": 13,
+        "first_year": 2011,
+        "last_year": 2023,
+        "checks_passed": 18,
+        "verifiers": 3,
+        "unanimous": true,
+        "site": "scvfoodpantry.org",
+        "official_host": "scvfoodpantry.org",
+        "profile_claimed": false
+      },
+      "platform": "",
+      "counter": {},
+      "fundraiser_open": false,
+      "progress_pct": 0,
+      "donate": {
+        "recipient": "Santa Clarita Valley Food Pantry",
         "url": null,
         "money_goes_to": "not open yet: donations open on a fundraising page with a public total",
         "counted_here_only_if": "shown in the public total of the fundraising page",
@@ -3927,6 +4416,39 @@
             }
           ]
         },
+        "hi": {
+          "does": [
+            {
+              "text": "संगठन ने पिछले वर्ष Utah में 57.8 मिलियन भोजन वितरित किए, सात स्वामित्व और संचालित सुविधाओं के माध्यम से।",
+              "source": "https://www.utahfoodbank.org/",
+              "by_org": true
+            },
+            {
+              "text": "संगठन ने सभी 29 काउंटियों में स्थित 390 साझेदार एजेंसियों के राज्यव्यापी नेटवर्क के माध्यम से खाद्य सामग्री वितरित की।",
+              "source": "https://www.utahfoodbank.org/about/",
+              "by_org": true
+            },
+            {
+              "text": "संगठन Utah में स्थित चार गोदामों से सीधे सेवा कार्यक्रमों और साझेदार एजेंसियों के माध्यम से खाद्य सामग्री वितरित करता है।",
+              "source": "https://www.utahfoodbank.org/about/",
+              "by_org": true
+            }
+          ],
+          "mission": "Utah Food Bank हमारे मिशन में अडिग रहता है, राज्यव्यापी भूख के खिलाफ लड़ते हुए, सामुदायिक साझेदारों और स्वयंसेवकों के साथ मिलकर काम करके यह सुनिश्चित करता है कि हमारे सबसे कमजोर पड़ोसी आपातकालीन खाद्य सहायता तक विश्वसनीय पहुंच रखें। 380 से अधिक साझेदार एजेंसियों और खाद्य पैंट्रीज़ के राज्यव्यापी नेटवर्क के माध्यम से, हम बड़े पैमाने पर खाद्य सामग्री को साझेदारों को सदस्यता या परिवहन शुल्क के बिना वितरित करके खाद्य पहुंच में महत्वपूर्ण अंतर को पाटते हैं। इन वित्तीय बाधाओं को हटाकर, Utah Food Bank पैंट्री शेल्फ़ को भरपूर रखता है ताकि साझेदार पूरी तरह से भूख से जूझ रहे Utahns की सेवा पर ध्यान केंद्रित कर सकें।",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "1904 में स्थापित, संगठन ने राज्यव्यापी भूख के खिलाफ लड़ने के मिशन के साथ कार्य किया है।",
+              "source": "https://www.utahfoodbank.org/",
+              "by_org": true
+            },
+            {
+              "text": "संगठन पारदर्शिता और जवाबदेही के हित में प्रमुख दस्तावेज़ सार्वजनिक रूप से साझा करता है।",
+              "source": "https://www.utahfoodbank.org/about/financial-information",
+              "by_org": true
+            }
+          ]
+        },
         "it": {
           "does": [
             {
@@ -3955,6 +4477,72 @@
             },
             {
               "text": "L'organizzazione condivide pubblicamente i documenti chiave nell'interesse della trasparenza e della responsabilità.",
+              "source": "https://www.utahfoodbank.org/about/financial-information",
+              "by_org": true
+            }
+          ]
+        },
+        "ja": {
+          "does": [
+            {
+              "text": "組織は、昨年、ユタ州全体で57.8 million mealsを、seven owned and operated facilitiesで配布しました。",
+              "source": "https://www.utahfoodbank.org/",
+              "by_org": true
+            },
+            {
+              "text": "組織は、全29郡に位置する390 partner agenciesからなる州全体のネットワークを通じて食料を配布しました。",
+              "source": "https://www.utahfoodbank.org/about/",
+              "by_org": true
+            },
+            {
+              "text": "組織は、ユタに位置するfour warehousesから、直接サービスプログラムとpartner agenciesを通じて食料を配布しています。",
+              "source": "https://www.utahfoodbank.org/about/",
+              "by_org": true
+            }
+          ],
+          "mission": "Utah Food Bankは、私たちの使命である州全体で飢餓と闘うことに揺るぎなく取り組み、地域のパートナーやボランティアと協力して、最も脆弱な隣人が緊急食料支援に確実にアクセスできるようにしています。380以上のパートナー機関とフードパントリーからなる州全体のネットワークを通じて、会員費や輸送費なしで大量の食料をパートナーに提供することで、食料アクセスの重要なギャップを埋める手助けをしています。これらの財政的障壁を取り除くことで、Utah Food Bankはパントリーの棚が常に在庫されるようにし、パートナーが飢餓に直面しているUtahnsへの支援に専念できるようにします。",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "1904年に設立された組織は、州全体で飢餓と闘うという使命のもと運営されています。",
+              "source": "https://www.utahfoodbank.org/",
+              "by_org": true
+            },
+            {
+              "text": "組織は、透明性と説明責任の観点から、重要な文書を公開しています。",
+              "source": "https://www.utahfoodbank.org/about/financial-information",
+              "by_org": true
+            }
+          ]
+        },
+        "pt": {
+          "does": [
+            {
+              "text": "A organização distribuiu 57.8 milhões de refeições em todo o Utah no ano passado, em sete instalações próprias e operadas.",
+              "source": "https://www.utahfoodbank.org/",
+              "by_org": true
+            },
+            {
+              "text": "A organização distribuiu alimentos por meio de uma rede estadual de 390 agências parceiras localizadas em todos os 29 condados.",
+              "source": "https://www.utahfoodbank.org/about/",
+              "by_org": true
+            },
+            {
+              "text": "A organização distribui alimentos através de programas de serviço direto e agências parceiras a partir de quatro armazéns localizados em Utah.",
+              "source": "https://www.utahfoodbank.org/about/",
+              "by_org": true
+            }
+          ],
+          "mission": "Utah Food Bank permanece firme em nossa missão, Combater a Fome em Todo o Estado, trabalhando ao lado de parceiros comunitários e voluntários para garantir que nossos vizinhos mais vulneráveis tenham acesso confiável à assistência alimentar de emergência. Por meio de uma rede estadual de mais de 380 agências parceiras e despensas de alimentos, ajudamos a fechar lacunas críticas no acesso a alimentos entregando alimentos a granel aos parceiros, sem taxas de associação ou de transporte. Ao remover essas barreiras financeiras, Utah Food Bank garante que as prateleiras das despensas permaneçam abastecidas para que os parceiros possam se concentrar totalmente em atender os utahenses que enfrentam a fome.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "Fundada em 1904, a organização opera com a missão de combater a fome em todo o estado.",
+              "source": "https://www.utahfoodbank.org/",
+              "by_org": true
+            },
+            {
+              "text": "A organização compartilha documentos-chave publicamente, no interesse da transparência e da responsabilidade.",
               "source": "https://www.utahfoodbank.org/about/financial-information",
               "by_org": true
             }
@@ -4588,6 +5176,251 @@
       }
     },
     {
+      "slug": "support-east-hampton-food-pantry-inc-against-hunger-5988",
+      "title": "Support East Hampton Food Pantry Inc against hunger",
+      "description": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'Every.org: food pantry'.",
+      "org_name": "East Hampton Food Pantry Inc",
+      "org_country": "US",
+      "org_website": "https://easthamptonfoodpantry.org/",
+      "country": "US",
+      "currency": "USD",
+      "goal": 5000.0,
+      "raised": 0.0,
+      "donated": 0.0,
+      "status": "revisione_pubblica",
+      "donation_url": null,
+      "source_url": "https://www.charitynavigator.org/ein/270109312",
+      "approved_on": "2026-11-14",
+      "review_until": "2026-11-17 08:14 UTC",
+      "translations": {},
+      "tranches": [],
+      "checks": [
+        {
+          "verifier": "regole",
+          "check_type": "ammissibilita",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Regole di ammissibilità (config/regole.yaml):\n✓ fonte ammessa: fonte 'valutatore'\n✓ ente registrato nel database: East Hampton Food Pantry Inc\n✓ codice fiscale verificato (IRS): EIN 270109312\n✓ ente valutato dal valutatore: Charity Navigator\n✓ voto del valutatore: 91%, 4 stelle su 4 (minimo 4 stelle e 90%)\n✓ anni di bilanci ufficiali: 13 anni [2019, 2020, 2021, 2022, 2023] (minimo 3)\n✓ tema fame / nutrizione: categoria IRS K31 (richiesta ['K3', 'K4']); tema nel nome: True; tema nella descrizione ufficiale: no (Every.org, campo description: https://www.every.org/easthamptonfoodpantry; API https://partners.every.org/v0.2/nonprofit/270109312); no (Charity Navigator, riquadro Mission della pagina Rating for: https://www.charitynavigator.org/ein/270109312)",
+          "source_url": "https://www.charitynavigator.org/ein/270109312"
+        },
+        {
+          "verifier": "regole",
+          "check_type": "ammissibilita",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "✓ valutatore indipendente tra le prove: 1 pagine di valutatori (https://www.charitynavigator.org/ein/270109312); minimo 1",
+          "source_url": "https://www.charitynavigator.org/ein/270109312"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "registrazione",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "L'ente risulta regolarmente registrato negli Stati Uniti come organizzazione 501(c)(3) con EIN 270109312 e data di riconoscimento 2006-01-01.",
+          "source_url": "https://www.charitynavigator.org/ein/270109312"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "bilanci",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Esistono bilanci pubblici Form 990 presentati regolarmente negli ultimi anni, tra cui il bilancio 2023 con entrate e spese documentate.",
+          "source_url": "https://www.charitynavigator.org/ein/270109312"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "valutazione_indipendente",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "L'ente è valutato da Charity Navigator con un punteggio elevato (Four-Star Charity, 91%).",
+          "source_url": "https://www.charitynavigator.org/ein/270109312"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "coerenza_importo",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "L'obiettivo di raccolta previsto di 5000 USD è estremamente contenuto e ampiamente coerente con il bilancio e le dimensioni dell'ente.",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/270109312"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "storico_progetti",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "L'ente opera continuativamente dal 2006 fornendo assistenza alimentare e gestendo programmi locali documentati anche sul proprio sito.",
+          "source_url": "https://www.charitynavigator.org/ein/270109312"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "segnali_allarme",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Non sono stati riscontrati segnali d'allarme, notizie negative o criticità nelle verifiche effettuate.",
+          "source_url": "https://www.charitynavigator.org/ein/270109312"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "conflitti_interesse",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "source_url": "config/conflitti.yaml"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "registrazione",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "L'ente è registrato come 501(c)(3) con EIN 270109312, indirizzo a East Hampton, NY, confermato da Charity Navigator e ProPublica.",
+          "source_url": "https://www.charitynavigator.org/ein/270109312"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "bilanci",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Form 990 disponibili per gli ultimi 6 anni (2023‑2018) con dati di entrate e spese.",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/270109312"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "valutazione_indipendente",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Charity Navigator, valutatore indipendente, assegna 4 stelle (91% rating).",
+          "source_url": "https://www.charitynavigator.org/ein/270109312"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "coerenza_importo",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "Importo richiesto $5,000 è inferiore all'1% delle entrate annuali (circa $613k nel 2023), quindi ragionevole.",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/270109312"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "storico_progetti",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "Documentazione di attività passate nei Form 990 (2018‑2023) e eventi come Polar Plunge 2026 sul sito.",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/270109312"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "segnali_allarme",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun segnale di allarme: nessuna urgenza artificiosa, pagamenti crypto, contatti solo via email/telefono, informazioni trasparenti.",
+          "source_url": "https://www.charitynavigator.org/ein/270109312"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "conflitti_interesse",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "source_url": "config/conflitti.yaml"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "registrazione",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "L'ente East Hampton Food Pantry Inc è registrato come 501(c)(3) con EIN 270109312, riconosciuto dall'IRS dal 2006-01-01. La registrazione è confermata sia da Charity Navigator che dal ProPublica Nonprofit Explorer.",
+          "source_url": "https://www.charitynavigator.org/ein/270109312"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "bilanci",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Sono disponibili i bilanci pubblici (Form 990) per gli anni fiscali dal 2011 al 2023, con dati dettagliati su entrate e spese accessibili tramite ProPublica.",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/270109312"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "valutazione_indipendente",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Charity Navigator assegna un rating di 4 stelle (91%) all'ente, indicando una buona performance in termini di accountability e finanza.",
+          "source_url": "https://www.charitynavigator.org/ein/270109312"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "coerenza_importo",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "L'obiettivo di raccolta di 5000 USD è coerente con le dimensioni dell'ente, che ha registrato entrate annuali tra i 110k e i 1.2M USD negli ultimi anni. L'importo richiesto è modesto rispetto alla capacità finanziaria dell'organizzazione.",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/270109312"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "storico_progetti",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "L'ente ha una storia documentata di attività, con bilanci pubblici dal 2011 al 2023 e una missione chiara di distribuzione di cibo a East Hampton, NY. Il sito web mostra attività recenti come il Polar Plunge 2026.",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/270109312"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "segnali_allarme",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun segnale d'allarme trovato nelle prove. L'ente ha un sito web attivo, contatti pubblici, e una presenza verificabile su piattaforme come MapQuest e Charity Navigator. Non ci sono indicazioni di pagamenti a persone fisiche, crypto anonime, o pressioni artificiali.",
+          "source_url": "https://www.charitynavigator.org/ein/270109312"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "conflitti_interesse",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "source_url": "config/conflitti.yaml"
+        }
+      ],
+      "sources": [
+        "https://aidonate.org/en/compare/charity-navigator-vs-charitywatch",
+        "https://easthamptonfoodpantry.org",
+        "https://projects.propublica.org/nonprofits/organizations/270109312",
+        "https://www.charitynavigator.org/ein/270109312",
+        "https://www.mapquest.com/us/new-york/east-hampton-food-pantry-414721059",
+        "https://www.mapquest.com/us/new-york/springs-food-pantry-inc-654679468"
+      ],
+      "waiting_counter": false,
+      "profile": {},
+      "safety": {
+        "evaluator": "Charity Navigator",
+        "stars": 4,
+        "score": 91,
+        "rating_url": "https://www.charitynavigator.org/ein/270109312",
+        "rating_checked": "2026-11-13",
+        "since": "2006",
+        "registry_url": "https://projects.propublica.org/nonprofits/organizations/270109312",
+        "filings": 13,
+        "first_year": 2011,
+        "last_year": 2023,
+        "checks_passed": 18,
+        "verifiers": 3,
+        "unanimous": true,
+        "site": "easthamptonfoodpantry.org",
+        "official_host": "easthamptonfoodpantry.org",
+        "profile_claimed": false
+      },
+      "platform": "",
+      "counter": {},
+      "fundraiser_open": false,
+      "progress_pct": 0,
+      "donate": {
+        "recipient": "East Hampton Food Pantry Inc",
+        "url": null,
+        "money_goes_to": "not open yet: donations open on a fundraising page with a public total",
+        "counted_here_only_if": "shown in the public total of the fundraising page",
+        "status": "in public review"
+      }
+    },
+    {
       "slug": "support-feeding-america-against-hunger-1993",
       "title": "Support Feeding America against hunger",
       "description": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'site:charitynavigator.org Rating for food bank feeding'.",
@@ -5155,7 +5988,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-13T21:04:23.509069+00:00",
+        "read_at": "2026-11-14T08:09:05.208989+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -5175,7 +6008,7 @@
           "raised": "0",
           "currency": "USD",
           "people": 0,
-          "read_on": "2026-11-13"
+          "read_on": "2026-11-14"
         },
         "note": "Every.org suggests an optional tip to itself (sometimes preselected); it can be set to 0. Payment fees are deducted from what the organization receives."
       }
@@ -7796,6 +8629,251 @@
       }
     },
     {
+      "slug": "support-loaves-fishes-food-pantry-inc-against-hunger-5986",
+      "title": "Support Loaves & Fishes Food Pantry Inc against hunger",
+      "description": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'Every.org: food pantry'.",
+      "org_name": "Loaves & Fishes Food Pantry Inc",
+      "org_country": "US",
+      "org_website": "https://cvillefoodpantry.org/",
+      "country": "US",
+      "currency": "USD",
+      "goal": 5000.0,
+      "raised": 0.0,
+      "donated": 0.0,
+      "status": "revisione_pubblica",
+      "donation_url": null,
+      "source_url": "https://www.charitynavigator.org/ein/451498743",
+      "approved_on": "2026-11-14",
+      "review_until": "2026-11-17 08:11 UTC",
+      "translations": {},
+      "tranches": [],
+      "checks": [
+        {
+          "verifier": "regole",
+          "check_type": "ammissibilita",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Regole di ammissibilità (config/regole.yaml):\n✓ fonte ammessa: fonte 'valutatore'\n✓ ente registrato nel database: Loaves & Fishes Food Pantry Inc\n✓ codice fiscale verificato (IRS): EIN 451498743\n✓ ente valutato dal valutatore: Charity Navigator\n✓ voto del valutatore: 96%, 4 stelle su 4 (minimo 4 stelle e 90%)\n✓ anni di bilanci ufficiali: 12 anni [2019, 2020, 2021, 2022, 2023] (minimo 3)\n✓ tema fame / nutrizione: categoria IRS K31 (richiesta ['K3', 'K4']); tema nel nome: True; tema nella descrizione ufficiale: no (Every.org, campo description: https://www.every.org/cvilleloavesandfishes; API https://partners.every.org/v0.2/nonprofit/451498743); no (Charity Navigator, riquadro Mission della pagina Rating for: https://www.charitynavigator.org/ein/451498743)",
+          "source_url": "https://www.charitynavigator.org/ein/451498743"
+        },
+        {
+          "verifier": "regole",
+          "check_type": "ammissibilita",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "✓ valutatore indipendente tra le prove: 1 pagine di valutatori (https://www.charitynavigator.org/ein/451498743); minimo 1",
+          "source_url": "https://www.charitynavigator.org/ein/451498743"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "registrazione",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "L'ente Loaves & Fishes Food Pantry Inc risulta regolarmente registrato negli Stati Uniti come organizzazione 501(c)(3) con EIN 451498743 dal 2011-06-01.",
+          "source_url": "https://www.charitynavigator.org/ein/451498743"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "bilanci",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Esistono bilanci e rendiconti pubblici recenti, inclusi i moduli IRS Form 990 e i bilanci certificati da revisori indipendenti.",
+          "source_url": "https://www.charitynavigator.org/ein/451498743"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "valutazione_indipendente",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "L'ente ha ottenuto una valutazione positiva da Charity Navigator con il massimo riconoscimento (Four-Star Charity, 96%).",
+          "source_url": "https://www.charitynavigator.org/ein/451498743"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "coerenza_importo",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "L'obiettivo di raccolta previsto di 5000 USD è estremamente ragionevole e coerente rispetto al bilancio dell'ente (entrate milionarie).",
+          "source_url": "https://www.charitynavigator.org/ein/451498743"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "storico_progetti",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "L'ente ha una lunga storia documentata di attività nella fornitura di assistenza alimentare e programmi nutrizionali dal 2011.",
+          "source_url": "https://www.charitynavigator.org/ein/451498743"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "segnali_allarme",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun segnale d'allarme riscontrato nei documenti ufficiali e nelle verifiche effettuate sull'ente candidato.",
+          "source_url": "https://www.charitynavigator.org/ein/451498743"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "conflitti_interesse",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "source_url": "config/conflitti.yaml"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "registrazione",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "L'ente è elencato nel registro IRS 501(c)(3) con EIN 451498743 e sede a Charlottesville, VA.",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/451498743"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "bilanci",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Form 990 per gli anni 2023‑2022 disponibili pubblicamente e bilancio auditato 2022.",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/451498743"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "valutazione_indipendente",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Charity Navigator assegna 4 stelle (96%) all'ente, valutazione indipendente.",
+          "source_url": "https://www.charitynavigator.org/ein/451498743"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "coerenza_importo",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "Richiesta di $5.000 è meno dell'1% del fatturato annuale (~$5,3 M nel 2023), quindi ragionevole.",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/451498743"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "storico_progetti",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "Documentazione di attività continuative dal 2014 al 2023 tramite Form 990 e bilancio auditato 2022.",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/451498743"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "segnali_allarme",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessuna notizia negativa o indicazione di pratiche sospette trovata nelle fonti fornite.",
+          "source_url": "https://www.charitynavigator.org/ein/451498743"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "conflitti_interesse",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "source_url": "config/conflitti.yaml"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "registrazione",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "L'ente 'Loaves & Fishes Food Pantry Inc' risulta registrato come organizzazione 501(c)(3) con EIN 451498743, sede a Charlottesville, VA, e riconoscimento IRS datato 2011-06-01.",
+          "source_url": "https://www.charitynavigator.org/ein/451498743"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "bilanci",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Sono disponibili i moduli IRS Form 990 per gli anni 2018-2023 su ProPublica e i bilanci finanziari auditati per il 2022 sono pubblicati sul sito ufficiale dell'ente.",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/451498743"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "valutazione_indipendente",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Charity Navigator assegna all'ente la valutazione di 'Four-Star Charity' con un punteggio del 96%.",
+          "source_url": "https://www.charitynavigator.org/ein/451498743"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "coerenza_importo",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "L'obiettivo di raccolta di 5.000 USD è estremamente coerente e modesto rispetto alle dimensioni dell'ente, che nel 2023 ha registrato entrate per circa 5,3 milioni di USD.",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/451498743"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "storico_progetti",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "L'ente ha una storia documentata di attività continuativa dal 2011, con rendiconti fiscali e bilanci pubblici per oltre un decennio.",
+          "source_url": "https://www.charitynavigator.org/ein/451498743"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "segnali_allarme",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun segnale d'allarme trovato nelle prove. Le ricerche web hanno identificato altre organizzazioni con nomi simili (E3, E4) e una notizia su una food bank in California (E6), ma nessuna di queste è collegata all'ente candidato (EIN 451498743, Charlottesville VA).",
+          "source_url": "https://www.charitynavigator.org/ein/451498743"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "conflitti_interesse",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "source_url": "config/conflitti.yaml"
+        }
+      ],
+      "sources": [
+        "https://cvillefoodpantry.org/wp-content/uploads/2023/12/Loaves-Fishes-Food-Pantry-Inc.-2022-Financial-Statements-AUDIT.pdf",
+        "https://projects.propublica.org/nonprofits/organizations/451498743",
+        "https://www.charitynavigator.org/ein/451498743",
+        "https://www.latimes.com/california/story/2024-10-05/long-beach-food-bank-closes-amid-investigation-into-misuse-of-public-funds",
+        "https://www.mapquest.com/us/maine/loaves-fishes-food-pantry-411461114",
+        "https://www.mapquest.com/us/maryland/fishes-loaves-pantry-423922121"
+      ],
+      "waiting_counter": false,
+      "profile": {},
+      "safety": {
+        "evaluator": "Charity Navigator",
+        "stars": 4,
+        "score": 96,
+        "rating_url": "https://www.charitynavigator.org/ein/451498743",
+        "rating_checked": "2026-11-13",
+        "since": "2011",
+        "registry_url": "https://projects.propublica.org/nonprofits/organizations/451498743",
+        "filings": 12,
+        "first_year": 2012,
+        "last_year": 2023,
+        "checks_passed": 18,
+        "verifiers": 3,
+        "unanimous": true,
+        "site": "cvillefoodpantry.org",
+        "official_host": "cvillefoodpantry.org",
+        "profile_claimed": false
+      },
+      "platform": "",
+      "counter": {},
+      "fundraiser_open": false,
+      "progress_pct": 0,
+      "donate": {
+        "recipient": "Loaves & Fishes Food Pantry Inc",
+        "url": null,
+        "money_goes_to": "not open yet: donations open on a fundraising page with a public total",
+        "counted_here_only_if": "shown in the public total of the fundraising page",
+        "status": "in public review"
+      }
+    },
+    {
       "slug": "support-mana-nutritive-aid-products-inc-against-hunger-3605",
       "title": "Support Mana Nutritive Aid Products Inc against hunger",
       "description": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'Every.org: malnutrition children africa'.",
@@ -8060,7 +9138,14 @@
         "https://www.mapquest.com/us/north-carolina/mana-nutritive-aid-products-incorporated-379565851"
       ],
       "waiting_counter": false,
-      "profile": {},
+      "profile": {
+        "en": {
+          "does": [],
+          "mission": "DEVELOP AND DELIVER READY-TO-USE FOODS TO LOWER THE COST TO TREAT MALNUTRITION.",
+          "does_not": [],
+          "strengths": []
+        }
+      },
       "safety": {
         "evaluator": "Charity Navigator",
         "stars": 4,
@@ -8101,11 +9186,11 @@
     "costs": {
       "USD": 8.5
     },
-    "ai_calls": 913,
+    "ai_calls": 963,
     "ai_cost_real_usd": 0.0,
-    "ai_value_offered_usd": 5.690141,
-    "candidates_examined": 52,
-    "candidates_discarded": 28
+    "ai_value_offered_usd": 6.095915,
+    "candidates_examined": 57,
+    "candidates_discarded": 29
   },
   "agent_program": {
     "join": "https://aiagainsthunger.org/en/agents.html",
