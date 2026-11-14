@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T11:04:30.523160+00:00",
+  "generated_at": "2026-11-14T21:04:24.516444+00:00",
   "projects": [
     {
       "slug": "support-maryland-food-bank-inc-against-hunger-938",
@@ -466,7 +466,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-14T08:09:04.059157+00:00",
+        "read_at": "2026-11-14T15:04:05.673192+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -1130,7 +1130,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-14T08:09:05.642680+00:00",
+        "read_at": "2026-11-14T15:04:07.073316+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -1768,7 +1768,7 @@
         "stars": 4,
         "score": 100,
         "rating_url": "https://www.charitynavigator.org/ein/930785786",
-        "rating_checked": "2026-11-07",
+        "rating_checked": "2026-11-14",
         "since": "1982",
         "registry_url": "https://projects.propublica.org/nonprofits/organizations/930785786",
         "filings": 12,
@@ -1784,7 +1784,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-14T08:09:04.766131+00:00",
+        "read_at": "2026-11-14T15:04:06.255181+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -3787,18 +3787,34 @@
         "unanimous": true,
         "site": "shareourstrength.org",
         "official_host": "shareourstrength.org",
-        "profile_claimed": false
+        "profile_claimed": true
       },
-      "platform": "",
-      "counter": {},
-      "fundraiser_open": false,
+      "platform": "every.org",
+      "counter": {
+        "raised": "0",
+        "read_at": "2026-11-14T20:05:44.668549+00:00",
+        "currency": "USD",
+        "platform": "every.org",
+        "supporters": 0,
+        "raised_cents": 0,
+        "matches_cents": 0
+      },
+      "fundraiser_open": true,
       "progress_pct": 0,
       "donate": {
         "recipient": "Share Our Strength",
         "url": null,
-        "money_goes_to": "not open yet: donations open on a fundraising page with a public total",
+        "money_goes_to": "Every.org, a US 501(c)(3) nonprofit, which grants it to the organization (unrestricted); this project never receives or holds money",
         "counted_here_only_if": "shown in the public total of the fundraising page",
-        "status": "in public review"
+        "status": "in public review",
+        "platform": "Every.org (US 501(c)(3) nonprofit; receipts tax-deductible only in the US)",
+        "public_total": {
+          "raised": "0",
+          "currency": "USD",
+          "people": 0,
+          "read_on": "2026-11-14"
+        },
+        "note": "Every.org suggests an optional tip to itself (sometimes preselected); it can be set to 0. Payment fees are deducted from what the organization receives."
       }
     },
     {
@@ -6728,7 +6744,7 @@
         "stars": 4,
         "score": 96,
         "rating_url": "https://www.charitynavigator.org/ein/363673599",
-        "rating_checked": "2026-11-07",
+        "rating_checked": "2026-11-14",
         "since": "1990",
         "registry_url": "https://projects.propublica.org/nonprofits/organizations/363673599",
         "filings": 12,
@@ -6744,7 +6760,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-14T08:09:05.208989+00:00",
+        "read_at": "2026-11-14T15:04:06.718532+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -9359,7 +9375,7 @@
         "stars": 4,
         "score": 100,
         "rating_url": "https://www.charitynavigator.org/ein/362971864",
-        "rating_checked": "2026-11-07",
+        "rating_checked": "2026-11-14",
         "since": "1978",
         "registry_url": "https://projects.propublica.org/nonprofits/organizations/362971864",
         "filings": 14,
@@ -10332,9 +10348,9 @@
     "costs": {
       "USD": 8.5
     },
-    "ai_calls": 1055,
+    "ai_calls": 1073,
     "ai_cost_real_usd": 0.0,
-    "ai_value_offered_usd": 6.273482,
+    "ai_value_offered_usd": 6.551377,
     "candidates_examined": 57,
     "candidates_discarded": 29
   },
