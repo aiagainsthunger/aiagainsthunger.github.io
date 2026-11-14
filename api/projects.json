@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T21:04:24.516444+00:00",
+  "generated_at": "2026-11-14T23:04:25.710884+00:00",
   "projects": [
     {
       "slug": "support-maryland-food-bank-inc-against-hunger-938",
@@ -466,7 +466,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-14T15:04:05.673192+00:00",
+        "read_at": "2026-11-14T21:04:37.528752+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -1130,7 +1130,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-14T15:04:07.073316+00:00",
+        "read_at": "2026-11-14T21:04:38.807414+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -1784,7 +1784,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-14T15:04:06.255181+00:00",
+        "read_at": "2026-11-14T21:04:38.006886+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -3792,7 +3792,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-14T20:05:44.668549+00:00",
+        "read_at": "2026-11-14T21:04:39.211221+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -6760,7 +6760,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-14T15:04:06.718532+00:00",
+        "read_at": "2026-11-14T21:04:38.373719+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -7969,18 +7969,34 @@
         "unanimous": true,
         "site": "foodgatherers.org",
         "official_host": "foodgatherers.org",
-        "profile_claimed": false
+        "profile_claimed": true
       },
-      "platform": "",
-      "counter": {},
-      "fundraiser_open": false,
+      "platform": "every.org",
+      "counter": {
+        "raised": "0",
+        "read_at": "2026-11-14T22:04:06.536059+00:00",
+        "currency": "USD",
+        "platform": "every.org",
+        "supporters": 0,
+        "raised_cents": 0,
+        "matches_cents": 0
+      },
+      "fundraiser_open": true,
       "progress_pct": 0,
       "donate": {
         "recipient": "Food Gatherers",
         "url": null,
-        "money_goes_to": "not open yet: donations open on a fundraising page with a public total",
+        "money_goes_to": "Every.org, a US 501(c)(3) nonprofit, which grants it to the organization (unrestricted); this project never receives or holds money",
         "counted_here_only_if": "shown in the public total of the fundraising page",
-        "status": "in public review"
+        "status": "in public review",
+        "platform": "Every.org (US 501(c)(3) nonprofit; receipts tax-deductible only in the US)",
+        "public_total": {
+          "raised": "0",
+          "currency": "USD",
+          "people": 0,
+          "read_on": "2026-11-14"
+        },
+        "note": "Every.org suggests an optional tip to itself (sometimes preselected); it can be set to 0. Payment fees are deducted from what the organization receives."
       }
     },
     {
