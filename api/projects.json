@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T09:04:05.038276+00:00",
+  "generated_at": "2026-11-14T10:04:24.756774+00:00",
   "projects": [
     {
       "slug": "support-maryland-food-bank-inc-against-hunger-938",
@@ -1826,7 +1826,58 @@
       "source_url": "https://www.charitynavigator.org/ein/832956050",
       "approved_on": "2026-11-14",
       "review_until": "2026-11-17 08:13 UTC",
-      "translations": {},
+      "translations": {
+        "de": {
+          "text": "Organisation bewertet von Charity Navigator, gefunden von den Agenten mit: 'Every.org: food pantry'.",
+          "title": "Unterstützen Sie Our Daily Bread Food Pantry gegen den Hunger",
+          "source": "traduzione AI"
+        },
+        "en": {
+          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'Every.org: food pantry'.",
+          "title": "Support Our Daily Bread Food Pantry against hunger",
+          "source": "originale"
+        },
+        "es": {
+          "text": "Entidad evaluada por Charity Navigator, encontrada por los agentes con: 'Every.org: food pantry'.",
+          "title": "Apoya Our Daily Bread Food Pantry contra el hambre",
+          "source": "traduzione AI"
+        },
+        "fr": {
+          "text": "Organisation évaluée par Charity Navigator, trouvée par les agents avec : 'Every.org: food pantry'.",
+          "title": "Soutenez Our Daily Bread Food Pantry contre la faim",
+          "source": "traduzione AI"
+        },
+        "hi": {
+          "text": "Charity Navigator द्वारा मूल्यांकित संस्था, एजेंटों द्वारा पाया गया: 'Every.org: food pantry'.",
+          "title": "भूख के खिलाफ Our Daily Bread Food Pantry का समर्थन करें",
+          "source": "traduzione AI"
+        },
+        "it": {
+          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'Every.org: food pantry'.",
+          "title": "Sostieni Our Daily Bread Food Pantry contro la fame",
+          "source": "traduzione AI"
+        },
+        "ja": {
+          "text": "Charity Navigator によって評価された団体で、エージェントが次のように見つけました: 'Every.org: food pantry'.",
+          "title": "Our Daily Bread Food Pantry を飢餓から支援する",
+          "source": "traduzione AI"
+        },
+        "pt": {
+          "text": "Entidade avaliada pela Charity Navigator, encontrada pelos agentes com: 'Every.org: food pantry'.",
+          "title": "Apoie a Our Daily Bread Food Pantry contra a fome",
+          "source": "traduzione AI"
+        },
+        "ru": {
+          "text": "Организация, оцененная Charity Navigator, найденная агентами с: 'Every.org: food pantry'.",
+          "title": "Поддержите Our Daily Bread Food Pantry в борьбе с голодом",
+          "source": "traduzione AI"
+        },
+        "zh": {
+          "text": "该机构已获 Charity Navigator 评估，已被代理人通过：“Every.org: food pantry” 找到。",
+          "title": "支持 Our Daily Bread Food Pantry 对抗饥饿",
+          "source": "traduzione AI"
+        }
+      },
       "tranches": [],
       "checks": [
         {
@@ -2023,7 +2074,292 @@
         "https://www.mapquest.com/us/massachusetts/daily-bread-food-pantry-84083"
       ],
       "waiting_counter": false,
-      "profile": {},
+      "profile": {
+        "de": {
+          "does": [
+            {
+              "text": "Our Daily Bread Food Pantry reduziert Lebensmittelunsicherheit und verbessert die Gesundheit der Kinder, Familien und Senioren im Collier County, indem sie nahrhafte Lebensmitteloptionen, Ermutigung und Hoffnung bietet.",
+              "source": "https://www.charitynavigator.org/ein/832956050",
+              "by_org": false
+            },
+            {
+              "text": "Die Organisation arbeitet täglich mit Familien zusammen, die Lebensmittelunsicherheit auf Marco Island und im Collier County erleben, und erreicht Personen sowohl physisch als auch geografisch.",
+              "source": "https://ourdailybreadfoodpantry.org/",
+              "by_org": true
+            },
+            {
+              "text": "Die Speisekammer ist jede Woche auf Geld- und Lebensmittelspenden angewiesen, um wesentliche Artikel für die Gemeinschaft zu beschaffen.",
+              "source": "https://ourdailybreadfoodpantry.org/",
+              "by_org": true
+            }
+          ],
+          "mission": "OUR MISSION: Our Daily Bread Food Pantry (ODBFP) existiert, um die Liebe Gottes zu teilen, indem sie den Hunger für unsere bedürftigen Nachbarn reduziert. OUR VISION: Die Lebensmittelunsicherheit zu verringern und die Gesundheit der Kinder, Familien und Senioren im Collier County zu verbessern, indem starke Gemeinschaftspartnerschaften aufgebaut werden, um nahrhafte Lebensmitteloptionen, Ermutigung und Hoffnung zu bieten. Bitte beachten Sie, dass, obwohl viele unserer Freiwilligen durch ihren individuellen Glauben zum Dienst an anderen berufen sind, es keine religiöse Voraussetzung gibt, um Lebensmittel zu erhalten, und alle berechtigten Gäste mit Würde, Freundlichkeit und Respekt willkommen geheißen werden.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "Die Speisekammer bedient die Gemeinschaft seit ten years, erweitert die Dienstleistungen für ernährungsunsichere Nachbarn auf Marco Island und im Collier County.",
+              "source": "https://ourdailybreadfoodpantry.org/who-we-are/",
+              "by_org": true
+            }
+          ]
+        },
+        "en": {
+          "does": [
+            {
+              "text": "Our Daily Bread Food Pantry reduces food insecurity and improves the health of Collier County children, families and seniors by offering nourishing food choices, encouragement, and hope.",
+              "quote": "To reduce food insecurity and improve the health of Collier County children, families and seniors by building strong community partnerships to offer nourishing food choices, encouragement, and hope.",
+              "source": "https://www.charitynavigator.org/ein/832956050",
+              "by_org": false
+            },
+            {
+              "text": "The organization engages daily with families experiencing food insecurity in Marco Island and Collier County, reaching individuals physically and geographically.",
+              "quote": "Working to wipe out hunger in Marco Island and Collier County, we engage daily with families who are experiencing food insecurity. Our programs reach individuals where they are, physically and geographically.",
+              "source": "https://ourdailybreadfoodpantry.org/",
+              "by_org": true
+            },
+            {
+              "text": "The pantry relies on monetary and food donations each and every week to procure essential items for the community.",
+              "quote": "Each and every week, the Pantry relies on monetary and food donations to procure essential items. Give in confidence knowing your donation goes directly towards the needs of our community.",
+              "source": "https://ourdailybreadfoodpantry.org/",
+              "by_org": true
+            }
+          ],
+          "mission": "OUR MISSION: Our Daily Bread Food Pantry (ODBFP) exists to share the love of God by reducing hunger for our neighbors in need. OUR VISION: To reduce food insecurity and improve the health of Collier County children, families and seniors by building strong community partnerships to offer nourishing food choices, encouragement, and hope. Please note that while many of our volunteers are called by their individual faiths to serve others, there is no religious requirement to receive food and all eligible guests are welcomed with dignity, kindness and respect.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "The pantry has been serving the community for ten years, expanding services to food insecure neighbors in Marco Island and Collier County.",
+              "quote": "We have been honored to serve our community for ten years. Our volunteers, program partners, and generous investors have helped expand our services to food insecure neighbors, meeting the growing needs of Marco Island and Collier County.",
+              "source": "https://ourdailybreadfoodpantry.org/who-we-are/",
+              "by_org": true
+            }
+          ]
+        },
+        "es": {
+          "does": [
+            {
+              "text": "Our Daily Bread Food Pantry reduce la inseguridad alimentaria y mejora la salud de los niños, familias y adultos mayores del Condado de Collier al ofrecer opciones de alimentos nutritivos, aliento y esperanza.",
+              "source": "https://www.charitynavigator.org/ein/832956050",
+              "by_org": false
+            },
+            {
+              "text": "La organización se involucra diariamente con familias que experimentan inseguridad alimentaria en Marco Island y el Condado de Collier, alcanzando a individuos física y geográficamente.",
+              "source": "https://ourdailybreadfoodpantry.org/",
+              "by_org": true
+            },
+            {
+              "text": "La despensa depende de donaciones monetarias y de alimentos cada semana para adquirir artículos esenciales para la comunidad.",
+              "source": "https://ourdailybreadfoodpantry.org/",
+              "by_org": true
+            }
+          ],
+          "mission": "NUESTRA MISIÓN: Our Daily Bread Food Pantry (ODBFP) existe para compartir el amor de Dios reduciendo el hambre de nuestros vecinos necesitados. NUESTRA VISIÓN: Reducir la inseguridad alimentaria y mejorar la salud de los niños, familias y adultos mayores del Condado de Collier mediante la construcción de sólidas alianzas comunitarias para ofrecer opciones de alimentos nutritivos, aliento y esperanza. Tenga en cuenta que, aunque muchos de nuestros voluntarios son llamados por sus fe individual para servir a otros, no hay un requisito religioso para recibir alimentos y todos los invitados elegibles son recibidos con dignidad, amabilidad y respeto.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "La despensa ha estado sirviendo a la comunidad for ten years, expandiendo servicios a vecinos con inseguridad alimentaria en Marco Island y el Condado de Collier.",
+              "source": "https://ourdailybreadfoodpantry.org/who-we-are/",
+              "by_org": true
+            }
+          ]
+        },
+        "fr": {
+          "does": [
+            {
+              "text": "Our Daily Bread Food Pantry réduit l'insécurité alimentaire et améliore la santé des enfants, des familles et des personnes âgées du comté de Collier en offrant des choix alimentaires nourrissants, de l'encouragement et de l'espoir.",
+              "source": "https://www.charitynavigator.org/ein/832956050",
+              "by_org": false
+            },
+            {
+              "text": "L'organisation s'engage quotidiennement avec les familles confrontées à l'insécurité alimentaire à Marco Island et dans le comté de Collier, atteignant les individus physiquement et géographiquement.",
+              "source": "https://ourdailybreadfoodpantry.org/",
+              "by_org": true
+            },
+            {
+              "text": "La pantry dépend chaque semaine des dons monétaires et alimentaires pour se procurer les articles essentiels pour la communauté.",
+              "source": "https://ourdailybreadfoodpantry.org/",
+              "by_org": true
+            }
+          ],
+          "mission": "OUR MISSION : Our Daily Bread Food Pantry (ODBFP) existe pour partager l'amour de Dieu en réduisant la faim de nos voisins dans le besoin. OUR VISION : Réduire l'insécurité alimentaire et améliorer la santé des enfants, des familles et des personnes âgées du comté de Collier en construisant de solides partenariats communautaires pour offrir des choix alimentaires nourrissants, de l'encouragement et de l'espoir. Veuillez noter que bien que beaucoup de nos bénévoles soient appelés par leurs convictions individuelles à servir les autres, il n'y a aucune exigence religieuse pour recevoir de la nourriture et tous les invités éligibles sont accueillis avec dignité, gentillesse et respect.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "La pantry sert la communauté depuis ten years, élargissant les services aux voisins en situation d'insécurité alimentaire à Marco Island et dans le comté de Collier.",
+              "source": "https://ourdailybreadfoodpantry.org/who-we-are/",
+              "by_org": true
+            }
+          ]
+        },
+        "hi": {
+          "does": [
+            {
+              "text": "Our Daily Bread Food Pantry पोषक खाद्य विकल्प, प्रोत्साहन और आशा प्रदान करके Collier County के बच्चों, परिवारों और वरिष्ठों की खाद्य असुरक्षा को कम करता है और उनके स्वास्थ्य को सुधारता है।",
+              "source": "https://www.charitynavigator.org/ein/832956050",
+              "by_org": false
+            },
+            {
+              "text": "संगठन रोज़ाना Marco Island और Collier County में खाद्य असुरक्षा का सामना कर रहे परिवारों के साथ जुड़ता है, शारीरिक और भौगोलिक रूप से व्यक्तियों तक पहुंचता है।",
+              "source": "https://ourdailybreadfoodpantry.org/",
+              "by_org": true
+            },
+            {
+              "text": "पैंट्री समुदाय के लिए आवश्यक वस्तुओं को प्राप्त करने के लिए हर सप्ताह मौद्रिक और खाद्य दानों पर निर्भर करती है।",
+              "source": "https://ourdailybreadfoodpantry.org/",
+              "by_org": true
+            }
+          ],
+          "mission": "हमारा मिशन: Our Daily Bread Food Pantry (ODBFP) जरूरतमंद पड़ोसियों के लिए भूख कम करके भगवान के प्रेम को साझा करने के लिए मौजूद है। हमारा विज़न: Collier County के बच्चों, परिवारों और वरिष्ठों के स्वास्थ्य को सुधारने और खाद्य असुरक्षा को कम करने के लिए मजबूत सामुदायिक साझेदारियों का निर्माण करके पोषक खाद्य विकल्प, प्रोत्साहन और आशा प्रदान करना। कृपया ध्यान दें कि जबकि हमारे कई स्वयंसेवकों को उनके व्यक्तिगत विश्वासों द्वारा दूसरों की सेवा करने के लिए बुलाया जाता है, भोजन प्राप्त करने के लिए कोई धार्मिक आवश्यकता नहीं है और सभी पात्र अतिथियों का सम्मान, दया और सम्मान के साथ स्वागत किया जाता है।",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "पैंट्री ने ten years से समुदाय की सेवा की है, Marco Island और Collier County में खाद्य असुरक्षित पड़ोसियों के लिए सेवाओं का विस्तार किया है।",
+              "source": "https://ourdailybreadfoodpantry.org/who-we-are/",
+              "by_org": true
+            }
+          ]
+        },
+        "it": {
+          "does": [
+            {
+              "text": "Our Daily Bread Food Pantry riduce l'insicurezza alimentare e migliora la salute dei bambini, delle famiglie e degli anziani della Contea di Collier offrendo scelte alimentari nutrienti, incoraggiamento e speranza.",
+              "source": "https://www.charitynavigator.org/ein/832956050",
+              "by_org": false
+            },
+            {
+              "text": "L'organizzazione si impegna quotidianamente con le famiglie che vivono l'insicurezza alimentare a Marco Island e nella Contea di Collier, raggiungendo le persone sia fisicamente che geograficamente.",
+              "source": "https://ourdailybreadfoodpantry.org/",
+              "by_org": true
+            },
+            {
+              "text": "La mensa dipende da donazioni monetarie e alimentari ogni settimana per procurare articoli essenziali per la comunità.",
+              "source": "https://ourdailybreadfoodpantry.org/",
+              "by_org": true
+            }
+          ],
+          "mission": "LA NOSTRA MISSIONE: Our Daily Bread Food Pantry (ODBFP) esiste per condividere l'amore di Dio riducendo la fame per i nostri vicini bisognosi. LA NOSTRA VISIONE: Ridurre l'insicurezza alimentare e migliorare la salute dei bambini, delle famiglie e degli anziani della Contea di Collier costruendo solide partnership comunitarie per offrire scelte alimentari nutrienti, incoraggiamento e speranza. Si prega di notare che, sebbene molti dei nostri volontari siano chiamati dalle loro fedi individuali a servire gli altri, non vi è alcun requisito religioso per ricevere cibo e tutti gli ospiti idonei sono accolti con dignità, gentilezza e rispetto.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "La mensa serve la comunità da dieci anni, ampliando i servizi ai vicini in difficoltà alimentare a Marco Island e nella Contea di Collier.",
+              "source": "https://ourdailybreadfoodpantry.org/who-we-are/",
+              "by_org": true
+            }
+          ]
+        },
+        "ja": {
+          "does": [
+            {
+              "text": "Our Daily Bread Food Pantry は、栄養価の高い食料選択肢、励まし、希望を提供することで、Collier County の子ども、家族、高齢者の食料不安を減らし、健康を向上させます。",
+              "source": "https://www.charitynavigator.org/ein/832956050",
+              "by_org": false
+            },
+            {
+              "text": "この組織は、Marco Island と Collier County で食料不安を抱える家族と日々関わり、身体的・地理的に個人に届くようにしています。",
+              "source": "https://ourdailybreadfoodpantry.org/",
+              "by_org": true
+            },
+            {
+              "text": "パントリーは、毎週、金銭と食料の寄付に頼って、地域のために必要な物資を調達しています。",
+              "source": "https://ourdailybreadfoodpantry.org/",
+              "by_org": true
+            }
+          ],
+          "mission": "私たちの使命：Our Daily Bread Food Pantry (ODBFP) は、困っている隣人の飢えを減らすことで神の愛を分かち合うことを目的としています。 私たちのビジョン：強固な地域パートナーシップを構築し、栄養価の高い食料選択肢、励まし、希望を提供することで、Collier County の子ども、家族、高齢者の食料不安を減らし、健康を向上させます。 ご留意ください。多くのボランティアはそれぞれの信仰に導かれて他者に奉仕していますが、食料を受け取る際に宗教的な条件はなく、すべての対象者は尊厳と親切、敬意をもって歓迎されます。",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "パントリーは、ten years にわたり地域にサービスを提供しており、Marco Island と Collier County の食料不安を抱える近隣住民へのサービスを拡大しています。",
+              "source": "https://ourdailybreadfoodpantry.org/who-we-are/",
+              "by_org": true
+            }
+          ]
+        },
+        "pt": {
+          "does": [
+            {
+              "text": "Our Daily Bread Food Pantry reduz a insegurança alimentar e melhora a saúde das crianças, famílias e idosos do Condado de Collier, oferecendo opções alimentares nutritivas, incentivo e esperança.",
+              "source": "https://www.charitynavigator.org/ein/832956050",
+              "by_org": false
+            },
+            {
+              "text": "A organização se envolve diariamente com famílias que enfrentam insegurança alimentar em Marco Island e no Condado de Collier, alcançando indivíduos física e geograficamente.",
+              "source": "https://ourdailybreadfoodpantry.org/",
+              "by_org": true
+            },
+            {
+              "text": "A despensa depende de doações monetárias e de alimentos todas as semanas para adquirir itens essenciais para a comunidade.",
+              "source": "https://ourdailybreadfoodpantry.org/",
+              "by_org": true
+            }
+          ],
+          "mission": "NOSS​A MISSÃO: Our Daily Bread Food Pantry (ODBFP) existe para compartilhar o amor de Deus reduzindo a fome de nossos vizinhos necessitados. NOSS​A VISÃO: Reduzir a insegurança alimentar e melhorar a saúde das crianças, famílias e idosos do Condado de Collier, construindo parcerias comunitárias fortes para oferecer opções alimentares nutritivas, incentivo e esperança. Observe que, embora muitos de nossos voluntários sejam motivados por suas crenças individuais a servir aos outros, não há requisito religioso para receber alimentos e todos os convidados elegíveis são recebidos com dignidade, bondade e respeito.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "A despensa tem atendido a comunidade por ten years, expandindo serviços para vizinhos em situação de insegurança alimentar em Marco Island e no Condado de Collier.",
+              "source": "https://ourdailybreadfoodpantry.org/who-we-are/",
+              "by_org": true
+            }
+          ]
+        },
+        "ru": {
+          "does": [
+            {
+              "text": "Our Daily Bread Food Pantry снижает продовольственную небезопасность и улучшает здоровье детей, семей и пожилых людей округа Коллиер, предлагая питательные варианты пищи, поддержку и надежду.",
+              "source": "https://www.charitynavigator.org/ein/832956050",
+              "by_org": false
+            },
+            {
+              "text": "Организация ежедневно взаимодействует с семьями, сталкивающимися с продовольственной небезопасностью, на Marco Island и в округе Collier County, охватывая людей физически и географически.",
+              "source": "https://ourdailybreadfoodpantry.org/",
+              "by_org": true
+            },
+            {
+              "text": "Кладовая полагается на денежные и продовольственные пожертвования каждую неделю, чтобы приобретать необходимые товары для сообщества.",
+              "source": "https://ourdailybreadfoodpantry.org/",
+              "by_org": true
+            }
+          ],
+          "mission": "НАША МИССИЯ: Our Daily Bread Food Pantry (ODBFP) существует, чтобы делиться любовью Бога, уменьшая голод наших нуждающихся соседей. НАША ВИЗИЯ: Сократить продовольственную небезопасность и улучшить здоровье детей, семей и пожилых людей округа Коллиер, создавая прочные партнерства в сообществе для предложения питательных вариантов пищи, поддержки и надежды. Обратите внимание, что хотя многие наши волонтёры руководствуются своей индивидуальной верой, чтобы служить другим, нет религиозных требований для получения пищи, и все подходящие гости приветствуются с достоинством, добротой и уважением.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "Кладовая обслуживает сообщество уже ten лет, расширяя услуги для соседей, сталкивающихся с продовольственной небезопасностью, на Marco Island и в округе Collier County.",
+              "source": "https://ourdailybreadfoodpantry.org/who-we-are/",
+              "by_org": true
+            }
+          ]
+        },
+        "zh": {
+          "does": [
+            {
+              "text": "Our Daily Bread Food Pantry 通过提供营养食品选择、鼓励和希望，减少食物不安全并改善 Collier County 儿童、家庭和老年人的健康。",
+              "source": "https://www.charitynavigator.org/ein/832956050",
+              "by_org": false
+            },
+            {
+              "text": "该组织每天与 Marco Island 和 Collier County 受食物不安全影响的家庭互动，实地和地域上接触个人。",
+              "source": "https://ourdailybreadfoodpantry.org/",
+              "by_org": true
+            },
+            {
+              "text": "该食品储藏室每周都依赖金钱和食品捐赠来采购社区所需的基本物资。",
+              "source": "https://ourdailybreadfoodpantry.org/",
+              "by_org": true
+            }
+          ],
+          "mission": "我们的使命：Our Daily Bread Food Pantry (ODBFP) 致力于通过减少有需要邻居的饥饿来分享上帝的爱。我们的愿景：通过建立强大的社区合作伙伴关系，提供营养食品选择、鼓励和希望，以减少食物不安全并改善 Collier County 儿童、家庭和老年人的健康。请注意，虽然我们的许多志愿者因各自的信仰而服务他人，但领取食物没有宗教要求，所有符合条件的来宾都将以尊严、善意和尊重的方式受到欢迎。",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "The pantry 已为社区服务了 ten years，扩大服务范围至 Marco Island 和 Collier County 的食物不安全邻居。",
+              "source": "https://ourdailybreadfoodpantry.org/who-we-are/",
+              "by_org": true
+            }
+          ]
+        }
+      },
       "safety": {
         "evaluator": "Charity Navigator",
         "stars": 4,
@@ -2848,7 +3184,40 @@
         "https://www.scvfoodpantry.org"
       ],
       "waiting_counter": false,
-      "profile": {},
+      "profile": {
+        "en": {
+          "does": [
+            {
+              "text": "It serves families and individuals of all ages who are facing food insecurity and in need of support.",
+              "quote": "We serve families and individuals of all ages who are facing food insecurity and in need of support.",
+              "source": "https://www.scvfoodpantry.org/",
+              "by_org": true
+            },
+            {
+              "text": "The pantry provides Mobile Senior Outreach Services to nine designated senior, student, and remote communities in partnership with the LA Regional Food Bank.",
+              "quote": "In partnership with LA Regional Food Bank the Santa Clarita Valley Food Pantry provides Mobile Senior Outreach Services to nine (9) designated Senior, Student and Remote Communities.",
+              "source": "https://www.scvfoodpantry.org/about-1",
+              "by_org": true
+            }
+          ],
+          "mission": "To serve the food-insecure people of the Santa Clarita Valley through kindness, compassion and equity. Food is free to all who request it at all times regardless of age, race, ethnicity, gender or religious affiliation. Bolstering the socio-economic situations of all clients, helping people stay housed, fed and happy.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "The organization operates as a registered 501(c)3 non-profit organization.",
+              "quote": "Santa Clarita Valley Food Pantry is a 501( c ) 3 Non- Profit Organization EIN# 95-4014084",
+              "source": "https://www.scvfoodpantry.org",
+              "by_org": true
+            },
+            {
+              "text": "The organization is dedicated to transparency.",
+              "quote": "The Santa Clarita Valley Food Pantry is a 501 (c)3 Non-Profit Organization and  dedicated to transparency.",
+              "source": "https://www.scvfoodpantry.org/",
+              "by_org": true
+            }
+          ]
+        }
+      },
       "safety": {
         "evaluator": "Charity Navigator",
         "stars": 4,
@@ -5192,7 +5561,58 @@
       "source_url": "https://www.charitynavigator.org/ein/270109312",
       "approved_on": "2026-11-14",
       "review_until": "2026-11-17 08:14 UTC",
-      "translations": {},
+      "translations": {
+        "de": {
+          "text": "Organisation bewertet von Charity Navigator, gefunden von den Agenten mit: 'Every.org: food pantry'.",
+          "title": "Unterstützen Sie East Hampton Food Pantry Inc im Kampf gegen den Hunger",
+          "source": "traduzione AI"
+        },
+        "en": {
+          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'Every.org: food pantry'.",
+          "title": "Support East Hampton Food Pantry Inc against hunger",
+          "source": "originale"
+        },
+        "es": {
+          "text": "Entidad evaluada por Charity Navigator, encontrada por los agentes con: 'Every.org: food pantry'.",
+          "title": "Apoya a East Hampton Food Pantry Inc contra el hambre",
+          "source": "traduzione AI"
+        },
+        "fr": {
+          "text": "Organisation évaluée par Charity Navigator, trouvée par les agents avec : 'Every.org : food pantry'.",
+          "title": "Soutenez East Hampton Food Pantry Inc contre la faim",
+          "source": "traduzione AI"
+        },
+        "hi": {
+          "text": "Charity Navigator द्वारा मूल्यांकित संस्था, एजेंटों द्वारा पाया गया: 'Every.org: food pantry'.",
+          "title": "भूख के खिलाफ East Hampton Food Pantry Inc का समर्थन करें",
+          "source": "traduzione AI"
+        },
+        "it": {
+          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'Every.org: food pantry'.",
+          "title": "Sostieni East Hampton Food Pantry Inc contro la fame",
+          "source": "traduzione AI"
+        },
+        "ja": {
+          "text": "Charity Navigator に評価された団体で、エージェントが次のように見つけました: 'Every.org: food pantry'。",
+          "title": "East Hampton Food Pantry Inc を飢餓から支援する",
+          "source": "traduzione AI"
+        },
+        "pt": {
+          "text": "Entidade avaliada pela Charity Navigator, encontrada pelos agentes com: 'Every.org: food pantry'.",
+          "title": "Apoie a East Hampton Food Pantry Inc contra a fome",
+          "source": "traduzione AI"
+        },
+        "ru": {
+          "text": "Организация, оцененная Charity Navigator, найденная агентами с: 'Every.org: food pantry'.",
+          "title": "Поддержите East Hampton Food Pantry Inc в борьбе с голодом",
+          "source": "traduzione AI"
+        },
+        "zh": {
+          "text": "由 Charity Navigator 评估的机构，由特工通过以下方式找到：'Every.org: food pantry'。",
+          "title": "支持 East Hampton Food Pantry Inc 对抗饥饿",
+          "source": "traduzione AI"
+        }
+      },
       "tranches": [],
       "checks": [
         {
@@ -5389,7 +5809,343 @@
         "https://www.mapquest.com/us/new-york/springs-food-pantry-inc-654679468"
       ],
       "waiting_counter": false,
-      "profile": {},
+      "profile": {
+        "de": {
+          "does": [
+            {
+              "text": "Die Organisation stellt Personen, die in East Hampton, NY leben und aufgrund von Notlagen oder Notfällen bedürftig sind, Lebensmittel zur Verfügung.",
+              "source": "https://www.charitynavigator.org/ein/270109312",
+              "by_org": false
+            },
+            {
+              "text": "Die Organisation arbeitet vor Ort an der East Hampton High School und betreibt einen Satelliten in Amagansett.",
+              "source": "https://easthamptonfoodpantry.org",
+              "by_org": true
+            },
+            {
+              "text": "Jeder, der Schwierigkeiten hat, Lebensmittel zu beschaffen oder sich selbst oder seine Familie zu ernähren, ist berechtigt.",
+              "source": "https://easthamptonfoodpantry.org",
+              "by_org": true
+            }
+          ],
+          "mission": "Um Lebensmittel für Personen bereitzustellen, die in East Hampton, NY leben und aufgrund von Notlage oder Notfällen bedürftig sind.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "Die Organisation gibt ihre Website im Steuerformular an.",
+              "source": "https://www.charitynavigator.org/ein/270109312",
+              "by_org": false
+            },
+            {
+              "text": "Im Geschäftsjahr fand keine wesentliche Umleitung von Vermögenswerten statt.",
+              "source": "https://www.charitynavigator.org/ein/270109312",
+              "by_org": false
+            }
+          ]
+        },
+        "en": {
+          "does": [
+            {
+              "text": "The organization provides food to individuals who live in East Hampton, NY and are in need due to hardship and or emergencies.",
+              "quote": "TO PROVIDE FOOD TO INDIVIDUALS WHO LIVE IN EAST HAMPTON, NY AND ARE IN NEED DUE TO HARDSHIP AND OR EMERGENCIES.",
+              "source": "https://www.charitynavigator.org/ein/270109312",
+              "by_org": false
+            },
+            {
+              "text": "The organization operates onsite at East Hampton High School and maintains an Amagansett satellite.",
+              "quote": "We provide food (and more) in East Hampton, onsite at East Hampton High School and in our Amagansett satellite.",
+              "source": "https://easthamptonfoodpantry.org",
+              "by_org": true
+            },
+            {
+              "text": "Anyone having trouble obtaining food or feed themselves or their family is eligible.",
+              "quote": "Anyone having trouble obtaining food or feed themselves or their family is eligible.",
+              "source": "https://easthamptonfoodpantry.org",
+              "by_org": true
+            }
+          ],
+          "mission": "TO PROVIDE FOOD TO INDIVIDUALS WHO LIVE IN EAST HAMPTON, NY AND ARE IN NEED DUE TO HARDSHIP AND OR EMERGENCIES.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "The organization discloses its website on the tax form.",
+              "quote": "Website Reported on Tax Form:Yes SCORE100% Disclosing the charity’s website promotes transparency and provides access to the public.",
+              "source": "https://www.charitynavigator.org/ein/270109312",
+              "by_org": false
+            },
+            {
+              "text": "No material diversion of assets occurred during the fiscal year.",
+              "quote": "No Material Diversion of Assets:Yes SCORE100% Organizations report 'Yes' to confirm that no material diversion of assets, the unauthorized redirection of funds, occurred during their fi",
+              "source": "https://www.charitynavigator.org/ein/270109312",
+              "by_org": false
+            }
+          ]
+        },
+        "es": {
+          "does": [
+            {
+              "text": "La organización proporciona comida a individuos que viven en East Hampton, NY y están en necesidad debido a dificultades y/o emergencias.",
+              "source": "https://www.charitynavigator.org/ein/270109312",
+              "by_org": false
+            },
+            {
+              "text": "La organización opera en el sitio de la East Hampton High School y mantiene una sede satélite en Amagansett.",
+              "source": "https://easthamptonfoodpantry.org",
+              "by_org": true
+            },
+            {
+              "text": "Cualquier persona que tenga problemas para obtener comida o alimentarse a sí misma o a su familia es elegible.",
+              "source": "https://easthamptonfoodpantry.org",
+              "by_org": true
+            }
+          ],
+          "mission": "PROPORCIONAR COMIDA A INDIVIDUOS QUE VIVEN EN EAST HAMPTON, NY Y ESTÁN EN NECESIDAD DEBIDO A DIFICULTADES Y/O EMERGENCIAS.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "La organización divulga su sitio web en el formulario fiscal.",
+              "source": "https://www.charitynavigator.org/ein/270109312",
+              "by_org": false
+            },
+            {
+              "text": "No se produjo una desviación material de activos durante el año fiscal.",
+              "source": "https://www.charitynavigator.org/ein/270109312",
+              "by_org": false
+            }
+          ]
+        },
+        "fr": {
+          "does": [
+            {
+              "text": "L'organisation fournit de la nourriture aux individus qui vivent à East Hampton, NY et qui sont dans le besoin en raison de difficultés ou d'urgences.",
+              "source": "https://www.charitynavigator.org/ein/270109312",
+              "by_org": false
+            },
+            {
+              "text": "L'organisation fonctionne sur site à East Hampton High School et maintient un satellite à Amagansett.",
+              "source": "https://easthamptonfoodpantry.org",
+              "by_org": true
+            },
+            {
+              "text": "Toute personne ayant des difficultés à se procurer de la nourriture ou à nourrir elle-même ou sa famille est éligible.",
+              "source": "https://easthamptonfoodpantry.org",
+              "by_org": true
+            }
+          ],
+          "mission": "FOURNIR DE LA NOURRITURE AUX INDIVIDUS QUI VIVENT À EAST HAMPTON, NY ET QUI SONT EN BESOIN EN RAISON DE DIFFICULTÉS OU D'URGENCES.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "L'organisation indique son site web sur le formulaire fiscal.",
+              "source": "https://www.charitynavigator.org/ein/270109312",
+              "by_org": false
+            },
+            {
+              "text": "Aucune diversion matérielle d'actifs n'a eu lieu au cours de l'exercice fiscal.",
+              "source": "https://www.charitynavigator.org/ein/270109312",
+              "by_org": false
+            }
+          ]
+        },
+        "hi": {
+          "does": [
+            {
+              "text": "संगठन ईस्ट हैम्पटन, एनवाई में रहने वाले व्यक्तियों को कठिनाइयों या आपात स्थितियों के कारण आवश्यकता होने पर भोजन प्रदान करता है।",
+              "source": "https://www.charitynavigator.org/ein/270109312",
+              "by_org": false
+            },
+            {
+              "text": "संगठन ईस्ट हैम्पटन हाई स्कूल में ऑनसाइट संचालन करता है और एक अमागन्सेट सैटेलाइट बनाए रखता है।",
+              "source": "https://easthamptonfoodpantry.org",
+              "by_org": true
+            },
+            {
+              "text": "जो कोई भी भोजन प्राप्त करने में कठिनाई का सामना कर रहा है या स्वयं या अपने परिवार को खिलाने में कठिनाई है, वह पात्र है।",
+              "source": "https://easthamptonfoodpantry.org",
+              "by_org": true
+            }
+          ],
+          "mission": "ईस्ट हैम्पटन, एनवाई में रहने वाले व्यक्तियों को कठिनाइयों या आपात स्थितियों के कारण आवश्यकता होने पर भोजन प्रदान करने के लिए।",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "संगठन अपने वेबसाइट को कर फॉर्म पर प्रकट करता है।",
+              "source": "https://www.charitynavigator.org/ein/270109312",
+              "by_org": false
+            },
+            {
+              "text": "वित्तीय वर्ष के दौरान संपत्तियों का कोई महत्वपूर्ण विचलन नहीं हुआ।",
+              "source": "https://www.charitynavigator.org/ein/270109312",
+              "by_org": false
+            }
+          ]
+        },
+        "it": {
+          "does": [
+            {
+              "text": "L'organizzazione fornisce cibo agli individui che vivono a East Hampton, NY e che hanno bisogno a causa di difficoltà e/o emergenze.",
+              "source": "https://www.charitynavigator.org/ein/270109312",
+              "by_org": false
+            },
+            {
+              "text": "L'organizzazione opera in loco presso la East Hampton High School e mantiene un satellite ad Amagansett.",
+              "source": "https://easthamptonfoodpantry.org",
+              "by_org": true
+            },
+            {
+              "text": "Chiunque abbia difficoltà a ottenere cibo o a nutrire se stesso o la propria famiglia è idoneo.",
+              "source": "https://easthamptonfoodpantry.org",
+              "by_org": true
+            }
+          ],
+          "mission": "PER FORNIRE CIBO A GLI INDIVIDUI CHE VIVONO A EAST HAMPTON, NY E CHE HANNO BISOGNO A CAUSA DI DIFFICOLTÀ E/O EMERGENZE.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "L'organizzazione dichiara il proprio sito web nel modulo fiscale.",
+              "source": "https://www.charitynavigator.org/ein/270109312",
+              "by_org": false
+            },
+            {
+              "text": "Non si è verificata alcuna deviazione materiale di beni durante l'anno fiscale.",
+              "source": "https://www.charitynavigator.org/ein/270109312",
+              "by_org": false
+            }
+          ]
+        },
+        "ja": {
+          "does": [
+            {
+              "text": "この組織は、ニューヨーク州イーストハンプトンに住み、困難や緊急事態により食料が必要な個人に食料を提供します。",
+              "source": "https://www.charitynavigator.org/ein/270109312",
+              "by_org": false
+            },
+            {
+              "text": "この組織はイーストハンプトン高校の敷地内で運営し、アマグサネットのサテライト拠点も維持しています。",
+              "source": "https://easthamptonfoodpantry.org",
+              "by_org": true
+            },
+            {
+              "text": "食料の入手や自分や家族への食事に困っている人はすべて対象となります。",
+              "source": "https://easthamptonfoodpantry.org",
+              "by_org": true
+            }
+          ],
+          "mission": "ニューヨーク州イーストハンプトンに住み、困難や緊急事態により食料が必要な個人に食料を提供すること。",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "この組織は税務書類にウェブサイトを記載しています。",
+              "source": "https://www.charitynavigator.org/ein/270109312",
+              "by_org": false
+            },
+            {
+              "text": "会計年度中に資産の実質的な流用は発生しませんでした。",
+              "source": "https://www.charitynavigator.org/ein/270109312",
+              "by_org": false
+            }
+          ]
+        },
+        "pt": {
+          "does": [
+            {
+              "text": "A organização fornece comida a indivíduos que vivem em East Hampton, NY e estão em necessidade devido a dificuldades e/ou emergências.",
+              "source": "https://www.charitynavigator.org/ein/270109312",
+              "by_org": false
+            },
+            {
+              "text": "A organização opera no local na East Hampton High School e mantém um satélite em Amagansett.",
+              "source": "https://easthamptonfoodpantry.org",
+              "by_org": true
+            },
+            {
+              "text": "Qualquer pessoa que tenha dificuldade em obter comida ou alimentar a si mesma ou sua família é elegível.",
+              "source": "https://easthamptonfoodpantry.org",
+              "by_org": true
+            }
+          ],
+          "mission": "PARA FORNECER COMIDA A INDIVÍDUOS QUE MORAM EM EAST HAMPTON, NY E ESTÃO EM NECESSIDADE DEVIDO A DIFICULDADES E/OU EMERGÊNCIAS.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "A organização divulga seu site no formulário fiscal.",
+              "source": "https://www.charitynavigator.org/ein/270109312",
+              "by_org": false
+            },
+            {
+              "text": "Nenhum desvio material de ativos ocorreu durante o ano fiscal.",
+              "source": "https://www.charitynavigator.org/ein/270109312",
+              "by_org": false
+            }
+          ]
+        },
+        "ru": {
+          "does": [
+            {
+              "text": "Организация предоставляет пищу людям, живущим в East Hampton, NY, и нуждающимся из‑за трудностей и/или чрезвычайных ситуаций.",
+              "source": "https://www.charitynavigator.org/ein/270109312",
+              "by_org": false
+            },
+            {
+              "text": "Организация работает на территории East Hampton High School и поддерживает филиал в Amagansett.",
+              "source": "https://easthamptonfoodpantry.org",
+              "by_org": true
+            },
+            {
+              "text": "Любой, у кого возникают трудности с получением пищи или кормлением себя или своей семьи, имеет право на участие.",
+              "source": "https://easthamptonfoodpantry.org",
+              "by_org": true
+            }
+          ],
+          "mission": "ПРЕДОСТАВЛЯТЬ ПИЩУ ДЛЯ ЛИЦ, ЖИВУЩИХ В EAST HAMPTON, NY И НЕОБХОДИМОСТИ В СВЯЗИ С ТРУДНОСТЯМИ ИЛИ ЧРЕЗВЫЧАЙНЫМИ СИТУАЦИЯМИ.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "Организация указывает свой веб‑сайт в налоговой форме.",
+              "source": "https://www.charitynavigator.org/ein/270109312",
+              "by_org": false
+            },
+            {
+              "text": "В течение финансового года не произошло существенного отклонения активов.",
+              "source": "https://www.charitynavigator.org/ein/270109312",
+              "by_org": false
+            }
+          ]
+        },
+        "zh": {
+          "does": [
+            {
+              "text": "该组织向居住在纽约东汉普顿且因困难或紧急情况需要帮助的个人提供食物。",
+              "source": "https://www.charitynavigator.org/ein/270109312",
+              "by_org": false
+            },
+            {
+              "text": "该组织在 East Hampton High School 现场运营，并在 Amagansett 设有分支机构。",
+              "source": "https://easthamptonfoodpantry.org",
+              "by_org": true
+            },
+            {
+              "text": "任何在获取食物或为自己或家人提供食物方面有困难的人均符合资格。",
+              "source": "https://easthamptonfoodpantry.org",
+              "by_org": true
+            }
+          ],
+          "mission": "向居住在纽约东汉普顿且因困难或紧急情况需要帮助的个人提供食物。",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "该组织在税表上披露了其网站。",
+              "source": "https://www.charitynavigator.org/ein/270109312",
+              "by_org": false
+            },
+            {
+              "text": "本财政年度未发生重大资产挪用。",
+              "source": "https://www.charitynavigator.org/ein/270109312",
+              "by_org": false
+            }
+          ]
+        }
+      },
       "safety": {
         "evaluator": "Charity Navigator",
         "stars": 4,
@@ -8645,7 +9401,58 @@
       "source_url": "https://www.charitynavigator.org/ein/451498743",
       "approved_on": "2026-11-14",
       "review_until": "2026-11-17 08:11 UTC",
-      "translations": {},
+      "translations": {
+        "de": {
+          "text": "Organisation bewertet von Charity Navigator, gefunden von den Agenten mit: 'Every.org: food pantry'.",
+          "title": "Unterstützen Sie Loaves & Fishes Food Pantry Inc gegen den Hunger",
+          "source": "traduzione AI"
+        },
+        "en": {
+          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'Every.org: food pantry'.",
+          "title": "Support Loaves & Fishes Food Pantry Inc against hunger",
+          "source": "originale"
+        },
+        "es": {
+          "text": "Entidad evaluada por Charity Navigator, encontrada por los agentes con: 'Every.org: food pantry'.",
+          "title": "Apoya a Loaves & Fishes Food Pantry Inc contra el hambre",
+          "source": "traduzione AI"
+        },
+        "fr": {
+          "text": "Organisation évaluée par Charity Navigator, trouvée par les agents avec : 'Every.org: food pantry'.",
+          "title": "Soutenez Loaves & Fishes Food Pantry Inc contre la faim",
+          "source": "traduzione AI"
+        },
+        "hi": {
+          "text": "Charity Navigator द्वारा मूल्यांकित संस्था, एजेंटों द्वारा पाया गया: 'Every.org: food pantry'.",
+          "title": "भूख के खिलाफ Loaves & Fishes Food Pantry Inc का समर्थन करें",
+          "source": "traduzione AI"
+        },
+        "it": {
+          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'Every.org: food pantry'.",
+          "title": "Sostieni Loaves & Fishes Food Pantry Inc contro la fame",
+          "source": "traduzione AI"
+        },
+        "ja": {
+          "text": "Charity Navigator に評価された団体で、エージェントが次のように見つけました: 'Every.org: food pantry'.",
+          "title": "飢餓に対して Loaves & Fishes Food Pantry Inc を支援する",
+          "source": "traduzione AI"
+        },
+        "pt": {
+          "text": "Entidade avaliada pela Charity Navigator, encontrada pelos agentes com: 'Every.org: food pantry'.",
+          "title": "Apoie Loaves & Fishes Food Pantry Inc contra a fome",
+          "source": "traduzione AI"
+        },
+        "ru": {
+          "text": "Организация, оцененная Charity Navigator, найденная агентами с помощью: 'Every.org: food pantry'.",
+          "title": "Поддержите Loaves & Fishes Food Pantry Inc в борьбе с голодом",
+          "source": "traduzione AI"
+        },
+        "zh": {
+          "text": "该机构已被 Charity Navigator 评估，代理人通过以下方式找到：'Every.org: food pantry'。",
+          "title": "支持 Loaves & Fishes Food Pantry Inc 对抗饥饿",
+          "source": "traduzione AI"
+        }
+      },
       "tranches": [],
       "checks": [
         {
@@ -8842,7 +9649,292 @@
         "https://www.mapquest.com/us/maryland/fishes-loaves-pantry-423922121"
       ],
       "waiting_counter": false,
-      "profile": {},
+      "profile": {
+        "de": {
+          "does": [
+            {
+              "text": "Loaves & Fishes stellt Familien und Einzelpersonen in Charlottesville und den umliegenden Gemeinden kostenlose Lebensmittel zur Verfügung.",
+              "source": "https://cvillefoodpantry.org/about/",
+              "by_org": true
+            },
+            {
+              "text": "Jedes Mal, wenn jemand das Angebot besucht, erhält er einen Einkaufskorb mit frischem Obst und Gemüse, Brot, Gebäck, Dessert, Milch, Eiern, gefrorenem Fleisch und haltbaren Lebensmitteln.",
+              "source": "https://cvillefoodpantry.org/",
+              "by_org": true
+            },
+            {
+              "text": "Mitarbeiter und Freiwillige bereiten die Lebensmittel vor und verteilen sie, wobei frühere Zahlen zeigen, dass 2,731,998 lbs. Lebensmittel an 143,728 Personen verteilt wurden.",
+              "source": "https://cvillefoodpantry.org/about/",
+              "by_org": true
+            }
+          ],
+          "mission": "Loaves & Fishes bietet nahrhafte Lebensmittel mit Respekt und Würde für alle, die Hilfe suchen, und bietet gleichzeitig umfangreiche Möglichkeiten für gesellschaftliches Engagement durch Freiwilligenarbeit, Partnerschaften und Ernährungsbildung.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "Loaves & Fishes wurde als gemeinnützige Körperschaft in Virginia gegründet und erhielt den steuerbefreiten Status 501(c)(3) vom IRS.",
+              "source": "https://cvillefoodpantry.org/about/",
+              "by_org": true
+            }
+          ]
+        },
+        "en": {
+          "does": [
+            {
+              "text": "Loaves & Fishes provides free groceries to families and individuals in Charlottesville and surrounding communities.",
+              "quote": "Loaves & Fishes Food Pantry, a registered 501(c)(3) nonprofit organization, Tax ID 45-1498743, exists to provide free groceries to families and individuals in Charlottesville and surrounding communities.",
+              "source": "https://cvillefoodpantry.org/about/",
+              "by_org": true
+            },
+            {
+              "text": "Each time someone visits, they receive a grocery cart of fresh fruit and vegetables, bread, pastries, dessert, milk, eggs, frozen meat, and shelf-stable foods.",
+              "quote": "Each time someone visits Loaves & Fishes, they will receive a grocery cart of fresh fruit and vegetables, bread, pastries, and dessert, milk, eggs, frozen meat, and a variety of canned and dried fruits, canned vegetables, and other shelf-stable foods like oil, cereal, pasta, and rice.",
+              "source": "https://cvillefoodpantry.org/",
+              "by_org": true
+            },
+            {
+              "text": "Staff and volunteers prepare and distribute groceries, with past figures showing 2,731,998 lbs. of groceries distributed to 143,728 individuals.",
+              "quote": "Seven full-time and 9 part-time staff work with 140 volunteers each week to prepare and distribute 2,731,998 lbs. of groceries to 143,728 individuals, averaging 700+ households each week.",
+              "source": "https://cvillefoodpantry.org/about/",
+              "by_org": true
+            }
+          ],
+          "mission": "Loaves & Fishes provides nourishing food with respect and dignity to all who seek assistance, while offering robust opportunities for community engagement through volunteerism, partnerships, and nutrition education.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "Loaves & Fishes was incorporated as a Virginia non-profit corporation and received 501(c)(3) tax-exempt status from the IRS.",
+              "quote": "With a desire to build on broader partnerships across the community, Jerry Denney and a volunteer board of directors incorporate Loaves & Fishes Food Pantry as a Virginia non-profit corporation and receive 501(c)(3) tax-exempt status from the IRS.",
+              "source": "https://cvillefoodpantry.org/about/",
+              "by_org": true
+            }
+          ]
+        },
+        "es": {
+          "does": [
+            {
+              "text": "Loaves & Fishes proporciona comestibles gratuitos a familias e individuos en Charlottesville y comunidades circundantes.",
+              "source": "https://cvillefoodpantry.org/about/",
+              "by_org": true
+            },
+            {
+              "text": "Cada vez que alguien visita, recibe un carrito de comestibles con fruta y verduras frescas, pan, pasteles, postre, leche, huevos, carne congelada y alimentos no perecederos.",
+              "source": "https://cvillefoodpantry.org/",
+              "by_org": true
+            },
+            {
+              "text": "El personal y los voluntarios preparan y distribuyen comestibles, con cifras anteriores que muestran 2,731,998 lbs. de comestibles distribuidos a 143,728 individuos.",
+              "source": "https://cvillefoodpantry.org/about/",
+              "by_org": true
+            }
+          ],
+          "mission": "Loaves & Fishes proporciona alimentos nutritivos con respeto y dignidad a todos los que buscan ayuda, al tiempo que ofrece sólidas oportunidades de participación comunitaria a través del voluntariado, las alianzas y la educación nutricional.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "Loaves & Fishes se incorporó como una corporación sin fines de lucro de Virginia y recibió el estatus de exención fiscal 501(c)(3) del IRS.",
+              "source": "https://cvillefoodpantry.org/about/",
+              "by_org": true
+            }
+          ]
+        },
+        "fr": {
+          "does": [
+            {
+              "text": "Loaves & Fishes fournit des courses gratuites aux familles et aux individus à Charlottesville et dans les communautés environnantes.",
+              "source": "https://cvillefoodpantry.org/about/",
+              "by_org": true
+            },
+            {
+              "text": "Chaque fois que quelqu'un visite, il reçoit un chariot d'épicerie contenant des fruits et légumes frais, du pain, des pâtisseries, un dessert, du lait, des œufs, de la viande surgelée et des aliments à longue conservation.",
+              "source": "https://cvillefoodpantry.org/",
+              "by_org": true
+            },
+            {
+              "text": "Le personnel et les bénévoles préparent et distribuent les courses, avec des chiffres passés montrant 2,731,998 lbs. de courses distribuées à 143,728 individus.",
+              "source": "https://cvillefoodpantry.org/about/",
+              "by_org": true
+            }
+          ],
+          "mission": "Loaves & Fishes fournit des aliments nourrissants avec respect et dignité à tous ceux qui demandent de l'aide, tout en offrant de solides opportunités d'engagement communautaire grâce au bénévolat, aux partenariats et à l'éducation nutritionnelle.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "Loaves & Fishes a été constituée en tant que société à but non lucratif de Virginie et a reçu le statut d'exonération fiscale 501(c)(3) de l'IRS.",
+              "source": "https://cvillefoodpantry.org/about/",
+              "by_org": true
+            }
+          ]
+        },
+        "hi": {
+          "does": [
+            {
+              "text": "Loaves & Fishes चार्लोट्सविल और आसपास के समुदायों में परिवारों और व्यक्तियों को मुफ्त किराने का सामान प्रदान करता है।",
+              "source": "https://cvillefoodpantry.org/about/",
+              "by_org": true
+            },
+            {
+              "text": "हर बार जब कोई आता है, तो उन्हें ताज़ा फल और सब्ज़ियों, रोटी, पेस्ट्री, मिठाई, दूध, अंडे, जमे हुए मांस और शेल्फ‑स्थिर खाद्य पदार्थों की किराने की टोकरी मिलती है।",
+              "source": "https://cvillefoodpantry.org/",
+              "by_org": true
+            },
+            {
+              "text": "स्टाफ और स्वयंसेवक किराने का सामान तैयार और वितरित करते हैं, पिछले आंकड़े दिखाते हैं कि 2,731,998 lbs. किराने का सामान 143,728 व्यक्तियों को वितरित किया गया था।",
+              "source": "https://cvillefoodpantry.org/about/",
+              "by_org": true
+            }
+          ],
+          "mission": "Loaves & Fishes सम्मान और गरिमा के साथ सभी सहायता चाहने वालों को पोषक भोजन प्रदान करता है, साथ ही स्वयंसेवा, साझेदारी और पोषण शिक्षा के माध्यम से सामुदायिक सहभागिता के मजबूत अवसर प्रदान करता है।",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "Loaves & Fishes को वर्जीनिया की गैर‑लाभकारी निगम के रूप में स्थापित किया गया और IRS से 501(c)(3) कर‑मुक्त स्थिति प्राप्त हुई।",
+              "source": "https://cvillefoodpantry.org/about/",
+              "by_org": true
+            }
+          ]
+        },
+        "it": {
+          "does": [
+            {
+              "text": "Loaves & Fishes fornisce generi alimentari gratuiti a famiglie e individui a Charlottesville e nelle comunità limitrofe.",
+              "source": "https://cvillefoodpantry.org/about/",
+              "by_org": true
+            },
+            {
+              "text": "Ogni volta che qualcuno visita, riceve un carrello della spesa con frutta e verdura fresca, pane, pasticcini, dessert, latte, uova, carne surgelata e alimenti a lunga conservazione.",
+              "source": "https://cvillefoodpantry.org/",
+              "by_org": true
+            },
+            {
+              "text": "Il personale e i volontari preparano e distribuiscono generi alimentari, con dati passati che mostrano 2,731,998 lbs. di generi alimentari distribuiti a 143,728 individui.",
+              "source": "https://cvillefoodpantry.org/about/",
+              "by_org": true
+            }
+          ],
+          "mission": "Loaves & Fishes fornisce cibo nutriente con rispetto e dignità a tutti coloro che cercano assistenza, offrendo al contempo solide opportunità di coinvolgimento della comunità attraverso il volontariato, le partnership e l'educazione nutrizionale.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "Loaves & Fishes è stata costituita come una società non profit della Virginia e ha ricevuto lo status di esenzione fiscale 501(c)(3) dall'IRS.",
+              "source": "https://cvillefoodpantry.org/about/",
+              "by_org": true
+            }
+          ]
+        },
+        "ja": {
+          "does": [
+            {
+              "text": "Loaves & Fishes は、シャーロッツビルおよび周辺地域の家族や個人に無料の食料品を提供します。",
+              "source": "https://cvillefoodpantry.org/about/",
+              "by_org": true
+            },
+            {
+              "text": "来訪者は毎回、新鮮な果物と野菜、パン、ペストリー、デザート、牛乳、卵、冷凍肉、常温保存可能な食品が入った食料カートを受け取ります。",
+              "source": "https://cvillefoodpantry.org/",
+              "by_org": true
+            },
+            {
+              "text": "スタッフとボランティアは食料品を準備・配布し、過去の実績では 2,731,998 lbs. の食料品が 143,728 人に配布されたことが示されています。",
+              "source": "https://cvillefoodpantry.org/about/",
+              "by_org": true
+            }
+          ],
+          "mission": "Loaves & Fishes は、支援を求めるすべての人に尊厳と敬意をもって栄養豊富な食料を提供し、ボランティア活動、パートナーシップ、栄養教育を通じてコミュニティ参加の充実した機会も提供します。",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "Loaves & Fishes はバージニア州の非営利法人として設立され、IRS から 501(c)(3) の税免除ステータスを取得しました。",
+              "source": "https://cvillefoodpantry.org/about/",
+              "by_org": true
+            }
+          ]
+        },
+        "pt": {
+          "does": [
+            {
+              "text": "Loaves & Fishes fornece mantimentos gratuitos a famílias e indivíduos em Charlottesville e comunidades vizinhas.",
+              "source": "https://cvillefoodpantry.org/about/",
+              "by_org": true
+            },
+            {
+              "text": "Cada vez que alguém visita, recebe um carrinho de mantimentos com frutas e vegetais frescos, pão, doces, sobremesa, leite, ovos, carne congelada e alimentos não perecíveis.",
+              "source": "https://cvillefoodpantry.org/",
+              "by_org": true
+            },
+            {
+              "text": "Funcionários e voluntários preparam e distribuem mantimentos, com números anteriores mostrando 2,731,998 lbs. de mantimentos distribuídos a 143,728 indivíduos.",
+              "source": "https://cvillefoodpantry.org/about/",
+              "by_org": true
+            }
+          ],
+          "mission": "Loaves & Fishes fornece alimentos nutritivos com respeito e dignidade a todos que buscam ajuda, ao mesmo tempo em que oferece oportunidades robustas de engajamento comunitário por meio do voluntariado, parcerias e educação nutricional.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "Loaves & Fishes foi incorporada como uma corporação sem fins lucrativos da Virgínia e recebeu o status de isenção fiscal 501(c)(3) do IRS.",
+              "source": "https://cvillefoodpantry.org/about/",
+              "by_org": true
+            }
+          ]
+        },
+        "ru": {
+          "does": [
+            {
+              "text": "Loaves & Fishes предоставляет бесплатные продукты семьям и отдельным лицам в Шарлотсвилле и прилегающих сообществах.",
+              "source": "https://cvillefoodpantry.org/about/",
+              "by_org": true
+            },
+            {
+              "text": "Каждый раз, когда кто‑то приходит, он получает тележку с продуктами, включающую свежие фрукты и овощи, хлеб, выпечку, десерт, молоко, яйца, замороженное мясо и длительно хранящиеся продукты.",
+              "source": "https://cvillefoodpantry.org/",
+              "by_org": true
+            },
+            {
+              "text": "Сотрудники и волонтёры готовят и распределяют продукты, при этом прошлые данные показывают, что было распределено 2,731,998 lbs. продуктов 143,728 людям.",
+              "source": "https://cvillefoodpantry.org/about/",
+              "by_org": true
+            }
+          ],
+          "mission": "Loaves & Fishes предоставляет питательную еду с уважением и достоинством всем, кто ищет помощь, одновременно предлагая широкие возможности для вовлечения сообщества через волонтёрство, партнёрства и обучение питанию.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "Loaves & Fishes была зарегистрирована как некоммерческая корпорация штата Вирджиния и получила статус освобождения от налогов 501(c)(3) от IRS.",
+              "source": "https://cvillefoodpantry.org/about/",
+              "by_org": true
+            }
+          ]
+        },
+        "zh": {
+          "does": [
+            {
+              "text": "Loaves & Fishes 为夏洛茨维尔及周边社区的家庭和个人提供免费杂货。",
+              "source": "https://cvillefoodpantry.org/about/",
+              "by_org": true
+            },
+            {
+              "text": "每次有人来访时，他们会收到一车新鲜水果和蔬菜、面包、糕点、甜点、牛奶、鸡蛋、冷冻肉类和常温保存食品。",
+              "source": "https://cvillefoodpantry.org/",
+              "by_org": true
+            },
+            {
+              "text": "工作人员和志愿者准备并分发杂货，过去的数据显示已向 143,728 名个人分发了 2,731,998 lbs. 的杂货。",
+              "source": "https://cvillefoodpantry.org/about/",
+              "by_org": true
+            }
+          ],
+          "mission": "Loaves & Fishes 为所有寻求帮助的人提供尊重和尊严的营养食物，同时通过志愿服务、合作伙伴关系和营养教育提供丰富的社区参与机会。",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "Loaves & Fishes 被注册为弗吉尼亚州的非营利公司，并从美国国税局获得了 501(c)(3) 税收免除资格。",
+              "source": "https://cvillefoodpantry.org/about/",
+              "by_org": true
+            }
+          ]
+        }
+      },
       "safety": {
         "evaluator": "Charity Navigator",
         "stars": 4,
@@ -9139,9 +10231,63 @@
       ],
       "waiting_counter": false,
       "profile": {
+        "de": {
+          "does": [],
+          "mission": "ENTWICKELN UND LIEFERN SIE GEBRAUCHSFERTIGE NAHRUNGSMITTEL, UM DIE KOSTEN FÜR DIE BEHANDLUNG VON MANGELERNÄHRUNG ZU SENKEN.",
+          "does_not": [],
+          "strengths": []
+        },
         "en": {
           "does": [],
           "mission": "DEVELOP AND DELIVER READY-TO-USE FOODS TO LOWER THE COST TO TREAT MALNUTRITION.",
+          "does_not": [],
+          "strengths": []
+        },
+        "es": {
+          "does": [],
+          "mission": "DESARROLLAR Y ENTREGAR ALIMENTOS LISTOS PARA USAR PARA REDUCIR EL COSTO DE TRATAR LA DESNUTRICIÓN.",
+          "does_not": [],
+          "strengths": []
+        },
+        "fr": {
+          "does": [],
+          "mission": "DÉVELOPPER ET FOURNIR DES ALIMENTS PRÊTS À L'EMPLOI POUR RÉDUIRE LE COÛT DU TRAITEMENT DE LA MALNUTRITION.",
+          "does_not": [],
+          "strengths": []
+        },
+        "hi": {
+          "does": [],
+          "mission": "मालन्यूट्रीशन का इलाज करने की लागत को कम करने के लिए तैयार-से-उपयोग भोजन विकसित करें और वितरित करें।",
+          "does_not": [],
+          "strengths": []
+        },
+        "it": {
+          "does": [],
+          "mission": "SVILUPPARE E CONSEGNARE ALIMENTI PRONTI ALL'USO PER RIDURRE IL COSTO DEL TRATTAMENTO DELLA MALNUTRIZIONE.",
+          "does_not": [],
+          "strengths": []
+        },
+        "ja": {
+          "does": [],
+          "mission": "栄養失調の治療コストを下げるために、すぐに使用できる食品を開発・提供する。",
+          "does_not": [],
+          "strengths": []
+        },
+        "pt": {
+          "does": [],
+          "mission": "DESENVOLVER E ENTREGAR ALIMENTOS PRONTOS PARA USO PARA REDUZIR O CUSTO DO TRATAMENTO DA DESNUTRIÇÃO.",
+          "does_not": [],
+          "strengths": []
+        },
+        "ru": {
+          "does": [],
+          "mission": "РАЗРАБАТЫВАТЬ И ПОСТАВЛЯТЬ ГОТОВЫЕ К ИСПОЛЬЗОВАНИЮ ПИЩЕВЫЕ ПРОДУКТЫ, ЧТОБЫ СНИЗИТЬ СТОИМОСТЬ ЛЕЧЕНИЯ МАЛЬНУТРИЦИИ.",
+          "does_not": [],
+          "strengths": []
+        },
+        "zh": {
+          "does": [],
+          "mission": "开发并提供即用型食品，以降低治疗营养不良的成本。",
           "does_not": [],
           "strengths": []
         }
@@ -9186,9 +10332,9 @@
     "costs": {
       "USD": 8.5
     },
-    "ai_calls": 963,
+    "ai_calls": 1055,
     "ai_cost_real_usd": 0.0,
-    "ai_value_offered_usd": 6.095915,
+    "ai_value_offered_usd": 6.273482,
     "candidates_examined": 57,
     "candidates_discarded": 29
   },
