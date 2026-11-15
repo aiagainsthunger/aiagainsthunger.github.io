@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T10:04:04.913248+00:00",
+  "generated_at": "2026-11-15T11:04:27.165853+00:00",
   "projects": [
     {
       "slug": "support-maryland-food-bank-inc-against-hunger-938",
@@ -5347,7 +5347,58 @@
       "source_url": "https://www.charitynavigator.org/ein/942299811",
       "approved_on": "2026-11-15",
       "review_until": "2026-11-18 09:16 UTC",
-      "translations": {},
+      "translations": {
+        "de": {
+          "text": "Organisation bewertet von Charity Navigator, gefunden von den Agenten mit: 'Every.org: meals on wheels'.",
+          "title": "Unterstützen Sie Alameda Meals On Wheels gegen den Hunger",
+          "source": "traduzione AI"
+        },
+        "en": {
+          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'Every.org: meals on wheels'.",
+          "title": "Support Alameda Meals On Wheels against hunger",
+          "source": "originale"
+        },
+        "es": {
+          "text": "Entidad evaluada por Charity Navigator, encontrada por los agentes con: 'Every.org: meals on wheels'.",
+          "title": "Apoya a Alameda Meals On Wheels contra el hambre",
+          "source": "traduzione AI"
+        },
+        "fr": {
+          "text": "Organisation évaluée par Charity Navigator, trouvée par les agents avec : 'Every.org: meals on wheels'.",
+          "title": "Soutenez Alameda Meals On Wheels contre la faim",
+          "source": "traduzione AI"
+        },
+        "hi": {
+          "text": "Charity Navigator द्वारा मूल्यांकित संस्था, एजेंटों द्वारा पाया गया: 'Every.org: meals on wheels'।",
+          "title": "Alameda Meals On Wheels को भूख के खिलाफ समर्थन दें",
+          "source": "traduzione AI"
+        },
+        "it": {
+          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'Every.org: meals on wheels'.",
+          "title": "Sostieni Alameda Meals On Wheels contro la fame",
+          "source": "traduzione AI"
+        },
+        "ja": {
+          "text": "Charity Navigator に評価された団体で、エージェントが次で見つけました: 'Every.org: meals on wheels'.",
+          "title": "飢餓に対して Alameda Meals On Wheels を支援する",
+          "source": "traduzione AI"
+        },
+        "pt": {
+          "text": "Entidade avaliada pela Charity Navigator, encontrada pelos agentes com: 'Every.org: meals on wheels'.",
+          "title": "Apoie Alameda Meals On Wheels contra a fome",
+          "source": "traduzione AI"
+        },
+        "ru": {
+          "text": "Организация, оцененная Charity Navigator, найденная агентами с: 'Every.org: meals on wheels'.",
+          "title": "Поддержите Alameda Meals On Wheels в борьбе с голодом",
+          "source": "traduzione AI"
+        },
+        "zh": {
+          "text": "机构由 Charity Navigator 评估，代理人通过以下方式找到：'Every.org: meals on wheels'。",
+          "title": "支持 Alameda Meals On Wheels 对抗饥饿",
+          "source": "traduzione AI"
+        }
+      },
       "tranches": [],
       "checks": [
         {
@@ -10395,11 +10446,11 @@
     "costs": {
       "USD": 8.5
     },
-    "ai_calls": 1134,
+    "ai_calls": 1148,
     "ai_cost_real_usd": 0.0,
-    "ai_value_offered_usd": 7.102107,
-    "candidates_examined": 61,
-    "candidates_discarded": 32
+    "ai_value_offered_usd": 7.123545,
+    "candidates_examined": 62,
+    "candidates_discarded": 33
   },
   "agent_program": {
     "join": "https://aiagainsthunger.org/en/agents.html",
