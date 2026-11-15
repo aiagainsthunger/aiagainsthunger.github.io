@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T12:04:28.582288+00:00",
+  "generated_at": "2026-11-15T13:04:04.959576+00:00",
   "projects": [
     {
       "slug": "support-world-central-kitchen-incorporated-against-hunger-2399",
@@ -860,7 +860,58 @@
       "source_url": "https://www.charitynavigator.org/ein/421523757",
       "approved_on": "2026-11-15",
       "review_until": "2026-11-18 11:05 UTC",
-      "translations": {},
+      "translations": {
+        "de": {
+          "text": "Von Charity Navigator bewertete Organisation, von den Agenten gefunden mit: 'site:charitynavigator.org Rating for food security Africa Asia'.",
+          "title": "Unterstützen Sie Blessman International Inc gegen den Hunger",
+          "source": "traduzione AI"
+        },
+        "en": {
+          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'site:charitynavigator.org Rating for food security Africa Asia'.",
+          "title": "Support Blessman International Inc against hunger",
+          "source": "originale"
+        },
+        "es": {
+          "text": "Entidad evaluada por Charity Navigator, encontrada por los agentes con: 'site:charitynavigator.org Rating for food security Africa Asia'.",
+          "title": "Apoya a Blessman International Inc contra el hambre",
+          "source": "traduzione AI"
+        },
+        "fr": {
+          "text": "Organisation évaluée par Charity Navigator, trouvée par les agents avec : 'site:charitynavigator.org Rating for food security Africa Asia'.",
+          "title": "Soutenir Blessman International Inc contre la faim",
+          "source": "traduzione AI"
+        },
+        "hi": {
+          "text": "Charity Navigator द्वारा मूल्यांकित संस्था, एजेंटों द्वारा खोजी गई: 'site:charitynavigator.org Rating for food security Africa Asia'।",
+          "title": "Blessman International Inc का समर्थन करें भूख के खिलाफ",
+          "source": "traduzione AI"
+        },
+        "it": {
+          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'site:charitynavigator.org Rating for food security Africa Asia'.",
+          "title": "Sostieni Blessman International Inc contro la fame",
+          "source": "traduzione AI"
+        },
+        "ja": {
+          "text": "Charity Navigator に評価された団体で、エージェントが次で見つけました: 'site:charitynavigator.org Rating for food security Africa Asia'。",
+          "title": "飢餓に対して Blessman International Inc を支援する",
+          "source": "traduzione AI"
+        },
+        "pt": {
+          "text": "Entidade avaliada pela Charity Navigator, encontrada pelos agentes com: 'site:charitynavigator.org Rating for food security Africa Asia'.",
+          "title": "Apoie Blessman International Inc contra a fome",
+          "source": "traduzione AI"
+        },
+        "ru": {
+          "text": "Организация, оцененная Charity Navigator, найденная агентами с: 'site:charitynavigator.org Rating for food security Africa Asia'.",
+          "title": "Поддержите Blessman International Inc в борьбе с голодом",
+          "source": "traduzione AI"
+        },
+        "zh": {
+          "text": "机构由 Charity Navigator 评估，代理人通过以下方式找到：'site:charitynavigator.org Rating for food security Africa Asia'。",
+          "title": "支持 Blessman International Inc 对抗饥饿",
+          "source": "traduzione AI"
+        }
+      },
       "tranches": [],
       "checks": [
         {
@@ -1057,7 +1108,343 @@
         "https://www.charitynavigator.org/ein/421523757"
       ],
       "waiting_counter": false,
-      "profile": {},
+      "profile": {
+        "de": {
+          "does": [
+            {
+              "text": "Blessman International betreibt Ernährungsprogramme, die sich zu über 6M Mahlzeiten erweitert haben, die über ihr Netzwerk von Verpflegungsknotenpunkten zubereitet und serviert werden.",
+              "source": "https://www.blessmaninternational.org/",
+              "by_org": true
+            },
+            {
+              "text": "Die Organisation hat zwei Kirchen in Limpopo gegründet und teilt jede Woche die frohe Botschaft von Jesus Christus mit über 3,000 Schülern.",
+              "source": "https://www.blessmaninternational.org/",
+              "by_org": true
+            },
+            {
+              "text": "Das Patenschaftsprogramm für Kinder verbindet Sponsoren mit Kindern in Südafrika, um über ein Online-Portal zu kommunizieren und bedeutungsvolle Verbindungen aufzubauen.",
+              "source": "https://www.blessmaninternational.org/",
+              "by_org": true
+            },
+            {
+              "text": "Die Organisation stellt sauberes Wasser bereit und hat 8000000 Gallonen sauberes Wasser geliefert.",
+              "source": "https://www.blessmaninternational.org/",
+              "by_org": true
+            }
+          ],
+          "mission": "Blessman International, ihre Spender und Freiwilligen bringen südafrikanischen Kindern und ihren Familien Gottes Liebe und ewige Hoffnung durch Glaubensbildung und lokal nachhaltige Programme, die: • hungrige Menschen ernähren, • lebensmittelgesicherte Gemeinschaften fördern, • Würde durch die Bereitstellung von grundlegender Wasser- und Sanitärversorgung bieten, • Möglichkeiten für kindliche Entwicklung und Lernen bereitstellen • und Frauen durch Bildung und Ausbildung stärken",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "Blessman International agiert als in den USA ansässige 501(c)(3) gemeinnützige Körperschaft und als registrierte NGO in Südafrika.",
+              "source": "https://www.blessmaninternational.org/about-us",
+              "by_org": true
+            }
+          ]
+        },
+        "en": {
+          "does": [
+            {
+              "text": "Blessman International operates feeding programs that have grown to prepare and serve over 6M meals through their network of feeding hubs.",
+              "quote": "Our ministry started by feeding 300 children a year. Now, we are preparing and serving over 6M meals through our network of feeding hubs.",
+              "source": "https://www.blessmaninternational.org/",
+              "by_org": true
+            },
+            {
+              "text": "The organization has planted two churches in Limpopo and shares the Good News of Jesus Christ with over 3,000 students each week.",
+              "quote": "With your help, we have planted two churches in Limpopo and are able to share the Good News of Jesus Christ with over 3,000 students each week.",
+              "source": "https://www.blessmaninternational.org/",
+              "by_org": true
+            },
+            {
+              "text": "The child sponsorship program connects sponsors with children in South Africa to communicate via an online portal and build meaningful connections.",
+              "quote": "Our child sponsorship program connects sponsors with children in South Africa. They communicate via an online portal to build meaningful connections.",
+              "source": "https://www.blessmaninternational.org/",
+              "by_org": true
+            },
+            {
+              "text": "The organization provides clean water, having delivered 8000000 gallons of clean water provided.",
+              "quote": "8000000 Gallons of Clean Water Provided",
+              "source": "https://www.blessmaninternational.org/",
+              "by_org": true
+            }
+          ],
+          "mission": "Blessman International, their donors and volunteers bring to South African children and their families God’s love and eternal hope through faith formation and locally sustainable programs that: • feed hungry people, • foster food-secure communities, • offer dignity through the provision of basic water and sanitation, • provide opportunities for child development and learning • and empowering women through education and training",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "Blessman International operates as a U.S.-based 501(c)(3) nonprofit corporation and a registered NGO in South Africa.",
+              "quote": "Blessman International is a U.S.-based 501(c)(3) nonprofit corporation and a registered NGO in South Africa.",
+              "source": "https://www.blessmaninternational.org/about-us",
+              "by_org": true
+            }
+          ]
+        },
+        "es": {
+          "does": [
+            {
+              "text": "Blessman International opera programas de alimentación que han crecido hasta preparar y servir más de 6M comidas a través de su red de centros de alimentación.",
+              "source": "https://www.blessmaninternational.org/",
+              "by_org": true
+            },
+            {
+              "text": "La organización ha plantado dos iglesias en Limpopo y comparte las Buenas Nuevas de Jesucristo con más de 3,000 estudiantes cada semana.",
+              "source": "https://www.blessmaninternational.org/",
+              "by_org": true
+            },
+            {
+              "text": "El programa de patrocinio infantil conecta a los patrocinadores con niños en Sudáfrica para comunicarse a través de un portal en línea y construir conexiones significativas.",
+              "source": "https://www.blessmaninternational.org/",
+              "by_org": true
+            },
+            {
+              "text": "La organización proporciona agua limpia, habiendo entregado 8000000 galones de agua limpia.",
+              "source": "https://www.blessmaninternational.org/",
+              "by_org": true
+            }
+          ],
+          "mission": "Blessman International, sus donantes y voluntarios llevan a los niños sudafricanos y sus familias el amor de Dios y la esperanza eterna a través de la formación en la fe y programas locales sostenibles que: • alimentan a personas hambrientas, • fomentan comunidades con seguridad alimentaria, • ofrecen dignidad mediante la provisión de agua y saneamiento básicos, • brindan oportunidades para el desarrollo y aprendizaje infantil • y empoderan a las mujeres mediante la educación y la capacitación",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "Blessman International opera como una corporación sin fines de lucro 501(c)(3) con sede en U.S. y una ONG registrada en Sudáfrica.",
+              "source": "https://www.blessmaninternational.org/about-us",
+              "by_org": true
+            }
+          ]
+        },
+        "fr": {
+          "does": [
+            {
+              "text": "Blessman International exploite des programmes d’alimentation qui se sont développés pour préparer et servir plus de 6M repas grâce à leur réseau de centres d’alimentation.",
+              "source": "https://www.blessmaninternational.org/",
+              "by_org": true
+            },
+            {
+              "text": "L’organisation a planté deux églises au Limpopo et partage la Bonne Nouvelle de Jésus-Christ avec plus de 3,000 étudiants chaque semaine.",
+              "source": "https://www.blessmaninternational.org/",
+              "by_org": true
+            },
+            {
+              "text": "Le programme de parrainage d’enfants met en relation les parrains avec les enfants en Afrique du Sud afin de communiquer via un portail en ligne et de créer des liens significatifs.",
+              "source": "https://www.blessmaninternational.org/",
+              "by_org": true
+            },
+            {
+              "text": "L’organisation fournit de l’eau potable, ayant livré 8000000 gallons d’eau propre.",
+              "source": "https://www.blessmaninternational.org/",
+              "by_org": true
+            }
+          ],
+          "mission": "Blessman International, leurs donateurs et bénévoles apportent aux enfants sud-africains et à leurs familles l’amour de Dieu et l’espoir éternel grâce à la formation religieuse et à des programmes locaux durables qui : • nourrissent les personnes affamées, • favorisent des communautés sécurisées sur le plan alimentaire, • offrent la dignité grâce à la fourniture d’eau et d’assainissement de base, • offrent des opportunités de développement et d’apprentissage pour les enfants • et autonomisent les femmes par l’éducation et la formation",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "Blessman International fonctionne comme une corporation à but non lucratif 501(c)(3) basée aux États‑Unis et une ONG enregistrée en Afrique du Sud.",
+              "source": "https://www.blessmaninternational.org/about-us",
+              "by_org": true
+            }
+          ]
+        },
+        "hi": {
+          "does": [
+            {
+              "text": "Blessman International भोजन कार्यक्रम संचालित करता है जो उनके फ़ीडिंग हब नेटवर्क के माध्यम से 6M से अधिक भोजन तैयार करने और परोसने के लिए बढ़े हैं।",
+              "source": "https://www.blessmaninternational.org/",
+              "by_org": true
+            },
+            {
+              "text": "संगठन ने लिम्पोपो में दो चर्च स्थापित किए हैं और हर सप्ताह 3,000 से अधिक छात्रों के साथ यीशु मसीह की शुभ समाचार साझा करता है।",
+              "source": "https://www.blessmaninternational.org/",
+              "by_org": true
+            },
+            {
+              "text": "बाल प्रायोजन कार्यक्रम प्रायोजकों को दक्षिण अफ्रीका के बच्चों से जोड़ता है ताकि वे ऑनलाइन पोर्टल के माध्यम से संवाद कर अर्थपूर्ण संबंध बना सकें।",
+              "source": "https://www.blessmaninternational.org/",
+              "by_org": true
+            },
+            {
+              "text": "संगठन स्वच्छ पानी प्रदान करता है, जिसने 8000000 गैलन स्वच्छ पानी वितरित किया है।",
+              "source": "https://www.blessmaninternational.org/",
+              "by_org": true
+            }
+          ],
+          "mission": "Blessman International, उनके दानकर्ता और स्वयंसेवक दक्षिण अफ्रीकी बच्चों और उनके परिवारों तक ईश्वर का प्रेम और शाश्वत आशा लाते हैं विश्वास निर्माण और स्थानीय रूप से स्थायी कार्यक्रमों के माध्यम से जो: • भूखे लोगों को भोजन प्रदान करते हैं, • खाद्य‑सुरक्षित समुदायों को बढ़ावा देते हैं, • बुनियादी जल और स्वच्छता की व्यवस्था के माध्यम से गरिमा प्रदान करते हैं, • बाल विकास और सीखने के अवसर प्रदान करते हैं • और शिक्षा व प्रशिक्षण के माध्यम से महिलाओं को सशक्त बनाते हैं",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "Blessman International एक यू.एस.-आधारित 501(c)(3) गैर‑लाभकारी निगम और दक्षिण अफ्रीका में पंजीकृत एनजीओ के रूप में कार्य करता है।",
+              "source": "https://www.blessmaninternational.org/about-us",
+              "by_org": true
+            }
+          ]
+        },
+        "it": {
+          "does": [
+            {
+              "text": "Blessman International gestisce programmi di alimentazione che sono cresciuti fino a preparare e servire oltre 6M pasti attraverso la loro rete di centri di distribuzione.",
+              "source": "https://www.blessmaninternational.org/",
+              "by_org": true
+            },
+            {
+              "text": "L'organizzazione ha piantato due chiese in Limpopo e condivide la Buona Notizia di Gesù Cristo con oltre 3,000 studenti ogni settimana.",
+              "source": "https://www.blessmaninternational.org/",
+              "by_org": true
+            },
+            {
+              "text": "Il programma di sponsorizzazione dei bambini collega i sponsor con i bambini in Sudafrica per comunicare tramite un portale online e costruire legami significativi.",
+              "source": "https://www.blessmaninternational.org/",
+              "by_org": true
+            },
+            {
+              "text": "L'organizzazione fornisce acqua pulita, avendo consegnato 8000000 galloni di acqua pulita.",
+              "source": "https://www.blessmaninternational.org/",
+              "by_org": true
+            }
+          ],
+          "mission": "Blessman International, i loro donatori e volontari portano ai bambini sudafricani e alle loro famiglie l’amore di Dio e speranza eterna attraverso la formazione nella fede e programmi sostenibili a livello locale che: • nutrire le persone affamate, • promuovere comunità con sicurezza alimentare, • offrire dignità attraverso la fornitura di acqua e servizi igienico‑sanitari di base, • fornire opportunità per lo sviluppo e l’apprendimento dei bambini • e potenziare le donne attraverso l’educazione e la formazione",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "Blessman International opera come una corporation nonprofit 501(c)(3) con sede negli Stati Uniti e un'ONG registrata in Sudafrica",
+              "source": "https://www.blessmaninternational.org/about-us",
+              "by_org": true
+            }
+          ]
+        },
+        "ja": {
+          "does": [
+            {
+              "text": "Blessman Internationalは、食事提供ハブのネットワークを通じて、6M食事以上を準備し提供する食事プログラムを運営しています。",
+              "source": "https://www.blessmaninternational.org/",
+              "by_org": true
+            },
+            {
+              "text": "この組織はリムポホに2つの教会を設立し、毎週3,000人以上の学生にイエス・キリストの良い知らせを共有しています。",
+              "source": "https://www.blessmaninternational.org/",
+              "by_org": true
+            },
+            {
+              "text": "子どもスポンサーシッププログラムは、南アフリカの子どもとスポンサーをオンラインポータルを通じてつなぎ、意味のある関係を築きます。",
+              "source": "https://www.blessmaninternational.org/",
+              "by_org": true
+            },
+            {
+              "text": "この組織はクリーンウォーターを提供し、8,000,000ガロンの清水を配達しました。",
+              "source": "https://www.blessmaninternational.org/",
+              "by_org": true
+            }
+          ],
+          "mission": "Blessman International、彼らの寄付者とボランティアは、信仰形成と地域に根ざした持続可能なプログラムを通じて、南アフリカの子どもとその家族に神の愛と永遠の希望をもたらします。プログラムは以下を実施します：• 飢えている人々に食事を提供し、• 食料安全なコミュニティを育成し、• 基本的な水と衛生を提供して尊厳を提供し、• 子どもの発達と学習の機会を提供し、• 教育と訓練を通じて女性をエンパワーメントします",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "Blessman Internationalは米国に拠点を置く501(c)(3)非営利法人であり、南アフリカに登録されたNGOとして運営しています。",
+              "source": "https://www.blessmaninternational.org/about-us",
+              "by_org": true
+            }
+          ]
+        },
+        "pt": {
+          "does": [
+            {
+              "text": "Blessman International opera programas de alimentação que cresceram para preparar e servir mais de 6M refeições através de sua rede de centros de alimentação.",
+              "source": "https://www.blessmaninternational.org/",
+              "by_org": true
+            },
+            {
+              "text": "A organização plantou duas igrejas em Limpopo e compartilha as Boas Novas de Jesus Cristo com mais de 3,000 estudantes a cada semana.",
+              "source": "https://www.blessmaninternational.org/",
+              "by_org": true
+            },
+            {
+              "text": "O programa de apadrinhamento infantil conecta patrocinadores com crianças na África do Sul para comunicar‑se via um portal online e construir conexões significativas.",
+              "source": "https://www.blessmaninternational.org/",
+              "by_org": true
+            },
+            {
+              "text": "A organização fornece água limpa, tendo entregue 8000000 galões de água limpa.",
+              "source": "https://www.blessmaninternational.org/",
+              "by_org": true
+            }
+          ],
+          "mission": "Blessman International, seus doadores e voluntários trazem às crianças sul-africanas e suas famílias o amor de Deus e a esperança eterna através da formação de fé e programas sustentáveis localmente que: • alimentam pessoas famintas, • promovem comunidades com segurança alimentar, • oferecem dignidade por meio da provisão de água e saneamento básicos, • proporcionam oportunidades para o desenvolvimento e aprendizado infantil • e empoderam mulheres através da educação e treinamento",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "Blessman International opera como uma corporação sem fins lucrativos 501(c)(3) baseada nos EUA e uma ONG registrada na África do Sul.",
+              "source": "https://www.blessmaninternational.org/about-us",
+              "by_org": true
+            }
+          ]
+        },
+        "ru": {
+          "does": [
+            {
+              "text": "Blessman International осуществляет программы питания, которые выросли до подготовки и подачи более 6M блюд через их сеть пунктов питания.",
+              "source": "https://www.blessmaninternational.org/",
+              "by_org": true
+            },
+            {
+              "text": "Организация посадила две церкви в Лимпопо и делится Благой вестью Иисуса Христа с более чем 3,000 студентами каждую неделю.",
+              "source": "https://www.blessmaninternational.org/",
+              "by_org": true
+            },
+            {
+              "text": "Программа спонсорства детей соединяет спонсоров с детьми в Южной Африке для общения через онлайн‑портал и построения значимых связей.",
+              "source": "https://www.blessmaninternational.org/",
+              "by_org": true
+            },
+            {
+              "text": "Организация обеспечивает чистой водой, доставив 8000000 галлонов чистой воды.",
+              "source": "https://www.blessmaninternational.org/",
+              "by_org": true
+            }
+          ],
+          "mission": "Blessman International, их доноры и волонтёры приносят южноафриканским детям и их семьям Божью любовь и вечную надежду через формирование веры и местные устойчивые программы, которые: • кормят голодных людей, • способствуют продовольственной безопасности сообществ, • предоставляют достоинство через обеспечение базовой воды и санитарии, • предоставляют возможности для развития и обучения детей • и укрепляют женщин через образование и обучение",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "Blessman International работает как U.S.-based 501(c)(3) некоммерческая корпорация и зарегистрированная НКО в Южной Африке.",
+              "source": "https://www.blessmaninternational.org/about-us",
+              "by_org": true
+            }
+          ]
+        },
+        "zh": {
+          "does": [
+            {
+              "text": "Blessman International 运营的喂养项目已发展到通过其喂养中心网络准备并提供超过 6M 餐食。",
+              "source": "https://www.blessmaninternational.org/",
+              "by_org": true
+            },
+            {
+              "text": "该组织在林波波已建立了两座教堂，并每周向超过 3,000 名学生分享耶稣基督的福音。",
+              "source": "https://www.blessmaninternational.org/",
+              "by_org": true
+            },
+            {
+              "text": "儿童赞助项目将赞助人和南非的儿童联系起来，通过在线门户进行沟通并建立有意义的联系。",
+              "source": "https://www.blessmaninternational.org/",
+              "by_org": true
+            },
+            {
+              "text": "该组织提供清洁水，已交付 8000000 加仑的清洁水。",
+              "source": "https://www.blessmaninternational.org/",
+              "by_org": true
+            }
+          ],
+          "mission": "Blessman International, 他们的捐助者和志愿者通过信仰培养和本地可持续项目，将上帝的爱和永恒的希望带给南非儿童及其家庭，这些项目包括：• 为饥饿的人提供食物，• 促进粮食安全的社区，• 通过提供基本的水和卫生设施来提供尊严，• 提供儿童发展和学习的机会 • 并通过教育和培训赋能女性",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "Blessman International 作为一家总部位于美国的 501(c)(3) 非营利公司，并在南非注册为非政府组织运营。",
+              "source": "https://www.blessmaninternational.org/about-us",
+              "by_org": true
+            }
+          ]
+        }
+      },
       "safety": {
         "evaluator": "Charity Navigator",
         "stars": 4,
@@ -10691,9 +11078,9 @@
     "costs": {
       "USD": 8.5
     },
-    "ai_calls": 1152,
+    "ai_calls": 1172,
     "ai_cost_real_usd": 0.0,
-    "ai_value_offered_usd": 7.155516,
+    "ai_value_offered_usd": 7.185953,
     "candidates_examined": 63,
     "candidates_discarded": 33
   },
