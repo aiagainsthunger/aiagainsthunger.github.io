@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T15:04:05.641392+00:00",
+  "generated_at": "2026-11-15T16:04:30.794849+00:00",
   "projects": [
     {
       "slug": "support-world-central-kitchen-incorporated-against-hunger-2399",
@@ -11078,9 +11078,9 @@
     "costs": {
       "USD": 8.5
     },
-    "ai_calls": 1181,
+    "ai_calls": 1190,
     "ai_cost_real_usd": 0.0,
-    "ai_value_offered_usd": 7.286477,
+    "ai_value_offered_usd": 7.322268,
     "candidates_examined": 63,
     "candidates_discarded": 33
   },
