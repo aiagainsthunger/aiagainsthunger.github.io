@@ -1,6 +1,1160 @@
 {
-  "generated_at": "2026-11-15T09:04:28.860638+00:00",
+  "generated_at": "2026-11-15T10:04:04.913248+00:00",
   "projects": [
+    {
+      "slug": "support-maryland-food-bank-inc-against-hunger-938",
+      "title": "Support Maryland Food Bank Inc against hunger",
+      "description": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'site:charitynavigator.org Rating for food pantry hunger relief'.",
+      "org_name": "Maryland Food Bank Inc",
+      "org_country": "US",
+      "org_website": "https://mdfoodbank.org/",
+      "country": "US",
+      "currency": "USD",
+      "goal": 5000.0,
+      "raised": 0.0,
+      "donated": 0.0,
+      "status": "attiva",
+      "donation_url": "https://www.every.org/mdfoodbank/f/ai-against-hunger-for",
+      "source_url": "https://www.charitynavigator.org/ein/521135690",
+      "approved_on": "2026-11-07",
+      "review_until": null,
+      "translations": {
+        "de": {
+          "text": "Organisation bewertet von Charity Navigator, gefunden von den Agenten mit: 'site:charitynavigator.org Rating for food pantry hunger relief'.",
+          "title": "Unterstütze die Maryland Food Bank Inc im Kampf gegen den Hunger",
+          "source": "traduzione AI"
+        },
+        "en": {
+          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'site:charitynavigator.org Rating for food pantry hunger relief'.",
+          "title": "Support Maryland Food Bank Inc against hunger",
+          "source": "originale"
+        },
+        "es": {
+          "text": "Entidad evaluada por Charity Navigator, encontrada por los agentes con: 'site:charitynavigator.org Rating for food pantry hunger relief'.",
+          "title": "Apoyar a Maryland Food Bank Inc contra el hambre",
+          "source": "traduzione AI"
+        },
+        "fr": {
+          "text": "Organisme évalué par Charity Navigator, trouvé par les agents avec : 'site:charitynavigator.org Rating for food pantry hunger relief'.",
+          "title": "Soutenir Maryland Food Bank Inc contre la faim",
+          "source": "traduzione AI"
+        },
+        "hi": {
+          "text": "Charity Navigator द्वारा मूल्यांकित संस्था, एजेंटों द्वारा मिली: 'site:charitynavigator.org Rating for food pantry hunger relief'।",
+          "title": "भूख के खिलाफ Maryland Food Bank Inc का समर्थन करें",
+          "source": "traduzione AI"
+        },
+        "it": {
+          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'site:charitynavigator.org Rating for food pantry hunger relief'.",
+          "title": "Sostieni Maryland Food Bank Inc contro la fame",
+          "source": "traduzione AI"
+        },
+        "ja": {
+          "text": "Charity Navigator によって評価された団体で、エージェントが次の検索で見つけました: 'site:charitynavigator.org Rating for food pantry hunger relief'。",
+          "title": "飢餓に対して Maryland Food Bank Inc を支援する",
+          "source": "traduzione AI"
+        },
+        "pt": {
+          "text": "Entidade avaliada pela Charity Navigator, encontrada pelos agentes com: 'site:charitynavigator.org Rating for food pantry hunger relief'.",
+          "title": "Apoie a Maryland Food Bank Inc contra a fome",
+          "source": "traduzione AI"
+        },
+        "ru": {
+          "text": "Организация, оцененная Charity Navigator, найденная агентами с помощью: 'site:charitynavigator.org Rating for food pantry hunger relief'.",
+          "title": "Поддержать Maryland Food Bank Inc в борьбе с голодом",
+          "source": "traduzione AI"
+        },
+        "zh": {
+          "text": "机构由 Charity Navigator 评估，代理人通过以下方式找到：'site:charitynavigator.org Rating for food pantry hunger relief'。",
+          "title": "支持 Maryland Food Bank Inc 对抗饥饿",
+          "source": "traduzione AI"
+        }
+      },
+      "tranches": [
+        {
+          "number": 1,
+          "goal": 2000.0,
+          "status": "aperta"
+        }
+      ],
+      "checks": [
+        {
+          "verifier": "regole",
+          "check_type": "ammissibilita",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Regole di ammissibilità (config/regole.yaml):\n✓ fonte ammessa: fonte 'valutatore'\n✓ ente registrato nel database: Maryland Food Bank Inc\n✓ codice fiscale verificato (IRS): EIN 521135690\n✓ ente valutato dal valutatore: Charity Navigator\n✓ voto del valutatore: 96%, 4 stelle su 4 (minimo 4 stelle e 90%)\n✓ anni di bilanci ufficiali: 13 anni [2019, 2020, 2021, 2022, 2023] (minimo 3)\n✓ tema fame / nutrizione: categoria IRS - (richiesta ['K']); tema nel nome: True",
+          "source_url": "https://www.charitynavigator.org/ein/521135690"
+        },
+        {
+          "verifier": "regole",
+          "check_type": "ammissibilita",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "✓ valutatore indipendente tra le prove: 1 pagine di valutatori (https://www.charitynavigator.org/ein/521135690); minimo 1",
+          "source_url": "https://www.charitynavigator.org/ein/521135690"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "registrazione",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "L'ente Maryland Food Bank Inc risulta regolarmente registrato negli Stati Uniti con EIN 521135690 e riconoscimento 501(c)(3) dal 1979.",
+          "source_url": "https://www.charitynavigator.org/ein/521135690"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "bilanci",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Sono presenti i dati dei Form 990 pubblicati su ProPublica e Charity Navigator per gli anni dal 2018 al 2023.",
+          "source_url": "https://www.charitynavigator.org/ein/521135690"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "valutazione_indipendente",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "L'ente ha ottenuto una valutazione positiva di 4 stelle (96%) su Charity Navigator.",
+          "source_url": "https://www.charitynavigator.org/ein/521135690"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "coerenza_importo",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "L'obiettivo di raccolta previsto di 5000 USD è estremamente esiguo e del tutto sostenibile rispetto al volume d'affari multimilionario dell'ente.",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/521135690"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "storico_progetti",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "L'organizzazione ha una storia pluridecennale documentata e attiva dal 1979 nel settore della sicurezza alimentare.",
+          "source_url": "https://www.charitynavigator.org/ein/521135690"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "segnali_allarme",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Non sono stati riscontrati segnali d'allarme relativi all'ente candidato nelle prove esaminate (le notizie di cronaca trovate riguardano omonimie o altre entità non collegate alla Maryland Food Bank Inc).",
+          "source_url": "https://www.charitynavigator.org/ein/521135690"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "conflitti_interesse",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "source_url": "config/conflitti.yaml"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "registrazione",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Ente registrato con EIN 521135690 e riconoscimento IRS 1979‑02‑01",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/521135690"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "bilanci",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Form 990 disponibili per gli anni 2023‑2018",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/521135690"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "valutazione_indipendente",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Charity Navigator assegna 96% Four‑Star",
+          "source_url": "https://www.charitynavigator.org/ein/521135690"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "coerenza_importo",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "Obiettivo 5 000 USD è <0.01% del fatturato annuale (~89 M USD)",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/521135690"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "storico_progetti",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "Attività documentata dal 1979 con rendiconti annuali",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/521135690"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "segnali_allarme",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun segnale negativo relativo a Maryland Food Bank trovato",
+          "source_url": "https://www.fincen.gov/resources/law-enforcement/case-examples/six-people-arrested-allegedly-bilking-millions-dollars"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "conflitti_interesse",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "source_url": "config/conflitti.yaml"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "registrazione",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "L'ente 'Maryland Food Bank Inc' risulta registrato presso l'IRS con EIN 521135690, riconoscimento 501(c)(3) dal 1979, sede a Baltimore, MD. Confermato da ProPublica Nonprofit Explorer e Charity Navigator.",
+          "source_url": "https://www.charitynavigator.org/ein/521135690"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "bilanci",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Sono disponibili i bilanci pubblici (Form 990) per gli anni dal 2011 al 2023, con dati di entrate e spese dettagliati e link ai PDF su ProPublica.",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/521135690"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "valutazione_indipendente",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Charity Navigator assegna una valutazione di 4 stelle (96%) e completa tutti e 4 i beacon (Accountability & Finance, Impact & Measurement, Leadership & Planning, Culture & Compensation).",
+          "source_url": "https://www.charitynavigator.org/ein/521135690"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "coerenza_importo",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "L'obiettivo di raccolta di 5000 USD è trascurabile rispetto alle dimensioni dell'ente (entrate annuali nell'ordine di decine di milioni di USD, es. 89M USD nel 2023), rendendo l'importo pienamente coerente e ragionevole.",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/521135690"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "storico_progetti",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "L'ente opera dal 1979 e ha una storia documentata di 13 anni consecutivi di bilanci pubblici (2011-2023), indicando attività continuativa e rendicontazione regolare.",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/521135690"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "segnali_allarme",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun segnale d'allarme trovato nelle prove fornite. Le ricerche web [E3, E4, E5] riguardano altri enti (Second Harvest Food Bank in California, Danske Bank, Shanghai Husi Food) e non hanno alcuna relazione con Maryland Food Bank Inc. Il sito ufficiale è presente e i contatti sono standard (telefono, indirizzo fisico).",
+          "source_url": "https://www.charitynavigator.org/ein/521135690"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "conflitti_interesse",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "source_url": "config/conflitti.yaml"
+        }
+      ],
+      "sources": [
+        "https://finance.yahoo.com/news/475m-lawsuit-alleges-inaction-danske-054254048.html",
+        "https://projects.propublica.org/nonprofits/organizations/521135690",
+        "https://www.charitynavigator.org/ein/521135690",
+        "https://www.cnbc.com/2014/07/27/china-food-scandal-us-parent-withdraws-products.html",
+        "https://www.fincen.gov/resources/law-enforcement/case-examples/six-people-arrested-allegedly-bilking-millions-dollars"
+      ],
+      "waiting_counter": false,
+      "profile": {
+        "de": {
+          "does": [
+            {
+              "text": "Die Maryland Food Bank arbeitet als gemeinnützige Hungerhilfe-Organisation, die sich darauf konzentriert, Menschen zu ernähren, Gemeinschaften zu stärken und den Hunger für mehr Marylanders zu beenden.",
+              "source": "https://www.charitynavigator.org/ein/521135690",
+              "by_org": false
+            },
+            {
+              "text": "Die Organisation arbeitet daran, ein gerechteres, widerstandsfähigeres und zugänglicheres Lebensmittelsystem für alle Marylanders aufzubauen.",
+              "source": "https://www.charitynavigator.org/ein/521135690",
+              "by_org": false
+            }
+          ],
+          "mission": "Die Maryland Food Bank ist eine gemeinnützige Hungerhilfe-Organisation, die Menschen ernährt, Gemeinschaften stärkt und den Hunger für mehr Marylanders beendet.",
+          "does_not": [],
+          "strengths": []
+        },
+        "en": {
+          "does": [
+            {
+              "text": "The Maryland Food Bank operates as a nonprofit hunger-relief organization focused on feeding people, strengthening communities, and ending hunger for more Marylanders.",
+              "quote": "The Maryland Food Bank is a nonprofit hunger-relief organization that is feeding people, strengthening communities, and ending hunger for more Marylanders.",
+              "source": "https://www.charitynavigator.org/ein/521135690",
+              "by_org": false
+            },
+            {
+              "text": "The organization works to build a more equitable, resilient, and accessible food system for all Marylanders.",
+              "quote": "MFB is working to build a more equitable, resilient, and accessible food system for all Marylanders.",
+              "source": "https://www.charitynavigator.org/ein/521135690",
+              "by_org": false
+            }
+          ],
+          "mission": "The Maryland Food Bank is a nonprofit hunger-relief organization that is feeding people, strengthening communities, and ending hunger for more Marylanders.",
+          "does_not": [],
+          "strengths": []
+        },
+        "es": {
+          "does": [
+            {
+              "text": "Maryland Food Bank opera como una organización sin fines de lucro de alivio del hambre centrada en alimentar a personas, fortalecer comunidades y acabar con el hambre para más Marylanders.",
+              "source": "https://www.charitynavigator.org/ein/521135690",
+              "by_org": false
+            },
+            {
+              "text": "La organización trabaja para construir un sistema alimentario más equitativo, resiliente y accesible para todos los Marylanders.",
+              "source": "https://www.charitynavigator.org/ein/521135690",
+              "by_org": false
+            }
+          ],
+          "mission": "Maryland Food Bank es una organización sin fines de lucro de alivio del hambre que está alimentando a personas, fortaleciendo comunidades y acabando con el hambre para más Marylanders.",
+          "does_not": [],
+          "strengths": []
+        },
+        "fr": {
+          "does": [
+            {
+              "text": "The Maryland Food Bank fonctionne comme une organisation à but non lucratif de lutte contre la faim axée sur l'alimentation des personnes, le renforcement des communautés et la fin de la faim pour plus de Marylanders.",
+              "source": "https://www.charitynavigator.org/ein/521135690",
+              "by_org": false
+            },
+            {
+              "text": "L'organisation travaille à construire un système alimentaire plus équitable, résilient et accessible pour tous les Marylanders.",
+              "source": "https://www.charitynavigator.org/ein/521135690",
+              "by_org": false
+            }
+          ],
+          "mission": "The Maryland Food Bank est une organisation à but non lucratif de lutte contre la faim qui nourrit les gens, renforce les communautés et met fin à la faim pour plus de Marylanders.",
+          "does_not": [],
+          "strengths": []
+        },
+        "hi": {
+          "does": [
+            {
+              "text": "The Maryland Food Bank एक गैर-लाभकारी भूख-राहत संगठन के रूप में कार्य करता है जो लोगों को भोजन प्रदान करने, समुदायों को सुदृढ़ करने, और अधिक Marylanders के लिए भूख को समाप्त करने पर केंद्रित है।",
+              "source": "https://www.charitynavigator.org/ein/521135690",
+              "by_org": false
+            },
+            {
+              "text": "संगठन अधिक समान, लचीला, और सभी Marylanders के लिए सुलभ खाद्य प्रणाली बनाने के लिए काम करता है।",
+              "source": "https://www.charitynavigator.org/ein/521135690",
+              "by_org": false
+            }
+          ],
+          "mission": "The Maryland Food Bank एक गैर-लाभकारी भूख-राहत संगठन है जो लोगों को भोजन प्रदान कर रहा है, समुदायों को सुदृढ़ कर रहा है, और अधिक Marylanders के लिए भूख को समाप्त कर रहा है।",
+          "does_not": [],
+          "strengths": []
+        },
+        "it": {
+          "does": [
+            {
+              "text": "The Maryland Food Bank opera come un'organizzazione senza scopo di lucro per la lotta alla fame, focalizzata sul nutrire le persone, rafforzare le comunità e porre fine alla fame per più residenti del Maryland.",
+              "source": "https://www.charitynavigator.org/ein/521135690",
+              "by_org": false
+            },
+            {
+              "text": "L'organizzazione lavora per costruire un sistema alimentare più equo, resiliente e accessibile per tutti i residenti del Maryland.",
+              "source": "https://www.charitynavigator.org/ein/521135690",
+              "by_org": false
+            }
+          ],
+          "mission": "The Maryland Food Bank è un'organizzazione senza scopo di lucro per la lotta alla fame che sta nutrendo le persone, rafforzando le comunità e ponendo fine alla fame per più residenti del Maryland.",
+          "does_not": [],
+          "strengths": []
+        },
+        "ja": {
+          "does": [
+            {
+              "text": "The Maryland Food Bankは、非営利の飢餓救済組織として、人々に食料を提供し、コミュニティを強化し、より多くのメリーランド州民の飢餓を終わらせることに焦点を当てて運営しています。",
+              "source": "https://www.charitynavigator.org/ein/521135690",
+              "by_org": false
+            },
+            {
+              "text": "The organizationは、すべてのメリーランド州民のために、より公平で、回復力があり、アクセスしやすい食料システムを構築することに取り組んでいます。",
+              "source": "https://www.charitynavigator.org/ein/521135690",
+              "by_org": false
+            }
+          ],
+          "mission": "The Maryland Food Bankは、非営利の飢餓救済組織であり、人々に食料を提供し、コミュニティを強化し、より多くのメリーランド州民の飢餓を終わらせています。",
+          "does_not": [],
+          "strengths": []
+        },
+        "pt": {
+          "does": [
+            {
+              "text": "O Maryland Food Bank opera como uma organização sem fins lucrativos de combate à fome focada em alimentar pessoas, fortalecer comunidades e acabar com a fome para mais moradores de Maryland.",
+              "source": "https://www.charitynavigator.org/ein/521135690",
+              "by_org": false
+            },
+            {
+              "text": "A organização trabalha para construir um sistema alimentar mais equitativo, resiliente e acessível para todos os moradores de Maryland.",
+              "source": "https://www.charitynavigator.org/ein/521135690",
+              "by_org": false
+            }
+          ],
+          "mission": "O Maryland Food Bank é uma organização sem fins lucrativos de combate à fome que está alimentando pessoas, fortalecendo comunidades e acabando com a fome para mais moradores de Maryland.",
+          "does_not": [],
+          "strengths": []
+        },
+        "ru": {
+          "does": [
+            {
+              "text": "Maryland Food Bank работает как некоммерческая организация по борьбе с голодом, сосредоточенная на кормлении людей, укреплении сообществ и прекращении голода для большего числа жителей Мэриленда.",
+              "source": "https://www.charitynavigator.org/ein/521135690",
+              "by_org": false
+            },
+            {
+              "text": "Организация работает над созданием более справедливой, устойчивой и доступной продовольственной системы для всех жителей Мэриленда.",
+              "source": "https://www.charitynavigator.org/ein/521135690",
+              "by_org": false
+            }
+          ],
+          "mission": "Maryland Food Bank является некоммерческой организацией по борьбе с голодом, которая кормит людей, укрепляет сообщества и заканчивает голод для большего числа жителей Мэриленда.",
+          "does_not": [],
+          "strengths": []
+        },
+        "zh": {
+          "does": [
+            {
+              "text": "Maryland Food Bank 作为一家非营利性饥饿救助组织运作，专注于为人们提供食物，强化社区，并为更多 Marylanders 消除饥饿。",
+              "source": "https://www.charitynavigator.org/ein/521135690",
+              "by_org": false
+            },
+            {
+              "text": "该组织致力于为所有 Marylanders 构建一个更公平、更有韧性且更易获取的食品系统。",
+              "source": "https://www.charitynavigator.org/ein/521135690",
+              "by_org": false
+            }
+          ],
+          "mission": "Maryland Food Bank 是一家非营利性饥饿救助组织，正在为人们提供食物，强化社区，并为更多 Marylanders 消除饥饿。",
+          "does_not": [],
+          "strengths": []
+        }
+      },
+      "safety": {
+        "evaluator": "Charity Navigator",
+        "stars": 4,
+        "score": 96,
+        "rating_url": "https://www.charitynavigator.org/ein/521135690",
+        "rating_checked": "2026-11-14",
+        "since": "1979",
+        "registry_url": "https://projects.propublica.org/nonprofits/organizations/521135690",
+        "filings": 13,
+        "first_year": 2011,
+        "last_year": 2023,
+        "checks_passed": 18,
+        "verifiers": 3,
+        "unanimous": true,
+        "site": "mdfoodbank.org",
+        "official_host": "mdfoodbank.org",
+        "profile_claimed": true
+      },
+      "platform": "every.org",
+      "counter": {
+        "raised": "0",
+        "read_at": "2026-11-15T09:16:19.936420+00:00",
+        "currency": "USD",
+        "platform": "every.org",
+        "supporters": 0,
+        "raised_cents": 0,
+        "matches_cents": 0
+      },
+      "fundraiser_open": true,
+      "progress_pct": 0,
+      "donate": {
+        "recipient": "Maryland Food Bank Inc",
+        "url": "https://www.every.org/mdfoodbank/f/ai-against-hunger-for",
+        "money_goes_to": "Every.org, a US 501(c)(3) nonprofit, which grants it to the organization (unrestricted); this project never receives or holds money",
+        "counted_here_only_if": "shown in the public total of the fundraising page",
+        "status": "open",
+        "platform": "Every.org (US 501(c)(3) nonprofit; receipts tax-deductible only in the US)",
+        "public_total": {
+          "raised": "0",
+          "currency": "USD",
+          "people": 0,
+          "read_on": "2026-11-15"
+        },
+        "note": "Every.org suggests an optional tip to itself (sometimes preselected); it can be set to 0. Payment fees are deducted from what the organization receives."
+      }
+    },
+    {
+      "slug": "support-new-hope-community-ministries-a-nj-nonprofit-corp-ag-2395",
+      "title": "Support New Hope Community Ministries A Nj Nonprofit Corp against hunger",
+      "description": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'Every.org: food-security'.",
+      "org_name": "New Hope Community Ministries A Nj Nonprofit Corp",
+      "org_country": "US",
+      "org_website": "https://newhopecmnj.org/",
+      "country": "US",
+      "currency": "USD",
+      "goal": 5000.0,
+      "raised": 0.0,
+      "donated": 0.0,
+      "status": "attiva",
+      "donation_url": "https://www.every.org/newhopecmnj/f/ai-against-hunger-for",
+      "source_url": "https://www.charitynavigator.org/ein/202893390",
+      "approved_on": "2026-11-08",
+      "review_until": null,
+      "translations": {
+        "de": {
+          "text": "Von Charity Navigator bewertete Organisation, von den Agenten gefunden mit: 'Every.org: food-security'.",
+          "title": "Unterstützen Sie New Hope Community Ministries A Nj Nonprofit Corp gegen Hunger",
+          "source": "traduzione AI"
+        },
+        "en": {
+          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'Every.org: food-security'.",
+          "title": "Support New Hope Community Ministries A Nj Nonprofit Corp against hunger",
+          "source": "originale"
+        },
+        "es": {
+          "text": "Entidad evaluada por Charity Navigator, encontrada por los agentes con: 'Every.org: food-security'.",
+          "title": "Apoya a New Hope Community Ministries A Nj Nonprofit Corp contra el hambre",
+          "source": "traduzione AI"
+        },
+        "fr": {
+          "text": "Organisme évalué par Charity Navigator, trouvé par les agents avec : 'Every.org: food-security'.",
+          "title": "Soutenez New Hope Community Ministries A Nj Nonprofit Corp contre la faim",
+          "source": "traduzione AI"
+        },
+        "hi": {
+          "text": "Charity Navigator द्वारा मूल्यांकित संगठन, एजेंटों द्वारा इसके साथ पाया गया: 'Every.org: food-security'।",
+          "title": "भुखमरी के खिलाफ New Hope Community Ministries A Nj Nonprofit Corp का समर्थन करें",
+          "source": "traduzione AI"
+        },
+        "it": {
+          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'Every.org: food-security'.",
+          "title": "Sostieni New Hope Community Ministries A Nj Nonprofit Corp contro la fame",
+          "source": "traduzione AI"
+        },
+        "ja": {
+          "text": "Charity Navigator によって評価された団体で、エージェントが次のように見つけました: 'Every.org: food-security'.",
+          "title": "New Hope Community Ministries A Nj Nonprofit Corp を飢餓に対して支援する",
+          "source": "traduzione AI"
+        },
+        "pt": {
+          "text": "Entidade avaliada por Charity Navigator, encontrada pelos agentes com: 'Every.org: food-security'.",
+          "title": "Apoie New Hope Community Ministries A Nj Nonprofit Corp contra a fome",
+          "source": "traduzione AI"
+        },
+        "ru": {
+          "text": "Организация, оцененная Charity Navigator, найдена агентами с: 'Every.org: food-security'.",
+          "title": "Поддержка New Hope Community Ministries A Nj Nonprofit Corp в борьбе с голодом",
+          "source": "traduzione AI"
+        },
+        "zh": {
+          "text": "经 Charity Navigator 评估的机构，由智能体通过以下途径找到：'Every.org: food-security'。",
+          "title": "支持 New Hope Community Ministries A Nj Nonprofit Corp 抗击饥饿",
+          "source": "traduzione AI"
+        }
+      },
+      "tranches": [
+        {
+          "number": 1,
+          "goal": 2000.0,
+          "status": "aperta"
+        }
+      ],
+      "checks": [
+        {
+          "verifier": "regole",
+          "check_type": "ammissibilita",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Regole di ammissibilità (config/regole.yaml):\n✓ fonte ammessa: fonte 'valutatore'\n✓ ente registrato nel database: New Hope Community Ministries A Nj Nonprofit Corp\n✓ codice fiscale verificato (IRS): EIN 202893390\n✓ ente valutato dal valutatore: Charity Navigator\n✓ voto del valutatore: 98%, 4 stelle su 4 (minimo 4 stelle e 90%)\n✓ anni di bilanci ufficiali: 15 anni [2019, 2020, 2021, 2022, 2023] (minimo 3)\n✓ tema fame / nutrizione: categoria IRS K31 (richiesta ['K']); tema nel nome: False",
+          "source_url": "https://www.charitynavigator.org/ein/202893390"
+        },
+        {
+          "verifier": "regole",
+          "check_type": "ammissibilita",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "✓ valutatore indipendente tra le prove: 2 pagine di valutatori (https://www.charitynavigator.org/ein/202893390, https://www.guidestar.org/profile/20-2893390); minimo 1",
+          "source_url": "https://www.charitynavigator.org/ein/202893390"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "registrazione",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "L'ente New Hope Community Ministries A NJ Nonprofit Corp risulta registrato negli USA come organizzazione 501(c)(3) con EIN 202893390 e data di esenzione dal 1 settembre 2012.",
+          "source_url": "https://www.charitynavigator.org/ein/202893390"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "bilanci",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "I bilanci Form 990 sono reperibili e pubblici dal 2008 al 2023, attestando entrate di 1.073.853 USD e uscite di 1.133.402 USD nell'ultimo anno fiscale registrato (2023).",
+          "source_url": "https://www.charitynavigator.org/ein/202893390"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "valutazione_indipendente",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Charity Navigator valuta l'ente con il punteggio del 98% (Four-Star Charity), completando 4 dei 4 beacon analizzati.",
+          "source_url": "https://www.charitynavigator.org/ein/202893390"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "coerenza_importo",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "L'obiettivo di raccolta previsto di 5.000 USD è estremamente contenuto e coerente a fronte di spese annuali superiori a 1 milione di USD.",
+          "source_url": "https://www.charitynavigator.org/ein/202893390"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "storico_progetti",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "L'ente documenta una solida storia operativa sul territorio con programmi attivi di distribuzione cibo d'emergenza, banco alimentare e servizi alle famiglie.",
+          "source_url": "https://www.charitynavigator.org/ein/202893390"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "segnali_allarme",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun segnale di allarme, notizia negativa o anomalia rilevati nella documentazione esaminata.",
+          "source_url": "https://www.charitynavigator.org/ein/202893390"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "conflitti_interesse",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "source_url": "config/conflitti.yaml"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "registrazione",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Registro IRS e ProPublica confermano l'esistenza legale dell'ente (EIN 202893390, ruling 2012-09-01).",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/202893390"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "bilanci",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Form 990 disponibili per più anni (2022, 2020, 2019, 2018) su ProPublica.",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/202893390"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "valutazione_indipendente",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Charity Navigator, valutatore indipendente, assegna 4 stelle (Four‑Star Charity).",
+          "source_url": "https://www.charitynavigator.org/ein/202893390"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "coerenza_importo",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "Entrate annuali >1 M USD (es. 2023: 1 073 853 USD), quindi la richiesta di 5 000 USD è proporzionale.",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/202893390"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "storico_progetti",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "Sito web e profilo GuideStar mostrano programmi di food pantry, assistenza familiare e altre attività documentate.",
+          "source_url": "https://www.newhopecmnj.org"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "segnali_allarme",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun segnale di allarme (nessuna urgenza artificiosa, pagamenti crypto, o contatti esclusivi) riscontrato nelle fonti.",
+          "source_url": "https://www.charitynavigator.org/ein/202893390"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "conflitti_interesse",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "source_url": "config/conflitti.yaml"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "registrazione",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "L'ente è registrato presso l'IRS come 501(c)(3) con EIN 202893390, riconosciuto il 01/09/2012. La sede legale è a Prospect Park, NJ.",
+          "source_url": "https://www.charitynavigator.org/ein/202893390"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "bilanci",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Sono disponibili i bilanci pubblici (Form 990) per gli anni dal 2008 al 2023, con dati finanziari dettagliati (es. entrate 2023: $1.07M).",
+          "source_url": "https://www.charitynavigator.org/ein/202893390"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "valutazione_indipendente",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Charity Navigator assegna 4 stelle su 4 (98%) e completa tutti e 4 i beacon di valutazione (Accountability, Impact, Leadership, Culture).",
+          "source_url": "https://www.charitynavigator.org/ein/202893390"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "coerenza_importo",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "L'obiettivo di raccolta di 5.000 USD è molto basso rispetto alle dimensioni dell'ente (entrate annuali > 1 milione di USD) e alle sue attività consolidate (food pantry, sviluppo comunitario).",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/202893390"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "storico_progetti",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "L'ente ha una storia documentata di oltre 10 anni (dal 2012) con programmi attivi come 'Feeding Families', 'Mental Health' e 'Youth Development', visibili sul sito e nei bilanci.",
+          "source_url": "https://www.charitynavigator.org/ein/202893390"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "segnali_allarme",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun segnale d'allarme trovato. Il sito web è attivo e professionale, i contatti sono standard (telefono, indirizzo fisico), non ci sono richieste di pagamenti anonimi o pressioni artificiali. La pagina LinkedIn non trovata (E5) è irrilevante dato che l'ente ha una forte presenza su altri canali ufficiali.",
+          "source_url": "https://www.charitynavigator.org/ein/202893390"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "conflitti_interesse",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "source_url": "config/conflitti.yaml"
+        }
+      ],
+      "sources": [
+        "https://projects.propublica.org/nonprofits/organizations/202893390",
+        "https://www.charitynavigator.org/ein/202893390",
+        "https://www.guidestar.org/profile/20-2893390",
+        "https://www.linkedin.com/company/new-hope-community-ministries-a-nj-nonprofit-corp",
+        "https://www.mapquest.com/us/new-jersey/hope-for-a-better-future-a-nj-nonprofit-corporation-420002182",
+        "https://www.newhopecmnj.org"
+      ],
+      "waiting_counter": false,
+      "profile": {
+        "de": {
+          "does": [
+            {
+              "text": "New Hope Community Ministries stellt frische Erzeugnisse, Grundnahrungsmittel und Thanksgiving-Lebensmittel für Familien vor Ort bereit.",
+              "source": "https://www.newhopecmnj.org/",
+              "by_org": true
+            },
+            {
+              "text": "Sie betreibt eine Lebensmittelausgabe, die zweimal im Monat nur nach Terminvereinbarung für Personen geöffnet ist, die in Prospect Park, Haledon, North Haledon und Hawthorne leben.",
+              "source": "https://www.newhopecmnj.org/",
+              "by_org": true
+            },
+            {
+              "text": "Die Organisation bietet Beratung, ESL, Einwanderungsunterstützung und Programme für Frauen, Kinder und Jugendliche.",
+              "source": "https://www.newhopecmnj.org/",
+              "by_org": true
+            }
+          ],
+          "mission": "Durch die Liebe Christi befähigt New Hope Familien, den Teufelskreis der Armut zu durchbrechen und eine aufblühende Gemeinschaft zu schaffen.",
+          "does_not": [
+            {
+              "text": "Die Mitgliedschaft für die Lebensmittelausgabe ist auf Personen beschränkt, die in Prospect Park, Haledon, North Haledon und Hawthorne wohnen.",
+              "source": "https://www.newhopecmnj.org/",
+              "by_org": true
+            }
+          ],
+          "strengths": [
+            {
+              "text": "New Hope befindet sich nun im 20. Jahr seines Bestehens.",
+              "source": "https://www.newhopecmnj.org/",
+              "by_org": true
+            }
+          ]
+        },
+        "en": {
+          "does": [
+            {
+              "text": "New Hope Community Ministries provides fresh produce, pantry staples, and Thanksgiving food for local families.",
+              "quote": "This fall, New Hope is bringing our community together to provide fresh produce, pantry staples, and Thanksgiving food for local families.",
+              "source": "https://www.newhopecmnj.org/",
+              "by_org": true
+            },
+            {
+              "text": "It operates a food pantry distribution open twice a month by appointment only for individuals living in Prospect Park, Haledon, North Haledon, and Hawthorne.",
+              "quote": "Individuals who live in Prospect Park, Haledon, North Haledon and Hawthorne are eligible to sign up to be a Food Pantry member. The food pantry is open twice a month by appointment only.",
+              "source": "https://www.newhopecmnj.org/",
+              "by_org": true
+            },
+            {
+              "text": "The ministry offers counseling, ESL, immigration support, and programs for women, children, and teens.",
+              "quote": "We offer counseling, ESL, immigration support, and programs for women, children, and teens.",
+              "source": "https://www.newhopecmnj.org/",
+              "by_org": true
+            }
+          ],
+          "mission": "Through Christ’s love, New Hope empowers families to break through cycles of poverty and create a flourishing community.",
+          "does_not": [
+            {
+              "text": "Food pantry membership is limited to individuals who live in Prospect Park, Haledon, North Haledon, and Hawthorne.",
+              "quote": "Individuals who live in Prospect Park, Haledon, North Haledon and Hawthorne are eligible to sign up to be a Food Pantry member.",
+              "source": "https://www.newhopecmnj.org/",
+              "by_org": true
+            }
+          ],
+          "strengths": [
+            {
+              "text": "New Hope is now in its 20th year of operation.",
+              "quote": "Now in our 20th year, New Hope has grown from a food pantry into a hub for healing and hope.",
+              "source": "https://www.newhopecmnj.org/",
+              "by_org": true
+            }
+          ]
+        },
+        "es": {
+          "does": [
+            {
+              "text": "New Hope Community Ministries ofrece productos frescos, alimentos básicos de despensa y comida de Acción de Gracias para las familias locales.",
+              "source": "https://www.newhopecmnj.org/",
+              "by_org": true
+            },
+            {
+              "text": "Opera una distribución de despensa de alimentos abierta dos veces al mes solo con cita previa para personas que viven en Prospect Park, Haledon, North Haledon y Hawthorne.",
+              "source": "https://www.newhopecmnj.org/",
+              "by_org": true
+            },
+            {
+              "text": "El ministerio ofrece asesoramiento, ESL, apoyo de inmigración y programas para mujeres, niños y adolescentes.",
+              "source": "https://www.newhopecmnj.org/",
+              "by_org": true
+            }
+          ],
+          "mission": "A través del amor de Cristo, New Hope capacita a las familias para romper los ciclos de pobreza y crear una comunidad próspera.",
+          "does_not": [
+            {
+              "text": "La membresía de la despensa de alimentos está limitada a personas que viven en Prospect Park, Haledon, North Haledon y Hawthorne.",
+              "source": "https://www.newhopecmnj.org/",
+              "by_org": true
+            }
+          ],
+          "strengths": [
+            {
+              "text": "New Hope se encuentra ahora en su 20.º año de funcionamiento.",
+              "source": "https://www.newhopecmnj.org/",
+              "by_org": true
+            }
+          ]
+        },
+        "fr": {
+          "does": [
+            {
+              "text": "New Hope Community Ministries fournit des produits frais, des produits de base pour le garde-manger et des aliments de Thanksgiving aux familles locales.",
+              "source": "https://www.newhopecmnj.org/",
+              "by_org": true
+            },
+            {
+              "text": "Elle gère une distribution de la banque alimentaire ouverte deux fois par mois, uniquement sur rendez-vous, pour les personnes vivant à Prospect Park, Haledon, North Haledon et Hawthorne.",
+              "source": "https://www.newhopecmnj.org/",
+              "by_org": true
+            },
+            {
+              "text": "Le ministère propose des services de conseil, d'anglais langue seconde (ESL), un soutien à l'immigration et des programmes pour les femmes, les enfants et les adolescents.",
+              "source": "https://www.newhopecmnj.org/",
+              "by_org": true
+            }
+          ],
+          "mission": "Par l'amour du Christ, New Hope donne aux familles les moyens de rompre les cycles de la pauvreté et de créer une communauté florissante.",
+          "does_not": [
+            {
+              "text": "L'adhésion à la banque alimentaire est limitée aux personnes vivant à Prospect Park, Haledon, North Haledon et Hawthorne.",
+              "source": "https://www.newhopecmnj.org/",
+              "by_org": true
+            }
+          ],
+          "strengths": [
+            {
+              "text": "New Hope est maintenant dans sa 20th année d'opération.",
+              "source": "https://www.newhopecmnj.org/",
+              "by_org": true
+            }
+          ]
+        },
+        "hi": {
+          "does": [
+            {
+              "text": "New Hope Community Ministries स्थानीय परिवारों के लिए ताज़ा उत्पाद, पैंट्री की मुख्य वस्तुएं और Thanksgiving भोजन प्रदान करता है।",
+              "source": "https://www.newhopecmnj.org/",
+              "by_org": true
+            },
+            {
+              "text": "यह Prospect Park, Haledon, North Haledon और Hawthorne में रहने वाले व्यक्तियों के लिए केवल अपॉइंटमेंट द्वारा महीने में दो बार खुला फ़ूड पैंट्री वितरण संचालित करता है।",
+              "source": "https://www.newhopecmnj.org/",
+              "by_org": true
+            },
+            {
+              "text": "यह मिनिस्ट्री परामर्श, ESL, आव्रजन सहायता और महिलाओं, बच्चों व किशोरों के लिए कार्यक्रम प्रदान करती है।",
+              "source": "https://www.newhopecmnj.org/",
+              "by_org": true
+            }
+          ],
+          "mission": "Christ के प्रेम के माध्यम से, New Hope परिवारों को गरीबी के चक्र को तोड़ने और एक समृद्ध समुदाय बनाने के लिए सशक्त बनाता है।",
+          "does_not": [
+            {
+              "text": "फ़ूड पैंट्री की सदस्यता केवल उन व्यक्तियों तक सीमित है जो Prospect Park, Haledon, North Haledon और Hawthorne में रहते हैं।",
+              "source": "https://www.newhopecmnj.org/",
+              "by_org": true
+            }
+          ],
+          "strengths": [
+            {
+              "text": "New Hope अब अपने संचालन के 20th वर्ष में है।",
+              "source": "https://www.newhopecmnj.org/",
+              "by_org": true
+            }
+          ]
+        },
+        "it": {
+          "does": [
+            {
+              "text": "New Hope Community Ministries fornisce prodotti freschi, alimenti di base per la dispensa e cibo per il Ringraziamento alle famiglie locali.",
+              "source": "https://www.newhopecmnj.org/",
+              "by_org": true
+            },
+            {
+              "text": "Gestisce una distribuzione di una mensa alimentare aperta due volte al mese, solo su appuntamento, per le persone che vivono a Prospect Park, Haledon, North Haledon e Hawthorne.",
+              "source": "https://www.newhopecmnj.org/",
+              "by_org": true
+            },
+            {
+              "text": "Il ministero offre consulenza, corsi di inglese come seconda lingua (ESL), supporto all'immigrazione e programmi per donne, bambini e adolescenti.",
+              "source": "https://www.newhopecmnj.org/",
+              "by_org": true
+            }
+          ],
+          "mission": "Attraverso l'amore di Cristo, New Hope sostiene le famiglie a superare i cicli di povertà e a creare una comunità fiorente.",
+          "does_not": [
+            {
+              "text": "L'iscrizione alla mensa alimentare è limitata alle persone che vivono a Prospect Park, Haledon, North Haledon e Hawthorne.",
+              "source": "https://www.newhopecmnj.org/",
+              "by_org": true
+            }
+          ],
+          "strengths": [
+            {
+              "text": "New Hope è ora al suo 20° anno di attività.",
+              "source": "https://www.newhopecmnj.org/",
+              "by_org": true
+            }
+          ]
+        },
+        "ja": {
+          "does": [
+            {
+              "text": "New Hope Community Ministriesは地元の家族に新鮮な農産物、食料備蓄の必需品、そして感謝祭の食料を提供します。",
+              "source": "https://www.newhopecmnj.org/",
+              "by_org": true
+            },
+            {
+              "text": "それは、Prospect Park、Haledon、North Haledon、Hawthorneに住む個人向けに、月に2回、予約制で食料パントリーの配布を運営しています。",
+              "source": "https://www.newhopecmnj.org/",
+              "by_org": true
+            },
+            {
+              "text": "このミニストリーはカウンセリング、ESL（英語第二言語）教育、移民支援、そして女性、子供、ティーンエイジャー向けのプログラムを提供しています。",
+              "source": "https://www.newhopecmnj.org/",
+              "by_org": true
+            }
+          ],
+          "mission": "キリストの愛を通して、New Hopeは家族が貧困の連鎖を打破し、繁栄するコミュニティを創造できるよう支援します。",
+          "does_not": [
+            {
+              "text": "食料パントリーの会員資格は、Prospect Park、Haledon、North Haledon、Hawthorneに住む個人に限定されています。",
+              "source": "https://www.newhopecmnj.org/",
+              "by_org": true
+            }
+          ],
+          "strengths": [
+            {
+              "text": "New Hopeは現在、20th 年の運営を迎えています。",
+              "source": "https://www.newhopecmnj.org/",
+              "by_org": true
+            }
+          ]
+        },
+        "pt": {
+          "does": [
+            {
+              "text": "New Hope Community Ministries fornece produtos frescos, alimentos básicos e comida de Thanksgiving para famílias locais.",
+              "source": "https://www.newhopecmnj.org/",
+              "by_org": true
+            },
+            {
+              "text": "Opera uma distribuição de despensa de alimentos aberta duas vezes por mês apenas mediante agendamento para indivíduos que vivem em Prospect Park, Haledon, North Haledon e Hawthorne.",
+              "source": "https://www.newhopecmnj.org/",
+              "by_org": true
+            },
+            {
+              "text": "O ministério oferece aconselhamento, ESL, apoio à imigração e programas para mulheres, crianças e adolescentes.",
+              "source": "https://www.newhopecmnj.org/",
+              "by_org": true
+            }
+          ],
+          "mission": "Através do amor de Cristo, New Hope capacita as famílias a romper os ciclos de pobreza e a criar uma comunidade próspera.",
+          "does_not": [
+            {
+              "text": "A adesão à despensa de alimentos é limitada a indivíduos que vivem em Prospect Park, Haledon, North Haledon e Hawthorne.",
+              "source": "https://www.newhopecmnj.org/",
+              "by_org": true
+            }
+          ],
+          "strengths": [
+            {
+              "text": "New Hope está agora no seu 20º ano de operação.",
+              "source": "https://www.newhopecmnj.org/",
+              "by_org": true
+            }
+          ]
+        },
+        "ru": {
+          "does": [
+            {
+              "text": "New Hope Community Ministries предоставляет свежие продукты, основные продукты питания и еду на День благодарения для местных семей.",
+              "source": "https://www.newhopecmnj.org/",
+              "by_org": true
+            },
+            {
+              "text": "Организация проводит раздачу продуктов питания дважды в месяц только по предварительной записи для жителей Prospect Park, Haledon, North Haledon и Hawthorne.",
+              "source": "https://www.newhopecmnj.org/",
+              "by_org": true
+            },
+            {
+              "text": "Служение предлагает консультации, ESL, иммиграционную поддержку и программы для женщин, детей и подростков.",
+              "source": "https://www.newhopecmnj.org/",
+              "by_org": true
+            }
+          ],
+          "mission": "Через любовь Христа New Hope помогает семьям вырваться из круга бедности и создать процветающее сообщество.",
+          "does_not": [
+            {
+              "text": "Доступ к продовольственному складу ограничен для лиц, проживающих в Prospect Park, Haledon, North Haledon и Hawthorne.",
+              "source": "https://www.newhopecmnj.org/",
+              "by_org": true
+            }
+          ],
+          "strengths": [
+            {
+              "text": "New Hope работает уже 20-й год.",
+              "source": "https://www.newhopecmnj.org/",
+              "by_org": true
+            }
+          ]
+        },
+        "zh": {
+          "does": [
+            {
+              "text": "New Hope Community Ministries 为当地家庭提供新鲜农产品、食品库主食和感恩节食物。",
+              "source": "https://www.newhopecmnj.org/",
+              "by_org": true
+            },
+            {
+              "text": "其运营的食品库分发服务每月仅开放两次，且仅限居住在 Prospect Park、Haledon、North Haledon 和 Hawthorne 的居民预约。",
+              "source": "https://www.newhopecmnj.org/",
+              "by_org": true
+            },
+            {
+              "text": "该事工提供心理咨询、ESL、移民支持以及针对妇女、儿童和青少年的项目。",
+              "source": "https://www.newhopecmnj.org/",
+              "by_org": true
+            }
+          ],
+          "mission": "通过基督的爱，New Hope 赋能家庭打破贫困循环，建立繁荣的社区。",
+          "does_not": [
+            {
+              "text": "食品库会员资格仅限于居住在 Prospect Park、Haledon、North Haledon 和 Hawthorne 的居民。",
+              "source": "https://www.newhopecmnj.org/",
+              "by_org": true
+            }
+          ],
+          "strengths": [
+            {
+              "text": "New Hope 现已运营第 20 年。",
+              "source": "https://www.newhopecmnj.org/",
+              "by_org": true
+            }
+          ]
+        }
+      },
+      "safety": {
+        "evaluator": "Charity Navigator",
+        "stars": 4,
+        "score": 98,
+        "rating_url": "https://www.charitynavigator.org/ein/202893390",
+        "rating_checked": "2026-11-15",
+        "since": "2012",
+        "registry_url": "https://projects.propublica.org/nonprofits/organizations/202893390",
+        "filings": 15,
+        "first_year": 2008,
+        "last_year": 2023,
+        "checks_passed": 18,
+        "verifiers": 3,
+        "unanimous": true,
+        "site": "newhopecmnj.org",
+        "official_host": "newhopecmnj.org",
+        "profile_claimed": true
+      },
+      "platform": "every.org",
+      "counter": {
+        "raised": "0",
+        "read_at": "2026-11-15T09:16:21.357897+00:00",
+        "currency": "USD",
+        "platform": "every.org",
+        "supporters": 0,
+        "raised_cents": 0,
+        "matches_cents": 0
+      },
+      "fundraiser_open": true,
+      "progress_pct": 0,
+      "donate": {
+        "recipient": "New Hope Community Ministries A Nj Nonprofit Corp",
+        "url": "https://www.every.org/newhopecmnj/f/ai-against-hunger-for",
+        "money_goes_to": "Every.org, a US 501(c)(3) nonprofit, which grants it to the organization (unrestricted); this project never receives or holds money",
+        "counted_here_only_if": "shown in the public total of the fundraising page",
+        "status": "open",
+        "platform": "Every.org (US 501(c)(3) nonprofit; receipts tax-deductible only in the US)",
+        "public_total": {
+          "raised": "0",
+          "currency": "USD",
+          "people": 0,
+          "read_on": "2026-11-15"
+        },
+        "note": "Every.org suggests an optional tip to itself (sometimes preselected); it can be set to 0. Payment fees are deducted from what the organization receives."
+      }
+    },
     {
       "slug": "support-oregon-food-bank-inc-against-hunger-1992",
       "title": "Support Oregon Food Bank Inc against hunger",
@@ -630,7 +1784,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-14T21:04:38.006886+00:00",
+        "read_at": "2026-11-15T09:16:20.663160+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -650,7 +1804,7 @@
           "raised": "0",
           "currency": "USD",
           "people": 0,
-          "read_on": "2026-11-14"
+          "read_on": "2026-11-15"
         },
         "note": "Every.org suggests an optional tip to itself (sometimes preselected); it can be set to 0. Payment fees are deducted from what the organization receives."
       }
@@ -1253,7 +2407,58 @@
       "source_url": "https://www.charitynavigator.org/ein/954014804",
       "approved_on": "2026-11-14",
       "review_until": "2026-11-17 08:10 UTC",
-      "translations": {},
+      "translations": {
+        "de": {
+          "text": "Von Charity Navigator bewertete Organisation, von den Agenten gefunden mit: 'Every.org: food pantry'.",
+          "title": "Unterstützen Sie die Santa Clarita Valley Food Pantry gegen Hunger",
+          "source": "traduzione AI"
+        },
+        "en": {
+          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'Every.org: food pantry'.",
+          "title": "Support Santa Clarita Valley Food Pantry against hunger",
+          "source": "originale"
+        },
+        "es": {
+          "text": "Entidad evaluada por Charity Navigator, encontrada por los agentes con: 'Every.org: food pantry'.",
+          "title": "Apoya a Santa Clarita Valley Food Pantry contra el hambre",
+          "source": "traduzione AI"
+        },
+        "fr": {
+          "text": "Organisme évalué par Charity Navigator, trouvé par les agents avec : 'Every.org: food pantry'.",
+          "title": "Soutenez Santa Clarita Valley Food Pantry contre la faim",
+          "source": "traduzione AI"
+        },
+        "hi": {
+          "text": "Charity Navigator द्वारा मूल्यांकित संस्था, एजेंटों द्वारा इसके साथ खोजी गई: 'Every.org: food pantry'।",
+          "title": "भूख के खिलाफ Santa Clarita Valley Food Pantry का समर्थन करें",
+          "source": "traduzione AI"
+        },
+        "it": {
+          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'Every.org: food pantry'.",
+          "title": "Sostieni Santa Clarita Valley Food Pantry contro la fame",
+          "source": "traduzione AI"
+        },
+        "ja": {
+          "text": "Charity Navigator によって評価された団体。エージェントが「Every.org: food pantry」で発見。",
+          "title": "飢餓に立ち向かう Santa Clarita Valley Food Pantry への支援",
+          "source": "traduzione AI"
+        },
+        "pt": {
+          "text": "Entidade avaliada pela Charity Navigator, encontrada pelos agentes com: 'Every.org: food pantry'.",
+          "title": "Apoie a Santa Clarita Valley Food Pantry contra a fome",
+          "source": "traduzione AI"
+        },
+        "ru": {
+          "text": "Организация оценена Charity Navigator, найдена агентами по запросу: 'Every.org: food pantry'.",
+          "title": "Поддержите Santa Clarita Valley Food Pantry в борьбе с голодом",
+          "source": "traduzione AI"
+        },
+        "zh": {
+          "text": "由 Charity Navigator 评估的机构，由代理找到，搜索词：'Every.org: food pantry'。",
+          "title": "支持 Santa Clarita Valley Food Pantry 对抗饥饿",
+          "source": "traduzione AI"
+        }
+      },
       "tranches": [],
       "checks": [
         {
@@ -1450,6 +2655,34 @@
       ],
       "waiting_counter": false,
       "profile": {
+        "de": {
+          "does": [
+            {
+              "text": "Sie unterstützt Familien und Einzelpersonen aller Altersgruppen, die von Lebensmittelunsicherheit betroffen sind und Unterstützung benötigen.",
+              "source": "https://www.scvfoodpantry.org/",
+              "by_org": true
+            },
+            {
+              "text": "Die Ausgabestelle bietet in Partnerschaft mit der LA Regional Food Bank mobile Senior Outreach Services für neun ausgewählte Senioren-, Studenten- und abgelegene Gemeinden an.",
+              "source": "https://www.scvfoodpantry.org/about-1",
+              "by_org": true
+            }
+          ],
+          "mission": "Den von Lebensmittelunsicherheit betroffenen Menschen im Santa Clarita Valley durch Freundlichkeit, Mitgefühl und Gerechtigkeit zu dienen. Lebensmittel sind für alle, die darum bitten, jederzeit kostenlos, unabhängig von Alter, Rasse, ethnischer Herkunft, Geschlecht oder religiöser Zugehörigkeit. Stärkung der sozioökonomischen Lage aller Klienten, um Menschen dabei zu helfen, untergebracht, ernährt und glücklich zu bleiben.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "Die Organisation ist als eingetragene gemeinnützige 501(c)3-Organisation tätig.",
+              "source": "https://www.scvfoodpantry.org",
+              "by_org": true
+            },
+            {
+              "text": "Die Organisation widmet sich der Transparenz.",
+              "source": "https://www.scvfoodpantry.org/",
+              "by_org": true
+            }
+          ]
+        },
         "en": {
           "does": [
             {
@@ -1477,6 +2710,230 @@
             {
               "text": "The organization is dedicated to transparency.",
               "quote": "The Santa Clarita Valley Food Pantry is a 501 (c)3 Non-Profit Organization and  dedicated to transparency.",
+              "source": "https://www.scvfoodpantry.org/",
+              "by_org": true
+            }
+          ]
+        },
+        "es": {
+          "does": [
+            {
+              "text": "Atiende a familias e individuos de todas las edades que enfrentan inseguridad alimentaria y necesitan apoyo.",
+              "source": "https://www.scvfoodpantry.org/",
+              "by_org": true
+            },
+            {
+              "text": "La despensa ofrece Servicios Móviles de Alcance para Personas Mayores a nueve comunidades designadas de adultos mayores, estudiantes y áreas remotas, en asociación con el Banco de Alimentos Regional de Los Ángeles.",
+              "source": "https://www.scvfoodpantry.org/about-1",
+              "by_org": true
+            }
+          ],
+          "mission": "Servir a las personas en situación de inseguridad alimentaria del Valle de Santa Clarita mediante la amabilidad, la compasión y la equidad. La comida es gratuita para todos los que la soliciten en todo momento, sin importar la edad, raza, etnia, género o afiliación religiosa. Fortaleciendo las situaciones socioeconómicas de todos los clientes, ayudando a las personas a mantenerse alojadas, alimentadas y felices.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "La organización opera como una entidad sin fines de lucro registrada 501(c)3.",
+              "source": "https://www.scvfoodpantry.org",
+              "by_org": true
+            },
+            {
+              "text": "La organización está dedicada a la transparencia.",
+              "source": "https://www.scvfoodpantry.org/",
+              "by_org": true
+            }
+          ]
+        },
+        "fr": {
+          "does": [
+            {
+              "text": "Elle vient en aide aux familles et aux individus de tous âges confrontés à l'insécurité alimentaire et ayant besoin d'un soutien.",
+              "source": "https://www.scvfoodpantry.org/",
+              "by_org": true
+            },
+            {
+              "text": "La banque alimentaire fournit des Mobile Senior Outreach Services à neuf communautés désignées de seniors, d'étudiants et de zones isolées, en partenariat avec la LA Regional Food Bank.",
+              "source": "https://www.scvfoodpantry.org/about-1",
+              "by_org": true
+            }
+          ],
+          "mission": "Servir les personnes en situation d'insécurité alimentaire de la Santa Clarita Valley par la bienveillance, la compassion et l'équité. La nourriture est gratuite pour tous ceux qui la demandent, à tout moment, sans distinction d'âge, de race, d'origine ethnique, de genre ou d'appartenance religieuse. Renforcer la situation socio-économique de tous les bénéficiaires, en aidant les personnes à rester logées, nourries et heureuses.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "L'organisation fonctionne en tant qu'organisation à but non lucratif enregistrée 501(c)3.",
+              "source": "https://www.scvfoodpantry.org",
+              "by_org": true
+            },
+            {
+              "text": "L'organisation est dédiée à la transparence.",
+              "source": "https://www.scvfoodpantry.org/",
+              "by_org": true
+            }
+          ]
+        },
+        "hi": {
+          "does": [
+            {
+              "text": "यह सभी उम्र के उन परिवारों और व्यक्तियों की सेवा करता है जो खाद्य असुरक्षा का सामना कर रहे हैं और जिन्हें सहायता की आवश्यकता है।",
+              "source": "https://www.scvfoodpantry.org/",
+              "by_org": true
+            },
+            {
+              "text": "पैंट्री LA Regional Food Bank के साथ साझेदारी में नौ निर्दिष्ट वरिष्ठ, छात्र और दूरस्थ समुदायों को Mobile Senior Outreach Services प्रदान करती है।",
+              "source": "https://www.scvfoodpantry.org/about-1",
+              "by_org": true
+            }
+          ],
+          "mission": "दया, करुणा और समानता के माध्यम से Santa Clarita Valley के खाद्य-असुरक्षित लोगों की सेवा करना। उम्र, नस्ल, जातीयता, लिंग या धार्मिक संबद्धता की परवाह किए बिना अनुरोध करने वाले सभी लोगों के लिए भोजन हर समय मुफ्त है। सभी ग्राहकों की सामाजिक-आर्थिक स्थिति को मजबूत करना, लोगों को सुरक्षित आवास, भोजन और खुशहाली बनाए रखने में मदद करना।",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "यह संगठन एक पंजीकृत 501(c)3 गैर-लाभकारी संगठन के रूप में संचालित होता है।",
+              "source": "https://www.scvfoodpantry.org",
+              "by_org": true
+            },
+            {
+              "text": "यह संगठन पारदर्शिता के लिए समर्पित है।",
+              "source": "https://www.scvfoodpantry.org/",
+              "by_org": true
+            }
+          ]
+        },
+        "it": {
+          "does": [
+            {
+              "text": "Serve famiglie e individui di tutte le età che affrontano l'insicurezza alimentare e hanno bisogno di supporto.",
+              "source": "https://www.scvfoodpantry.org/",
+              "by_org": true
+            },
+            {
+              "text": "La dispensa fornisce i Mobile Senior Outreach Services a nove comunità designate di anziani, studenti e remote in collaborazione con la LA Regional Food Bank.",
+              "source": "https://www.scvfoodpantry.org/about-1",
+              "by_org": true
+            }
+          ],
+          "mission": "Servire le persone in condizione di insicurezza alimentare della Santa Clarita Valley attraverso gentilezza, compassione ed equità. Il cibo è gratuito per chiunque lo richieda in qualsiasi momento, indipendentemente da età, razza, etnia, genere o appartenenza religiosa. Sostenere le situazioni socio-economiche di tutti i clienti, aiutando le persone a mantenere un alloggio, essere nutrite e felici.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "L'organizzazione opera come organizzazione non profit registrata 501(c)3.",
+              "source": "https://www.scvfoodpantry.org",
+              "by_org": true
+            },
+            {
+              "text": "L'organizzazione è dedicata alla trasparenza.",
+              "source": "https://www.scvfoodpantry.org/",
+              "by_org": true
+            }
+          ]
+        },
+        "ja": {
+          "does": [
+            {
+              "text": "食料不安に直面し、支援を必要としているすべての年齢層の家族や個人にサービスを提供します。",
+              "source": "https://www.scvfoodpantry.org/",
+              "by_org": true
+            },
+            {
+              "text": "パントリーは、LA Regional Food Bank と提携し、指定された nine のシニア、学生、遠隔コミュニティにモバイルシニアアウトリーチサービスを提供します。",
+              "source": "https://www.scvfoodpantry.org/about-1",
+              "by_org": true
+            }
+          ],
+          "mission": "Santa Clarita Valley の食料不安に直面している人々に、親切、思いやり、公平性を通じて支援すること。食料は年齢、人種、民族、性別、宗教的所属に関係なく、いつでも要求するすべての人に無料で提供されます。すべてのクライアントの社会経済的状況を強化し、人々が住居を確保し、食事を取り、幸せでいられるよう支援します。",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "この組織は、登録された 501(c)3 非営利組織として運営されています。",
+              "source": "https://www.scvfoodpantry.org",
+              "by_org": true
+            },
+            {
+              "text": "この組織は透明性に専念しています。",
+              "source": "https://www.scvfoodpantry.org/",
+              "by_org": true
+            }
+          ]
+        },
+        "pt": {
+          "does": [
+            {
+              "text": "Atende famílias e indivíduos de todas as idades que enfrentam insegurança alimentar e precisam de apoio.",
+              "source": "https://www.scvfoodpantry.org/",
+              "by_org": true
+            },
+            {
+              "text": "A despensa oferece Serviços Móveis de Extensão para Idosos a nine comunidades designadas de idosos, estudantes e remotas em parceria com o LA Regional Food Bank.",
+              "source": "https://www.scvfoodpantry.org/about-1",
+              "by_org": true
+            }
+          ],
+          "mission": "Servir as pessoas em situação de insegurança alimentar do Santa Clarita Valley através da bondade, compaixão e equidade. A comida é gratuita para todos que a solicitam a qualquer momento, independentemente da idade, raça, etnia, gênero ou afiliação religiosa. Fortalecendo as situações socioeconômicas de todos os clientes, ajudando as pessoas a permanecerem moradas, alimentadas e felizes.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "A organização opera como uma organização sem fins lucrativos registrada 501(c)3.",
+              "source": "https://www.scvfoodpantry.org",
+              "by_org": true
+            },
+            {
+              "text": "A organização está dedicada à transparência.",
+              "source": "https://www.scvfoodpantry.org/",
+              "by_org": true
+            }
+          ]
+        },
+        "ru": {
+          "does": [
+            {
+              "text": "Она обслуживает семьи и отдельных людей всех возрастов, сталкивающихся с продовольственной небезопасностью и нуждающихся в поддержке.",
+              "source": "https://www.scvfoodpantry.org/",
+              "by_org": true
+            },
+            {
+              "text": "Кладовая предоставляет Mobile Senior Outreach Services девяти назначенным сообществам пожилых, студентов и отдалённым сообществам в партнёрстве с LA Regional Food Bank.",
+              "source": "https://www.scvfoodpantry.org/about-1",
+              "by_org": true
+            }
+          ],
+          "mission": "Обслуживать людей, страдающих от нехватки продовольствия в долине Santa Clarita Valley, через доброту, сострадание и справедливость. Еда предоставляется бесплатно всем, кто её запрашивает, в любое время, независимо от возраста, расы, этнической принадлежности, гендера или религиозных убеждений. Улучшая социально-экономическое положение всех клиентов, помогая людям оставаться в жилье, получать пищу и быть счастливыми.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "Организация работает как зарегистрированная некоммерческая организация 501(c)3.",
+              "source": "https://www.scvfoodpantry.org",
+              "by_org": true
+            },
+            {
+              "text": "Организация привержена прозрачности.",
+              "source": "https://www.scvfoodpantry.org/",
+              "by_org": true
+            }
+          ]
+        },
+        "zh": {
+          "does": [
+            {
+              "text": "它为面临粮食不安全并需要帮助的各年龄段家庭和个人提供服务。",
+              "source": "https://www.scvfoodpantry.org/",
+              "by_org": true
+            },
+            {
+              "text": "该食品储藏室与 LA Regional Food Bank 合作，为九个指定的老年人、学生和偏远社区提供 Mobile Senior Outreach Services。",
+              "source": "https://www.scvfoodpantry.org/about-1",
+              "by_org": true
+            }
+          ],
+          "mission": "通过善意、同情和公平，为Santa Clarita Valley的粮食不安全人群提供服务。食物对所有请求者始终免费，无论年龄、种族、民族、性别或宗教信仰。提升所有客户的社会经济状况，帮助人们保持有住房、吃得饱、生活幸福。",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "该组织以注册的 501(c)3 非营利组织形式运作。",
+              "source": "https://www.scvfoodpantry.org",
+              "by_org": true
+            },
+            {
+              "text": "该组织致力于透明度。",
               "source": "https://www.scvfoodpantry.org/",
               "by_org": true
             }
@@ -2057,7 +3514,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-14T21:04:39.211221+00:00",
+        "read_at": "2026-11-15T09:16:21.761505+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -2077,7 +3534,7 @@
           "raised": "0",
           "currency": "USD",
           "people": 0,
-          "read_on": "2026-11-14"
+          "read_on": "2026-11-15"
         },
         "note": "Every.org suggests an optional tip to itself (sometimes preselected); it can be set to 0. Payment fees are deducted from what the organization receives."
       }
@@ -2649,18 +4106,34 @@
         "unanimous": true,
         "site": "",
         "official_host": "",
-        "profile_claimed": false
+        "profile_claimed": true
       },
-      "platform": "",
-      "counter": {},
-      "fundraiser_open": false,
+      "platform": "every.org",
+      "counter": {
+        "raised": "0",
+        "read_at": "2026-11-15T09:16:23.071039+00:00",
+        "currency": "USD",
+        "platform": "every.org",
+        "supporters": 0,
+        "raised_cents": 0,
+        "matches_cents": 0
+      },
+      "fundraiser_open": true,
       "progress_pct": 0,
       "donate": {
         "recipient": "The Greater Boston Food Bank Inc",
         "url": null,
-        "money_goes_to": "not open yet: donations open on a fundraising page with a public total",
+        "money_goes_to": "Every.org, a US 501(c)(3) nonprofit, which grants it to the organization (unrestricted); this project never receives or holds money",
         "counted_here_only_if": "shown in the public total of the fundraising page",
-        "status": "in public review"
+        "status": "in public review",
+        "platform": "Every.org (US 501(c)(3) nonprofit; receipts tax-deductible only in the US)",
+        "public_total": {
+          "raised": "0",
+          "currency": "USD",
+          "people": 0,
+          "read_on": "2026-11-15"
+        },
+        "note": "Every.org suggests an optional tip to itself (sometimes preselected); it can be set to 0. Payment fees are deducted from what the organization receives."
       }
     },
     {
@@ -3281,18 +4754,34 @@
         "unanimous": true,
         "site": "utahfoodbank.org",
         "official_host": "utahfoodbank.org",
-        "profile_claimed": false
+        "profile_claimed": true
       },
-      "platform": "",
-      "counter": {},
-      "fundraiser_open": false,
+      "platform": "every.org",
+      "counter": {
+        "raised": "0",
+        "read_at": "2026-11-15T09:16:22.753364+00:00",
+        "currency": "USD",
+        "platform": "every.org",
+        "supporters": 0,
+        "raised_cents": 0,
+        "matches_cents": 0
+      },
+      "fundraiser_open": true,
       "progress_pct": 0,
       "donate": {
         "recipient": "Utah Food Bank",
         "url": null,
-        "money_goes_to": "not open yet: donations open on a fundraising page with a public total",
+        "money_goes_to": "Every.org, a US 501(c)(3) nonprofit, which grants it to the organization (unrestricted); this project never receives or holds money",
         "counted_here_only_if": "shown in the public total of the fundraising page",
-        "status": "in public review"
+        "status": "in public review",
+        "platform": "Every.org (US 501(c)(3) nonprofit; receipts tax-deductible only in the US)",
+        "public_total": {
+          "raised": "0",
+          "currency": "USD",
+          "people": 0,
+          "read_on": "2026-11-15"
+        },
+        "note": "Every.org suggests an optional tip to itself (sometimes preselected); it can be set to 0. Payment fees are deducted from what the organization receives."
       }
     },
     {
@@ -3811,6 +5300,267 @@
         "unanimous": true,
         "site": "",
         "official_host": "",
+        "profile_claimed": true
+      },
+      "platform": "every.org",
+      "counter": {
+        "raised": "0",
+        "read_at": "2026-11-15T09:16:23.427807+00:00",
+        "currency": "USD",
+        "platform": "every.org",
+        "supporters": 0,
+        "raised_cents": 0,
+        "matches_cents": 0
+      },
+      "fundraiser_open": true,
+      "progress_pct": 0,
+      "donate": {
+        "recipient": "World Central Kitchen Incorporated",
+        "url": null,
+        "money_goes_to": "Every.org, a US 501(c)(3) nonprofit, which grants it to the organization (unrestricted); this project never receives or holds money",
+        "counted_here_only_if": "shown in the public total of the fundraising page",
+        "status": "in public review",
+        "platform": "Every.org (US 501(c)(3) nonprofit; receipts tax-deductible only in the US)",
+        "public_total": {
+          "raised": "0",
+          "currency": "USD",
+          "people": 0,
+          "read_on": "2026-11-15"
+        },
+        "note": "Every.org suggests an optional tip to itself (sometimes preselected); it can be set to 0. Payment fees are deducted from what the organization receives."
+      }
+    },
+    {
+      "slug": "support-alameda-meals-on-wheels-against-hunger-5989",
+      "title": "Support Alameda Meals On Wheels against hunger",
+      "description": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'Every.org: meals on wheels'.",
+      "org_name": "Alameda Meals On Wheels",
+      "org_country": "US",
+      "org_website": "https://alamedamealsonwheels.org/",
+      "country": "US",
+      "currency": "USD",
+      "goal": 5000.0,
+      "raised": 0.0,
+      "donated": 0.0,
+      "status": "revisione_pubblica",
+      "donation_url": null,
+      "source_url": "https://www.charitynavigator.org/ein/942299811",
+      "approved_on": "2026-11-15",
+      "review_until": "2026-11-18 09:16 UTC",
+      "translations": {},
+      "tranches": [],
+      "checks": [
+        {
+          "verifier": "regole",
+          "check_type": "ammissibilita",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Regole di ammissibilità (config/regole.yaml):\n✓ fonte ammessa: fonte 'valutatore'\n✓ ente registrato nel database: Alameda Meals On Wheels\n✓ codice fiscale verificato (IRS): EIN 942299811\n✓ ente valutato dal valutatore: Charity Navigator\n✓ voto del valutatore: 90%, 4 stelle su 4 (minimo 4 stelle e 90%)\n✓ anni di bilanci ufficiali: 13 anni [2019, 2020, 2021, 2022, 2023] (minimo 3)\n✓ tema fame / nutrizione: categoria IRS K36Z (richiesta ['K3', 'K4']); tema nel nome: True; tema nella descrizione ufficiale: sì, \"meals on wheels\" in «Alameda Meals on Wheels (AMOW) is a locally-funded program delivering meals to Alameda residents 7 days a week since 1973.» (Every.org, campo description: -; API https://partners.every.org/v0.2/nonprofit/942299811)",
+          "source_url": "https://www.charitynavigator.org/ein/942299811"
+        },
+        {
+          "verifier": "regole",
+          "check_type": "ammissibilita",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "✓ valutatore indipendente tra le prove: 1 pagine di valutatori (https://www.charitynavigator.org/ein/942299811); minimo 1",
+          "source_url": "https://www.charitynavigator.org/ein/942299811"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "registrazione",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Alameda Meals On Wheels è un mebro 501(c)(3) riconosciuto dall'IRS dal 1° febbraio 1976 con EIN 942299811.",
+          "source_url": "https://www.charitynavigator.org/ein/942299811"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "bilanci",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Sono disponibili i rendiconti finanziari IRS Form 990 per molteplici anni fino al 2023 (entrate $1.136.221, uscite $588.546).",
+          "source_url": "https://www.charitynavigator.org/ein/942299811"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "valutazione_indipendente",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Valutato da Charity Navigator con punteggio del 90% e 4 stelle (Four-Star Charity).",
+          "source_url": "https://www.charitynavigator.org/ein/942299811"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "coerenza_importo",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "L'obiettivo di 5.000 USD è del tutto contenuto e coerente rispetto al bilancio operativo annuo di oltre 1 milione di dollari.",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/942299811"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "storico_progetti",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "L'ente opera da decenni nella consegna di pasti e assistenza nutrizionale a persone anziane e disabili ad Alameda County.",
+          "source_url": "https://www.charitynavigator.org/ein/942299811"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "segnali_allarme",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun segnale d'allarme o notizia negativa a carico dell'ente benefico. Le notizie di cronaca finanziaria riguardano la società crypto 'Alameda Research', entità del tutto distinta senza legami con l'ente.",
+          "source_url": "https://www.charitynavigator.org/ein/942299811"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "conflitti_interesse",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "source_url": "config/conflitti.yaml"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "registrazione",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Ente registrato come 501(c)(3) con EIN 942299811 nel registro IRS",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/942299811"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "bilanci",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Form 990 disponibili per gli ultimi 5 anni (2023‑2019) su ProPublica",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/942299811"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "valutazione_indipendente",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Charity Navigator assegna Four‑Star rating",
+          "source_url": "https://www.charitynavigator.org/ein/942299811"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "coerenza_importo",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "Richiesta di 5 000 USD è <1 % delle entrate annuali (≈1,1 M USD)",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/942299811"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "storico_progetti",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "MOWAC gestisce 2 700 pasti al giorno e ha più programmi documentati",
+          "source_url": "https://leadiq.com/c/meals-on-wheels-of-alameda-county-mowac/5a1ddbad2300005a00e96b49"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "segnali_allarme",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessuna evidenza di frode, urgenza artificiosa o pagamenti crypto nelle fonti",
+          "source_url": "https://www.charitynavigator.org/ein/942299811"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "conflitti_interesse",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "source_url": "config/conflitti.yaml"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "registrazione",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "L'ente 'Alameda Meals On Wheels' risulta registrato presso l'IRS con EIN 942299811, riconoscimento 501(c)(3) dal 1976, sede ad Alameda, CA. Confermato da ProPublica Nonprofit Explorer e Charity Navigator.",
+          "source_url": "https://www.charitynavigator.org/ein/942299811"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "bilanci",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Sono disponibili i bilanci pubblici (Form 990) per gli anni fiscali dal 2011 al 2023, con dati di entrate e spese accessibili tramite ProPublica. Charity Navigator conferma la trasparenza finanziaria.",
+          "source_url": "https://www.charitynavigator.org/ein/942299811"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "valutazione_indipendente",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Charity Navigator assegna la valutazione 'Four-Star Charity' (4 stelle) con un punteggio del 90% nella categoria Accountability & Finance, indicando una buona gestione finanziaria e trasparenza.",
+          "source_url": "https://www.charitynavigator.org/ein/942299811"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "coerenza_importo",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "L'obiettivo di raccolta di 5000 USD è coerente con le dimensioni dell'ente. I bilanci mostrano entrate annuali tra 578k e 1.1M USD (2018-2023). 5000 USD rappresenta una frazione minima (<1%) delle entrate annuali, ragionevole per un supporto locale o una campagna specifica.",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/942299811"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "storico_progetti",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "L'ente opera dal 1976 (ruling date IRS). Il sito web (feedingseniors.org) descrive la fornitura di 2.700 pasti al giorno agli anziani non autosufficienti nella Contea di Alameda, indicando un'attività continuativa e consolidata. I bilanci pluriennali confermano l'operatività costante.",
+          "source_url": "https://www.charitynavigator.org/ein/942299811"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "segnali_allarme",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun segnale d'allarme trovato nelle prove. L'ente ha un sito web istituzionale, contatti diretti (telefono, email), e una storia lunga. La menzione di 'Alameda' in E4 si riferisce a 'Alameda Research' (FTX), non a questo ente, ed è irrilevante. Non ci sono richieste di pagamenti in crypto anonime o pressioni artificiali.",
+          "source_url": "https://www.charitynavigator.org/ein/942299811"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "conflitti_interesse",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "source_url": "config/conflitti.yaml"
+        }
+      ],
+      "sources": [
+        "https://finance.yahoo.com/news/silvergate-center-doj-fraud-investigation-154405968.html",
+        "https://leadiq.com/c/meals-on-wheels-of-alameda-county-mowac/5a1ddbad2300005a00e96b49",
+        "https://projects.propublica.org/nonprofits/organizations/942299811",
+        "https://www.charitynavigator.org/ein/942299811",
+        "https://www.feedingseniors.org",
+        "https://www.mapquest.com/us/california/alameda-meals-on-wheels-11815025"
+      ],
+      "waiting_counter": false,
+      "profile": {},
+      "safety": {
+        "evaluator": "Charity Navigator",
+        "stars": 4,
+        "score": 90,
+        "rating_url": "https://www.charitynavigator.org/ein/942299811",
+        "rating_checked": "2026-11-13",
+        "since": "1976",
+        "registry_url": "https://projects.propublica.org/nonprofits/organizations/942299811",
+        "filings": 13,
+        "first_year": 2011,
+        "last_year": 2023,
+        "checks_passed": 18,
+        "verifiers": 3,
+        "unanimous": true,
+        "site": "alamedamealsonwheels.org",
+        "official_host": "alamedamealsonwheels.org",
         "profile_claimed": false
       },
       "platform": "",
@@ -3818,7 +5568,7 @@
       "fundraiser_open": false,
       "progress_pct": 0,
       "donate": {
-        "recipient": "World Central Kitchen Incorporated",
+        "recipient": "Alameda Meals On Wheels",
         "url": null,
         "money_goes_to": "not open yet: donations open on a fundraising page with a public total",
         "counted_here_only_if": "shown in the public total of the fundraising page",
@@ -5025,7 +6775,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-14T21:04:38.373719+00:00",
+        "read_at": "2026-11-15T09:16:21.036164+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -5045,7 +6795,7 @@
           "raised": "0",
           "currency": "USD",
           "people": 0,
-          "read_on": "2026-11-14"
+          "read_on": "2026-11-15"
         },
         "note": "Every.org suggests an optional tip to itself (sometimes preselected); it can be set to 0. Payment fees are deducted from what the organization receives."
       }
@@ -5635,18 +7385,34 @@
         "unanimous": true,
         "site": "flatheadfoodbank.org",
         "official_host": "flatheadfoodbank.org",
-        "profile_claimed": false
+        "profile_claimed": true
       },
-      "platform": "",
-      "counter": {},
-      "fundraiser_open": false,
+      "platform": "every.org",
+      "counter": {
+        "raised": "0",
+        "read_at": "2026-11-15T09:16:22.417599+00:00",
+        "currency": "USD",
+        "platform": "every.org",
+        "supporters": 0,
+        "raised_cents": 0,
+        "matches_cents": 0
+      },
+      "fundraiser_open": true,
       "progress_pct": 0,
       "donate": {
         "recipient": "Flathead Food Bank Inc",
         "url": null,
-        "money_goes_to": "not open yet: donations open on a fundraising page with a public total",
+        "money_goes_to": "Every.org, a US 501(c)(3) nonprofit, which grants it to the organization (unrestricted); this project never receives or holds money",
         "counted_here_only_if": "shown in the public total of the fundraising page",
-        "status": "in public review"
+        "status": "in public review",
+        "platform": "Every.org (US 501(c)(3) nonprofit; receipts tax-deductible only in the US)",
+        "public_total": {
+          "raised": "0",
+          "currency": "USD",
+          "people": 0,
+          "read_on": "2026-11-15"
+        },
+        "note": "Every.org suggests an optional tip to itself (sometimes preselected); it can be set to 0. Payment fees are deducted from what the organization receives."
       }
     },
     {
@@ -6239,7 +8005,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-14T22:04:06.536059+00:00",
+        "read_at": "2026-11-15T09:16:22.119685+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -6259,7 +8025,7 @@
           "raised": "0",
           "currency": "USD",
           "people": 0,
-          "read_on": "2026-11-14"
+          "read_on": "2026-11-15"
         },
         "note": "Every.org suggests an optional tip to itself (sometimes preselected); it can be set to 0. Payment fees are deducted from what the organization receives."
       }
@@ -8618,1160 +10384,6 @@
         "counted_here_only_if": "shown in the public total of the fundraising page",
         "status": "in public review"
       }
-    },
-    {
-      "slug": "support-maryland-food-bank-inc-against-hunger-938",
-      "title": "Support Maryland Food Bank Inc against hunger",
-      "description": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'site:charitynavigator.org Rating for food pantry hunger relief'.",
-      "org_name": "Maryland Food Bank Inc",
-      "org_country": "US",
-      "org_website": "https://mdfoodbank.org/",
-      "country": "US",
-      "currency": "USD",
-      "goal": 5000.0,
-      "raised": 0.0,
-      "donated": 0.0,
-      "status": "attiva",
-      "donation_url": "https://www.every.org/mdfoodbank/f/ai-against-hunger-for",
-      "source_url": "https://www.charitynavigator.org/ein/521135690",
-      "approved_on": "2026-11-07",
-      "review_until": null,
-      "translations": {
-        "de": {
-          "text": "Organisation bewertet von Charity Navigator, gefunden von den Agenten mit: 'site:charitynavigator.org Rating for food pantry hunger relief'.",
-          "title": "Unterstütze die Maryland Food Bank Inc im Kampf gegen den Hunger",
-          "source": "traduzione AI"
-        },
-        "en": {
-          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'site:charitynavigator.org Rating for food pantry hunger relief'.",
-          "title": "Support Maryland Food Bank Inc against hunger",
-          "source": "originale"
-        },
-        "es": {
-          "text": "Entidad evaluada por Charity Navigator, encontrada por los agentes con: 'site:charitynavigator.org Rating for food pantry hunger relief'.",
-          "title": "Apoyar a Maryland Food Bank Inc contra el hambre",
-          "source": "traduzione AI"
-        },
-        "fr": {
-          "text": "Organisme évalué par Charity Navigator, trouvé par les agents avec : 'site:charitynavigator.org Rating for food pantry hunger relief'.",
-          "title": "Soutenir Maryland Food Bank Inc contre la faim",
-          "source": "traduzione AI"
-        },
-        "hi": {
-          "text": "Charity Navigator द्वारा मूल्यांकित संस्था, एजेंटों द्वारा मिली: 'site:charitynavigator.org Rating for food pantry hunger relief'।",
-          "title": "भूख के खिलाफ Maryland Food Bank Inc का समर्थन करें",
-          "source": "traduzione AI"
-        },
-        "it": {
-          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'site:charitynavigator.org Rating for food pantry hunger relief'.",
-          "title": "Sostieni Maryland Food Bank Inc contro la fame",
-          "source": "traduzione AI"
-        },
-        "ja": {
-          "text": "Charity Navigator によって評価された団体で、エージェントが次の検索で見つけました: 'site:charitynavigator.org Rating for food pantry hunger relief'。",
-          "title": "飢餓に対して Maryland Food Bank Inc を支援する",
-          "source": "traduzione AI"
-        },
-        "pt": {
-          "text": "Entidade avaliada pela Charity Navigator, encontrada pelos agentes com: 'site:charitynavigator.org Rating for food pantry hunger relief'.",
-          "title": "Apoie a Maryland Food Bank Inc contra a fome",
-          "source": "traduzione AI"
-        },
-        "ru": {
-          "text": "Организация, оцененная Charity Navigator, найденная агентами с помощью: 'site:charitynavigator.org Rating for food pantry hunger relief'.",
-          "title": "Поддержать Maryland Food Bank Inc в борьбе с голодом",
-          "source": "traduzione AI"
-        },
-        "zh": {
-          "text": "机构由 Charity Navigator 评估，代理人通过以下方式找到：'site:charitynavigator.org Rating for food pantry hunger relief'。",
-          "title": "支持 Maryland Food Bank Inc 对抗饥饿",
-          "source": "traduzione AI"
-        }
-      },
-      "tranches": [
-        {
-          "number": 1,
-          "goal": 2000.0,
-          "status": "aperta"
-        }
-      ],
-      "checks": [
-        {
-          "verifier": "regole",
-          "check_type": "ammissibilita",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Regole di ammissibilità (config/regole.yaml):\n✓ fonte ammessa: fonte 'valutatore'\n✓ ente registrato nel database: Maryland Food Bank Inc\n✓ codice fiscale verificato (IRS): EIN 521135690\n✓ ente valutato dal valutatore: Charity Navigator\n✓ voto del valutatore: 96%, 4 stelle su 4 (minimo 4 stelle e 90%)\n✓ anni di bilanci ufficiali: 13 anni [2019, 2020, 2021, 2022, 2023] (minimo 3)\n✓ tema fame / nutrizione: categoria IRS - (richiesta ['K']); tema nel nome: True",
-          "source_url": "https://www.charitynavigator.org/ein/521135690"
-        },
-        {
-          "verifier": "regole",
-          "check_type": "ammissibilita",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "✓ valutatore indipendente tra le prove: 1 pagine di valutatori (https://www.charitynavigator.org/ein/521135690); minimo 1",
-          "source_url": "https://www.charitynavigator.org/ein/521135690"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "registrazione",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "L'ente Maryland Food Bank Inc risulta regolarmente registrato negli Stati Uniti con EIN 521135690 e riconoscimento 501(c)(3) dal 1979.",
-          "source_url": "https://www.charitynavigator.org/ein/521135690"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "bilanci",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Sono presenti i dati dei Form 990 pubblicati su ProPublica e Charity Navigator per gli anni dal 2018 al 2023.",
-          "source_url": "https://www.charitynavigator.org/ein/521135690"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "valutazione_indipendente",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "L'ente ha ottenuto una valutazione positiva di 4 stelle (96%) su Charity Navigator.",
-          "source_url": "https://www.charitynavigator.org/ein/521135690"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "coerenza_importo",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "L'obiettivo di raccolta previsto di 5000 USD è estremamente esiguo e del tutto sostenibile rispetto al volume d'affari multimilionario dell'ente.",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/521135690"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "storico_progetti",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "L'organizzazione ha una storia pluridecennale documentata e attiva dal 1979 nel settore della sicurezza alimentare.",
-          "source_url": "https://www.charitynavigator.org/ein/521135690"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "segnali_allarme",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Non sono stati riscontrati segnali d'allarme relativi all'ente candidato nelle prove esaminate (le notizie di cronaca trovate riguardano omonimie o altre entità non collegate alla Maryland Food Bank Inc).",
-          "source_url": "https://www.charitynavigator.org/ein/521135690"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "conflitti_interesse",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
-          "source_url": "config/conflitti.yaml"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "registrazione",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Ente registrato con EIN 521135690 e riconoscimento IRS 1979‑02‑01",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/521135690"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "bilanci",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Form 990 disponibili per gli anni 2023‑2018",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/521135690"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "valutazione_indipendente",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Charity Navigator assegna 96% Four‑Star",
-          "source_url": "https://www.charitynavigator.org/ein/521135690"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "coerenza_importo",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "Obiettivo 5 000 USD è <0.01% del fatturato annuale (~89 M USD)",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/521135690"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "storico_progetti",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "Attività documentata dal 1979 con rendiconti annuali",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/521135690"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "segnali_allarme",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun segnale negativo relativo a Maryland Food Bank trovato",
-          "source_url": "https://www.fincen.gov/resources/law-enforcement/case-examples/six-people-arrested-allegedly-bilking-millions-dollars"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "conflitti_interesse",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
-          "source_url": "config/conflitti.yaml"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "registrazione",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "L'ente 'Maryland Food Bank Inc' risulta registrato presso l'IRS con EIN 521135690, riconoscimento 501(c)(3) dal 1979, sede a Baltimore, MD. Confermato da ProPublica Nonprofit Explorer e Charity Navigator.",
-          "source_url": "https://www.charitynavigator.org/ein/521135690"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "bilanci",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Sono disponibili i bilanci pubblici (Form 990) per gli anni dal 2011 al 2023, con dati di entrate e spese dettagliati e link ai PDF su ProPublica.",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/521135690"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "valutazione_indipendente",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Charity Navigator assegna una valutazione di 4 stelle (96%) e completa tutti e 4 i beacon (Accountability & Finance, Impact & Measurement, Leadership & Planning, Culture & Compensation).",
-          "source_url": "https://www.charitynavigator.org/ein/521135690"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "coerenza_importo",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "L'obiettivo di raccolta di 5000 USD è trascurabile rispetto alle dimensioni dell'ente (entrate annuali nell'ordine di decine di milioni di USD, es. 89M USD nel 2023), rendendo l'importo pienamente coerente e ragionevole.",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/521135690"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "storico_progetti",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "L'ente opera dal 1979 e ha una storia documentata di 13 anni consecutivi di bilanci pubblici (2011-2023), indicando attività continuativa e rendicontazione regolare.",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/521135690"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "segnali_allarme",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun segnale d'allarme trovato nelle prove fornite. Le ricerche web [E3, E4, E5] riguardano altri enti (Second Harvest Food Bank in California, Danske Bank, Shanghai Husi Food) e non hanno alcuna relazione con Maryland Food Bank Inc. Il sito ufficiale è presente e i contatti sono standard (telefono, indirizzo fisico).",
-          "source_url": "https://www.charitynavigator.org/ein/521135690"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "conflitti_interesse",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
-          "source_url": "config/conflitti.yaml"
-        }
-      ],
-      "sources": [
-        "https://finance.yahoo.com/news/475m-lawsuit-alleges-inaction-danske-054254048.html",
-        "https://projects.propublica.org/nonprofits/organizations/521135690",
-        "https://www.charitynavigator.org/ein/521135690",
-        "https://www.cnbc.com/2014/07/27/china-food-scandal-us-parent-withdraws-products.html",
-        "https://www.fincen.gov/resources/law-enforcement/case-examples/six-people-arrested-allegedly-bilking-millions-dollars"
-      ],
-      "waiting_counter": false,
-      "profile": {
-        "de": {
-          "does": [
-            {
-              "text": "Die Maryland Food Bank arbeitet als gemeinnützige Hungerhilfe-Organisation, die sich darauf konzentriert, Menschen zu ernähren, Gemeinschaften zu stärken und den Hunger für mehr Marylanders zu beenden.",
-              "source": "https://www.charitynavigator.org/ein/521135690",
-              "by_org": false
-            },
-            {
-              "text": "Die Organisation arbeitet daran, ein gerechteres, widerstandsfähigeres und zugänglicheres Lebensmittelsystem für alle Marylanders aufzubauen.",
-              "source": "https://www.charitynavigator.org/ein/521135690",
-              "by_org": false
-            }
-          ],
-          "mission": "Die Maryland Food Bank ist eine gemeinnützige Hungerhilfe-Organisation, die Menschen ernährt, Gemeinschaften stärkt und den Hunger für mehr Marylanders beendet.",
-          "does_not": [],
-          "strengths": []
-        },
-        "en": {
-          "does": [
-            {
-              "text": "The Maryland Food Bank operates as a nonprofit hunger-relief organization focused on feeding people, strengthening communities, and ending hunger for more Marylanders.",
-              "quote": "The Maryland Food Bank is a nonprofit hunger-relief organization that is feeding people, strengthening communities, and ending hunger for more Marylanders.",
-              "source": "https://www.charitynavigator.org/ein/521135690",
-              "by_org": false
-            },
-            {
-              "text": "The organization works to build a more equitable, resilient, and accessible food system for all Marylanders.",
-              "quote": "MFB is working to build a more equitable, resilient, and accessible food system for all Marylanders.",
-              "source": "https://www.charitynavigator.org/ein/521135690",
-              "by_org": false
-            }
-          ],
-          "mission": "The Maryland Food Bank is a nonprofit hunger-relief organization that is feeding people, strengthening communities, and ending hunger for more Marylanders.",
-          "does_not": [],
-          "strengths": []
-        },
-        "es": {
-          "does": [
-            {
-              "text": "Maryland Food Bank opera como una organización sin fines de lucro de alivio del hambre centrada en alimentar a personas, fortalecer comunidades y acabar con el hambre para más Marylanders.",
-              "source": "https://www.charitynavigator.org/ein/521135690",
-              "by_org": false
-            },
-            {
-              "text": "La organización trabaja para construir un sistema alimentario más equitativo, resiliente y accesible para todos los Marylanders.",
-              "source": "https://www.charitynavigator.org/ein/521135690",
-              "by_org": false
-            }
-          ],
-          "mission": "Maryland Food Bank es una organización sin fines de lucro de alivio del hambre que está alimentando a personas, fortaleciendo comunidades y acabando con el hambre para más Marylanders.",
-          "does_not": [],
-          "strengths": []
-        },
-        "fr": {
-          "does": [
-            {
-              "text": "The Maryland Food Bank fonctionne comme une organisation à but non lucratif de lutte contre la faim axée sur l'alimentation des personnes, le renforcement des communautés et la fin de la faim pour plus de Marylanders.",
-              "source": "https://www.charitynavigator.org/ein/521135690",
-              "by_org": false
-            },
-            {
-              "text": "L'organisation travaille à construire un système alimentaire plus équitable, résilient et accessible pour tous les Marylanders.",
-              "source": "https://www.charitynavigator.org/ein/521135690",
-              "by_org": false
-            }
-          ],
-          "mission": "The Maryland Food Bank est une organisation à but non lucratif de lutte contre la faim qui nourrit les gens, renforce les communautés et met fin à la faim pour plus de Marylanders.",
-          "does_not": [],
-          "strengths": []
-        },
-        "hi": {
-          "does": [
-            {
-              "text": "The Maryland Food Bank एक गैर-लाभकारी भूख-राहत संगठन के रूप में कार्य करता है जो लोगों को भोजन प्रदान करने, समुदायों को सुदृढ़ करने, और अधिक Marylanders के लिए भूख को समाप्त करने पर केंद्रित है।",
-              "source": "https://www.charitynavigator.org/ein/521135690",
-              "by_org": false
-            },
-            {
-              "text": "संगठन अधिक समान, लचीला, और सभी Marylanders के लिए सुलभ खाद्य प्रणाली बनाने के लिए काम करता है।",
-              "source": "https://www.charitynavigator.org/ein/521135690",
-              "by_org": false
-            }
-          ],
-          "mission": "The Maryland Food Bank एक गैर-लाभकारी भूख-राहत संगठन है जो लोगों को भोजन प्रदान कर रहा है, समुदायों को सुदृढ़ कर रहा है, और अधिक Marylanders के लिए भूख को समाप्त कर रहा है।",
-          "does_not": [],
-          "strengths": []
-        },
-        "it": {
-          "does": [
-            {
-              "text": "The Maryland Food Bank opera come un'organizzazione senza scopo di lucro per la lotta alla fame, focalizzata sul nutrire le persone, rafforzare le comunità e porre fine alla fame per più residenti del Maryland.",
-              "source": "https://www.charitynavigator.org/ein/521135690",
-              "by_org": false
-            },
-            {
-              "text": "L'organizzazione lavora per costruire un sistema alimentare più equo, resiliente e accessibile per tutti i residenti del Maryland.",
-              "source": "https://www.charitynavigator.org/ein/521135690",
-              "by_org": false
-            }
-          ],
-          "mission": "The Maryland Food Bank è un'organizzazione senza scopo di lucro per la lotta alla fame che sta nutrendo le persone, rafforzando le comunità e ponendo fine alla fame per più residenti del Maryland.",
-          "does_not": [],
-          "strengths": []
-        },
-        "ja": {
-          "does": [
-            {
-              "text": "The Maryland Food Bankは、非営利の飢餓救済組織として、人々に食料を提供し、コミュニティを強化し、より多くのメリーランド州民の飢餓を終わらせることに焦点を当てて運営しています。",
-              "source": "https://www.charitynavigator.org/ein/521135690",
-              "by_org": false
-            },
-            {
-              "text": "The organizationは、すべてのメリーランド州民のために、より公平で、回復力があり、アクセスしやすい食料システムを構築することに取り組んでいます。",
-              "source": "https://www.charitynavigator.org/ein/521135690",
-              "by_org": false
-            }
-          ],
-          "mission": "The Maryland Food Bankは、非営利の飢餓救済組織であり、人々に食料を提供し、コミュニティを強化し、より多くのメリーランド州民の飢餓を終わらせています。",
-          "does_not": [],
-          "strengths": []
-        },
-        "pt": {
-          "does": [
-            {
-              "text": "O Maryland Food Bank opera como uma organização sem fins lucrativos de combate à fome focada em alimentar pessoas, fortalecer comunidades e acabar com a fome para mais moradores de Maryland.",
-              "source": "https://www.charitynavigator.org/ein/521135690",
-              "by_org": false
-            },
-            {
-              "text": "A organização trabalha para construir um sistema alimentar mais equitativo, resiliente e acessível para todos os moradores de Maryland.",
-              "source": "https://www.charitynavigator.org/ein/521135690",
-              "by_org": false
-            }
-          ],
-          "mission": "O Maryland Food Bank é uma organização sem fins lucrativos de combate à fome que está alimentando pessoas, fortalecendo comunidades e acabando com a fome para mais moradores de Maryland.",
-          "does_not": [],
-          "strengths": []
-        },
-        "ru": {
-          "does": [
-            {
-              "text": "Maryland Food Bank работает как некоммерческая организация по борьбе с голодом, сосредоточенная на кормлении людей, укреплении сообществ и прекращении голода для большего числа жителей Мэриленда.",
-              "source": "https://www.charitynavigator.org/ein/521135690",
-              "by_org": false
-            },
-            {
-              "text": "Организация работает над созданием более справедливой, устойчивой и доступной продовольственной системы для всех жителей Мэриленда.",
-              "source": "https://www.charitynavigator.org/ein/521135690",
-              "by_org": false
-            }
-          ],
-          "mission": "Maryland Food Bank является некоммерческой организацией по борьбе с голодом, которая кормит людей, укрепляет сообщества и заканчивает голод для большего числа жителей Мэриленда.",
-          "does_not": [],
-          "strengths": []
-        },
-        "zh": {
-          "does": [
-            {
-              "text": "Maryland Food Bank 作为一家非营利性饥饿救助组织运作，专注于为人们提供食物，强化社区，并为更多 Marylanders 消除饥饿。",
-              "source": "https://www.charitynavigator.org/ein/521135690",
-              "by_org": false
-            },
-            {
-              "text": "该组织致力于为所有 Marylanders 构建一个更公平、更有韧性且更易获取的食品系统。",
-              "source": "https://www.charitynavigator.org/ein/521135690",
-              "by_org": false
-            }
-          ],
-          "mission": "Maryland Food Bank 是一家非营利性饥饿救助组织，正在为人们提供食物，强化社区，并为更多 Marylanders 消除饥饿。",
-          "does_not": [],
-          "strengths": []
-        }
-      },
-      "safety": {
-        "evaluator": "Charity Navigator",
-        "stars": 4,
-        "score": 96,
-        "rating_url": "https://www.charitynavigator.org/ein/521135690",
-        "rating_checked": "2026-11-14",
-        "since": "1979",
-        "registry_url": "https://projects.propublica.org/nonprofits/organizations/521135690",
-        "filings": 13,
-        "first_year": 2011,
-        "last_year": 2023,
-        "checks_passed": 18,
-        "verifiers": 3,
-        "unanimous": true,
-        "site": "mdfoodbank.org",
-        "official_host": "mdfoodbank.org",
-        "profile_claimed": true
-      },
-      "platform": "every.org",
-      "counter": {
-        "raised": "0",
-        "read_at": "2026-11-14T21:04:37.528752+00:00",
-        "currency": "USD",
-        "platform": "every.org",
-        "supporters": 0,
-        "raised_cents": 0,
-        "matches_cents": 0
-      },
-      "fundraiser_open": true,
-      "progress_pct": 0,
-      "donate": {
-        "recipient": "Maryland Food Bank Inc",
-        "url": "https://www.every.org/mdfoodbank/f/ai-against-hunger-for",
-        "money_goes_to": "Every.org, a US 501(c)(3) nonprofit, which grants it to the organization (unrestricted); this project never receives or holds money",
-        "counted_here_only_if": "shown in the public total of the fundraising page",
-        "status": "open",
-        "platform": "Every.org (US 501(c)(3) nonprofit; receipts tax-deductible only in the US)",
-        "public_total": {
-          "raised": "0",
-          "currency": "USD",
-          "people": 0,
-          "read_on": "2026-11-14"
-        },
-        "note": "Every.org suggests an optional tip to itself (sometimes preselected); it can be set to 0. Payment fees are deducted from what the organization receives."
-      }
-    },
-    {
-      "slug": "support-new-hope-community-ministries-a-nj-nonprofit-corp-ag-2395",
-      "title": "Support New Hope Community Ministries A Nj Nonprofit Corp against hunger",
-      "description": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'Every.org: food-security'.",
-      "org_name": "New Hope Community Ministries A Nj Nonprofit Corp",
-      "org_country": "US",
-      "org_website": "https://newhopecmnj.org/",
-      "country": "US",
-      "currency": "USD",
-      "goal": 5000.0,
-      "raised": 0.0,
-      "donated": 0.0,
-      "status": "attiva",
-      "donation_url": "https://www.every.org/newhopecmnj/f/ai-against-hunger-for",
-      "source_url": "https://www.charitynavigator.org/ein/202893390",
-      "approved_on": "2026-11-08",
-      "review_until": null,
-      "translations": {
-        "de": {
-          "text": "Von Charity Navigator bewertete Organisation, von den Agenten gefunden mit: 'Every.org: food-security'.",
-          "title": "Unterstützen Sie New Hope Community Ministries A Nj Nonprofit Corp gegen Hunger",
-          "source": "traduzione AI"
-        },
-        "en": {
-          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'Every.org: food-security'.",
-          "title": "Support New Hope Community Ministries A Nj Nonprofit Corp against hunger",
-          "source": "originale"
-        },
-        "es": {
-          "text": "Entidad evaluada por Charity Navigator, encontrada por los agentes con: 'Every.org: food-security'.",
-          "title": "Apoya a New Hope Community Ministries A Nj Nonprofit Corp contra el hambre",
-          "source": "traduzione AI"
-        },
-        "fr": {
-          "text": "Organisme évalué par Charity Navigator, trouvé par les agents avec : 'Every.org: food-security'.",
-          "title": "Soutenez New Hope Community Ministries A Nj Nonprofit Corp contre la faim",
-          "source": "traduzione AI"
-        },
-        "hi": {
-          "text": "Charity Navigator द्वारा मूल्यांकित संगठन, एजेंटों द्वारा इसके साथ पाया गया: 'Every.org: food-security'।",
-          "title": "भुखमरी के खिलाफ New Hope Community Ministries A Nj Nonprofit Corp का समर्थन करें",
-          "source": "traduzione AI"
-        },
-        "it": {
-          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'Every.org: food-security'.",
-          "title": "Sostieni New Hope Community Ministries A Nj Nonprofit Corp contro la fame",
-          "source": "traduzione AI"
-        },
-        "ja": {
-          "text": "Charity Navigator によって評価された団体で、エージェントが次のように見つけました: 'Every.org: food-security'.",
-          "title": "New Hope Community Ministries A Nj Nonprofit Corp を飢餓に対して支援する",
-          "source": "traduzione AI"
-        },
-        "pt": {
-          "text": "Entidade avaliada por Charity Navigator, encontrada pelos agentes com: 'Every.org: food-security'.",
-          "title": "Apoie New Hope Community Ministries A Nj Nonprofit Corp contra a fome",
-          "source": "traduzione AI"
-        },
-        "ru": {
-          "text": "Организация, оцененная Charity Navigator, найдена агентами с: 'Every.org: food-security'.",
-          "title": "Поддержка New Hope Community Ministries A Nj Nonprofit Corp в борьбе с голодом",
-          "source": "traduzione AI"
-        },
-        "zh": {
-          "text": "经 Charity Navigator 评估的机构，由智能体通过以下途径找到：'Every.org: food-security'。",
-          "title": "支持 New Hope Community Ministries A Nj Nonprofit Corp 抗击饥饿",
-          "source": "traduzione AI"
-        }
-      },
-      "tranches": [
-        {
-          "number": 1,
-          "goal": 2000.0,
-          "status": "aperta"
-        }
-      ],
-      "checks": [
-        {
-          "verifier": "regole",
-          "check_type": "ammissibilita",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Regole di ammissibilità (config/regole.yaml):\n✓ fonte ammessa: fonte 'valutatore'\n✓ ente registrato nel database: New Hope Community Ministries A Nj Nonprofit Corp\n✓ codice fiscale verificato (IRS): EIN 202893390\n✓ ente valutato dal valutatore: Charity Navigator\n✓ voto del valutatore: 98%, 4 stelle su 4 (minimo 4 stelle e 90%)\n✓ anni di bilanci ufficiali: 15 anni [2019, 2020, 2021, 2022, 2023] (minimo 3)\n✓ tema fame / nutrizione: categoria IRS K31 (richiesta ['K']); tema nel nome: False",
-          "source_url": "https://www.charitynavigator.org/ein/202893390"
-        },
-        {
-          "verifier": "regole",
-          "check_type": "ammissibilita",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "✓ valutatore indipendente tra le prove: 2 pagine di valutatori (https://www.charitynavigator.org/ein/202893390, https://www.guidestar.org/profile/20-2893390); minimo 1",
-          "source_url": "https://www.charitynavigator.org/ein/202893390"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "registrazione",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "L'ente New Hope Community Ministries A NJ Nonprofit Corp risulta registrato negli USA come organizzazione 501(c)(3) con EIN 202893390 e data di esenzione dal 1 settembre 2012.",
-          "source_url": "https://www.charitynavigator.org/ein/202893390"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "bilanci",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "I bilanci Form 990 sono reperibili e pubblici dal 2008 al 2023, attestando entrate di 1.073.853 USD e uscite di 1.133.402 USD nell'ultimo anno fiscale registrato (2023).",
-          "source_url": "https://www.charitynavigator.org/ein/202893390"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "valutazione_indipendente",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Charity Navigator valuta l'ente con il punteggio del 98% (Four-Star Charity), completando 4 dei 4 beacon analizzati.",
-          "source_url": "https://www.charitynavigator.org/ein/202893390"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "coerenza_importo",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "L'obiettivo di raccolta previsto di 5.000 USD è estremamente contenuto e coerente a fronte di spese annuali superiori a 1 milione di USD.",
-          "source_url": "https://www.charitynavigator.org/ein/202893390"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "storico_progetti",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "L'ente documenta una solida storia operativa sul territorio con programmi attivi di distribuzione cibo d'emergenza, banco alimentare e servizi alle famiglie.",
-          "source_url": "https://www.charitynavigator.org/ein/202893390"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "segnali_allarme",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun segnale di allarme, notizia negativa o anomalia rilevati nella documentazione esaminata.",
-          "source_url": "https://www.charitynavigator.org/ein/202893390"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "conflitti_interesse",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
-          "source_url": "config/conflitti.yaml"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "registrazione",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Registro IRS e ProPublica confermano l'esistenza legale dell'ente (EIN 202893390, ruling 2012-09-01).",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/202893390"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "bilanci",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Form 990 disponibili per più anni (2022, 2020, 2019, 2018) su ProPublica.",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/202893390"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "valutazione_indipendente",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Charity Navigator, valutatore indipendente, assegna 4 stelle (Four‑Star Charity).",
-          "source_url": "https://www.charitynavigator.org/ein/202893390"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "coerenza_importo",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "Entrate annuali >1 M USD (es. 2023: 1 073 853 USD), quindi la richiesta di 5 000 USD è proporzionale.",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/202893390"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "storico_progetti",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "Sito web e profilo GuideStar mostrano programmi di food pantry, assistenza familiare e altre attività documentate.",
-          "source_url": "https://www.newhopecmnj.org"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "segnali_allarme",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun segnale di allarme (nessuna urgenza artificiosa, pagamenti crypto, o contatti esclusivi) riscontrato nelle fonti.",
-          "source_url": "https://www.charitynavigator.org/ein/202893390"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "conflitti_interesse",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
-          "source_url": "config/conflitti.yaml"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "registrazione",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "L'ente è registrato presso l'IRS come 501(c)(3) con EIN 202893390, riconosciuto il 01/09/2012. La sede legale è a Prospect Park, NJ.",
-          "source_url": "https://www.charitynavigator.org/ein/202893390"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "bilanci",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Sono disponibili i bilanci pubblici (Form 990) per gli anni dal 2008 al 2023, con dati finanziari dettagliati (es. entrate 2023: $1.07M).",
-          "source_url": "https://www.charitynavigator.org/ein/202893390"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "valutazione_indipendente",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Charity Navigator assegna 4 stelle su 4 (98%) e completa tutti e 4 i beacon di valutazione (Accountability, Impact, Leadership, Culture).",
-          "source_url": "https://www.charitynavigator.org/ein/202893390"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "coerenza_importo",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "L'obiettivo di raccolta di 5.000 USD è molto basso rispetto alle dimensioni dell'ente (entrate annuali > 1 milione di USD) e alle sue attività consolidate (food pantry, sviluppo comunitario).",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/202893390"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "storico_progetti",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "L'ente ha una storia documentata di oltre 10 anni (dal 2012) con programmi attivi come 'Feeding Families', 'Mental Health' e 'Youth Development', visibili sul sito e nei bilanci.",
-          "source_url": "https://www.charitynavigator.org/ein/202893390"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "segnali_allarme",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun segnale d'allarme trovato. Il sito web è attivo e professionale, i contatti sono standard (telefono, indirizzo fisico), non ci sono richieste di pagamenti anonimi o pressioni artificiali. La pagina LinkedIn non trovata (E5) è irrilevante dato che l'ente ha una forte presenza su altri canali ufficiali.",
-          "source_url": "https://www.charitynavigator.org/ein/202893390"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "conflitti_interesse",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
-          "source_url": "config/conflitti.yaml"
-        }
-      ],
-      "sources": [
-        "https://projects.propublica.org/nonprofits/organizations/202893390",
-        "https://www.charitynavigator.org/ein/202893390",
-        "https://www.guidestar.org/profile/20-2893390",
-        "https://www.linkedin.com/company/new-hope-community-ministries-a-nj-nonprofit-corp",
-        "https://www.mapquest.com/us/new-jersey/hope-for-a-better-future-a-nj-nonprofit-corporation-420002182",
-        "https://www.newhopecmnj.org"
-      ],
-      "waiting_counter": false,
-      "profile": {
-        "de": {
-          "does": [
-            {
-              "text": "New Hope Community Ministries stellt frische Erzeugnisse, Grundnahrungsmittel und Thanksgiving-Lebensmittel für Familien vor Ort bereit.",
-              "source": "https://www.newhopecmnj.org/",
-              "by_org": true
-            },
-            {
-              "text": "Sie betreibt eine Lebensmittelausgabe, die zweimal im Monat nur nach Terminvereinbarung für Personen geöffnet ist, die in Prospect Park, Haledon, North Haledon und Hawthorne leben.",
-              "source": "https://www.newhopecmnj.org/",
-              "by_org": true
-            },
-            {
-              "text": "Die Organisation bietet Beratung, ESL, Einwanderungsunterstützung und Programme für Frauen, Kinder und Jugendliche.",
-              "source": "https://www.newhopecmnj.org/",
-              "by_org": true
-            }
-          ],
-          "mission": "Durch die Liebe Christi befähigt New Hope Familien, den Teufelskreis der Armut zu durchbrechen und eine aufblühende Gemeinschaft zu schaffen.",
-          "does_not": [
-            {
-              "text": "Die Mitgliedschaft für die Lebensmittelausgabe ist auf Personen beschränkt, die in Prospect Park, Haledon, North Haledon und Hawthorne wohnen.",
-              "source": "https://www.newhopecmnj.org/",
-              "by_org": true
-            }
-          ],
-          "strengths": [
-            {
-              "text": "New Hope befindet sich nun im 20. Jahr seines Bestehens.",
-              "source": "https://www.newhopecmnj.org/",
-              "by_org": true
-            }
-          ]
-        },
-        "en": {
-          "does": [
-            {
-              "text": "New Hope Community Ministries provides fresh produce, pantry staples, and Thanksgiving food for local families.",
-              "quote": "This fall, New Hope is bringing our community together to provide fresh produce, pantry staples, and Thanksgiving food for local families.",
-              "source": "https://www.newhopecmnj.org/",
-              "by_org": true
-            },
-            {
-              "text": "It operates a food pantry distribution open twice a month by appointment only for individuals living in Prospect Park, Haledon, North Haledon, and Hawthorne.",
-              "quote": "Individuals who live in Prospect Park, Haledon, North Haledon and Hawthorne are eligible to sign up to be a Food Pantry member. The food pantry is open twice a month by appointment only.",
-              "source": "https://www.newhopecmnj.org/",
-              "by_org": true
-            },
-            {
-              "text": "The ministry offers counseling, ESL, immigration support, and programs for women, children, and teens.",
-              "quote": "We offer counseling, ESL, immigration support, and programs for women, children, and teens.",
-              "source": "https://www.newhopecmnj.org/",
-              "by_org": true
-            }
-          ],
-          "mission": "Through Christ’s love, New Hope empowers families to break through cycles of poverty and create a flourishing community.",
-          "does_not": [
-            {
-              "text": "Food pantry membership is limited to individuals who live in Prospect Park, Haledon, North Haledon, and Hawthorne.",
-              "quote": "Individuals who live in Prospect Park, Haledon, North Haledon and Hawthorne are eligible to sign up to be a Food Pantry member.",
-              "source": "https://www.newhopecmnj.org/",
-              "by_org": true
-            }
-          ],
-          "strengths": [
-            {
-              "text": "New Hope is now in its 20th year of operation.",
-              "quote": "Now in our 20th year, New Hope has grown from a food pantry into a hub for healing and hope.",
-              "source": "https://www.newhopecmnj.org/",
-              "by_org": true
-            }
-          ]
-        },
-        "es": {
-          "does": [
-            {
-              "text": "New Hope Community Ministries ofrece productos frescos, alimentos básicos de despensa y comida de Acción de Gracias para las familias locales.",
-              "source": "https://www.newhopecmnj.org/",
-              "by_org": true
-            },
-            {
-              "text": "Opera una distribución de despensa de alimentos abierta dos veces al mes solo con cita previa para personas que viven en Prospect Park, Haledon, North Haledon y Hawthorne.",
-              "source": "https://www.newhopecmnj.org/",
-              "by_org": true
-            },
-            {
-              "text": "El ministerio ofrece asesoramiento, ESL, apoyo de inmigración y programas para mujeres, niños y adolescentes.",
-              "source": "https://www.newhopecmnj.org/",
-              "by_org": true
-            }
-          ],
-          "mission": "A través del amor de Cristo, New Hope capacita a las familias para romper los ciclos de pobreza y crear una comunidad próspera.",
-          "does_not": [
-            {
-              "text": "La membresía de la despensa de alimentos está limitada a personas que viven en Prospect Park, Haledon, North Haledon y Hawthorne.",
-              "source": "https://www.newhopecmnj.org/",
-              "by_org": true
-            }
-          ],
-          "strengths": [
-            {
-              "text": "New Hope se encuentra ahora en su 20.º año de funcionamiento.",
-              "source": "https://www.newhopecmnj.org/",
-              "by_org": true
-            }
-          ]
-        },
-        "fr": {
-          "does": [
-            {
-              "text": "New Hope Community Ministries fournit des produits frais, des produits de base pour le garde-manger et des aliments de Thanksgiving aux familles locales.",
-              "source": "https://www.newhopecmnj.org/",
-              "by_org": true
-            },
-            {
-              "text": "Elle gère une distribution de la banque alimentaire ouverte deux fois par mois, uniquement sur rendez-vous, pour les personnes vivant à Prospect Park, Haledon, North Haledon et Hawthorne.",
-              "source": "https://www.newhopecmnj.org/",
-              "by_org": true
-            },
-            {
-              "text": "Le ministère propose des services de conseil, d'anglais langue seconde (ESL), un soutien à l'immigration et des programmes pour les femmes, les enfants et les adolescents.",
-              "source": "https://www.newhopecmnj.org/",
-              "by_org": true
-            }
-          ],
-          "mission": "Par l'amour du Christ, New Hope donne aux familles les moyens de rompre les cycles de la pauvreté et de créer une communauté florissante.",
-          "does_not": [
-            {
-              "text": "L'adhésion à la banque alimentaire est limitée aux personnes vivant à Prospect Park, Haledon, North Haledon et Hawthorne.",
-              "source": "https://www.newhopecmnj.org/",
-              "by_org": true
-            }
-          ],
-          "strengths": [
-            {
-              "text": "New Hope est maintenant dans sa 20th année d'opération.",
-              "source": "https://www.newhopecmnj.org/",
-              "by_org": true
-            }
-          ]
-        },
-        "hi": {
-          "does": [
-            {
-              "text": "New Hope Community Ministries स्थानीय परिवारों के लिए ताज़ा उत्पाद, पैंट्री की मुख्य वस्तुएं और Thanksgiving भोजन प्रदान करता है।",
-              "source": "https://www.newhopecmnj.org/",
-              "by_org": true
-            },
-            {
-              "text": "यह Prospect Park, Haledon, North Haledon और Hawthorne में रहने वाले व्यक्तियों के लिए केवल अपॉइंटमेंट द्वारा महीने में दो बार खुला फ़ूड पैंट्री वितरण संचालित करता है।",
-              "source": "https://www.newhopecmnj.org/",
-              "by_org": true
-            },
-            {
-              "text": "यह मिनिस्ट्री परामर्श, ESL, आव्रजन सहायता और महिलाओं, बच्चों व किशोरों के लिए कार्यक्रम प्रदान करती है।",
-              "source": "https://www.newhopecmnj.org/",
-              "by_org": true
-            }
-          ],
-          "mission": "Christ के प्रेम के माध्यम से, New Hope परिवारों को गरीबी के चक्र को तोड़ने और एक समृद्ध समुदाय बनाने के लिए सशक्त बनाता है।",
-          "does_not": [
-            {
-              "text": "फ़ूड पैंट्री की सदस्यता केवल उन व्यक्तियों तक सीमित है जो Prospect Park, Haledon, North Haledon और Hawthorne में रहते हैं।",
-              "source": "https://www.newhopecmnj.org/",
-              "by_org": true
-            }
-          ],
-          "strengths": [
-            {
-              "text": "New Hope अब अपने संचालन के 20th वर्ष में है।",
-              "source": "https://www.newhopecmnj.org/",
-              "by_org": true
-            }
-          ]
-        },
-        "it": {
-          "does": [
-            {
-              "text": "New Hope Community Ministries fornisce prodotti freschi, alimenti di base per la dispensa e cibo per il Ringraziamento alle famiglie locali.",
-              "source": "https://www.newhopecmnj.org/",
-              "by_org": true
-            },
-            {
-              "text": "Gestisce una distribuzione di una mensa alimentare aperta due volte al mese, solo su appuntamento, per le persone che vivono a Prospect Park, Haledon, North Haledon e Hawthorne.",
-              "source": "https://www.newhopecmnj.org/",
-              "by_org": true
-            },
-            {
-              "text": "Il ministero offre consulenza, corsi di inglese come seconda lingua (ESL), supporto all'immigrazione e programmi per donne, bambini e adolescenti.",
-              "source": "https://www.newhopecmnj.org/",
-              "by_org": true
-            }
-          ],
-          "mission": "Attraverso l'amore di Cristo, New Hope sostiene le famiglie a superare i cicli di povertà e a creare una comunità fiorente.",
-          "does_not": [
-            {
-              "text": "L'iscrizione alla mensa alimentare è limitata alle persone che vivono a Prospect Park, Haledon, North Haledon e Hawthorne.",
-              "source": "https://www.newhopecmnj.org/",
-              "by_org": true
-            }
-          ],
-          "strengths": [
-            {
-              "text": "New Hope è ora al suo 20° anno di attività.",
-              "source": "https://www.newhopecmnj.org/",
-              "by_org": true
-            }
-          ]
-        },
-        "ja": {
-          "does": [
-            {
-              "text": "New Hope Community Ministriesは地元の家族に新鮮な農産物、食料備蓄の必需品、そして感謝祭の食料を提供します。",
-              "source": "https://www.newhopecmnj.org/",
-              "by_org": true
-            },
-            {
-              "text": "それは、Prospect Park、Haledon、North Haledon、Hawthorneに住む個人向けに、月に2回、予約制で食料パントリーの配布を運営しています。",
-              "source": "https://www.newhopecmnj.org/",
-              "by_org": true
-            },
-            {
-              "text": "このミニストリーはカウンセリング、ESL（英語第二言語）教育、移民支援、そして女性、子供、ティーンエイジャー向けのプログラムを提供しています。",
-              "source": "https://www.newhopecmnj.org/",
-              "by_org": true
-            }
-          ],
-          "mission": "キリストの愛を通して、New Hopeは家族が貧困の連鎖を打破し、繁栄するコミュニティを創造できるよう支援します。",
-          "does_not": [
-            {
-              "text": "食料パントリーの会員資格は、Prospect Park、Haledon、North Haledon、Hawthorneに住む個人に限定されています。",
-              "source": "https://www.newhopecmnj.org/",
-              "by_org": true
-            }
-          ],
-          "strengths": [
-            {
-              "text": "New Hopeは現在、20th 年の運営を迎えています。",
-              "source": "https://www.newhopecmnj.org/",
-              "by_org": true
-            }
-          ]
-        },
-        "pt": {
-          "does": [
-            {
-              "text": "New Hope Community Ministries fornece produtos frescos, alimentos básicos e comida de Thanksgiving para famílias locais.",
-              "source": "https://www.newhopecmnj.org/",
-              "by_org": true
-            },
-            {
-              "text": "Opera uma distribuição de despensa de alimentos aberta duas vezes por mês apenas mediante agendamento para indivíduos que vivem em Prospect Park, Haledon, North Haledon e Hawthorne.",
-              "source": "https://www.newhopecmnj.org/",
-              "by_org": true
-            },
-            {
-              "text": "O ministério oferece aconselhamento, ESL, apoio à imigração e programas para mulheres, crianças e adolescentes.",
-              "source": "https://www.newhopecmnj.org/",
-              "by_org": true
-            }
-          ],
-          "mission": "Através do amor de Cristo, New Hope capacita as famílias a romper os ciclos de pobreza e a criar uma comunidade próspera.",
-          "does_not": [
-            {
-              "text": "A adesão à despensa de alimentos é limitada a indivíduos que vivem em Prospect Park, Haledon, North Haledon e Hawthorne.",
-              "source": "https://www.newhopecmnj.org/",
-              "by_org": true
-            }
-          ],
-          "strengths": [
-            {
-              "text": "New Hope está agora no seu 20º ano de operação.",
-              "source": "https://www.newhopecmnj.org/",
-              "by_org": true
-            }
-          ]
-        },
-        "ru": {
-          "does": [
-            {
-              "text": "New Hope Community Ministries предоставляет свежие продукты, основные продукты питания и еду на День благодарения для местных семей.",
-              "source": "https://www.newhopecmnj.org/",
-              "by_org": true
-            },
-            {
-              "text": "Организация проводит раздачу продуктов питания дважды в месяц только по предварительной записи для жителей Prospect Park, Haledon, North Haledon и Hawthorne.",
-              "source": "https://www.newhopecmnj.org/",
-              "by_org": true
-            },
-            {
-              "text": "Служение предлагает консультации, ESL, иммиграционную поддержку и программы для женщин, детей и подростков.",
-              "source": "https://www.newhopecmnj.org/",
-              "by_org": true
-            }
-          ],
-          "mission": "Через любовь Христа New Hope помогает семьям вырваться из круга бедности и создать процветающее сообщество.",
-          "does_not": [
-            {
-              "text": "Доступ к продовольственному складу ограничен для лиц, проживающих в Prospect Park, Haledon, North Haledon и Hawthorne.",
-              "source": "https://www.newhopecmnj.org/",
-              "by_org": true
-            }
-          ],
-          "strengths": [
-            {
-              "text": "New Hope работает уже 20-й год.",
-              "source": "https://www.newhopecmnj.org/",
-              "by_org": true
-            }
-          ]
-        },
-        "zh": {
-          "does": [
-            {
-              "text": "New Hope Community Ministries 为当地家庭提供新鲜农产品、食品库主食和感恩节食物。",
-              "source": "https://www.newhopecmnj.org/",
-              "by_org": true
-            },
-            {
-              "text": "其运营的食品库分发服务每月仅开放两次，且仅限居住在 Prospect Park、Haledon、North Haledon 和 Hawthorne 的居民预约。",
-              "source": "https://www.newhopecmnj.org/",
-              "by_org": true
-            },
-            {
-              "text": "该事工提供心理咨询、ESL、移民支持以及针对妇女、儿童和青少年的项目。",
-              "source": "https://www.newhopecmnj.org/",
-              "by_org": true
-            }
-          ],
-          "mission": "通过基督的爱，New Hope 赋能家庭打破贫困循环，建立繁荣的社区。",
-          "does_not": [
-            {
-              "text": "食品库会员资格仅限于居住在 Prospect Park、Haledon、North Haledon 和 Hawthorne 的居民。",
-              "source": "https://www.newhopecmnj.org/",
-              "by_org": true
-            }
-          ],
-          "strengths": [
-            {
-              "text": "New Hope 现已运营第 20 年。",
-              "source": "https://www.newhopecmnj.org/",
-              "by_org": true
-            }
-          ]
-        }
-      },
-      "safety": {
-        "evaluator": "Charity Navigator",
-        "stars": 4,
-        "score": 98,
-        "rating_url": "https://www.charitynavigator.org/ein/202893390",
-        "rating_checked": "2026-11-15",
-        "since": "2012",
-        "registry_url": "https://projects.propublica.org/nonprofits/organizations/202893390",
-        "filings": 15,
-        "first_year": 2008,
-        "last_year": 2023,
-        "checks_passed": 18,
-        "verifiers": 3,
-        "unanimous": true,
-        "site": "newhopecmnj.org",
-        "official_host": "newhopecmnj.org",
-        "profile_claimed": true
-      },
-      "platform": "every.org",
-      "counter": {
-        "raised": "0",
-        "read_at": "2026-11-14T21:04:38.807414+00:00",
-        "currency": "USD",
-        "platform": "every.org",
-        "supporters": 0,
-        "raised_cents": 0,
-        "matches_cents": 0
-      },
-      "fundraiser_open": true,
-      "progress_pct": 0,
-      "donate": {
-        "recipient": "New Hope Community Ministries A Nj Nonprofit Corp",
-        "url": "https://www.every.org/newhopecmnj/f/ai-against-hunger-for",
-        "money_goes_to": "Every.org, a US 501(c)(3) nonprofit, which grants it to the organization (unrestricted); this project never receives or holds money",
-        "counted_here_only_if": "shown in the public total of the fundraising page",
-        "status": "open",
-        "platform": "Every.org (US 501(c)(3) nonprofit; receipts tax-deductible only in the US)",
-        "public_total": {
-          "raised": "0",
-          "currency": "USD",
-          "people": 0,
-          "read_on": "2026-11-14"
-        },
-        "note": "Every.org suggests an optional tip to itself (sometimes preselected); it can be set to 0. Payment fees are deducted from what the organization receives."
-      }
     }
   ],
   "order_rule": "All projects are equal: the order rotates by one position every day.",
@@ -9783,11 +10395,11 @@
     "costs": {
       "USD": 8.5
     },
-    "ai_calls": 1082,
+    "ai_calls": 1134,
     "ai_cost_real_usd": 0.0,
-    "ai_value_offered_usd": 6.625503,
-    "candidates_examined": 57,
-    "candidates_discarded": 29
+    "ai_value_offered_usd": 7.102107,
+    "candidates_examined": 61,
+    "candidates_discarded": 32
   },
   "agent_program": {
     "join": "https://aiagainsthunger.org/en/agents.html",
