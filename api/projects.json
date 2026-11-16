@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T16:04:04.660374+00:00",
+  "generated_at": "2026-11-16T17:04:30.245900+00:00",
   "projects": [
     {
       "slug": "support-new-hope-community-ministries-a-nj-nonprofit-corp-ag-2395",
@@ -4364,6 +4364,34 @@
       ],
       "waiting_counter": false,
       "profile": {
+        "de": {
+          "does": [
+            {
+              "text": "World Central Kitchen stellt frische Mahlzeiten als Reaktion auf Krisen bereit und ist die Erste an vorderster Front.",
+              "source": "https://www.charitynavigator.org/ein/273521132",
+              "by_org": false
+            },
+            {
+              "text": "World Central Kitchen hat weltweit Hunderte Millionen Mahlzeiten serviert.",
+              "source": "https://www.charitynavigator.org/ein/273521132",
+              "by_org": false
+            },
+            {
+              "text": "World Central Kitchen bietet frisch zubereitete Mahlzeiten für von Katastrophen betroffene Menschen.",
+              "source": "https://wck.org/",
+              "by_org": true
+            }
+          ],
+          "mission": "Gegründet im Jahr 2010 von Chef José Andrés, World Central Kitchen (WCK) ist die Erste an vorderster Front, die frische Mahlzeiten als Reaktion auf Krisen bereitstellt. Durch Anwendung unseres Modells schneller Aktionen, Nutzung lokaler Ressourcen und Echtzeit‑Anpassung hat WCK weltweit Hunderte Millionen Mahlzeiten serviert.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "World Central Kitchen wurde 2010 gegründet.",
+              "source": "https://www.charitynavigator.org/ein/273521132",
+              "by_org": false
+            }
+          ]
+        },
         "en": {
           "does": [
             {
@@ -4391,6 +4419,230 @@
             {
               "text": "World Central Kitchen was founded in 2010.",
               "quote": "Founded in 2010 by Chef José Andrés, World Central Kitchen (WCK) is first to the frontlines providing fresh meals in response to crises.",
+              "source": "https://www.charitynavigator.org/ein/273521132",
+              "by_org": false
+            }
+          ]
+        },
+        "es": {
+          "does": [
+            {
+              "text": "World Central Kitchen proporciona comidas frescas en respuesta a crisis, actuando como la primera en la primera línea.",
+              "source": "https://www.charitynavigator.org/ein/273521132",
+              "by_org": false
+            },
+            {
+              "text": "World Central Kitchen ha servido cientos de millones de comidas en todo el mundo.",
+              "source": "https://www.charitynavigator.org/ein/273521132",
+              "by_org": false
+            },
+            {
+              "text": "World Central Kitchen sirve comidas recién hechas a personas afectadas por desastre.",
+              "source": "https://wck.org/",
+              "by_org": true
+            }
+          ],
+          "mission": "Fundada en 2010 por el Chef José Andrés, World Central Kitchen (WCK) es la primera en la primera línea proporcionando comidas frescas en respuesta a crisis. Aplicando nuestro modelo de acción rápida, aprovechando recursos locales y adaptándonos en tiempo real, WCK ha servido cientos de millones de comidas en todo el mundo.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "World Central Kitchen fue fundada en 2010.",
+              "source": "https://www.charitynavigator.org/ein/273521132",
+              "by_org": false
+            }
+          ]
+        },
+        "fr": {
+          "does": [
+            {
+              "text": "World Central Kitchen fournit des repas frais en réponse aux crises, agissant comme la première sur le terrain.",
+              "source": "https://www.charitynavigator.org/ein/273521132",
+              "by_org": false
+            },
+            {
+              "text": "World Central Kitchen a servi des centaines de millions de repas à travers le monde.",
+              "source": "https://www.charitynavigator.org/ein/273521132",
+              "by_org": false
+            },
+            {
+              "text": "World Central Kitchen sert des repas fraîchement préparés aux personnes touchées par la catastrophe.",
+              "source": "https://wck.org/",
+              "by_org": true
+            }
+          ],
+          "mission": "Fondée en 2010 par le Chef José Andrés, World Central Kitchen (WCK) est la première sur le terrain à fournir des repas frais en réponse aux crises. En appliquant notre modèle d'action rapide, en mobilisant les ressources locales et en s'adaptant en temps réel, WCK a servi des centaines de millions de repas à travers le monde.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "World Central Kitchen a été fondée en 2010.",
+              "source": "https://www.charitynavigator.org/ein/273521132",
+              "by_org": false
+            }
+          ]
+        },
+        "hi": {
+          "does": [
+            {
+              "text": "World Central Kitchen संकटों के जवाब में ताज़ा भोजन प्रदान करता है, अग्रिम पंक्ति में पहला बनकर कार्य करता है।",
+              "source": "https://www.charitynavigator.org/ein/273521132",
+              "by_org": false
+            },
+            {
+              "text": "World Central Kitchen ने दुनिया भर में hundreds of millions भोजन परोसे हैं।",
+              "source": "https://www.charitynavigator.org/ein/273521132",
+              "by_org": false
+            },
+            {
+              "text": "World Central Kitchen आपदा से प्रभावित लोगों को ताज़ा तैयार किए गए भोजन प्रदान करता है।",
+              "source": "https://wck.org/",
+              "by_org": true
+            }
+          ],
+          "mission": "2010 में Chef José Andrés द्वारा स्थापित, World Central Kitchen (WCK) संकटों के जवाब में ताज़ा भोजन प्रदान करने के लिए अग्रिम पंक्ति में पहला है। हमारी त्वरित कार्रवाई मॉडल को लागू करके, स्थानीय संसाधनों का उपयोग करके, और वास्तविक समय में अनुकूलित होकर, WCK ने दुनिया भर में hundreds of millions भोजन परोसे हैं।",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "World Central Kitchen की स्थापना 2010 में हुई थी।",
+              "source": "https://www.charitynavigator.org/ein/273521132",
+              "by_org": false
+            }
+          ]
+        },
+        "it": {
+          "does": [
+            {
+              "text": "World Central Kitchen fornisce pasti freschi in risposta alle crisi, agendo come la prima in prima linea.",
+              "source": "https://www.charitynavigator.org/ein/273521132",
+              "by_org": false
+            },
+            {
+              "text": "World Central Kitchen ha servito centinaia di milioni di pasti in tutto il mondo.",
+              "source": "https://www.charitynavigator.org/ein/273521132",
+              "by_org": false
+            },
+            {
+              "text": "World Central Kitchen serve pasti appena preparati alle persone colpite da disastro.",
+              "source": "https://wck.org/",
+              "by_org": true
+            }
+          ],
+          "mission": "Fondata nel 2010 dallo Chef José Andrés, World Central Kitchen (WCK) è la prima in prima linea a fornire pasti freschi in risposta alle crisi. Applicando il nostro modello di azione rapida, sfruttando le risorse locali e adattandosi in tempo reale, WCK ha servito centinaia di milioni di pasti in tutto il mondo.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "World Central Kitchen è stata fondata nel 2010.",
+              "source": "https://www.charitynavigator.org/ein/273521132",
+              "by_org": false
+            }
+          ]
+        },
+        "ja": {
+          "does": [
+            {
+              "text": "World Central Kitchenは危機に対応して新鮮な食事を提供し、最前線に立つ組織です。",
+              "source": "https://www.charitynavigator.org/ein/273521132",
+              "by_org": false
+            },
+            {
+              "text": "World Central Kitchenは世界中でhundreds of millions of mealsを提供してきました。",
+              "source": "https://www.charitynavigator.org/ein/273521132",
+              "by_org": false
+            },
+            {
+              "text": "World Central Kitchenは災害の影響を受けた人々に新鮮に調理された食事を提供します。",
+              "source": "https://wck.org/",
+              "by_org": true
+            }
+          ],
+          "mission": "2010年にシェフ・ホセ・アンドレスが設立したWorld Central Kitchen（WCK）は、危機に対応して新鮮な食事を提供する最前線に立つ組織です。迅速な行動モデルを適用し、現地の資源を活用し、リアルタイムで適応することで、WCKは世界中でhundreds of millions of mealsを提供してきました。",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "World Central Kitchenは2010年に設立されました。",
+              "source": "https://www.charitynavigator.org/ein/273521132",
+              "by_org": false
+            }
+          ]
+        },
+        "pt": {
+          "does": [
+            {
+              "text": "World Central Kitchen fornece refeições frescas em resposta a crises, atuando como a primeira na linha de frente.",
+              "source": "https://www.charitynavigator.org/ein/273521132",
+              "by_org": false
+            },
+            {
+              "text": "World Central Kitchen serviu centenas de milhões de refeições ao redor do mundo.",
+              "source": "https://www.charitynavigator.org/ein/273521132",
+              "by_org": false
+            },
+            {
+              "text": "World Central Kitchen serve refeições recém‑preparadas para pessoas afetadas por desastre.",
+              "source": "https://wck.org/",
+              "by_org": true
+            }
+          ],
+          "mission": "Fundada em 2010 por Chef José Andrés, World Central Kitchen (WCK) está na linha de frente fornecendo refeições frescas em resposta a crises. Aplicando nosso modelo de ação rápida, aproveitando recursos locais e adaptando em tempo real, a WCK serviu centenas de milhões de refeições ao redor do mundo.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "World Central Kitchen foi fundada em 2010.",
+              "source": "https://www.charitynavigator.org/ein/273521132",
+              "by_org": false
+            }
+          ]
+        },
+        "ru": {
+          "does": [
+            {
+              "text": "World Central Kitchen предоставляет свежие блюда в ответ на кризисы, действуя как первая на передовой.",
+              "source": "https://www.charitynavigator.org/ein/273521132",
+              "by_org": false
+            },
+            {
+              "text": "World Central Kitchen обслужила сотни миллионов блюд по всему миру.",
+              "source": "https://www.charitynavigator.org/ein/273521132",
+              "by_org": false
+            },
+            {
+              "text": "World Central Kitchen подаёт свежеприготовленные блюда людям, пострадавшим от стихийных бедствий.",
+              "source": "https://wck.org/",
+              "by_org": true
+            }
+          ],
+          "mission": "Основана в 2010 году шеф‑поваром Хосе Андресом, World Central Kitchen (WCK) первой выходит на передовую, предоставляя свежие блюда в ответ на кризисы. Применяя нашу модель быстрой реакции, используя местные ресурсы и адаптируясь в реальном времени, WCK обслужила сотни миллионов блюд по всему миру.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "World Central Kitchen была основана в 2010 году.",
+              "source": "https://www.charitynavigator.org/ein/273521132",
+              "by_org": false
+            }
+          ]
+        },
+        "zh": {
+          "does": [
+            {
+              "text": "World Central Kitchen 在危机中提供新鲜餐食，充当第一线。",
+              "source": "https://www.charitynavigator.org/ein/273521132",
+              "by_org": false
+            },
+            {
+              "text": "World Central Kitchen 已在全球提供了数以亿计的餐食。",
+              "source": "https://www.charitynavigator.org/ein/273521132",
+              "by_org": false
+            },
+            {
+              "text": "World Central Kitchen 为受灾人员提供新鲜制作的餐食。",
+              "source": "https://wck.org/",
+              "by_org": true
+            }
+          ],
+          "mission": "World Central Kitchen (WCK) 于2010年由Chef José Andrés创立，是第一批在危机前线提供新鲜餐食的组织。我们采用快速行动模式，利用当地资源，并实时适应，WCK 已在全球提供了数以亿计的餐食。",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "World Central Kitchen 于2010年成立。",
               "source": "https://www.charitynavigator.org/ein/273521132",
               "by_org": false
             }
@@ -9888,9 +10140,9 @@
     "costs": {
       "USD": 8.5
     },
-    "ai_calls": 1329,
+    "ai_calls": 1338,
     "ai_cost_real_usd": 0.0,
-    "ai_value_offered_usd": 8.422173,
+    "ai_value_offered_usd": 8.428631,
     "candidates_examined": 69,
     "candidates_discarded": 37
   },
