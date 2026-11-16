@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T10:04:31.084700+00:00",
+  "generated_at": "2026-11-16T15:04:43.925280+00:00",
   "projects": [
     {
       "slug": "support-new-hope-community-ministries-a-nj-nonprofit-corp-ag-2395",
@@ -640,7 +640,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-16T07:06:18.145950+00:00",
+        "read_at": "2026-11-16T14:12:21.651437+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -1294,7 +1294,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-16T07:06:17.431789+00:00",
+        "read_at": "2026-11-16T14:12:20.778205+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -1891,7 +1891,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-16T09:04:22.814406+00:00",
+        "read_at": "2026-11-16T14:12:25.215595+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -2487,7 +2487,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-16T09:04:20.263287+00:00",
+        "read_at": "2026-11-16T14:12:24.481742+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -3062,7 +3062,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-16T07:06:18.513204+00:00",
+        "read_at": "2026-11-16T14:12:22.139947+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -3093,7 +3093,7 @@
       "description": "Ente valutato da Charity Navigator, trovato dagli agenti con: \"riesame dell'equilibrio geografico (in pausa dal 2026-11-09)\".",
       "org_name": "The Greater Boston Food Bank Inc",
       "org_country": "US",
-      "org_website": null,
+      "org_website": "https://www.gbfb.org/",
       "country": "US",
       "currency": "USD",
       "goal": 5000.0,
@@ -3659,13 +3659,13 @@
         "verifiers": 3,
         "unanimous": true,
         "site": "",
-        "official_host": "",
+        "official_host": "gbfb.org",
         "profile_claimed": true
       },
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-16T07:06:19.921886+00:00",
+        "read_at": "2026-11-16T14:12:23.697832+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -4319,7 +4319,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-16T07:06:19.566389+00:00",
+        "read_at": "2026-11-16T14:12:23.342486+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -4350,7 +4350,7 @@
       "description": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'Every.org: food-security'.",
       "org_name": "World Central Kitchen Incorporated",
       "org_country": "US",
-      "org_website": null,
+      "org_website": "https://wck.org/",
       "country": "US",
       "currency": "USD",
       "goal": 5000.0,
@@ -4865,13 +4865,13 @@
         "verifiers": 3,
         "unanimous": true,
         "site": "",
-        "official_host": "",
+        "official_host": "wck.org",
         "profile_claimed": true
       },
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-16T07:06:20.304307+00:00",
+        "read_at": "2026-11-16T14:12:24.111745+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -6447,7 +6447,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-16T09:04:23.884353+00:00",
+        "read_at": "2026-11-16T14:12:25.577865+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -7040,7 +7040,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-16T07:06:17.811914+00:00",
+        "read_at": "2026-11-16T14:12:21.233223+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -8018,7 +8018,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-16T07:06:19.228049+00:00",
+        "read_at": "2026-11-16T14:12:22.971007+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -8639,7 +8639,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-16T07:06:18.842388+00:00",
+        "read_at": "2026-11-16T14:12:22.495882+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -9236,7 +9236,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-16T09:04:21.604703+00:00",
+        "read_at": "2026-11-16T14:12:24.826343+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -9726,7 +9726,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-16T07:06:16.905911+00:00",
+        "read_at": "2026-11-16T14:12:19.870240+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -10341,9 +10341,9 @@
     "costs": {
       "USD": 8.5
     },
-    "ai_calls": 1292,
+    "ai_calls": 1317,
     "ai_cost_real_usd": 0.0,
-    "ai_value_offered_usd": 8.161558,
+    "ai_value_offered_usd": 8.365623,
     "candidates_examined": 69,
     "candidates_discarded": 37
   },
