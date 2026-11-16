@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T09:04:04.869545+00:00",
+  "generated_at": "2026-11-16T10:04:31.084700+00:00",
   "projects": [
     {
       "slug": "support-new-hope-community-ministries-a-nj-nonprofit-corp-ag-2395",
@@ -1886,18 +1886,34 @@
         "unanimous": true,
         "site": "ourdailybreadfoodpantry.org",
         "official_host": "ourdailybreadfoodpantry.org",
-        "profile_claimed": false
+        "profile_claimed": true
       },
-      "platform": "",
-      "counter": {},
-      "fundraiser_open": false,
+      "platform": "every.org",
+      "counter": {
+        "raised": "0",
+        "read_at": "2026-11-16T09:04:22.814406+00:00",
+        "currency": "USD",
+        "platform": "every.org",
+        "supporters": 0,
+        "raised_cents": 0,
+        "matches_cents": 0
+      },
+      "fundraiser_open": true,
       "progress_pct": 0,
       "donate": {
         "recipient": "Our Daily Bread Food Pantry",
         "url": null,
-        "money_goes_to": "not open yet: donations open on a fundraising page with a public total",
+        "money_goes_to": "Every.org, a US 501(c)(3) nonprofit, which grants it to the organization (unrestricted); this project never receives or holds money",
         "counted_here_only_if": "shown in the public total of the fundraising page",
-        "status": "in public review"
+        "status": "in public review",
+        "platform": "Every.org (US 501(c)(3) nonprofit; receipts tax-deductible only in the US)",
+        "public_total": {
+          "raised": "0",
+          "currency": "USD",
+          "people": 0,
+          "read_on": "2026-11-16"
+        },
+        "note": "Every.org suggests an optional tip to itself (sometimes preselected); it can be set to 0. Payment fees are deducted from what the organization receives."
       }
     },
     {
@@ -2466,18 +2482,34 @@
         "unanimous": true,
         "site": "scvfoodpantry.org",
         "official_host": "scvfoodpantry.org",
-        "profile_claimed": false
+        "profile_claimed": true
       },
-      "platform": "",
-      "counter": {},
-      "fundraiser_open": false,
+      "platform": "every.org",
+      "counter": {
+        "raised": "0",
+        "read_at": "2026-11-16T09:04:20.263287+00:00",
+        "currency": "USD",
+        "platform": "every.org",
+        "supporters": 0,
+        "raised_cents": 0,
+        "matches_cents": 0
+      },
+      "fundraiser_open": true,
       "progress_pct": 0,
       "donate": {
         "recipient": "Santa Clarita Valley Food Pantry",
         "url": null,
-        "money_goes_to": "not open yet: donations open on a fundraising page with a public total",
+        "money_goes_to": "Every.org, a US 501(c)(3) nonprofit, which grants it to the organization (unrestricted); this project never receives or holds money",
         "counted_here_only_if": "shown in the public total of the fundraising page",
-        "status": "in public review"
+        "status": "in public review",
+        "platform": "Every.org (US 501(c)(3) nonprofit; receipts tax-deductible only in the US)",
+        "public_total": {
+          "raised": "0",
+          "currency": "USD",
+          "people": 0,
+          "read_on": "2026-11-16"
+        },
+        "note": "Every.org suggests an optional tip to itself (sometimes preselected); it can be set to 0. Payment fees are deducted from what the organization receives."
       }
     },
     {
@@ -6410,18 +6442,34 @@
         "unanimous": true,
         "site": "easthamptonfoodpantry.org",
         "official_host": "easthamptonfoodpantry.org",
-        "profile_claimed": false
+        "profile_claimed": true
       },
-      "platform": "",
-      "counter": {},
-      "fundraiser_open": false,
+      "platform": "every.org",
+      "counter": {
+        "raised": "0",
+        "read_at": "2026-11-16T09:04:23.884353+00:00",
+        "currency": "USD",
+        "platform": "every.org",
+        "supporters": 0,
+        "raised_cents": 0,
+        "matches_cents": 0
+      },
+      "fundraiser_open": true,
       "progress_pct": 0,
       "donate": {
         "recipient": "East Hampton Food Pantry Inc",
         "url": null,
-        "money_goes_to": "not open yet: donations open on a fundraising page with a public total",
+        "money_goes_to": "Every.org, a US 501(c)(3) nonprofit, which grants it to the organization (unrestricted); this project never receives or holds money",
         "counted_here_only_if": "shown in the public total of the fundraising page",
-        "status": "in public review"
+        "status": "in public review",
+        "platform": "Every.org (US 501(c)(3) nonprofit; receipts tax-deductible only in the US)",
+        "public_total": {
+          "raised": "0",
+          "currency": "USD",
+          "people": 0,
+          "read_on": "2026-11-16"
+        },
+        "note": "Every.org suggests an optional tip to itself (sometimes preselected); it can be set to 0. Payment fees are deducted from what the organization receives."
       }
     },
     {
@@ -9183,18 +9231,34 @@
         "unanimous": true,
         "site": "cvillefoodpantry.org",
         "official_host": "cvillefoodpantry.org",
-        "profile_claimed": false
+        "profile_claimed": true
       },
-      "platform": "",
-      "counter": {},
-      "fundraiser_open": false,
+      "platform": "every.org",
+      "counter": {
+        "raised": "0",
+        "read_at": "2026-11-16T09:04:21.604703+00:00",
+        "currency": "USD",
+        "platform": "every.org",
+        "supporters": 0,
+        "raised_cents": 0,
+        "matches_cents": 0
+      },
+      "fundraiser_open": true,
       "progress_pct": 0,
       "donate": {
         "recipient": "Loaves & Fishes Food Pantry Inc",
         "url": null,
-        "money_goes_to": "not open yet: donations open on a fundraising page with a public total",
+        "money_goes_to": "Every.org, a US 501(c)(3) nonprofit, which grants it to the organization (unrestricted); this project never receives or holds money",
         "counted_here_only_if": "shown in the public total of the fundraising page",
-        "status": "in public review"
+        "status": "in public review",
+        "platform": "Every.org (US 501(c)(3) nonprofit; receipts tax-deductible only in the US)",
+        "public_total": {
+          "raised": "0",
+          "currency": "USD",
+          "people": 0,
+          "read_on": "2026-11-16"
+        },
+        "note": "Every.org suggests an optional tip to itself (sometimes preselected); it can be set to 0. Payment fees are deducted from what the organization receives."
       }
     },
     {
@@ -10277,9 +10341,9 @@
     "costs": {
       "USD": 8.5
     },
-    "ai_calls": 1280,
+    "ai_calls": 1292,
     "ai_cost_real_usd": 0.0,
-    "ai_value_offered_usd": 8.130186,
+    "ai_value_offered_usd": 8.161558,
     "candidates_examined": 69,
     "candidates_discarded": 37
   },
