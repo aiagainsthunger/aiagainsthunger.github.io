@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T07:04:27.770774+00:00",
+  "generated_at": "2026-11-16T08:04:28.356197+00:00",
   "projects": [
     {
       "slug": "support-alameda-meals-on-wheels-against-hunger-5989",
@@ -2129,7 +2129,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-15T16:04:47.301383+00:00",
+        "read_at": "2026-11-16T07:06:17.811914+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -2149,9 +2149,254 @@
           "raised": "0",
           "currency": "USD",
           "people": 0,
-          "read_on": "2026-11-15"
+          "read_on": "2026-11-16"
         },
         "note": "Every.org suggests an optional tip to itself (sometimes preselected); it can be set to 0. Payment fees are deducted from what the organization receives."
+      }
+    },
+    {
+      "slug": "support-feeding-nations-through-education-against-hunger-7462",
+      "title": "Support Feeding Nations Through Education against hunger",
+      "description": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'site:charitynavigator.org Rating for feeding children school meals'.",
+      "org_name": "Feeding Nations Through Education",
+      "org_country": "US",
+      "org_website": "https://feedingnations.org/",
+      "country": "US",
+      "currency": "USD",
+      "goal": 5000.0,
+      "raised": 0.0,
+      "donated": 0.0,
+      "status": "revisione_pubblica",
+      "donation_url": null,
+      "source_url": "https://www.charitynavigator.org/ein/452468347",
+      "approved_on": "2026-11-16",
+      "review_until": "2026-11-19 07:07 UTC",
+      "translations": {},
+      "tranches": [],
+      "checks": [
+        {
+          "verifier": "regole",
+          "check_type": "ammissibilita",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Regole di ammissibilità (config/regole.yaml):\n✓ fonte ammessa: fonte 'valutatore'\n✓ ente registrato nel database: Feeding Nations Through Education\n✓ codice fiscale verificato (IRS): EIN 452468347\n✓ ente valutato dal valutatore: Charity Navigator\n✓ voto del valutatore: 91%, 4 stelle su 4 (minimo 4 stelle e 90%)\n✓ anni di bilanci ufficiali: 12 anni [2019, 2020, 2021, 2022, 2023] (minimo 3)\n✓ tema fame / nutrizione: categoria IRS Q33 (richiesta ['K3', 'K4']); tema nel nome: True; tema nella descrizione ufficiale: sì, \"feeding\" in «Feeding Nations Through Education is a 501 (c)(3) non-profit organization that works to relieve famine and raise literacy by equipping West African villagers with farming equipment, clean water, micro…» (Charity Navigator, riquadro Mission della pagina Rating for: https://www.charitynavigator.org/ein/452468347)",
+          "source_url": "https://www.charitynavigator.org/ein/452468347"
+        },
+        {
+          "verifier": "regole",
+          "check_type": "ammissibilita",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "✓ valutatore indipendente tra le prove: 1 pagine di valutatori (https://www.charitynavigator.org/ein/452468347); minimo 1",
+          "source_url": "https://www.charitynavigator.org/ein/452468347"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "registrazione",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "L'ente Feeding Nations Through Education è un'organizzazione 501(c)(3) registrata negli USA (EIN: 452468347) con riconoscimento IRS risalente al 01/11/2011.",
+          "source_url": "https://www.charitynavigator.org/ein/452468347"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "bilanci",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Sono presenti bilanci pubblici (IRS Form 990) dal 2011 al 2023; nel 2023 l'ente ha registrato entrate per $420.046 e spese per $436.326.",
+          "source_url": "https://www.charitynavigator.org/ein/452468347"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "valutazione_indipendente",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Charity Navigator valuta l'ente con 4 stelle e un punteggio del 91% (Four-Star Charity).",
+          "source_url": "https://www.charitynavigator.org/ein/452468347"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "coerenza_importo",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "L'importo previsto di $5.000 USD è ampiamente proporzionato al bilancio annuale dell'ente (oltre $400.000 nel 2023).",
+          "source_url": "https://www.charitynavigator.org/ein/452468347"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "storico_progetti",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "L'ente opera dal 2011 fornendo attrezzature agricole, acqua potabile, microcredito ed educazione in villaggi del Burkina Faso per contrastare la carestia e promuovere l'autosostentamento.",
+          "source_url": "https://www.charitynavigator.org/ein/452468347"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "segnali_allarme",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun segnale d'allarme riscontrato sulle fonti riguardanti Feeding Nations Through Education. Le notizie sulle frodi riguardano un ente totalmente distinto e non correlato (Feeding Our Future).",
+          "source_url": "https://www.charitynavigator.org/ein/452468347"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "conflitti_interesse",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "source_url": "config/conflitti.yaml"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "registrazione",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "L'ente è elencato nel registro IRS con EIN 452468347, sede a Gold River, CA, riconoscimento 501(c)(3) dal 2011.",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/452468347"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "bilanci",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Sono disponibili i Form 990 dal 2018 al 2023 sul ProPublica Nonprofit Explorer.",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/452468347"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "valutazione_indipendente",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Charity Navigator assegna all'ente una valutazione a quattro stelle (91%).",
+          "source_url": "https://www.charitynavigator.org/ein/452468347"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "coerenza_importo",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "L'importo richiesto (5 000 USD) è inferiore all'1 % del fatturato annuale (<1 MUSD) e alle spese operative dell'ente.",
+          "source_url": "https://leadiq.com/c/feeding-nations-through-education-fnte/6448201a7aa4183156782436"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "storico_progetti",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "La pagina di Charity Navigator descrive progetti di sollievo alla fame e istruzione in Burkina Faso; i Form 990 mostrano attività continuative dal 2013.",
+          "source_url": "https://www.charitynavigator.org/ein/452468347"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "segnali_allarme",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessuna notizia negativa, pressione o istruzioni sospette trovate per Feeding Nations Through Education; le segnalazioni di frode riguardano un'organizzazione diversa (Feeding Our Future).",
+          "source_url": "https://www.auditor.leg.state.mn.us/sreview/pdf/2024-mdefof.pdf"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "conflitti_interesse",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "source_url": "config/conflitti.yaml"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "registrazione",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "L'ente 'Feeding Nations Through Education' risulta registrato come 501(c)(3) con EIN 452468347, riconosciuto dall'IRS il 01/11/2011. La sede legale è a Chico, CA.",
+          "source_url": "https://www.charitynavigator.org/ein/452468347"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "bilanci",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Sono disponibili i bilanci pubblici (Form 990) per gli anni 2011-2023 su ProPublica Nonprofit Explorer, con dati di entrate e spese coerenti con la dimensione dell'ente.",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/452468347"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "valutazione_indipendente",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Charity Navigator assegna 4 stelle (91%) all'ente, indicando una buona performance in termini di accountability e finanza.",
+          "source_url": "https://www.charitynavigator.org/ein/452468347"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "coerenza_importo",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "L'obiettivo di raccolta di 5.000 USD è coerente con le dimensioni dell'ente (entrate annuali tra 140k e 420k USD) e con la natura dei progetti (supporto a villaggi in Burkina Faso).",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/452468347"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "storico_progetti",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "L'ente opera dal 2011 con una missione chiara (fame e istruzione in Africa Occidentale) e ha una storia documentata di bilanci e attività.",
+          "source_url": "https://www.charitynavigator.org/ein/452468347"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "segnali_allarme",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun segnale d'allarme trovato per 'Feeding Nations Through Education'. Le prove E3, E5 e E6 riguardano un ente diverso ('Feeding Our Future', Minnesota), coinvolto in una frode, ma non c'è alcun legame documentato tra i due enti (nomi, EIN, sedi e attività sono diversi).",
+          "source_url": "https://www.charitynavigator.org/ein/452468347"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "conflitti_interesse",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "source_url": "config/conflitti.yaml"
+        }
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Feeding_Our_Future",
+        "https://leadiq.com/c/feeding-nations-through-education-fnte/6448201a7aa4183156782436",
+        "https://projects.propublica.org/nonprofits/organizations/452468347",
+        "https://www.auditor.leg.state.mn.us/sreview/pdf/2024-mdefof.pdf",
+        "https://www.charitynavigator.org/ein/452468347",
+        "https://www.fbi.gov/news/stories/dozens-charged-in-250-million-covid-fraud-scheme-092122"
+      ],
+      "waiting_counter": false,
+      "profile": {},
+      "safety": {
+        "evaluator": "Charity Navigator",
+        "stars": 4,
+        "score": 91,
+        "rating_url": "https://www.charitynavigator.org/ein/452468347",
+        "rating_checked": "2026-11-15",
+        "since": "2011",
+        "registry_url": "https://projects.propublica.org/nonprofits/organizations/452468347",
+        "filings": 12,
+        "first_year": 2011,
+        "last_year": 2023,
+        "checks_passed": 18,
+        "verifiers": 3,
+        "unanimous": true,
+        "site": "feedingnations.org",
+        "official_host": "feedingnations.org",
+        "profile_claimed": false
+      },
+      "platform": "",
+      "counter": {},
+      "fundraiser_open": false,
+      "progress_pct": 0,
+      "donate": {
+        "recipient": "Feeding Nations Through Education",
+        "url": null,
+        "money_goes_to": "not open yet: donations open on a fundraising page with a public total",
+        "counted_here_only_if": "shown in the public total of the fundraising page",
+        "status": "in public review"
       }
     },
     {
@@ -2166,11 +2411,11 @@
       "goal": 5000.0,
       "raised": 0.0,
       "donated": 0.0,
-      "status": "revisione_pubblica",
-      "donation_url": null,
+      "status": "attiva",
+      "donation_url": "https://www.every.org/flatheadfoodbank/f/ai-against-hunger-for",
       "source_url": "https://www.charitynavigator.org/ein/810399818",
       "approved_on": "2026-11-13",
-      "review_until": "2026-11-16 07:07 UTC",
+      "review_until": null,
       "translations": {
         "de": {
           "text": "Organisation bewertet von Charity Navigator, gefunden von den Agenten mit: 'Every.org: food-security'.",
@@ -2223,7 +2468,13 @@
           "source": "traduzione AI"
         }
       },
-      "tranches": [],
+      "tranches": [
+        {
+          "number": 1,
+          "goal": 2000.0,
+          "status": "aperta"
+        }
+      ],
       "checks": [
         {
           "verifier": "regole",
@@ -2744,7 +2995,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-15T16:04:48.825345+00:00",
+        "read_at": "2026-11-16T07:06:19.228049+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -2755,16 +3006,16 @@
       "progress_pct": 0,
       "donate": {
         "recipient": "Flathead Food Bank Inc",
-        "url": null,
+        "url": "https://www.every.org/flatheadfoodbank/f/ai-against-hunger-for",
         "money_goes_to": "Every.org, a US 501(c)(3) nonprofit, which grants it to the organization (unrestricted); this project never receives or holds money",
         "counted_here_only_if": "shown in the public total of the fundraising page",
-        "status": "in public review",
+        "status": "open",
         "platform": "Every.org (US 501(c)(3) nonprofit; receipts tax-deductible only in the US)",
         "public_total": {
           "raised": "0",
           "currency": "USD",
           "people": 0,
-          "read_on": "2026-11-15"
+          "read_on": "2026-11-16"
         },
         "note": "Every.org suggests an optional tip to itself (sometimes preselected); it can be set to 0. Payment fees are deducted from what the organization receives."
       }
@@ -3365,7 +3616,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-15T16:04:48.462849+00:00",
+        "read_at": "2026-11-16T07:06:18.842388+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -3385,1426 +3636,9 @@
           "raised": "0",
           "currency": "USD",
           "people": 0,
-          "read_on": "2026-11-15"
+          "read_on": "2026-11-16"
         },
         "note": "Every.org suggests an optional tip to itself (sometimes preselected); it can be set to 0. Payment fees are deducted from what the organization receives."
-      }
-    },
-    {
-      "slug": "support-food-share-of-lincoln-county-against-hunger-2396",
-      "title": "Support Food Share Of Lincoln County against hunger",
-      "description": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'Every.org: food-security'.",
-      "org_name": "Food Share Of Lincoln County",
-      "org_country": "US",
-      "org_website": "https://foodsharelc.org/",
-      "country": "US",
-      "currency": "USD",
-      "goal": 5000.0,
-      "raised": 0.0,
-      "donated": 0.0,
-      "status": "revisione_pubblica",
-      "donation_url": null,
-      "source_url": "https://www.charitynavigator.org/ein/930793059",
-      "approved_on": "2026-11-13",
-      "review_until": "2026-11-16 07:06 UTC",
-      "translations": {
-        "de": {
-          "text": "Organisation bewertet von Charity Navigator, gefunden von den Agenten mit: 'Every.org: food-security'.",
-          "title": "Unterstützen Sie Food Share Of Lincoln County gegen den Hunger",
-          "source": "traduzione AI"
-        },
-        "en": {
-          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'Every.org: food-security'.",
-          "title": "Support Food Share Of Lincoln County against hunger",
-          "source": "originale"
-        },
-        "es": {
-          "text": "Entidad evaluada por Charity Navigator, encontrada por los agentes con: 'Every.org: food-security'.",
-          "title": "Apoya Food Share Of Lincoln County contra el hambre",
-          "source": "traduzione AI"
-        },
-        "fr": {
-          "text": "Organisation évaluée par Charity Navigator, trouvée par les agents avec : 'Every.org: food-security'.",
-          "title": "Soutenez Food Share Of Lincoln County contre la faim",
-          "source": "traduzione AI"
-        },
-        "hi": {
-          "text": "Charity Navigator द्वारा मूल्यांकित संस्था, एजेंटों द्वारा मिली: 'Every.org: food-security'।",
-          "title": "भूख के खिलाफ Food Share Of Lincoln County का समर्थन करें",
-          "source": "traduzione AI"
-        },
-        "it": {
-          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'Every.org: food-security'.",
-          "title": "Sostieni Food Share Of Lincoln County contro la fame",
-          "source": "traduzione AI"
-        },
-        "ja": {
-          "text": "Charity Navigator によって評価された団体で、エージェントが次で見つけました: 'Every.org: food-security'.",
-          "title": "飢餓に対して Food Share Of Lincoln County を支援する",
-          "source": "traduzione AI"
-        },
-        "pt": {
-          "text": "Entidade avaliada pela Charity Navigator, encontrada pelos agentes com: 'Every.org: food-security'.",
-          "title": "Apoie Food Share Of Lincoln County contra a fome",
-          "source": "traduzione AI"
-        },
-        "ru": {
-          "text": "Организация, оцененная Charity Navigator, найденная агентами с: 'Every.org: food-security'.",
-          "title": "Поддержите Food Share Of Lincoln County в борьбе с голодом",
-          "source": "traduzione AI"
-        },
-        "zh": {
-          "text": "机构由 Charity Navigator 评估，已被代理人通过以下方式找到：'Every.org: food-security'。",
-          "title": "支持 Food Share Of Lincoln County 抗击饥饿",
-          "source": "traduzione AI"
-        }
-      },
-      "tranches": [],
-      "checks": [
-        {
-          "verifier": "regole",
-          "check_type": "ammissibilita",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Regole di ammissibilità (config/regole.yaml):\n✓ fonte ammessa: fonte 'valutatore'\n✓ ente registrato nel database: Food Share Of Lincoln County\n✓ codice fiscale verificato (IRS): EIN 930793059\n✓ ente valutato dal valutatore: Charity Navigator\n✓ voto del valutatore: 97%, 4 stelle su 4 (minimo 4 stelle e 90%)\n✓ anni di bilanci ufficiali: 13 anni [2019, 2020, 2021, 2022, 2023] (minimo 3)\n✓ tema fame / nutrizione: categoria IRS K300 (richiesta ['K3', 'K4']); tema nel nome: True; tema nella descrizione ufficiale: sì, \"hunger\" in «TO ALLEVIATE HUNGER IN LINCOLN COUNTY BY SOLICITING, COLLECTING, AND DISTRIBUTING FOOD THROUGH A NETWORK OF AGENCIES.» (Charity Navigator, riquadro Mission della pagina Rating for: https://www.charitynavigator.org/ein/930793059)",
-          "source_url": "https://www.charitynavigator.org/ein/930793059"
-        },
-        {
-          "verifier": "regole",
-          "check_type": "ammissibilita",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "✓ valutatore indipendente tra le prove: 2 pagine di valutatori (https://www.charitynavigator.org/ein/930793059, https://charitywatch.org/); minimo 1",
-          "source_url": "https://www.charitynavigator.org/ein/930793059"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "registrazione",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "L'ente Food Share Of Lincoln County è registrato come 501(c)(3) negli USA (EIN 930793059) con sede a Newport, OR e data di esenzione dal 1982-09-01.",
-          "source_url": "https://www.charitynavigator.org/ein/930793059"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "bilanci",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Disponibili i modelli IRS Form 990 pubblicati regolarmente per diversi anni; nel 2023 l'ente riporta entrate per 1.853.897 USD e spese per 1.715.230 USD.",
-          "source_url": "https://www.charitynavigator.org/ein/930793059"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "valutazione_indipendente",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Charity Navigator valuta l'ente con 4 stelle e un punteggio del 97%.",
-          "source_url": "https://www.charitynavigator.org/ein/930793059"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "coerenza_importo",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "L'obiettivo di raccolta previsto di 5.000 USD è ampiamente commisurato al bilancio operativo dell'ente (oltre 1.7M USD di spese annue).",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/930793059"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "storico_progetti",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "L'ente opera dal 1982 coordinando una rete locale di banchi alimentari e punti mensa con rendicontazione continua.",
-          "source_url": "https://www.charitynavigator.org/ein/930793059"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "segnali_allarme",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun segnale di allarme o notizia negativa trovata a carico dell'ente nelle prove analizzate (il report E4 riguarda il Lincoln County Sheriff's Office in Missouri, un ente del tutto non correlato).",
-          "source_url": "https://www.charitynavigator.org/ein/930793059"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "conflitti_interesse",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
-          "source_url": "config/conflitti.yaml"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "registrazione",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Ente registrato con EIN 930793059, riconosciuto 501(c)(3) dal IRS, indirizzo confermato",
-          "source_url": "https://www.charitynavigator.org/ein/930793059"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "bilanci",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Form 990 disponibili per gli anni 2023, 2022, 2020, 2019, 2018",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/930793059"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "valutazione_indipendente",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Charity Navigator assegna 4‑star rating (97%)",
-          "source_url": "https://www.charitynavigator.org/ein/930793059"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "coerenza_importo",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "Richiesta 5 000 USD è <0.3% del fatturato annuale (~1.8 M USD)",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/930793059"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "storico_progetti",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "Sito web mostra programmi di distribuzione cibo, mappa panetterie e rapporto annuale",
-          "source_url": "https://foodsharelc.org"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "segnali_allarme",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun segnale di allarme: nessuna urgenza artificiosa, pagamenti crypto, contatti solo social, audit del LCSO non riguarda l'ente",
-          "source_url": "https://www.charitynavigator.org/ein/930793059"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "conflitti_interesse",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
-          "source_url": "config/conflitti.yaml"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "registrazione",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "L'ente 'Food Share Of Lincoln County' è registrato come organizzazione 501(c)(3) con EIN 930793059, riconosciuto dall'IRS dal 1982. La sede è a Newport, OR.",
-          "source_url": "https://www.charitynavigator.org/ein/930793059"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "bilanci",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Sono disponibili i bilanci pubblici (Form 990) per gli ultimi 13 anni (2011-2023) su ProPublica Nonprofit Explorer, con dati dettagliati su entrate e spese.",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/930793059"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "valutazione_indipendente",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Charity Navigator assegna all'ente una valutazione di 4 stelle (Four-Star Charity) con un punteggio del 97% nella categoria Accountability & Finance.",
-          "source_url": "https://www.charitynavigator.org/ein/930793059"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "coerenza_importo",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "L'obiettivo di raccolta di 5.000 USD è coerente con le dimensioni dell'ente, che ha registrato entrate annuali di circa 1,8 milioni di USD nel 2023. L'importo richiesto è modesto rispetto alla capacità finanziaria dell'organizzazione.",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/930793059"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "storico_progetti",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "L'ente ha una storia documentata di attività dal 1982, con bilanci pubblici per oltre un decennio e una presenza attiva nella distribuzione di cibo nella contea di Lincoln, come confermato dal sito web e dalle notizie locali.",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/930793059"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "segnali_allarme",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun segnale d'allarme trovato. L'ente ha un sito web attivo, contatti pubblici, bilanci trasparenti e una buona reputazione. Le prove non indicano problemi di governance, pagamenti a persone fisiche o pressioni artificiali.",
-          "source_url": "https://www.charitynavigator.org/ein/930793059"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "conflitti_interesse",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
-          "source_url": "config/conflitti.yaml"
-        }
-      ],
-      "sources": [
-        "https://charitywatch.org/",
-        "https://foodsharelc.org",
-        "https://lincolnchronicle.org/nonprofit-organizations-to-receive-grants",
-        "https://oig.justice.gov/sites/default/files/reports/24-062.pdf",
-        "https://projects.propublica.org/nonprofits/organizations/930793059",
-        "https://www.charitynavigator.org/ein/930793059"
-      ],
-      "waiting_counter": false,
-      "profile": {
-        "de": {
-          "does": [
-            {
-              "text": "Die Organisation verteilt Notfall-Lebensmittelboxen über ein Netzwerk von seven angeschlossenen Tafeln im gesamten Lincoln County.",
-              "source": "https://foodsharelc.org/about-us/",
-              "by_org": true
-            },
-            {
-              "text": "Die Wohltätigkeitsorganisation verteilt jährlich über 1,000,000 Pfund Lebensmittel, was 4,000,000 Mahlzeiten entspricht, aus verschiedenen Lieferquellen.",
-              "source": "https://foodsharelc.org/about-us/",
-              "by_org": true
-            },
-            {
-              "text": "Die Einheit stellt Lebensmittel und gespendete Gegenstände lokalen Partneragenturen zur Verfügung, um deren Betriebsbudgets zu erweitern.",
-              "source": "https://foodsharelc.org/about-us/",
-              "by_org": true
-            },
-            {
-              "text": "Die Organisation sammelt und verteilt Lebensmittel über Agenturnetzwerke und bietet gleichzeitig temporäre Unterstützung für Einzelpersonen und Familien.",
-              "source": "https://www.charitynavigator.org/ein/930793059",
-              "by_org": false
-            }
-          ],
-          "mission": "UM HUNGER IM LINCOLN COUNTY ZU LINDERN, INDEM Nahrungsmittel ANGEFORDERT, GESAMMELT UND ÜBER EIN NETZWERK VON AGENTUREN VERTEILT WERDEN. UM TEMPORÄRE DIENSTLEISTUNGEN FÜR EINZELPERSONEN UND FAMILIEN IN NOTLAGEN ZU BEREITEN. UM KLIENTEN ZU HILFEN, SELBSTVERSTÄNDIGER ZU WERDEN UND DAS BEWUSSTSEIN DER GEMEINSCHAFT FÜR HUNGER ZU STEIGERN.",
-          "does_not": [],
-          "strengths": [
-            {
-              "text": "Die Organisation leitet seit 1982 die Bemühungen zur Beseitigung von Hunger in der Gemeinschaft von Lincoln County.",
-              "source": "https://foodsharelc.org/about-us/",
-              "by_org": true
-            },
-            {
-              "text": "Die Organisation stellt auf ihrer Website öffentlichen Zugang zu ihrem jährlichen IRS Tax Form 990 bereit.",
-              "source": "https://foodsharelc.org/about-us/",
-              "by_org": true
-            },
-            {
-              "text": "Die Wohltätigkeitsorganisation bietet öffentlichen Zugang zu ihrem Jahresbericht für das Geschäftsjahr 2023.",
-              "source": "https://foodsharelc.org/about-us/",
-              "by_org": true
-            }
-          ]
-        },
-        "en": {
-          "does": [
-            {
-              "text": "The organization distributes emergency food boxes through a network of seven affiliated pantries across Lincoln County.",
-              "quote": "Food Share of Lincoln County distributes emergency food boxes through seven affiliated pantries located in the Coastal Range, Lincoln City, Depoe Bay, Newport, including Salvation Army, Waldport, Siletz and Toledo.",
-              "source": "https://foodsharelc.org/about-us/",
-              "by_org": true
-            },
-            {
-              "text": "The charity distributes over 1,000,000 pounds of food, equating to 4,000,000 meals, each year from various supply sources.",
-              "quote": "Food Share distributes over 1,000,000 pounds of food (equating to 4,000,000 meals) each year from various sources including Oregon Food Bank, USDA commodities, local farms, retailers, individual and small business donors.",
-              "source": "https://foodsharelc.org/about-us/",
-              "by_org": true
-            },
-            {
-              "text": "The entity provides food and donated items to local partner agencies to help extend their operational budgets.",
-              "quote": "In addition to the pantries, we provide assistance in the form of food, and other donated items to local partner agencies. Our support helps stretch the agency’s budget thereby allowing them to provide more direct client services.",
-              "source": "https://foodsharelc.org/about-us/",
-              "by_org": true
-            },
-            {
-              "text": "The organization collects and distributes food through agency networks while providing temporary assistance to individuals and families.",
-              "quote": "TO ALLEVIATE HUNGER IN LINCOLN COUNTY BY SOLICITING, COLLECTING, AND DISTRIBUTING FOOD THROUGH A NETWORK OF AGENCIES. TO PROVIDE TEMPORARY SERVICES TO INDIVIDUALS AND FAMILIES IN TIME OF NEED.",
-              "source": "https://www.charitynavigator.org/ein/930793059",
-              "by_org": false
-            }
-          ],
-          "mission": "TO ALLEVIATE HUNGER IN LINCOLN COUNTY BY SOLICITING, COLLECTING, AND DISTRIBUTING FOOD THROUGH A NETWORK OF AGENCIES. TO PROVIDE TEMPORARY SERVICES TO INDIVIDUALS AND FAMILIES IN TIME OF NEED. TO ASSIST CLIENTS TO BECOME MORE SELF-SUFFICIENT AND INCREASE COMMUNITY AWARENESS OF HUNGER.",
-          "does_not": [],
-          "strengths": [
-            {
-              "text": "The organization has been leading community hunger elimination efforts in Lincoln County since 1982.",
-              "quote": "Since 1982, Food Share of Lincoln County has led community efforts in awareness and elimination of hunger in Lincoln County.",
-              "source": "https://foodsharelc.org/about-us/",
-              "by_org": true
-            },
-            {
-              "text": "The organization maintains public access to its annual IRS Tax Form 990 on its website.",
-              "quote": "The FSLC Annual IRS Tax Form 990 can be accessed by the button below.",
-              "source": "https://foodsharelc.org/about-us/",
-              "by_org": true
-            },
-            {
-              "text": "The charity provides public access to its annual report for Fiscal Year 2023.",
-              "quote": "The FSLC Annual Report for Fiscal Year 2023 can be accessed with the button below.",
-              "source": "https://foodsharelc.org/about-us/",
-              "by_org": true
-            }
-          ]
-        },
-        "es": {
-          "does": [
-            {
-              "text": "La organización distribuye cajas de alimentos de emergencia a través de una red de seven despensas afiliadas en Lincoln County.",
-              "source": "https://foodsharelc.org/about-us/",
-              "by_org": true
-            },
-            {
-              "text": "La organización benéfica distribuye más de 1,000,000 libras de alimentos, equivalentes a 4,000,000 comidas, cada año de diversas fuentes de suministro.",
-              "source": "https://foodsharelc.org/about-us/",
-              "by_org": true
-            },
-            {
-              "text": "La entidad proporciona alimentos y artículos donados a agencias locales asociadas para ayudar a ampliar sus presupuestos operativos.",
-              "source": "https://foodsharelc.org/about-us/",
-              "by_org": true
-            },
-            {
-              "text": "La organización recoge y distribuye alimentos a través de redes de agencias mientras brinda asistencia temporal a individuos y familias.",
-              "source": "https://www.charitynavigator.org/ein/930793059",
-              "by_org": false
-            }
-          ],
-          "mission": "PARA ALIVIAR EL HAMBRE EN LINCOLN COUNTY SOLICITANDO, RECOGIENDO Y DISTRIBUYENDO ALIMENTOS A TRAVÉS DE UNA RED DE AGENCIAS. PARA PROPORCIONAR SERVICIOS TEMPORALES A INDIVIDUOS Y FAMILIAS EN MOMENTOS DE NECESIDAD. PARA AYUDAR A LOS CLIENTES A VOLVERSE MÁS AUTOSUFICIENTES Y AUMENTAR LA CONCIENCIA COMUNITARIA SOBRE EL HAMBRE.",
-          "does_not": [],
-          "strengths": [
-            {
-              "text": "La organización ha liderado los esfuerzos de eliminación del hambre comunitaria en Lincoln County desde 1982.",
-              "source": "https://foodsharelc.org/about-us/",
-              "by_org": true
-            },
-            {
-              "text": "La organización mantiene el acceso público a su formulario anual IRS Tax Form 990 en su sitio web.",
-              "source": "https://foodsharelc.org/about-us/",
-              "by_org": true
-            },
-            {
-              "text": "La organización benéfica brinda acceso público a su informe anual del año fiscal 2023.",
-              "source": "https://foodsharelc.org/about-us/",
-              "by_org": true
-            }
-          ]
-        },
-        "fr": {
-          "does": [
-            {
-              "text": "L'organisation distribue des boîtes alimentaires d'urgence via un réseau de sept épiceries associées à travers le comté de Lincoln.",
-              "source": "https://foodsharelc.org/about-us/",
-              "by_org": true
-            },
-            {
-              "text": "La charité distribue plus de 1,000,000 livres de nourriture, équivalant à 4,000,000 repas, chaque année provenant de diverses sources d'approvisionnement.",
-              "source": "https://foodsharelc.org/about-us/",
-              "by_org": true
-            },
-            {
-              "text": "L'entité fournit de la nourriture et des articles donnés aux agences partenaires locales pour aider à étendre leurs budgets opérationnels.",
-              "source": "https://foodsharelc.org/about-us/",
-              "by_org": true
-            },
-            {
-              "text": "L'organisation collecte et distribue de la nourriture via des réseaux d'agences tout en fournissant une assistance temporaire aux individus et aux familles.",
-              "source": "https://www.charitynavigator.org/ein/930793059",
-              "by_org": false
-            }
-          ],
-          "mission": "ALLEVIER LA FAMÉE DANS LE COMTÉ DE LINCOLN EN SOLLICITANT, COLLECTANT ET DISTRIBUANT DE LA NOURRITURE PAR LE BORD D'UN RÉSEAU D'AGENCES. FOURNIR DES SERVICES TEMPORAIRE AUX INDIVIDUS ET AUX FAMILLES EN CAS DE BESOIN. AIDER LES CLIENTS À DEVENIR PLUS AUTONOMES ET AUGMENTER LA CONSCIENCE COMMUNAUTAIRE DE LA FAMÉE.",
-          "does_not": [],
-          "strengths": [
-            {
-              "text": "L'organisation dirige les efforts d'élimination de la faim communautaire dans le comté de Lincoln depuis 1982.",
-              "source": "https://foodsharelc.org/about-us/",
-              "by_org": true
-            },
-            {
-              "text": "L'organisation maintient l'accès public à son IRS Tax Form 990 sur son site Web.",
-              "source": "https://foodsharelc.org/about-us/",
-              "by_org": true
-            },
-            {
-              "text": "La charité fournit un accès public à son rapport annuel pour l'exercice fiscal 2023.",
-              "source": "https://foodsharelc.org/about-us/",
-              "by_org": true
-            }
-          ]
-        },
-        "hi": {
-          "does": [
-            {
-              "text": "संगठन लिंकन काउंटी में सात संबद्ध पैंट्रीज़ के नेटवर्क के माध्यम से आपातकालीन खाद्य बॉक्स वितरित करता है।",
-              "source": "https://foodsharelc.org/about-us/",
-              "by_org": true
-            },
-            {
-              "text": "चैरिटी प्रत्येक वर्ष विभिन्न आपूर्ति स्रोतों से 1,000,000 पाउंड से अधिक भोजन वितरित करती है, जो 4,000,000 भोजन के बराबर है।",
-              "source": "https://foodsharelc.org/about-us/",
-              "by_org": true
-            },
-            {
-              "text": "इकाई स्थानीय साझेदार एजेंसियों को भोजन और दान किए गए सामान प्रदान करती है ताकि उनके संचालन बजट को बढ़ाया जा सके।",
-              "source": "https://foodsharelc.org/about-us/",
-              "by_org": true
-            },
-            {
-              "text": "संगठन एजेंसी नेटवर्क के माध्यम से भोजन एकत्रित और वितरित करता है, साथ ही व्यक्तियों और परिवारों को अस्थायी सहायता प्रदान करता है।",
-              "source": "https://www.charitynavigator.org/ein/930793059",
-              "by_org": false
-            }
-          ],
-          "mission": "लिंकन काउंटी में भूख को कम करने के लिए एजेंसियों के नेटवर्क के माध्यम से भोजन का अनुरोध, संग्रह और वितरण किया जाता है। आवश्यकता के समय व्यक्तियों और परिवारों को अस्थायी सेवाएँ प्रदान की जाती हैं। ग्राहकों को अधिक आत्मनिर्भर बनने में सहायता करना और समुदाय में भूख के प्रति जागरूकता बढ़ाना।",
-          "does_not": [],
-          "strengths": [
-            {
-              "text": "संगठन 1982 से लिंकन काउंटी में सामुदायिक भूख उन्मूलन प्रयासों का नेतृत्व कर रहा है।",
-              "source": "https://foodsharelc.org/about-us/",
-              "by_org": true
-            },
-            {
-              "text": "संगठन अपनी वेबसाइट पर वार्षिक IRS टैक्स फॉर्म 990 के सार्वजनिक अभिगम को बनाए रखता है।",
-              "source": "https://foodsharelc.org/about-us/",
-              "by_org": true
-            },
-            {
-              "text": "चैरिटी वित्तीय वर्ष 2023 की अपनी वार्षिक रिपोर्ट के सार्वजनिक अभिगम को प्रदान करती है।",
-              "source": "https://foodsharelc.org/about-us/",
-              "by_org": true
-            }
-          ]
-        },
-        "it": {
-          "does": [
-            {
-              "text": "L'organizzazione distribuisce scatole di cibo di emergenza attraverso una rete di sette dispense affiliate in tutta Lincoln County.",
-              "source": "https://foodsharelc.org/about-us/",
-              "by_org": true
-            },
-            {
-              "text": "L'associazione distribuisce oltre 1,000,000 libbre di cibo, equivalenti a 4,000,000 pasti, ogni anno da varie fonti di approvvigionamento.",
-              "source": "https://foodsharelc.org/about-us/",
-              "by_org": true
-            },
-            {
-              "text": "L'entità fornisce cibo e articoli donati alle agenzie partner locali per aiutare ad estendere i loro budget operativi.",
-              "source": "https://foodsharelc.org/about-us/",
-              "by_org": true
-            },
-            {
-              "text": "L'organizzazione raccoglie e distribuisce cibo attraverso reti di agenzie fornendo assistenza temporanea a individui e famiglie.",
-              "source": "https://www.charitynavigator.org/ein/930793059",
-              "by_org": false
-            }
-          ],
-          "mission": "PER ALLEVIARE LA FAME NELLA CONTEA DI LINCOLN RICHIEDENDO, RACCOGLIENDO E DISTRIBUENDO CIBO ATTRAVERSO UNA RETE DI AGENZIE. PER FORNIRE SERVIZI TEMPORANEI A PERSONE E FAMIGLIE IN MOMENTO DI NECESSITÀ. PER AIUTARE I CLIENTI A DIVENTARE PIÙ AUTOSUFFICIENTI E AUMENTARE LA CONSAPEVOLEZZA DELLA COMUNITÀ SULLA FAME.",
-          "does_not": [],
-          "strengths": [
-            {
-              "text": "L'organizzazione guida gli sforzi di eliminazione della fame nella comunità di Lincoln County dal 1982.",
-              "source": "https://foodsharelc.org/about-us/",
-              "by_org": true
-            },
-            {
-              "text": "L'organizzazione mantiene l'accesso pubblico al suo modulo annuale IRS Tax Form 990 sul suo sito web.",
-              "source": "https://foodsharelc.org/about-us/",
-              "by_org": true
-            },
-            {
-              "text": "L'associazione fornisce l'accesso pubblico al suo rapporto annuale per Fiscal Year 2023.",
-              "source": "https://foodsharelc.org/about-us/",
-              "by_org": true
-            }
-          ]
-        },
-        "ja": {
-          "does": [
-            {
-              "text": "この組織は、Lincoln County全域にある7つの提携パントリーのネットワークを通じて緊急食料ボックスを配布します。",
-              "source": "https://foodsharelc.org/about-us/",
-              "by_org": true
-            },
-            {
-              "text": "この慈善団体は、さまざまな供給源から毎年1,000,000 poundsの食料を配布し、これは4,000,000 mealsに相当します。",
-              "source": "https://foodsharelc.org/about-us/",
-              "by_org": true
-            },
-            {
-              "text": "この団体は、地元のパートナー機関に食料と寄付品を提供し、運営予算の拡大を支援します。",
-              "source": "https://foodsharelc.org/about-us/",
-              "by_org": true
-            },
-            {
-              "text": "この組織は、エージェンシーネットワークを通じて食料を収集・配布し、個人や家族に一時的な支援を提供します。",
-              "source": "https://www.charitynavigator.org/ein/930793059",
-              "by_org": false
-            }
-          ],
-          "mission": "LINCOLN COUNTYで飢餓を緩和するために、エージェンシーのネットワークを通じて食料を募集・収集・配布します。必要な時に個人や家族に一時的な支援を提供します。クライアントがより自立できるよう支援し、飢餓に対する地域の認識を高めます。",
-          "does_not": [],
-          "strengths": [
-            {
-              "text": "この組織は、1982年からLincoln Countyで地域の飢餓撲滅活動を主導しています。",
-              "source": "https://foodsharelc.org/about-us/",
-              "by_org": true
-            },
-            {
-              "text": "この組織は、ウェブサイト上で年次IRS Tax Form 990への公開アクセスを維持しています。",
-              "source": "https://foodsharelc.org/about-us/",
-              "by_org": true
-            },
-            {
-              "text": "この慈善団体は、Fiscal Year 2023の年次報告書への公開アクセスを提供します。",
-              "source": "https://foodsharelc.org/about-us/",
-              "by_org": true
-            }
-          ]
-        },
-        "pt": {
-          "does": [
-            {
-              "text": "A organização distribui caixas de alimentos de emergência por meio de uma rede de sete despensas afiliadas em todo o Condado de Lincoln.",
-              "source": "https://foodsharelc.org/about-us/",
-              "by_org": true
-            },
-            {
-              "text": "A caridade distribui mais de 1,000,000 libras de alimentos, equivalendo a 4,000,000 refeições, a cada ano, de diversas fontes de suprimento.",
-              "source": "https://foodsharelc.org/about-us/",
-              "by_org": true
-            },
-            {
-              "text": "A entidade fornece alimentos e itens doados a agências parceiras locais para ajudar a ampliar seus orçamentos operacionais.",
-              "source": "https://foodsharelc.org/about-us/",
-              "by_org": true
-            },
-            {
-              "text": "A organização coleta e distribui alimentos por meio de redes de agências enquanto oferece assistência temporária a indivíduos e famílias.",
-              "source": "https://www.charitynavigator.org/ein/930793059",
-              "by_org": false
-            }
-          ],
-          "mission": "ALMEJAR A FOME NO CONDADO DE LINCOLN SOLICITANDO, COLETANDO E DISTRIBUINDO ALIMENTOS ATRAVÉS DE UMA REDE DE AGÊNCIAS. PROVER SERVIÇOS TEMPORÁRIOS A INDIVIDUOS E FAMÍLIAS EM TEMPOS DE NECESSIDADE. AUXILIAR CLIENTES A SE TORNAR MAIS AUTONÔMOS E AUMENTAR A CONSCIENTIZAÇÃO COMUNITÁRIA SOBRE A FOME.",
-          "does_not": [],
-          "strengths": [
-            {
-              "text": "A organização tem liderado os esforços de eliminação da fome na comunidade do Condado de Lincoln desde 1982.",
-              "source": "https://foodsharelc.org/about-us/",
-              "by_org": true
-            },
-            {
-              "text": "A organização mantém acesso público ao seu Formulário de Imposto de Renda 990 anual no site.",
-              "source": "https://foodsharelc.org/about-us/",
-              "by_org": true
-            },
-            {
-              "text": "A caridade fornece acesso público ao seu relatório anual para o Ano Fiscal de 2023.",
-              "source": "https://foodsharelc.org/about-us/",
-              "by_org": true
-            }
-          ]
-        },
-        "ru": {
-          "does": [
-            {
-              "text": "Организация распределяет экстренные продовольственные коробки через сеть из семи аффилированных продовольственных пунктов по всему Lincoln County.",
-              "source": "https://foodsharelc.org/about-us/",
-              "by_org": true
-            },
-            {
-              "text": "Благотворительная организация распределяет более 1,000,000 фунтов продовольствия, что эквивалентно 4,000,000 приемам пищи, каждый год из различных источников поставок.",
-              "source": "https://foodsharelc.org/about-us/",
-              "by_org": true
-            },
-            {
-              "text": "Субъект предоставляет продовольствие и пожертвованные предметы местным партнерским агентствам, чтобы помочь расширить их операционные бюджеты.",
-              "source": "https://foodsharelc.org/about-us/",
-              "by_org": true
-            },
-            {
-              "text": "Организация собирает и распределяет продовольствие через сети агентств, одновременно предоставляя временную помощь отдельным лицам и семьям.",
-              "source": "https://www.charitynavigator.org/ein/930793059",
-              "by_org": false
-            }
-          ],
-          "mission": "Для снижения голода в Lincoln County путем привлечения, сбора и распределения продовольствия через сеть агентств. Для предоставления временных услуг отдельным лицам и семьям в период необходимости. Для помощи клиентам стать более самодостаточными и повышения осведомленности сообщества о голоде.",
-          "does_not": [],
-          "strengths": [
-            {
-              "text": "Организация возглавляет усилия по искоренению голода в сообществе Lincoln County с 1982 года.",
-              "source": "https://foodsharelc.org/about-us/",
-              "by_org": true
-            },
-            {
-              "text": "Организация поддерживает публичный доступ к своей ежегодной форме IRS Tax Form 990 на своем веб-сайте.",
-              "source": "https://foodsharelc.org/about-us/",
-              "by_org": true
-            },
-            {
-              "text": "Благотворительная организация предоставляет публичный доступ к своему ежегодному отчету за Fiscal Year 2023.",
-              "source": "https://foodsharelc.org/about-us/",
-              "by_org": true
-            }
-          ]
-        },
-        "zh": {
-          "does": [
-            {
-              "text": "该组织通过覆盖林肯县七个关联食品储藏室的网络分发紧急食品盒。",
-              "source": "https://foodsharelc.org/about-us/",
-              "by_org": true
-            },
-            {
-              "text": "该慈善机构每年从各类供应来源分发超过1,000,000磅的食物，相当于4,000,000餐。",
-              "source": "https://foodsharelc.org/about-us/",
-              "by_org": true
-            },
-            {
-              "text": "该实体向当地合作机构提供食物和捐赠物品，以帮助扩大其运营预算。",
-              "source": "https://foodsharelc.org/about-us/",
-              "by_org": true
-            },
-            {
-              "text": "该组织通过机构网络收集并分发食物，同时为个人和家庭提供临时援助。",
-              "source": "https://www.charitynavigator.org/ein/930793059",
-              "by_org": false
-            }
-          ],
-          "mission": "通过与机构网络合作，征求、收集并分发食物，以缓解林肯县的饥饿问题。为个人和家庭在需要时提供临时服务。帮助客户变得更自给自足，并提高社区对饥饿的认识。",
-          "does_not": [],
-          "strengths": [
-            {
-              "text": "该组织自1982年以来一直领导林肯县的社区消除饥饿工作。",
-              "source": "https://foodsharelc.org/about-us/",
-              "by_org": true
-            },
-            {
-              "text": "该组织在其网站上提供年度IRS税表990的公开访问。",
-              "source": "https://foodsharelc.org/about-us/",
-              "by_org": true
-            },
-            {
-              "text": "该慈善机构提供2023财年的年度报告公开访问。",
-              "source": "https://foodsharelc.org/about-us/",
-              "by_org": true
-            }
-          ]
-        }
-      },
-      "safety": {
-        "evaluator": "Charity Navigator",
-        "stars": 4,
-        "score": 97,
-        "rating_url": "https://www.charitynavigator.org/ein/930793059",
-        "rating_checked": "2026-11-15",
-        "since": "1982",
-        "registry_url": "https://projects.propublica.org/nonprofits/organizations/930793059",
-        "filings": 13,
-        "first_year": 2011,
-        "last_year": 2023,
-        "checks_passed": 18,
-        "verifiers": 3,
-        "unanimous": true,
-        "site": "foodsharelc.org",
-        "official_host": "foodsharelc.org",
-        "profile_claimed": false
-      },
-      "platform": "",
-      "counter": {},
-      "fundraiser_open": false,
-      "progress_pct": 0,
-      "donate": {
-        "recipient": "Food Share Of Lincoln County",
-        "url": null,
-        "money_goes_to": "not open yet: donations open on a fundraising page with a public total",
-        "counted_here_only_if": "shown in the public total of the fundraising page",
-        "status": "in public review"
-      }
-    },
-    {
-      "slug": "support-greater-chicago-food-depository-against-hunger-1991",
-      "title": "Support Greater Chicago Food Depository against hunger",
-      "description": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'site:charitynavigator.org Rating for ending hunger'.",
-      "org_name": "Greater Chicago Food Depository",
-      "org_country": "US",
-      "org_website": "https://chicagosfoodbank.org/",
-      "country": "US",
-      "currency": "USD",
-      "goal": 5000.0,
-      "raised": 0.0,
-      "donated": 0.0,
-      "status": "revisione_pubblica",
-      "donation_url": null,
-      "source_url": "https://www.charitynavigator.org/ein/362971864",
-      "approved_on": "2026-11-13",
-      "review_until": "2026-11-16 07:05 UTC",
-      "translations": {
-        "de": {
-          "text": "Organisation bewertet von Charity Navigator, gefunden von den Agenten mit: 'site:charitynavigator.org Rating for ending hunger'.",
-          "title": "Unterstützen Sie das Greater Chicago Food Depository im Kampf gegen den Hunger",
-          "source": "traduzione AI"
-        },
-        "en": {
-          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'site:charitynavigator.org Rating for ending hunger'.",
-          "title": "Support Greater Chicago Food Depository against hunger",
-          "source": "originale"
-        },
-        "es": {
-          "text": "Entidad evaluada por Charity Navigator, encontrada por los agentes con: 'site:charitynavigator.org Rating for ending hunger'.",
-          "title": "Apoya a Greater Chicago Food Depository contra el hambre",
-          "source": "traduzione AI"
-        },
-        "fr": {
-          "text": "Organisation évaluée par Charity Navigator, trouvée par les agents avec : 'site:charitynavigator.org Rating for ending hunger'.",
-          "title": "Soutenir Greater Chicago Food Depository contre la faim",
-          "source": "traduzione AI"
-        },
-        "hi": {
-          "text": "Charity Navigator द्वारा मूल्यांकित संस्था, एजेंटों द्वारा मिली: 'site:charitynavigator.org Rating for ending hunger'।",
-          "title": "भूख के खिलाफ Greater Chicago Food Depository का समर्थन करें",
-          "source": "traduzione AI"
-        },
-        "it": {
-          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'site:charitynavigator.org Valutazione per porre fine alla fame'.",
-          "title": "Sostieni Greater Chicago Food Depository contro la fame",
-          "source": "traduzione AI"
-        },
-        "ja": {
-          "text": "Charity Navigatorによって評価された団体で、エージェントが次の検索で見つけました: 'site:charitynavigator.org Rating for ending hunger'.",
-          "title": "Greater Chicago Food Depositoryへの飢餓支援をサポート",
-          "source": "traduzione AI"
-        },
-        "pt": {
-          "text": "Entidade avaliada pela Charity Navigator, encontrada pelos agentes com: 'site:charitynavigator.org Rating for ending hunger'.",
-          "title": "Apoie o Greater Chicago Food Depository contra a fome",
-          "source": "traduzione AI"
-        },
-        "ru": {
-          "text": "Организация оценена Charity Navigator, найдена агентами с помощью: 'site:charitynavigator.org Rating for ending hunger'.",
-          "title": "Поддержите Greater Chicago Food Depository в борьбе с голодом",
-          "source": "traduzione AI"
-        },
-        "zh": {
-          "text": "机构由 Charity Navigator 评估，代理人通过以下方式找到：'site:charitynavigator.org Rating for ending hunger'。",
-          "title": "支持 Greater Chicago Food Depository 对抗饥饿",
-          "source": "traduzione AI"
-        }
-      },
-      "tranches": [],
-      "checks": [
-        {
-          "verifier": "regole",
-          "check_type": "ammissibilita",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Regole di ammissibilità (config/regole.yaml):\n✓ fonte ammessa: fonte 'valutatore'\n✓ ente registrato nel database: Greater Chicago Food Depository\n✓ codice fiscale verificato (IRS): EIN 362971864\n✓ ente valutato dal valutatore: Charity Navigator\n✓ voto del valutatore: 100%, 4 stelle su 4 (minimo 4 stelle e 90%)\n✓ anni di bilanci ufficiali: 14 anni [2020, 2021, 2022, 2023, 2024] (minimo 3)\n✓ tema fame / nutrizione: categoria IRS K31Z (richiesta ['K3', 'K4']); tema nel nome: True; tema nella descrizione ufficiale: sì, \"hunger\" in «Our mission is to end hunger.» (Charity Navigator, riquadro Mission della pagina Rating for: https://www.charitynavigator.org/ein/362971864)",
-          "source_url": "https://www.charitynavigator.org/ein/362971864"
-        },
-        {
-          "verifier": "regole",
-          "check_type": "ammissibilita",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "✓ valutatore indipendente tra le prove: 1 pagine di valutatori (https://www.charitynavigator.org/ein/362971864); minimo 1",
-          "source_url": "https://www.charitynavigator.org/ein/362971864"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "registrazione",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "L'ente Greater Chicago Food Depository è ufficialmente registrato negli Stati Uniti come organizzazione 501(c)(3) con EIN 36-2971864 e data di riconoscimento esenzione risalente al 01/10/1978.",
-          "source_url": "https://www.charitynavigator.org/ein/362971864"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "bilanci",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Sono presenti bilanci pubblici Form 990 completi dal 2011 al 2024 (nel 2024 entrate di 275.870.292 USD e spese di 261.192.103 USD).",
-          "source_url": "https://www.charitynavigator.org/ein/362971864"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "valutazione_indipendente",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Valutato con il massimo punteggio ('100% Four-Star Charity') dall'ente di valutazione indipendente Charity Navigator.",
-          "source_url": "https://www.charitynavigator.org/ein/362971864"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "coerenza_importo",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "L'importo di raccolta previsto di 5.000 USD è assolutamente proporzionato e contenuto rispetto alla dimensione finanziaria dell'ente (entrate annuali > 200M USD).",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/362971864"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "storico_progetti",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "L'ente opera dal 1979 ed è la banca alimentare centrale di Chicago e Cook County, coordinando una rete di oltre 700-800 programmi di assistenza alimentare e mense.",
-          "source_url": "https://www.charitynavigator.org/ein/362971864"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "segnali_allarme",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun segnale di allarme rilevato dalle fonti analizzate. L'attività principale riguarda direttamente il contrasto alla fame e alla povertà alimentare.",
-          "source_url": "https://www.charitynavigator.org/ein/362971864"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "conflitti_interesse",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
-          "source_url": "config/conflitti.yaml"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "registrazione",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "L'ente è elencato nel registro IRS con EIN 362971864 e data di riconoscimento 1978-10-01.",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/362971864"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "bilanci",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Sono disponibili i Form 990 dal 2019 al 2024 scaricabili dal ProPublica Nonprofit Explorer.",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/362971864"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "valutazione_indipendente",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Charity Navigator assegna all'ente una valutazione a quattro stelle, considerata indipendente.",
-          "source_url": "https://www.charitynavigator.org/ein/362971864"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "coerenza_importo",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "L'importo richiesto (5.000 USD) è estremamente inferiore al fatturato annuo dell'ente (circa 100‑130 M USD).",
-          "source_url": "https://en.wikipedia.org/wiki/Greater_Chicago_Food_Depository"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "storico_progetti",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "L'ente ha una lunga storia di programmi alimentari documentati (pantry, mobile pantry, Hunger Walk, ecc.) su Wikipedia e sul sito ufficiale.",
-          "source_url": "https://en.wikipedia.org/wiki/Greater_Chicago_Food_Depository"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "segnali_allarme",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessuna notizia negativa, urgenza artificiosa, pagamenti in crypto o contatti esclusivi via social trovati nelle prove.",
-          "source_url": "https://www.charitynavigator.org/ein/362971864"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "conflitti_interesse",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
-          "source_url": "config/conflitti.yaml"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "registrazione",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "L'ente è registrato come 501(c)(3) con EIN 362971864, riconosciuto dall'IRS dal 1978. La sede è a Chicago, IL.",
-          "source_url": "https://www.charitynavigator.org/ein/362971864"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "bilanci",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Sono disponibili i bilanci pubblici (Form 990) per gli anni dal 2011 al 2024, con dati dettagliati su entrate e spese.",
-          "source_url": "https://www.charitynavigator.org/ein/362971864"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "valutazione_indipendente",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Charity Navigator assegna la valutazione 'Four-Star Charity' (100%), indicando un'eccellente performance in accountability e finanza.",
-          "source_url": "https://www.charitynavigator.org/ein/362971864"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "coerenza_importo",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "L'obiettivo di raccolta di 5000 USD è estremamente coerente con le dimensioni dell'ente, che ha entrate annuali di circa 275 milioni di USD (2024).",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/362971864"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "storico_progetti",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "L'ente opera dal 1979 e gestisce una rete di oltre 800 organizzazioni partner, con programmi attivi e documentati (es. Producemobile, Mobile Pantry, Hunger Walk).",
-          "source_url": "https://en.wikipedia.org/wiki/Greater_Chicago_Food_Depository"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "segnali_allarme",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun segnale d'allarme trovato. L'ente ha un sito web istituzionale, contatti telefonici diretti, una lunga storia di attività e valutazioni positive indipendenti.",
-          "source_url": "https://www.charitynavigator.org/ein/362971864"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "conflitti_interesse",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
-          "source_url": "config/conflitti.yaml"
-        }
-      ],
-      "sources": [
-        "https://en.wikipedia.org/wiki/Greater_Chicago_Food_Depository",
-        "https://projects.propublica.org/nonprofits/organizations/362971864",
-        "https://rocketreach.co/greater-chicago-food-depository-profile_b5c390eaf42e0fb6",
-        "https://www.charitynavigator.org/ein/362971864",
-        "https://www.chicagosfoodbank.org/about/annual-reports-financials/",
-        "https://www.mapquest.com/us/illinois/greater-chicago-food-depository-273183498"
-      ],
-      "waiting_counter": false,
-      "profile": {
-        "de": {
-          "does": [
-            {
-              "text": "Die Organisation arbeitet im Zentrum eines Netzwerks von mehr als 800 Lebensmittelbanken, Suppenküchen, Unterkünften und anderen Programmen.",
-              "source": "https://www.charitynavigator.org/ein/362971864",
-              "by_org": false
-            },
-            {
-              "text": "Die Organisation unterstützt Einzelpersonen mit kostenloser Hilfe bei der Beantragung von SNAP/Link, Medicaid und anderen Leistungen.",
-              "source": "https://www.chicagosfoodbank.org/",
-              "by_org": true
-            },
-            {
-              "text": "Die Organisation arbeitet mit den City Colleges of Chicago zusammen, um kostenlose gesunde Lebensmittel, Ressourcen und bezahlte Ausbildungsplätze auf den Campus zu bieten.",
-              "source": "https://www.chicagosfoodbank.org/",
-              "by_org": true
-            },
-            {
-              "text": "Die Organisation stellt haltbare Lebensmittelboxen und Informationen über Programme zur Unterstützung gesunden Alterns bereit.",
-              "source": "https://www.chicagosfoodbank.org/",
-              "by_org": true
-            }
-          ],
-          "mission": "",
-          "does_not": [],
-          "strengths": [
-            {
-              "text": "Die Organisation ist Mitglied des nationalen Netzwerks von Lebensmittelbanken von Feeding America.",
-              "source": "https://www.charitynavigator.org/ein/362971864",
-              "by_org": false
-            },
-            {
-              "text": "Die Organisation bietet Zugang zu ihren Finanzinformationen und Details zur Programmauswirkung.",
-              "source": "https://www.chicagosfoodbank.org/",
-              "by_org": true
-            }
-          ]
-        },
-        "en": {
-          "does": [
-            {
-              "text": "The organization works at the center of a network of more than 800 food pantries, soup kitchens, shelters, and other programs.",
-              "quote": "We are at the center of a network of more than 800 food pantries, soup kitchens, shelters and other programs providing food where it’s needed most.",
-              "source": "https://www.charitynavigator.org/ein/362971864",
-              "by_org": false
-            },
-            {
-              "text": "The organization assists individuals with free help when applying for SNAP/Link, Medicaid, and other benefits.",
-              "quote": "Get free help applying for SNAP/Link, Medicaid and other benefits.",
-              "source": "https://www.chicagosfoodbank.org/",
-              "by_org": true
-            },
-            {
-              "text": "The organization partners with City Colleges of Chicago to provide free healthy food, resources, and paid apprenticeships across campuses.",
-              "quote": "We partner with City Colleges of Chicago to provide free healthy food, resources and paid apprenticeships across campuses.",
-              "source": "https://www.chicagosfoodbank.org/",
-              "by_org": true
-            },
-            {
-              "text": "The organization provides shelf-stable food boxes and information about programs supporting healthy aging.",
-              "quote": "Receive shelf-stable food boxes and learn about programs to support healthy aging.",
-              "source": "https://www.chicagosfoodbank.org/",
-              "by_org": true
-            }
-          ],
-          "mission": "",
-          "does_not": [],
-          "strengths": [
-            {
-              "text": "The organization is a member of the Feeding America national network of food banks.",
-              "quote": "The Food Depository is a member of the Feeding America national network of food banks.",
-              "source": "https://www.charitynavigator.org/ein/362971864",
-              "by_org": false
-            },
-            {
-              "text": "The organization provides access to its financial information and program impact details.",
-              "quote": "Gain a comprehensive look at our finances and the impact of our mission-driven programs.",
-              "source": "https://www.chicagosfoodbank.org/",
-              "by_org": true
-            }
-          ]
-        },
-        "es": {
-          "does": [
-            {
-              "text": "La organización trabaja en el centro de una red de más de 800 despensas de alimentos, comedores comunitarios, refugios y otros programas.",
-              "source": "https://www.charitynavigator.org/ein/362971864",
-              "by_org": false
-            },
-            {
-              "text": "La organización ayuda a las personas con asistencia gratuita al solicitar SNAP/Link, Medicaid y otros beneficios.",
-              "source": "https://www.chicagosfoodbank.org/",
-              "by_org": true
-            },
-            {
-              "text": "La organización se asocia con City Colleges of Chicago para ofrecer alimentos saludables gratuitos, recursos y aprendizajes remunerados en todos los campus.",
-              "source": "https://www.chicagosfoodbank.org/",
-              "by_org": true
-            },
-            {
-              "text": "La organización proporciona cajas de alimentos no perecederos y información sobre programas que apoyan el envejecimiento saludable.",
-              "source": "https://www.chicagosfoodbank.org/",
-              "by_org": true
-            }
-          ],
-          "mission": "",
-          "does_not": [],
-          "strengths": [
-            {
-              "text": "La organización es miembro de la red nacional de bancos de alimentos de Feeding America.",
-              "source": "https://www.charitynavigator.org/ein/362971864",
-              "by_org": false
-            },
-            {
-              "text": "La organización brinda acceso a su información financiera y a los detalles del impacto de sus programas.",
-              "source": "https://www.chicagosfoodbank.org/",
-              "by_org": true
-            }
-          ]
-        },
-        "fr": {
-          "does": [
-            {
-              "text": "L'organisation travaille au cœur d'un réseau de plus de 800 banques alimentaires, soupes populaires, refuges et autres programmes.",
-              "source": "https://www.charitynavigator.org/ein/362971864",
-              "by_org": false
-            },
-            {
-              "text": "L'organisation aide les personnes gratuitement lors de la demande de SNAP/Link, Medicaid et d'autres prestations.",
-              "source": "https://www.chicagosfoodbank.org/",
-              "by_org": true
-            },
-            {
-              "text": "L'organisation s'associe aux City Colleges of Chicago pour offrir des aliments sains gratuits, des ressources et des apprentissages rémunérés sur les campus.",
-              "source": "https://www.chicagosfoodbank.org/",
-              "by_org": true
-            },
-            {
-              "text": "L'organisation fournit des boîtes alimentaires à longue conservation et des informations sur les programmes favorisant le vieillissement en bonne santé.",
-              "source": "https://www.chicagosfoodbank.org/",
-              "by_org": true
-            }
-          ],
-          "mission": "",
-          "does_not": [],
-          "strengths": [
-            {
-              "text": "L'organisation est membre du réseau national de banques alimentaires de Feeding America.",
-              "source": "https://www.charitynavigator.org/ein/362971864",
-              "by_org": false
-            },
-            {
-              "text": "L'organisation donne accès à ses informations financières et aux détails d'impact de ses programmes.",
-              "source": "https://www.chicagosfoodbank.org/",
-              "by_org": true
-            }
-          ]
-        },
-        "hi": {
-          "does": [
-            {
-              "text": "यह संगठन 800 से अधिक खाद्य पैंट्री, सूप किचन, आश्रयस्थल और अन्य कार्यक्रमों के नेटवर्क के केंद्र में कार्य करता है।",
-              "source": "https://www.charitynavigator.org/ein/362971864",
-              "by_org": false
-            },
-            {
-              "text": "यह संगठन व्यक्तियों को SNAP/Link, Medicaid और अन्य लाभों के लिए आवेदन करते समय मुफ्त सहायता प्रदान करता है।",
-              "source": "https://www.chicagosfoodbank.org/",
-              "by_org": true
-            },
-            {
-              "text": "यह संगठन City Colleges of Chicago के साथ साझेदारी करके कैंपसों में मुफ्त स्वस्थ भोजन, संसाधन और वेतनभोगी प्रशिक्षुता प्रदान करता है।",
-              "source": "https://www.chicagosfoodbank.org/",
-              "by_org": true
-            },
-            {
-              "text": "यह संगठन शेल्फ-स्थिर खाद्य बॉक्स और स्वस्थ वृद्धावस्था को समर्थन देने वाले कार्यक्रमों की जानकारी प्रदान करता है।",
-              "source": "https://www.chicagosfoodbank.org/",
-              "by_org": true
-            }
-          ],
-          "mission": "",
-          "does_not": [],
-          "strengths": [
-            {
-              "text": "यह संगठन Feeding America के राष्ट्रीय खाद्य बैंक नेटवर्क का सदस्य है।",
-              "source": "https://www.charitynavigator.org/ein/362971864",
-              "by_org": false
-            },
-            {
-              "text": "यह संगठन अपनी वित्तीय जानकारी और कार्यक्रम प्रभाव विवरणों तक पहुंच प्रदान करता है।",
-              "source": "https://www.chicagosfoodbank.org/",
-              "by_org": true
-            }
-          ]
-        },
-        "it": {
-          "does": [
-            {
-              "text": "L'organizzazione opera al centro di una rete di più di 800 dispense alimentari, cucine popolari, rifugi e altri programmi.",
-              "source": "https://www.charitynavigator.org/ein/362971864",
-              "by_org": false
-            },
-            {
-              "text": "L'organizzazione assiste le persone con aiuto gratuito nella presentazione delle domande per SNAP/Link, Medicaid e altri benefici.",
-              "source": "https://www.chicagosfoodbank.org/",
-              "by_org": true
-            },
-            {
-              "text": "L'organizzazione collabora con City Colleges of Chicago per fornire cibo sano gratuito, risorse e apprendistati retribuiti nei vari campus.",
-              "source": "https://www.chicagosfoodbank.org/",
-              "by_org": true
-            },
-            {
-              "text": "L'organizzazione fornisce scatole di cibo a lunga conservazione e informazioni sui programmi a supporto dell'invecchiamento sano.",
-              "source": "https://www.chicagosfoodbank.org/",
-              "by_org": true
-            }
-          ],
-          "mission": "",
-          "does_not": [],
-          "strengths": [
-            {
-              "text": "L'organizzazione è membro della rete nazionale di banche alimentari di Feeding America.",
-              "source": "https://www.charitynavigator.org/ein/362971864",
-              "by_org": false
-            },
-            {
-              "text": "L'organizzazione fornisce l'accesso alle sue informazioni finanziarie e ai dettagli dell'impatto del programma.",
-              "source": "https://www.chicagosfoodbank.org/",
-              "by_org": true
-            }
-          ]
-        },
-        "ja": {
-          "does": [
-            {
-              "text": "この組織は、800以上のフードパントリー、スープキッチン、シェルター、その他のプログラムからなるネットワークの中心で活動しています。",
-              "source": "https://www.charitynavigator.org/ein/362971864",
-              "by_org": false
-            },
-            {
-              "text": "この組織は、SNAP/Link、Medicaid、その他の給付を申請する際に、無料で支援を提供します。",
-              "source": "https://www.chicagosfoodbank.org/",
-              "by_org": true
-            },
-            {
-              "text": "この組織は、City Colleges of Chicago と提携し、キャンパス全体で無料の健康食品、リソース、そして有給の見習い制度を提供しています。",
-              "source": "https://www.chicagosfoodbank.org/",
-              "by_org": true
-            },
-            {
-              "text": "この組織は、常温保存可能な食品ボックスと、健康的な高齢化を支援するプログラムに関する情報を提供します。",
-              "source": "https://www.chicagosfoodbank.org/",
-              "by_org": true
-            }
-          ],
-          "mission": "",
-          "does_not": [],
-          "strengths": [
-            {
-              "text": "この組織は、Feeding America の全国フードバンクネットワークのメンバーです。",
-              "source": "https://www.charitynavigator.org/ein/362971864",
-              "by_org": false
-            },
-            {
-              "text": "この組織は、財務情報とプログラムのインパクト詳細へのアクセスを提供します。",
-              "source": "https://www.chicagosfoodbank.org/",
-              "by_org": true
-            }
-          ]
-        },
-        "pt": {
-          "does": [
-            {
-              "text": "A organização trabalha no centro de uma rede de mais de 800 despensas de alimentos, cozinhas comunitárias, abrigos e outros programas.",
-              "source": "https://www.charitynavigator.org/ein/362971864",
-              "by_org": false
-            },
-            {
-              "text": "A organização auxilia indivíduos com ajuda gratuita ao solicitar SNAP/Link, Medicaid e outros benefícios.",
-              "source": "https://www.chicagosfoodbank.org/",
-              "by_org": true
-            },
-            {
-              "text": "A organização faz parceria com City Colleges of Chicago para oferecer alimentos saudáveis gratuitos, recursos e aprendizagens remuneradas em todos os campi.",
-              "source": "https://www.chicagosfoodbank.org/",
-              "by_org": true
-            },
-            {
-              "text": "A organização fornece caixas de alimentos não perecíveis e informações sobre programas que apoiam o envelhecimento saudável.",
-              "source": "https://www.chicagosfoodbank.org/",
-              "by_org": true
-            }
-          ],
-          "mission": "",
-          "does_not": [],
-          "strengths": [
-            {
-              "text": "A organização é membro da rede nacional de bancos de alimentos da Feeding America.",
-              "source": "https://www.charitynavigator.org/ein/362971864",
-              "by_org": false
-            },
-            {
-              "text": "A organização fornece acesso às suas informações financeiras e aos detalhes de impacto dos programas.",
-              "source": "https://www.chicagosfoodbank.org/",
-              "by_org": true
-            }
-          ]
-        },
-        "ru": {
-          "does": [
-            {
-              "text": "Организация работает в центре сети из более чем 800 продовольственных складов, столовых, приютов и других программ.",
-              "source": "https://www.charitynavigator.org/ein/362971864",
-              "by_org": false
-            },
-            {
-              "text": "Организация оказывает людям бесплатную помощь при подаче заявок на SNAP/Link, Medicaid и другие пособия.",
-              "source": "https://www.chicagosfoodbank.org/",
-              "by_org": true
-            },
-            {
-              "text": "Организация сотрудничает с City Colleges of Chicago, чтобы предоставлять бесплатные здоровые продукты, ресурсы и оплачиваемые стажировки на всех кампусах.",
-              "source": "https://www.chicagosfoodbank.org/",
-              "by_org": true
-            },
-            {
-              "text": "Организация предоставляет коробки с длительно хранимыми продуктами и информацию о программах, поддерживающих здоровое старение.",
-              "source": "https://www.chicagosfoodbank.org/",
-              "by_org": true
-            }
-          ],
-          "mission": "",
-          "does_not": [],
-          "strengths": [
-            {
-              "text": "Организация является членом национальной сети продовольственных банков Feeding America.",
-              "source": "https://www.charitynavigator.org/ein/362971864",
-              "by_org": false
-            },
-            {
-              "text": "Организация предоставляет доступ к своей финансовой информации и деталям воздействия программ.",
-              "source": "https://www.chicagosfoodbank.org/",
-              "by_org": true
-            }
-          ]
-        },
-        "zh": {
-          "does": [
-            {
-              "text": "该组织位于一个由超过800家食品储藏室、免费餐厅、收容所和其他项目组成的网络的中心。",
-              "source": "https://www.charitynavigator.org/ein/362971864",
-              "by_org": false
-            },
-            {
-              "text": "该组织在申请 SNAP/Link、Medicaid 以及其他福利时，为个人提供免费帮助。",
-              "source": "https://www.chicagosfoodbank.org/",
-              "by_org": true
-            },
-            {
-              "text": "该组织与 City Colleges of Chicago 合作，在各校园提供免费健康食品、资源和带薪学徒制。",
-              "source": "https://www.chicagosfoodbank.org/",
-              "by_org": true
-            },
-            {
-              "text": "该组织提供常温保存的食品盒以及关于支持健康老龄化项目的信息。",
-              "source": "https://www.chicagosfoodbank.org/",
-              "by_org": true
-            }
-          ],
-          "mission": "",
-          "does_not": [],
-          "strengths": [
-            {
-              "text": "该组织是 Feeding America 全国食品银行网络的成员。",
-              "source": "https://www.charitynavigator.org/ein/362971864",
-              "by_org": false
-            },
-            {
-              "text": "该组织提供其财务信息和项目影响细节的访问。",
-              "source": "https://www.chicagosfoodbank.org/",
-              "by_org": true
-            }
-          ]
-        }
-      },
-      "safety": {
-        "evaluator": "Charity Navigator",
-        "stars": 4,
-        "score": 100,
-        "rating_url": "https://www.charitynavigator.org/ein/362971864",
-        "rating_checked": "2026-11-14",
-        "since": "1978",
-        "registry_url": "https://projects.propublica.org/nonprofits/organizations/362971864",
-        "filings": 14,
-        "first_year": 2011,
-        "last_year": 2024,
-        "checks_passed": 18,
-        "verifiers": 3,
-        "unanimous": true,
-        "site": "chicagosfoodbank.org",
-        "official_host": "chicagosfoodbank.org",
-        "profile_claimed": false
-      },
-      "platform": "",
-      "counter": {},
-      "fundraiser_open": false,
-      "progress_pct": 0,
-      "donate": {
-        "recipient": "Greater Chicago Food Depository",
-        "url": null,
-        "money_goes_to": "not open yet: donations open on a fundraising page with a public total",
-        "counted_here_only_if": "shown in the public total of the fundraising page",
-        "status": "in public review"
       }
     },
     {
@@ -6210,7 +5044,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-15T16:04:44.438755+00:00",
+        "read_at": "2026-11-16T07:06:16.905911+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -6230,9 +5064,253 @@
           "raised": "0",
           "currency": "USD",
           "people": 0,
-          "read_on": "2026-11-15"
+          "read_on": "2026-11-16"
         },
         "note": "Every.org suggests an optional tip to itself (sometimes preselected); it can be set to 0. Payment fees are deducted from what the organization receives."
+      }
+    },
+    {
+      "slug": "support-meals-on-wheels-of-central-maryland-inc-against-hung-7461",
+      "title": "Support Meals On Wheels Of Central Maryland Inc against hunger",
+      "description": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'site:charitynavigator.org Rating for meals on wheels seniors nutrition'.",
+      "org_name": "Meals On Wheels Of Central Maryland Inc",
+      "org_country": "US",
+      "org_website": "https://mealsonwheelsmd.org/",
+      "country": "US",
+      "currency": "USD",
+      "goal": 5000.0,
+      "raised": 0.0,
+      "donated": 0.0,
+      "status": "revisione_pubblica",
+      "donation_url": null,
+      "source_url": "https://www.charitynavigator.org/ein/526074723",
+      "approved_on": "2026-11-16",
+      "review_until": "2026-11-19 07:06 UTC",
+      "translations": {},
+      "tranches": [],
+      "checks": [
+        {
+          "verifier": "regole",
+          "check_type": "ammissibilita",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Regole di ammissibilità (config/regole.yaml):\n✓ fonte ammessa: fonte 'valutatore'\n✓ ente registrato nel database: Meals On Wheels Of Central Maryland Inc\n✓ codice fiscale verificato (IRS): EIN 526074723\n✓ ente valutato dal valutatore: Charity Navigator\n✓ voto del valutatore: 95%, 4 stelle su 4 (minimo 4 stelle e 90%)\n✓ anni di bilanci ufficiali: 13 anni [2019, 2020, 2021, 2022, 2023] (minimo 3)\n✓ tema fame / nutrizione: categoria IRS K36Z (richiesta ['K3', 'K4']); tema nel nome: True; tema nella descrizione ufficiale: sì, \"meals on wheels\" in «SPECIALIZING IN SERVICES TO THE AGING, MEALS ON WHEELS OF CENTRAL MARYLAND SERVES HOMEBOUND AGING AND DISABLED ADULTS TO KEEP THEM LIVING SAFELY AND INDEPENDENTLY IN THEIR HOMES AND COMMUNITIES.» (Charity Navigator, riquadro Mission della pagina Rating for: https://www.charitynavigator.org/ein/526074723)",
+          "source_url": "https://www.charitynavigator.org/ein/526074723"
+        },
+        {
+          "verifier": "regole",
+          "check_type": "ammissibilita",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "✓ valutatore indipendente tra le prove: 1 pagine di valutatori (https://www.charitynavigator.org/ein/526074723); minimo 1",
+          "source_url": "https://www.charitynavigator.org/ein/526074723"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "registrazione",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "L'ente è registrato negli USA come organizzazione esente 501(c)(3) con EIN 526074723 e data di riconoscimento IRS dal 1° ottobre 1967.",
+          "source_url": "https://www.charitynavigator.org/ein/526074723"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "bilanci",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Presenti bilanci pubblici e dichiarazioni IRS Form 990 regolari dal 2011 al 2023. Nel 2023 l'ente ha registrato entrate per 19,69M USD e spese per 13,80M USD.",
+          "source_url": "https://www.charitynavigator.org/ein/526074723"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "valutazione_indipendente",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Valutato da Charity Navigator con il punteggio massimo di 4 stelle (95%).",
+          "source_url": "https://www.charitynavigator.org/ein/526074723"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "coerenza_importo",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "L'obiettivo di 5.000 USD è perfettamente proporzionato e contenuto rispetto al budget annuale dell'organizzazione (oltre 13 milioni di USD di spese annue).",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/526074723"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "storico_progetti",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "L'organizzazione opera dal 1960 consegnando circa 5.000 pasti al giorno a oltre 2.500 persone anziane o con disabilità, con oltre 1,4 milioni di pasti distribuiti ogni anno.",
+          "source_url": "https://www.charitynavigator.org/ein/526074723"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "segnali_allarme",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun segnale d'allarme riscontrato. L'ente ha canali di contatto ufficiali, bilanci trasparenti e valutazioni indipendenti positive.",
+          "source_url": "https://www.charitynavigator.org/ein/526074723"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "conflitti_interesse",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "source_url": "config/conflitti.yaml"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "registrazione",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "L'ente è elencato con EIN 526074723, riconosciuto come 501(c)(3) dal registro IRS e comparso su ProPublica Nonprofit Explorer.",
+          "source_url": "https://www.charitynavigator.org/ein/526074723"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "bilanci",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Sono disponibili Form 990 pubblici per gli anni 2023‑2018, con PDF scaricabili da ProPublica.",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/526074723"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "valutazione_indipendente",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Charity Navigator, valutatore indipendente, assegna all'ente una valutazione Four‑Star (95%).",
+          "source_url": "https://www.charitynavigator.org/ein/526074723"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "coerenza_importo",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "L'importo richiesto (5 000 USD) è molto inferiore ai ricavi annuali (≈19 M USD nel 2023) e coerente con la scala delle attività dell'organizzazione.",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/526074723"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "storico_progetti",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "L'organizzazione opera dal 1960, con numerosi progetti documentati (campagna \"Recipe for the Future\", servizi di consegna pasti) citati su LinkedIn e Baltimore Magazine.",
+          "source_url": "https://www.linkedin.com/company/mealsonwheelsmd"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "segnali_allarme",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun segnale di allarme rilevato: nessuna notizia negativa, sito consolidato, contatti multipli, nessuna richiesta di pagamenti in crypto o urgenze artificiali.",
+          "source_url": "https://www.charitynavigator.org/ein/526074723"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "conflitti_interesse",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "source_url": "config/conflitti.yaml"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "registrazione",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "L'ente è registrato come 501(c)(3) con EIN 526074723, riconosciuto dall'IRS dal 1967. La sede è a Baltimore, MD.",
+          "source_url": "https://www.charitynavigator.org/ein/526074723"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "bilanci",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Sono disponibili i bilanci pubblici (Form 990) per gli ultimi 13 anni (2011-2023) su ProPublica Nonprofit Explorer, con dati di entrate e spese dettagliati.",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/526074723"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "valutazione_indipendente",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Charity Navigator assegna una valutazione di 4 stelle (95%) all'ente, indicando un'eccellente trasparenza finanziaria e accountability.",
+          "source_url": "https://www.charitynavigator.org/ein/526074723"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "coerenza_importo",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "L'obiettivo di raccolta di 5000 USD è estremamente coerente con le dimensioni dell'ente, che ha registrato entrate annuali di circa 19,7 milioni di USD nel 2023 e serve circa 2.500 clienti al giorno.",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/526074723"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "storico_progetti",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "L'ente opera dal 1960, ha una storia documentata di 65 anni di attività, con oltre 1,4 milioni di pasti consegnati annualmente e una presenza consolidata nella comunità di Baltimore.",
+          "source_url": "https://www.linkedin.com/company/mealsonwheelsmd"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "segnali_allarme",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun segnale d'allarme trovato. L'ente ha un sito web istituzionale attivo, contatti diretti (telefono, email), una presenza social consolidata e una lunga storia di trasparenza. Non sono presenti richieste di pagamento a persone fisiche o in crypto, né pressioni artificiali.",
+          "source_url": "https://www.charitynavigator.org/ein/526074723"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "conflitti_interesse",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "source_url": "config/conflitti.yaml"
+        }
+      ],
+      "sources": [
+        "https://mealsonwheelsmd.org",
+        "https://projects.propublica.org/nonprofits/organizations/526074723",
+        "https://www.baltimoremagazine.com/profiles/give-baltimore-2020/meals-on-wheels-of-central-maryland/",
+        "https://www.charitynavigator.org/ein/526074723",
+        "https://www.linkedin.com/company/mealsonwheelsmd"
+      ],
+      "waiting_counter": false,
+      "profile": {},
+      "safety": {
+        "evaluator": "Charity Navigator",
+        "stars": 4,
+        "score": 95,
+        "rating_url": "https://www.charitynavigator.org/ein/526074723",
+        "rating_checked": "2026-11-15",
+        "since": "1967",
+        "registry_url": "https://projects.propublica.org/nonprofits/organizations/526074723",
+        "filings": 13,
+        "first_year": 2011,
+        "last_year": 2023,
+        "checks_passed": 18,
+        "verifiers": 3,
+        "unanimous": true,
+        "site": "mealsonwheelsmd.org",
+        "official_host": "mealsonwheelsmd.org",
+        "profile_claimed": false
+      },
+      "platform": "",
+      "counter": {},
+      "fundraiser_open": false,
+      "progress_pct": 0,
+      "donate": {
+        "recipient": "Meals On Wheels Of Central Maryland Inc",
+        "url": null,
+        "money_goes_to": "not open yet: donations open on a fundraising page with a public total",
+        "counted_here_only_if": "shown in the public total of the fundraising page",
+        "status": "in public review"
       }
     },
     {
@@ -6874,7 +5952,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-15T16:04:47.685899+00:00",
+        "read_at": "2026-11-16T07:06:18.145950+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -6894,7 +5972,7 @@
           "raised": "0",
           "currency": "USD",
           "people": 0,
-          "read_on": "2026-11-15"
+          "read_on": "2026-11-16"
         },
         "note": "Every.org suggests an optional tip to itself (sometimes preselected); it can be set to 0. Payment fees are deducted from what the organization receives."
       }
@@ -7528,7 +6606,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-15T16:04:46.905254+00:00",
+        "read_at": "2026-11-16T07:06:17.431789+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -7548,7 +6626,7 @@
           "raised": "0",
           "currency": "USD",
           "people": 0,
-          "read_on": "2026-11-15"
+          "read_on": "2026-11-16"
         },
         "note": "Every.org suggests an optional tip to itself (sometimes preselected); it can be set to 0. Payment fees are deducted from what the organization receives."
       }
@@ -9264,7 +8342,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-15T16:04:48.050992+00:00",
+        "read_at": "2026-11-16T07:06:18.513204+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -9284,7 +8362,7 @@
           "raised": "0",
           "currency": "USD",
           "people": 0,
-          "read_on": "2026-11-15"
+          "read_on": "2026-11-16"
         },
         "note": "Every.org suggests an optional tip to itself (sometimes preselected); it can be set to 0. Payment fees are deducted from what the organization receives."
       }
@@ -9861,7 +8939,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-15T16:04:49.494401+00:00",
+        "read_at": "2026-11-16T07:06:19.921886+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -9881,7 +8959,7 @@
           "raised": "0",
           "currency": "USD",
           "people": 0,
-          "read_on": "2026-11-15"
+          "read_on": "2026-11-16"
         },
         "note": "Every.org suggests an optional tip to itself (sometimes preselected); it can be set to 0. Payment fees are deducted from what the organization receives."
       }
@@ -9898,11 +8976,11 @@
       "goal": 5000.0,
       "raised": 0.0,
       "donated": 0.0,
-      "status": "revisione_pubblica",
-      "donation_url": null,
+      "status": "attiva",
+      "donation_url": "https://www.every.org/utah-food-bank/f/ai-against-hunger-for",
       "source_url": "https://www.charitynavigator.org/ein/870212453",
       "approved_on": "2026-11-13",
-      "review_until": "2026-11-16 07:09 UTC",
+      "review_until": null,
       "translations": {
         "de": {
           "text": "Organisation bewertet von Charity Navigator, gefunden von den Agenten mit: \"Geografische Gleichgewichtsprüfung (pausiert seit 2026-11-09)\".",
@@ -9955,7 +9033,13 @@
           "source": "traduzione AI"
         }
       },
-      "tranches": [],
+      "tranches": [
+        {
+          "number": 1,
+          "goal": 2000.0,
+          "status": "aperta"
+        }
+      ],
       "checks": [
         {
           "verifier": "regole",
@@ -10509,7 +9593,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-15T16:04:49.144324+00:00",
+        "read_at": "2026-11-16T07:06:19.566389+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -10520,16 +9604,16 @@
       "progress_pct": 0,
       "donate": {
         "recipient": "Utah Food Bank",
-        "url": null,
+        "url": "https://www.every.org/utah-food-bank/f/ai-against-hunger-for",
         "money_goes_to": "Every.org, a US 501(c)(3) nonprofit, which grants it to the organization (unrestricted); this project never receives or holds money",
         "counted_here_only_if": "shown in the public total of the fundraising page",
-        "status": "in public review",
+        "status": "open",
         "platform": "Every.org (US 501(c)(3) nonprofit; receipts tax-deductible only in the US)",
         "public_total": {
           "raised": "0",
           "currency": "USD",
           "people": 0,
-          "read_on": "2026-11-15"
+          "read_on": "2026-11-16"
         },
         "note": "Every.org suggests an optional tip to itself (sometimes preselected); it can be set to 0. Payment fees are deducted from what the organization receives."
       }
@@ -11055,7 +10139,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-15T16:04:49.870476+00:00",
+        "read_at": "2026-11-16T07:06:20.304307+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -11075,7 +10159,7 @@
           "raised": "0",
           "currency": "USD",
           "people": 0,
-          "read_on": "2026-11-15"
+          "read_on": "2026-11-16"
         },
         "note": "Every.org suggests an optional tip to itself (sometimes preselected); it can be set to 0. Payment fees are deducted from what the organization receives."
       }
@@ -11090,11 +10174,11 @@
     "costs": {
       "USD": 8.5
     },
-    "ai_calls": 1201,
+    "ai_calls": 1233,
     "ai_cost_real_usd": 0.0,
-    "ai_value_offered_usd": 7.462959,
-    "candidates_examined": 63,
-    "candidates_discarded": 33
+    "ai_value_offered_usd": 7.727385,
+    "candidates_examined": 68,
+    "candidates_discarded": 36
   },
   "agent_program": {
     "join": "https://aiagainsthunger.org/en/agents.html",
