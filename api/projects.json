@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T09:04:04.047004+00:00",
+  "generated_at": "2026-11-17T10:04:48.414547+00:00",
   "projects": [
     {
       "slug": "support-the-greater-boston-food-bank-inc-against-hunger-5847",
@@ -8491,7 +8491,58 @@
       "source_url": "https://www.charitynavigator.org/ein/203668110",
       "approved_on": "2026-11-17",
       "review_until": "2026-11-20 08:07 UTC",
-      "translations": {},
+      "translations": {
+        "de": {
+          "text": "Organisation bewertet von Charity Navigator, gefunden von den Agenten mit: 'Every.org: Kleinbauern'.",
+          "title": "Unterstütze One Acre Fund gegen den Hunger",
+          "source": "traduzione AI"
+        },
+        "en": {
+          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'Every.org: smallholder farmers'.",
+          "title": "Support One Acre Fund against hunger",
+          "source": "originale"
+        },
+        "es": {
+          "text": "Entidad evaluada por Charity Navigator, encontrada por los agentes con: 'Every.org: smallholder farmers'.",
+          "title": "Apoya a One Acre Fund contra el hambre",
+          "source": "traduzione AI"
+        },
+        "fr": {
+          "text": "Organisation évaluée par Charity Navigator, trouvée par les agents avec : 'Every.org: smallholder farmers'",
+          "title": "Soutenez One Acre Fund contre la faim",
+          "source": "traduzione AI"
+        },
+        "hi": {
+          "text": "Charity Navigator द्वारा मूल्यांकित संस्था, एजेंटों द्वारा मिली: 'Every.org: छोटे किसानों'.",
+          "title": "भूख के खिलाफ One Acre Fund को समर्थन दें",
+          "source": "traduzione AI"
+        },
+        "it": {
+          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'Every.org: piccoli agricoltori'.",
+          "title": "Sostieni One Acre Fund contro la fame",
+          "source": "traduzione AI"
+        },
+        "ja": {
+          "text": "Charity Navigator によって評価された団体で、エージェントが次の情報で見つけました: 'Every.org: smallholder farmers'.",
+          "title": "飢餓に対して One Acre Fund を支援する",
+          "source": "traduzione AI"
+        },
+        "pt": {
+          "text": "Entidade avaliada pela Charity Navigator, encontrada pelos agentes com: 'Every.org: smallholder farmers'.",
+          "title": "Apoie a One Acre Fund contra a fome",
+          "source": "traduzione AI"
+        },
+        "ru": {
+          "text": "Организация, оцененная Charity Navigator, найденная агентами с: \"Every.org: малые фермеры\".",
+          "title": "Поддержите One Acre Fund в борьбе с голодом",
+          "source": "traduzione AI"
+        },
+        "zh": {
+          "text": "机构由 Charity Navigator 评估，代理人通过以下方式找到：'Every.org: 小农户'。",
+          "title": "支持 One Acre Fund 对抗饥饿",
+          "source": "traduzione AI"
+        }
+      },
       "tranches": [],
       "checks": [
         {
@@ -8688,7 +8739,241 @@
         "https://www.theelephant.info/analysis/2019/09/27/one-private-ring-to-rule-them-all-a-case-study-of-one-acre-fund/"
       ],
       "waiting_counter": false,
-      "profile": {},
+      "profile": {
+        "de": {
+          "does": [
+            {
+              "text": "One Acre Fund versorgt Kleinbauern mit der Finanzierung und Schulung, die sie benötigen, um mehr Nahrung anzubauen und mehr Geld mit ihren Höfen zu verdienen.",
+              "source": "https://www.charitynavigator.org/ein/203668110",
+              "by_org": false
+            },
+            {
+              "text": "Die Organisation bietet ein komplettes Servicepaket aus Saatgut und Dünger, Finanzierung für Betriebsmittel, landwirtschaftliche Schulungen und Marktförderung.",
+              "source": "https://www.charitynavigator.org/ein/203668110",
+              "by_org": false
+            }
+          ],
+          "mission": "One Acre Fund versorgt Kleinbauern mit der Finanzierung und Schulung, die sie benötigen, um mehr Nahrung anzubauen und mehr Geld mit ihren Höfen zu verdienen. Anstatt Almosen zu geben, investieren wir in Kleinbauern, um einen dauerhaften Gewinn beim Einkommen aus der Landwirtschaft zu erzielen. Durch ein modellbasiertes, asset-basiertes Finanzierungsmodell, das die gesamte Wertschöpfungskette abdeckt, bieten wir ein komplettes Servicepaket aus Saatgut und Dünger, Finanzierung für Betriebsmittel, landwirtschaftliche Schulungen und Marktförderung – und wir liefern diese Dienstleistungen in fußläufiger Entfernung zu den Millionen von Bauernfamilien, die wir in Ost- und Südafrika betreuen. One Acre Fund misst den Erfolg an unserer Fähigkeit, mehr Bauern wohlhabender zu machen. Wir bedienen ausschließlich Bauern und stellen die Bauern immer an erste Stelle.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "Die Beratungsarbeit ist seit dem Beginn der Organisation vor 20 Jahren ein wichtiger Teil des Modells geblieben.",
+              "source": "https://oneacrefund.org/",
+              "by_org": true
+            }
+          ]
+        },
+        "en": {
+          "does": [
+            {
+              "text": "One Acre Fund supplies smallholder farmers with the financing and training they need to grow more food and earn more money from their farms.",
+              "quote": "One Acre Fund supplies smallholder farmers with the financing and training they need to grow more food and earn more money from their farms.",
+              "source": "https://www.charitynavigator.org/ein/203668110",
+              "by_org": false
+            },
+            {
+              "text": "The organization provides a complete service bundle of seeds and fertilizer, financing for farm inputs, agricultural training, and market facilitation.",
+              "quote": "we provide a complete service bundle of seeds and fertilizer, financing for farm inputs, agricultural training, and market facilitation",
+              "source": "https://www.charitynavigator.org/ein/203668110",
+              "by_org": false
+            }
+          ],
+          "mission": "One Acre Fund supplies smallholder farmers with the financing and training they need to grow more food and earn more money from their farms. Instead of giving handouts, we invest in smallholder farmers to generate a permanent gain in farm income. Through a model of asset-based financing that addresses the full value chain, we provide a complete service bundle of seeds and fertilizer, financing for farm inputs, agricultural training, and market facilitation--and we deliver these services within walking distance of the millions of farming families we serve in East and Southern Africa. One Acre Fund measures success in our ability to make more farmers more prosperous. We only serve farmers, and we always put Farmers First.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "Extension work has remained an important part of the model since the organization began 20 years ago.",
+              "quote": "Extension work has remained an important part of our model since we began 20 years ago.",
+              "source": "https://oneacrefund.org/",
+              "by_org": true
+            }
+          ]
+        },
+        "es": {
+          "does": [
+            {
+              "text": "One Acre Fund suministra a los pequeños agricultores los financiamiento y la capacitación que necesitan para producir más alimentos y ganar más dinero con sus granjas.",
+              "source": "https://www.charitynavigator.org/ein/203668110",
+              "by_org": false
+            },
+            {
+              "text": "La organización ofrece un paquete completo de servicios de semillas y fertilizantes, financiamiento para insumos agrícolas, capacitación agrícola y facilitación de mercados.",
+              "source": "https://www.charitynavigator.org/ein/203668110",
+              "by_org": false
+            }
+          ],
+          "mission": "One Acre Fund suministra a los pequeños agricultores los financiamiento y la capacitación que necesitan para producir más alimentos y ganar más dinero con sus granjas. En lugar de dar ayudas, invertimos en pequeños agricultores para generar una ganancia permanente en los ingresos agrícolas. A través de un modelo de financiamiento basado en activos que aborda toda la cadena de valor, ofrecemos un paquete completo de servicios de semillas y fertilizantes, financiamiento para insumos agrícolas, capacitación agrícola y facilitación de mercados, y entregamos estos servicios a poca distancia a pie de los millones de familias agrícolas a las que servimos en África Oriental y Meridional. One Acre Fund mide el éxito en nuestra capacidad de hacer a más agricultores más prósperos. Solo servimos a los agricultores, y siempre ponemos a los agricultores primero.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "El trabajo de extensión ha seguido siendo una parte importante del modelo desde que la organización comenzó hace 20 años.",
+              "source": "https://oneacrefund.org/",
+              "by_org": true
+            }
+          ]
+        },
+        "fr": {
+          "does": [
+            {
+              "text": "One Acre Fund fournit aux petits agriculteurs le financement et la formation dont ils ont besoin pour produire plus de nourriture et gagner plus d'argent grâce à leurs fermes.",
+              "source": "https://www.charitynavigator.org/ein/203668110",
+              "by_org": false
+            },
+            {
+              "text": "L'organisation fournit un ensemble complet de services comprenant des semences et des engrais, le financement des intrants agricoles, la formation agricole et la facilitation du marché.",
+              "source": "https://www.charitynavigator.org/ein/203668110",
+              "by_org": false
+            }
+          ],
+          "mission": "One Acre Fund fournit aux petits agriculteurs le financement et la formation dont ils ont besoin pour produire plus de nourriture et gagner plus d'argent grâce à leurs fermes. Au lieu de distribuer des aides, nous investissons dans les petits agriculteurs afin de générer un gain permanent des revenus agricoles. Grâce à un modèle de financement basé sur les actifs qui couvre toute la chaîne de valeur, nous offrons un ensemble complet de services comprenant des semences et des engrais, le financement des intrants agricoles, la formation agricole et la facilitation du marché — et nous livrons ces services à distance de marche des millions de familles agricoles que nous servons en Afrique de l'Est et du Sud. One Acre Fund mesure le succès par notre capacité à rendre plus d'agriculteurs plus prospères. Nous ne servons que les agriculteurs, et nous plaçons toujours les agriculteurs en premier.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "Le travail d'extension est resté une partie importante du modèle depuis que l'organisation a commencé il y a 20 ans.",
+              "source": "https://oneacrefund.org/",
+              "by_org": true
+            }
+          ]
+        },
+        "hi": {
+          "does": [
+            {
+              "text": "One Acre Fund छोटे किसानों को वह वित्तपोषण और प्रशिक्षण प्रदान करता है जिसकी उन्हें अधिक भोजन उगाने और अपने खेतों से अधिक पैसा कमाने के लिए आवश्यकता होती है।",
+              "source": "https://www.charitynavigator.org/ein/203668110",
+              "by_org": false
+            },
+            {
+              "text": "संगठन बीज और उर्वरक, फ़सल इनपुट्स के लिए वित्तपोषण, कृषि प्रशिक्षण, और बाजार सुविधा का एक पूर्ण सेवा पैकेज प्रदान करता है।",
+              "source": "https://www.charitynavigator.org/ein/203668110",
+              "by_org": false
+            }
+          ],
+          "mission": "One Acre Fund छोटे किसानों को वह वित्तपोषण और प्रशिक्षण प्रदान करता है जिसकी उन्हें अधिक भोजन उगाने और अपने खेतों से अधिक पैसा कमाने के लिए आवश्यकता होती है। दान देने के बजाय, हम छोटे किसानों में निवेश करते हैं ताकि फ़सल आय में स्थायी वृद्धि हो सके। सम्पूर्ण वैल्यू चेन को संबोधित करने वाले एसेट-आधारित वित्तपोषण मॉडल के माध्यम से, हम बीज और उर्वरक, फ़सल इनपुट्स के लिए वित्तपोषण, कृषि प्रशिक्षण, और बाजार सुविधा का एक पूर्ण सेवा पैकेज प्रदान करते हैं—और हम इन सेवाओं को पूर्वी और दक्षिणी अफ्रीका में उन लाखों खेती करने वाले परिवारों के पास पैदल दूरी के भीतर प्रदान करते हैं जिन्हें हम सेवा देते हैं। One Acre Fund सफलता को इस बात में मापता है कि हम अधिक किसानों को अधिक समृद्ध कैसे बना सकते हैं। हम केवल किसानों की सेवा करते हैं, और हम हमेशा किसानों को पहले रखते हैं।",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "विस्तार कार्य मॉडल का एक महत्वपूर्ण हिस्सा बना हुआ है क्योंकि संगठन ने 20 साल पहले शुरुआत की थी।",
+              "source": "https://oneacrefund.org/",
+              "by_org": true
+            }
+          ]
+        },
+        "it": {
+          "does": [
+            {
+              "text": "One Acre Fund fornisce ai piccoli agricoltori il finanziamento e la formazione di cui hanno bisogno per produrre più cibo e guadagnare più soldi dalle loro fattorie.",
+              "source": "https://www.charitynavigator.org/ein/203668110",
+              "by_org": false
+            },
+            {
+              "text": "L'organizzazione fornisce un pacchetto completo di servizi di semi e fertilizzanti, finanziamento per gli input agricoli, formazione agricola e facilitazione del mercato.",
+              "source": "https://www.charitynavigator.org/ein/203668110",
+              "by_org": false
+            }
+          ],
+          "mission": "One Acre Fund fornisce ai piccoli agricoltori il finanziamento e la formazione di cui hanno bisogno per produrre più cibo e guadagnare più soldi dalle loro fattorie. Invece di fare regali, investiamo nei piccoli agricoltori per generare un guadagno permanente nel reddito agricolo. Attraverso un modello di finanziamento basato su asset che copre l'intera catena del valore, offriamo un pacchetto completo di servizi di semi e fertilizzanti, finanziamento per gli input agricoli, formazione agricola e facilitazione del mercato, e forniamo questi servizi a distanza a piedi dalle milioni di famiglie agricole che serviamo nell'Africa orientale e meridionale. One Acre Fund misura il successo nella nostra capacità di rendere più agricoltori più prosperi. Serviamo solo gli agricoltori e mettiamo sempre gli agricoltori al primo posto.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "Il lavoro di estensione è rimasto una parte importante del modello da quando l'organizzazione è iniziata 20 anni fa.",
+              "source": "https://oneacrefund.org/",
+              "by_org": true
+            }
+          ]
+        },
+        "ja": {
+          "does": [
+            {
+              "text": "One Acre Fund は、小規模農家に、より多くの食料を育て、農場からより多くの収入を得るために必要な資金と研修を提供します。",
+              "source": "https://www.charitynavigator.org/ein/203668110",
+              "by_org": false
+            },
+            {
+              "text": "この組織は、種子と肥料、農業投入資材の資金調達、農業研修、そして市場の仲介という包括的なサービスバンドルを提供します。",
+              "source": "https://www.charitynavigator.org/ein/203668110",
+              "by_org": false
+            }
+          ],
+          "mission": "One Acre Fund は、小規模農家に、より多くの食料を育て、農場からより多くの収入を得るために必要な資金と研修を提供します。施しを行うのではなく、私たちは小規模農家に投資し、農業収入の永続的な増加を実現します。バリューチェーン全体に対応する資産ベースの資金調達モデルを通じて、種子と肥料、農業投入資材の資金調達、農業研修、そして市場の仲介という包括的なサービスバンドルを提供し、東部・南部アフリカの何百万もの農家の近くでこれらのサービスを徒歩圏内で提供しています。One Acre Fund は、より多くの農家をより豊かにする能力で成功を測ります。私たちは農家だけにサービスを提供し、常に農家を第一に考えます。",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "拡張活動は、組織が設立されてから20年経った現在も、モデルの重要な部分であり続けています。",
+              "source": "https://oneacrefund.org/",
+              "by_org": true
+            }
+          ]
+        },
+        "pt": {
+          "does": [
+            {
+              "text": "One Acre Fund fornece aos pequenos agricultores o financiamento e o treinamento de que precisam para produzir mais alimentos e ganhar mais dinheiro com suas fazendas.",
+              "source": "https://www.charitynavigator.org/ein/203668110",
+              "by_org": false
+            },
+            {
+              "text": "A organização oferece um pacote completo de serviços de sementes e fertilizante, financiamento para insumos agrícolas, treinamento agrícola e facilitação de mercado.",
+              "source": "https://www.charitynavigator.org/ein/203668110",
+              "by_org": false
+            }
+          ],
+          "mission": "One Acre Fund fornece aos pequenos agricultores o financiamento e o treinamento de que precisam para produzir mais alimentos e ganhar mais dinheiro com suas fazendas. Em vez de distribuir ajuda, investimos nos pequenos agricultores para gerar um ganho permanente na renda agrícola. Por meio de um modelo de financiamento baseado em ativos que abrange toda a cadeia de valor, oferecemos um pacote completo de serviços de sementes e fertilizantes, financiamento para insumos agrícolas, treinamento agrícola e facilitação de mercado — e entregamos esses serviços a uma distância a pé das milhões de famílias agrícolas que atendemos no Leste e Sul da África. One Acre Fund mede o sucesso na nossa capacidade de tornar mais agricultores mais prósperos. Atendemos apenas agricultores, e sempre colocamos os Agricultores em Primeiro Lugar.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "O trabalho de extensão tem permanecido uma parte importante do modelo desde que a organização começou há 20 anos.",
+              "source": "https://oneacrefund.org/",
+              "by_org": true
+            }
+          ]
+        },
+        "ru": {
+          "does": [
+            {
+              "text": "One Acre Fund поставляет мелким фермерам финансирование и обучение, необходимые им для выращивания большего количества продуктов и получения большего дохода от их ферм.",
+              "source": "https://www.charitynavigator.org/ein/203668110",
+              "by_org": false
+            },
+            {
+              "text": "Организация предоставляет полный набор услуг: семена и удобрения, финансирование сельскохозяйственных вводов, аграрное обучение и содействие в выходе на рынок.",
+              "source": "https://www.charitynavigator.org/ein/203668110",
+              "by_org": false
+            }
+          ],
+          "mission": "One Acre Fund поставляет мелким фермерам финансирование и обучение, необходимые им для выращивания большего количества продуктов и получения большего дохода от их ферм. Вместо раздачи подарков мы инвестируем в мелких фермеров, чтобы обеспечить постоянный рост доходов от фермерского хозяйства. Через модель финансирования на основе активов, охватывающую всю цепочку создания стоимости, мы предоставляем полный набор услуг: семена и удобрения, финансирование сельскохозяйственных вводов, аграрное обучение и содействие в выходе на рынок — и предоставляем эти услуги в шаговой доступности от миллионов фермерских семей, которым мы помогаем в Восточной и Южной Африке. One Acre Fund измеряет успех нашей способностью сделать больше фермеров более процветающими. Мы обслуживаем только фермеров и всегда ставим фермеров в первую очередь.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "Работа по расширению остаётся важной частью модели с тех пор, как организация начала свою деятельность 20 лет назад.",
+              "source": "https://oneacrefund.org/",
+              "by_org": true
+            }
+          ]
+        },
+        "zh": {
+          "does": [
+            {
+              "text": "One Acre Fund 为小农提供他们所需的融资和培训，以种植更多粮食并从农场中赚取更多收入。",
+              "source": "https://www.charitynavigator.org/ein/203668110",
+              "by_org": false
+            },
+            {
+              "text": "该组织提供包括种子和肥料、农资融资、农业培训和市场促进在内的完整服务套餐。",
+              "source": "https://www.charitynavigator.org/ein/203668110",
+              "by_org": false
+            }
+          ],
+          "mission": "One Acre Fund 为小农提供他们所需的融资和培训，以种植更多粮食并从农场中赚取更多收入。我们不是发放救济，而是投资小农，以实现农场收入的永久增长。通过覆盖全价值链的资产融资模式，我们提供包括种子和肥料、农资融资、农业培训和市场促进在内的完整服务套餐——并在我们服务的东部和南部非洲数百万农户步行可达的范围内提供这些服务。One Acre Fund 通过我们让更多农民更富裕的能力来衡量成功。我们只服务农民，并始终把农民放在首位。",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "自组织成立20年前，推广工作一直是模型的重要组成部分。",
+              "source": "https://oneacrefund.org/",
+              "by_org": true
+            }
+          ]
+        }
+      },
       "safety": {
         "evaluator": "Charity Navigator",
         "stars": 4,
@@ -11163,9 +11448,9 @@
     "costs": {
       "USD": 8.5
     },
-    "ai_calls": 1392,
+    "ai_calls": 1415,
     "ai_cost_real_usd": 0.0,
-    "ai_value_offered_usd": 8.669382,
+    "ai_value_offered_usd": 8.708165,
     "candidates_examined": 76,
     "candidates_discarded": 42
   },
