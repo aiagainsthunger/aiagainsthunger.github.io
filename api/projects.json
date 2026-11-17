@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T11:04:46.601243+00:00",
+  "generated_at": "2026-11-17T12:04:31.333339+00:00",
   "projects": [
     {
       "slug": "support-east-hampton-food-pantry-inc-against-hunger-5988",
@@ -7490,7 +7490,58 @@
       "source_url": "https://www.charitynavigator.org/ein/050395601",
       "approved_on": "2026-11-17",
       "review_until": "2026-11-20 10:05 UTC",
-      "translations": {},
+      "translations": {
+        "de": {
+          "text": "Organisation bewertet von Charity Navigator, gefunden von den Agenten mit: 'site:charitynavigator.org Rating for food rescue hunger'.",
+          "title": "Unterstützen Sie die Rhode Island Community Food Bank Association im Kampf gegen den Hunger",
+          "source": "traduzione AI"
+        },
+        "en": {
+          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'site:charitynavigator.org Rating for food rescue hunger'.",
+          "title": "Support Rhode Island Community Food Bank Association against hunger",
+          "source": "originale"
+        },
+        "es": {
+          "text": "Entidad evaluada por Charity Navigator, encontrada por los agentes con: 'site:charitynavigator.org Rating for food rescue hunger'.",
+          "title": "Apoya a Rhode Island Community Food Bank Association contra el hambre",
+          "source": "traduzione AI"
+        },
+        "fr": {
+          "text": "Organisation évaluée par Charity Navigator, trouvée par les agents avec : 'site:charitynavigator.org Rating for food rescue hunger'.",
+          "title": "Soutenez Rhode Island Community Food Bank Association contre la faim",
+          "source": "traduzione AI"
+        },
+        "hi": {
+          "text": "Charity Navigator द्वारा मूल्यांकित संस्था, एजेंटों द्वारा खोजी गई: 'site:charitynavigator.org Rating for food rescue hunger'.",
+          "title": "भूख के खिलाफ Rhode Island Community Food Bank Association का समर्थन करें",
+          "source": "traduzione AI"
+        },
+        "it": {
+          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'site:charitynavigator.org Rating for food rescue hunger'.",
+          "title": "Sostieni Rhode Island Community Food Bank Association contro la fame",
+          "source": "traduzione AI"
+        },
+        "ja": {
+          "text": "Charity Navigator によって評価された団体で、エージェントが次の検索で見つけました: 'site:charitynavigator.org Rating for food rescue hunger'.",
+          "title": "Rhode Island Community Food Bank Association の飢餓対策を支援する",
+          "source": "traduzione AI"
+        },
+        "pt": {
+          "text": "Entidade avaliada pela Charity Navigator, encontrada pelos agentes com: 'site:charitynavigator.org Rating for food rescue hunger'.",
+          "title": "Apoie a Rhode Island Community Food Bank Association contra a fome",
+          "source": "traduzione AI"
+        },
+        "ru": {
+          "text": "Организация, оцененная Charity Navigator, найденная агентами с: 'site:charitynavigator.org Rating for food rescue hunger'.",
+          "title": "Поддержите Rhode Island Community Food Bank Association в борьбе с голодом",
+          "source": "traduzione AI"
+        },
+        "zh": {
+          "text": "该机构已被 Charity Navigator 评估，代理人通过以下方式找到：'site:charitynavigator.org Rating for food rescue hunger'。",
+          "title": "支持 Rhode Island Community Food Bank Association 对抗饥饿",
+          "source": "traduzione AI"
+        }
+      },
       "tranches": [],
       "checks": [
         {
@@ -7687,7 +7738,455 @@
         "https://www.linkedin.com/company/rhode-island-community-food-bank"
       ],
       "waiting_counter": false,
-      "profile": {},
+      "profile": {
+        "de": {
+          "does": [
+            {
+              "text": "Die Organisation verteilt Lebensmittel an bedürftige Menschen über ein landesweites Netzwerk von 137 Mitgliedsagenturen.",
+              "source": "https://rifoodbank.org/about-the-food-bank/",
+              "by_org": true
+            },
+            {
+              "text": "140 Mitgliedsagenturen im ganzen Bundesstaat erhalten Lebensmittel von der Food Bank, um sie an hilfsbedürftige Menschen zu verteilen.",
+              "source": "https://rifoodbank.org/",
+              "by_org": true
+            },
+            {
+              "text": "89,000 Rhode Islander werden jeden Monat über das Netzwerk der Mitgliedsagenturen versorgt.",
+              "source": "https://rifoodbank.org/",
+              "by_org": true
+            },
+            {
+              "text": "18.2m Pfund Lebensmittel wurden im letzten Jahr verteilt.",
+              "source": "https://rifoodbank.org/",
+              "by_org": true
+            }
+          ],
+          "mission": "Unsere Mission<br><br>Die Lebensqualität aller Rhode Islander zu verbessern, indem wir Lösungen für das Problem des Hungers vorantreiben.<br><br>Our",
+          "does_not": [
+            {
+              "text": "Die Organisation hat derzeit nicht die Kapazität, neue Mitgliedsagenturen aufzunehmen.",
+              "source": "https://rifoodbank.org/about-the-food-bank/",
+              "by_org": true
+            }
+          ],
+          "strengths": [
+            {
+              "text": "Die Organisation verteilt seit 1982 Millionen Pfund Lebensmittel.",
+              "source": "https://rifoodbank.org/about-the-food-bank/",
+              "by_org": true
+            },
+            {
+              "text": "Die Food Bank ist mit Feeding America, der nationalen Lebensmittelbankorganisation, verbunden.",
+              "source": "https://rifoodbank.org/about-the-food-bank/",
+              "by_org": true
+            }
+          ]
+        },
+        "en": {
+          "does": [
+            {
+              "text": "The organization distributes food to people in need through a state-wide network of 137 member agencies.",
+              "quote": "The Food Bank distributes food to people in need through a state-wide network of 137 member agencies, providing nutritious pantry staples, fresh produce, meats, dairy and culturally relevant foods to Rhode Islanders experiencing food insecurity.",
+              "source": "https://rifoodbank.org/about-the-food-bank/",
+              "by_org": true
+            },
+            {
+              "text": "140 member agencies across the state receive food from the Food Bank to give to people needing assistance.",
+              "quote": "140\nMember agencies across the state receive food from the Food Bank to give to people needing assistance",
+              "source": "https://rifoodbank.org/",
+              "by_org": true
+            },
+            {
+              "text": "89,000 Rhode Islanders are served each month through the network of member agencies.",
+              "quote": "89,000\nRhode Islanders served each month through our network of member agencies",
+              "source": "https://rifoodbank.org/",
+              "by_org": true
+            },
+            {
+              "text": "18.2m pounds of food were distributed last year.",
+              "quote": "18.2m\nPounds of food distributed last year",
+              "source": "https://rifoodbank.org/",
+              "by_org": true
+            }
+          ],
+          "mission": "Our Mission<br><br>To improve the quality of life for all Rhode Islanders by advancing solutions to the problem of hunger.<br><br>Our",
+          "does_not": [
+            {
+              "text": "The organization currently does not have the capacity to take on new member agencies.",
+              "quote": "While we currently don’t have the capacity to take on new member agencies, we are open to discussing innovative partnerships to make healthy, nutritious food available in all communities.",
+              "source": "https://rifoodbank.org/about-the-food-bank/",
+              "by_org": true
+            }
+          ],
+          "strengths": [
+            {
+              "text": "The organization has been distributing millions of pounds of food since 1982.",
+              "quote": "Since 1982, with your support, the Rhode Island Community Food Bank has been distributing millions of pounds of food to those in need of assistance through our network of member agencies across the state.",
+              "source": "https://rifoodbank.org/about-the-food-bank/",
+              "by_org": true
+            },
+            {
+              "text": "The Food Bank is affiliated with Feeding America, the national food bank organization.",
+              "quote": "The Food Bank is affiliated with Feeding America, the national food bank organization.",
+              "source": "https://rifoodbank.org/about-the-food-bank/",
+              "by_org": true
+            }
+          ]
+        },
+        "es": {
+          "does": [
+            {
+              "text": "La organización distribuye alimentos a personas necesitadas a través de una red estatal de 137 agencias miembros.",
+              "source": "https://rifoodbank.org/about-the-food-bank/",
+              "by_org": true
+            },
+            {
+              "text": "140 agencias miembros en todo el estado reciben alimentos del Banco de Alimentos para entregarlos a personas que necesitan asistencia.",
+              "source": "https://rifoodbank.org/",
+              "by_org": true
+            },
+            {
+              "text": "89,000 Rhode Islanders son atendidos cada mes a través de la red de agencias miembros.",
+              "source": "https://rifoodbank.org/",
+              "by_org": true
+            },
+            {
+              "text": "18.2m libras de comida fueron distribuidas el año pasado.",
+              "source": "https://rifoodbank.org/",
+              "by_org": true
+            }
+          ],
+          "mission": "Nuestra misión<br><br>Mejorar la calidad de vida de todos los Rhode Islanders mediante el avance de soluciones al problema del hambre.<br><br>Nuestro",
+          "does_not": [
+            {
+              "text": "Actualmente, la organización no tiene la capacidad de incorporar nuevas agencias miembros.",
+              "source": "https://rifoodbank.org/about-the-food-bank/",
+              "by_org": true
+            }
+          ],
+          "strengths": [
+            {
+              "text": "La organización ha estado distribuyendo millones de libras de comida desde 1982.",
+              "source": "https://rifoodbank.org/about-the-food-bank/",
+              "by_org": true
+            },
+            {
+              "text": "El Banco de Alimentos está afiliado a Feeding America, la organización nacional de bancos de alimentos.",
+              "source": "https://rifoodbank.org/about-the-food-bank/",
+              "by_org": true
+            }
+          ]
+        },
+        "fr": {
+          "does": [
+            {
+              "text": "L'organisation distribue de la nourriture aux personnes dans le besoin via un réseau à l'échelle de l'État de 137 agences membres.",
+              "source": "https://rifoodbank.org/about-the-food-bank/",
+              "by_org": true
+            },
+            {
+              "text": "140 agences membres à travers l'État reçoivent de la nourriture de la Banque alimentaire pour la donner aux personnes nécessitant de l'aide.",
+              "source": "https://rifoodbank.org/",
+              "by_org": true
+            },
+            {
+              "text": "89,000 habitants de Rhode Island sont servis chaque mois grâce au réseau d'agences membres.",
+              "source": "https://rifoodbank.org/",
+              "by_org": true
+            },
+            {
+              "text": "18.2m livres de nourriture ont été distribuées l'année dernière.",
+              "source": "https://rifoodbank.org/",
+              "by_org": true
+            }
+          ],
+          "mission": "Notre mission<br><br>Améliorer la qualité de vie de tous les habitants de Rhode Island en faisant progresser les solutions au problème de la faim.<br><br>Notre",
+          "does_not": [
+            {
+              "text": "L'organisation n'a actuellement pas la capacité d'accueillir de nouvelles agences membres.",
+              "source": "https://rifoodbank.org/about-the-food-bank/",
+              "by_org": true
+            }
+          ],
+          "strengths": [
+            {
+              "text": "L'organisation distribue des millions de livres de nourriture depuis 1982.",
+              "source": "https://rifoodbank.org/about-the-food-bank/",
+              "by_org": true
+            },
+            {
+              "text": "La Banque alimentaire est affiliée à Feeding America, l'organisation nationale des banques alimentaires.",
+              "source": "https://rifoodbank.org/about-the-food-bank/",
+              "by_org": true
+            }
+          ]
+        },
+        "hi": {
+          "does": [
+            {
+              "text": "संगठन 137 सदस्य एजेंसियों के राज्य-व्यापी नेटवर्क के माध्यम से जरूरतमंद लोगों को भोजन वितरित करता है।",
+              "source": "https://rifoodbank.org/about-the-food-bank/",
+              "by_org": true
+            },
+            {
+              "text": "राज्य भर में 140 सदस्य एजेंसियां फ़ूड बैंक से भोजन प्राप्त करती हैं ताकि सहायता की आवश्यकता वाले लोगों को दिया जा सके।",
+              "source": "https://rifoodbank.org/",
+              "by_org": true
+            },
+            {
+              "text": "प्रत्येक महीने सदस्य एजेंसियों के नेटवर्क के माध्यम से 89,000 रोड आइलैंडर को सेवा प्रदान की जाती है।",
+              "source": "https://rifoodbank.org/",
+              "by_org": true
+            },
+            {
+              "text": "पिछले वर्ष 18.2m पाउंड भोजन वितरित किया गया।",
+              "source": "https://rifoodbank.org/",
+              "by_org": true
+            }
+          ],
+          "mission": "हमारा मिशन<br><br>भूख की समस्या के समाधान को आगे बढ़ाकर सभी रोड आइलैंडर की जीवन गुणवत्ता में सुधार करना।<br><br>हमारा",
+          "does_not": [
+            {
+              "text": "वर्तमान में संगठन के पास नई सदस्य एजेंसियों को शामिल करने की क्षमता नहीं है।",
+              "source": "https://rifoodbank.org/about-the-food-bank/",
+              "by_org": true
+            }
+          ],
+          "strengths": [
+            {
+              "text": "संगठन 1982 से लाखों पाउंड भोजन वितरित कर रहा है।",
+              "source": "https://rifoodbank.org/about-the-food-bank/",
+              "by_org": true
+            },
+            {
+              "text": "फ़ूड बैंक फ़ीडिंग अमेरिका, राष्ट्रीय फ़ूड बैंक संगठन के साथ संबद्ध है।",
+              "source": "https://rifoodbank.org/about-the-food-bank/",
+              "by_org": true
+            }
+          ]
+        },
+        "it": {
+          "does": [
+            {
+              "text": "L'organizzazione distribuisce cibo alle persone bisognose attraverso una rete statale di 137 agenzie associate.",
+              "source": "https://rifoodbank.org/about-the-food-bank/",
+              "by_org": true
+            },
+            {
+              "text": "140 agenzie associate in tutto lo stato ricevono cibo dal Food Bank per dare alle persone che necessitano assistenza.",
+              "source": "https://rifoodbank.org/",
+              "by_org": true
+            },
+            {
+              "text": "89,000 Rhode Islanders sono serviti ogni mese attraverso la rete di agenzie associate.",
+              "source": "https://rifoodbank.org/",
+              "by_org": true
+            },
+            {
+              "text": "18.2m libbre di cibo sono state distribuite lo scorso anno.",
+              "source": "https://rifoodbank.org/",
+              "by_org": true
+            }
+          ],
+          "mission": "La nostra missione<br><br>Migliorare la qualità della vita di tutti i Rhode Islanders promuovendo soluzioni al problema della fame.<br><br>La nostra",
+          "does_not": [
+            {
+              "text": "L'organizzazione attualmente non ha la capacità di accettare nuove agenzie associate.",
+              "source": "https://rifoodbank.org/about-the-food-bank/",
+              "by_org": true
+            }
+          ],
+          "strengths": [
+            {
+              "text": "L'organizzazione distribuisce milioni di libbre di cibo dal 1982.",
+              "source": "https://rifoodbank.org/about-the-food-bank/",
+              "by_org": true
+            },
+            {
+              "text": "Il Food Bank è affiliato a Feeding America, l'organizzazione nazionale di banche alimentari.",
+              "source": "https://rifoodbank.org/about-the-food-bank/",
+              "by_org": true
+            }
+          ]
+        },
+        "ja": {
+          "does": [
+            {
+              "text": "この組織は、州全体の137の加盟機関ネットワークを通じて、支援が必要な人々に食料を配布します。",
+              "source": "https://rifoodbank.org/about-the-food-bank/",
+              "by_org": true
+            },
+            {
+              "text": "州内の140の加盟機関がフードバンクから食料を受け取り、支援を必要とする人々に提供します。",
+              "source": "https://rifoodbank.org/",
+              "by_org": true
+            },
+            {
+              "text": "毎月、加盟機関のネットワークを通じて89,000人のロードアイランド州民にサービスが提供されます。",
+              "source": "https://rifoodbank.org/",
+              "by_org": true
+            },
+            {
+              "text": "昨年、18.2mポンドの食料が配布されました。",
+              "source": "https://rifoodbank.org/",
+              "by_org": true
+            }
+          ],
+          "mission": "私たちのミッション<br><br>飢餓問題への解決策を推進することで、全てのロードアイランド州民の生活の質を向上させます。<br><br>私たちの",
+          "does_not": [
+            {
+              "text": "現在、この組織は新しい加盟機関を受け入れる余裕がありません。",
+              "source": "https://rifoodbank.org/about-the-food-bank/",
+              "by_org": true
+            }
+          ],
+          "strengths": [
+            {
+              "text": "この組織は1982年から何百万ポンドもの食料を配布しています。",
+              "source": "https://rifoodbank.org/about-the-food-bank/",
+              "by_org": true
+            },
+            {
+              "text": "フードバンクは、全国的なフードバンク組織であるFeeding Americaと提携しています。",
+              "source": "https://rifoodbank.org/about-the-food-bank/",
+              "by_org": true
+            }
+          ]
+        },
+        "pt": {
+          "does": [
+            {
+              "text": "A organização distribui alimentos para pessoas necessitadas através de uma rede estadual de 137 agências membros.",
+              "source": "https://rifoodbank.org/about-the-food-bank/",
+              "by_org": true
+            },
+            {
+              "text": "140 agências membros em todo o estado recebem alimentos do Banco de Alimentos para oferecer a pessoas que precisam de assistência.",
+              "source": "https://rifoodbank.org/",
+              "by_org": true
+            },
+            {
+              "text": "89,000 habitantes de Rhode Island são atendidos a cada mês através da rede de agências membros.",
+              "source": "https://rifoodbank.org/",
+              "by_org": true
+            },
+            {
+              "text": "18.2m libras de alimentos foram distribuídas no ano passado.",
+              "source": "https://rifoodbank.org/",
+              "by_org": true
+            }
+          ],
+          "mission": "Nossa Missão<br><br>Melhorar a qualidade de vida de todos os habitantes de Rhode Island, avançando soluções para o problema da fome.<br><br>Nossa",
+          "does_not": [
+            {
+              "text": "A organização atualmente não tem capacidade para aceitar novas agências membros.",
+              "source": "https://rifoodbank.org/about-the-food-bank/",
+              "by_org": true
+            }
+          ],
+          "strengths": [
+            {
+              "text": "A organização tem distribuído milhões de libras de alimentos desde 1982.",
+              "source": "https://rifoodbank.org/about-the-food-bank/",
+              "by_org": true
+            },
+            {
+              "text": "O Banco de Alimentos está afiliado à Feeding America, a organização nacional de bancos de alimentos.",
+              "source": "https://rifoodbank.org/about-the-food-bank/",
+              "by_org": true
+            }
+          ]
+        },
+        "ru": {
+          "does": [
+            {
+              "text": "Организация распределяет еду нуждающимся через сеть из 137 агентств-участников по всему штату.",
+              "source": "https://rifoodbank.org/about-the-food-bank/",
+              "by_org": true
+            },
+            {
+              "text": "140 агентств-участников по всему штату получают еду от Food Bank, чтобы передавать её людям, нуждающимся в помощи.",
+              "source": "https://rifoodbank.org/",
+              "by_org": true
+            },
+            {
+              "text": "89,000 жителей Род-Айленда обслуживаются каждый месяц через сеть агентств-участников.",
+              "source": "https://rifoodbank.org/",
+              "by_org": true
+            },
+            {
+              "text": "18.2m фунтов еды было распределено в прошлом году.",
+              "source": "https://rifoodbank.org/",
+              "by_org": true
+            }
+          ],
+          "mission": "Наша миссия<br><br>Улучшить качество жизни всех жителей Род-Айленда, продвигая решения проблемы голода.<br><br>Наша",
+          "does_not": [
+            {
+              "text": "В настоящее время у организации нет возможности принимать новых агентств-участников.",
+              "source": "https://rifoodbank.org/about-the-food-bank/",
+              "by_org": true
+            }
+          ],
+          "strengths": [
+            {
+              "text": "Организация распределяет миллионы фунтов еды с 1982 года.",
+              "source": "https://rifoodbank.org/about-the-food-bank/",
+              "by_org": true
+            },
+            {
+              "text": "Food Bank связан с Feeding America, национальной организацией по продовольственным банкам.",
+              "source": "https://rifoodbank.org/about-the-food-bank/",
+              "by_org": true
+            }
+          ]
+        },
+        "zh": {
+          "does": [
+            {
+              "text": "该组织通过遍布全州的 137 家成员机构网络向有需要的人分发食物。",
+              "source": "https://rifoodbank.org/about-the-food-bank/",
+              "by_org": true
+            },
+            {
+              "text": "全州的 140 家成员机构从食品银行接收食物，以提供给需要帮助的人。",
+              "source": "https://rifoodbank.org/",
+              "by_org": true
+            },
+            {
+              "text": "每月通过成员机构网络为 89,000 名罗德岛居民提供服务。",
+              "source": "https://rifoodbank.org/",
+              "by_org": true
+            },
+            {
+              "text": "去年分发了 18.2m 磅食物。",
+              "source": "https://rifoodbank.org/",
+              "by_org": true
+            }
+          ],
+          "mission": "我们的使命<br><br>通过推进解决饥饿问题的方案，提升所有罗德岛居民的生活质量。<br><br>Our",
+          "does_not": [
+            {
+              "text": "该组织目前没有能力接纳新的成员机构。",
+              "source": "https://rifoodbank.org/about-the-food-bank/",
+              "by_org": true
+            }
+          ],
+          "strengths": [
+            {
+              "text": "自 1982 年以来，该组织一直在分发数百万磅的食物。",
+              "source": "https://rifoodbank.org/about-the-food-bank/",
+              "by_org": true
+            },
+            {
+              "text": "该食品银行隶属于 Feeding America——美国全国食品银行组织。",
+              "source": "https://rifoodbank.org/about-the-food-bank/",
+              "by_org": true
+            }
+          ]
+        }
+      },
       "safety": {
         "evaluator": "Charity Navigator",
         "stars": 4,
@@ -11693,9 +12192,9 @@
     "costs": {
       "USD": 8.5
     },
-    "ai_calls": 1420,
+    "ai_calls": 1446,
     "ai_cost_real_usd": 0.0,
-    "ai_value_offered_usd": 8.736675,
+    "ai_value_offered_usd": 8.796302,
     "candidates_examined": 77,
     "candidates_discarded": 42
   },
