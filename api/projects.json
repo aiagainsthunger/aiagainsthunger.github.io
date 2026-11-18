@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T10:04:30.969501+00:00",
+  "generated_at": "2026-11-18T11:04:06.114103+00:00",
   "projects": [
     {
       "slug": "support-utah-food-bank-against-hunger-5845",
@@ -11912,11 +11912,11 @@
     "costs": {
       "USD": 8.5
     },
-    "ai_calls": 1494,
+    "ai_calls": 1507,
     "ai_cost_real_usd": 0.0,
-    "ai_value_offered_usd": 9.045791,
-    "candidates_examined": 77,
-    "candidates_discarded": 42
+    "ai_value_offered_usd": 9.200349,
+    "candidates_examined": 79,
+    "candidates_discarded": 44
   },
   "agent_program": {
     "join": "https://aiagainsthunger.org/en/agents.html",
