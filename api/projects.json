@@ -1,660 +1,6 @@
 {
-  "generated_at": "2026-11-17T12:04:31.333339+00:00",
+  "generated_at": "2026-11-18T07:06:44.952503+00:00",
   "projects": [
-    {
-      "slug": "support-east-hampton-food-pantry-inc-against-hunger-5988",
-      "title": "Support East Hampton Food Pantry Inc against hunger",
-      "description": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'Every.org: food pantry'.",
-      "org_name": "East Hampton Food Pantry Inc",
-      "org_country": "US",
-      "org_website": "https://easthamptonfoodpantry.org/",
-      "country": "US",
-      "currency": "USD",
-      "goal": 5000.0,
-      "raised": 0.0,
-      "donated": 0.0,
-      "status": "attiva",
-      "donation_url": "https://www.every.org/easthamptonfoodpantry/f/ai-against-hunger-for",
-      "source_url": "https://www.charitynavigator.org/ein/270109312",
-      "approved_on": "2026-11-14",
-      "review_until": null,
-      "translations": {
-        "de": {
-          "text": "Organisation bewertet von Charity Navigator, gefunden von den Agenten mit: 'Every.org: food pantry'.",
-          "title": "Unterstützen Sie East Hampton Food Pantry Inc im Kampf gegen den Hunger",
-          "source": "traduzione AI"
-        },
-        "en": {
-          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'Every.org: food pantry'.",
-          "title": "Support East Hampton Food Pantry Inc against hunger",
-          "source": "originale"
-        },
-        "es": {
-          "text": "Entidad evaluada por Charity Navigator, encontrada por los agentes con: 'Every.org: food pantry'.",
-          "title": "Apoya a East Hampton Food Pantry Inc contra el hambre",
-          "source": "traduzione AI"
-        },
-        "fr": {
-          "text": "Organisation évaluée par Charity Navigator, trouvée par les agents avec : 'Every.org : food pantry'.",
-          "title": "Soutenez East Hampton Food Pantry Inc contre la faim",
-          "source": "traduzione AI"
-        },
-        "hi": {
-          "text": "Charity Navigator द्वारा मूल्यांकित संस्था, एजेंटों द्वारा पाया गया: 'Every.org: food pantry'.",
-          "title": "भूख के खिलाफ East Hampton Food Pantry Inc का समर्थन करें",
-          "source": "traduzione AI"
-        },
-        "it": {
-          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'Every.org: food pantry'.",
-          "title": "Sostieni East Hampton Food Pantry Inc contro la fame",
-          "source": "traduzione AI"
-        },
-        "ja": {
-          "text": "Charity Navigator に評価された団体で、エージェントが次のように見つけました: 'Every.org: food pantry'。",
-          "title": "East Hampton Food Pantry Inc を飢餓から支援する",
-          "source": "traduzione AI"
-        },
-        "pt": {
-          "text": "Entidade avaliada pela Charity Navigator, encontrada pelos agentes com: 'Every.org: food pantry'.",
-          "title": "Apoie a East Hampton Food Pantry Inc contra a fome",
-          "source": "traduzione AI"
-        },
-        "ru": {
-          "text": "Организация, оцененная Charity Navigator, найденная агентами с: 'Every.org: food pantry'.",
-          "title": "Поддержите East Hampton Food Pantry Inc в борьбе с голодом",
-          "source": "traduzione AI"
-        },
-        "zh": {
-          "text": "由 Charity Navigator 评估的机构，由特工通过以下方式找到：'Every.org: food pantry'。",
-          "title": "支持 East Hampton Food Pantry Inc 对抗饥饿",
-          "source": "traduzione AI"
-        }
-      },
-      "tranches": [
-        {
-          "number": 1,
-          "goal": 2000.0,
-          "status": "aperta"
-        }
-      ],
-      "checks": [
-        {
-          "verifier": "regole",
-          "check_type": "ammissibilita",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Regole di ammissibilità (config/regole.yaml):\n✓ fonte ammessa: fonte 'valutatore'\n✓ ente registrato nel database: East Hampton Food Pantry Inc\n✓ codice fiscale verificato (IRS): EIN 270109312\n✓ ente valutato dal valutatore: Charity Navigator\n✓ voto del valutatore: 91%, 4 stelle su 4 (minimo 4 stelle e 90%)\n✓ anni di bilanci ufficiali: 13 anni [2019, 2020, 2021, 2022, 2023] (minimo 3)\n✓ tema fame / nutrizione: categoria IRS K31 (richiesta ['K3', 'K4']); tema nel nome: True; tema nella descrizione ufficiale: no (Every.org, campo description: https://www.every.org/easthamptonfoodpantry; API https://partners.every.org/v0.2/nonprofit/270109312); no (Charity Navigator, riquadro Mission della pagina Rating for: https://www.charitynavigator.org/ein/270109312)",
-          "source_url": "https://www.charitynavigator.org/ein/270109312"
-        },
-        {
-          "verifier": "regole",
-          "check_type": "ammissibilita",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "✓ valutatore indipendente tra le prove: 1 pagine di valutatori (https://www.charitynavigator.org/ein/270109312); minimo 1",
-          "source_url": "https://www.charitynavigator.org/ein/270109312"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "registrazione",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "L'ente risulta regolarmente registrato negli Stati Uniti come organizzazione 501(c)(3) con EIN 270109312 e data di riconoscimento 2006-01-01.",
-          "source_url": "https://www.charitynavigator.org/ein/270109312"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "bilanci",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Esistono bilanci pubblici Form 990 presentati regolarmente negli ultimi anni, tra cui il bilancio 2023 con entrate e spese documentate.",
-          "source_url": "https://www.charitynavigator.org/ein/270109312"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "valutazione_indipendente",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "L'ente è valutato da Charity Navigator con un punteggio elevato (Four-Star Charity, 91%).",
-          "source_url": "https://www.charitynavigator.org/ein/270109312"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "coerenza_importo",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "L'obiettivo di raccolta previsto di 5000 USD è estremamente contenuto e ampiamente coerente con il bilancio e le dimensioni dell'ente.",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/270109312"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "storico_progetti",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "L'ente opera continuativamente dal 2006 fornendo assistenza alimentare e gestendo programmi locali documentati anche sul proprio sito.",
-          "source_url": "https://www.charitynavigator.org/ein/270109312"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "segnali_allarme",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Non sono stati riscontrati segnali d'allarme, notizie negative o criticità nelle verifiche effettuate.",
-          "source_url": "https://www.charitynavigator.org/ein/270109312"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "conflitti_interesse",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
-          "source_url": "config/conflitti.yaml"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "registrazione",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "L'ente è registrato come 501(c)(3) con EIN 270109312, indirizzo a East Hampton, NY, confermato da Charity Navigator e ProPublica.",
-          "source_url": "https://www.charitynavigator.org/ein/270109312"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "bilanci",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Form 990 disponibili per gli ultimi 6 anni (2023‑2018) con dati di entrate e spese.",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/270109312"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "valutazione_indipendente",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Charity Navigator, valutatore indipendente, assegna 4 stelle (91% rating).",
-          "source_url": "https://www.charitynavigator.org/ein/270109312"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "coerenza_importo",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "Importo richiesto $5,000 è inferiore all'1% delle entrate annuali (circa $613k nel 2023), quindi ragionevole.",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/270109312"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "storico_progetti",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "Documentazione di attività passate nei Form 990 (2018‑2023) e eventi come Polar Plunge 2026 sul sito.",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/270109312"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "segnali_allarme",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun segnale di allarme: nessuna urgenza artificiosa, pagamenti crypto, contatti solo via email/telefono, informazioni trasparenti.",
-          "source_url": "https://www.charitynavigator.org/ein/270109312"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "conflitti_interesse",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
-          "source_url": "config/conflitti.yaml"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "registrazione",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "L'ente East Hampton Food Pantry Inc è registrato come 501(c)(3) con EIN 270109312, riconosciuto dall'IRS dal 2006-01-01. La registrazione è confermata sia da Charity Navigator che dal ProPublica Nonprofit Explorer.",
-          "source_url": "https://www.charitynavigator.org/ein/270109312"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "bilanci",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Sono disponibili i bilanci pubblici (Form 990) per gli anni fiscali dal 2011 al 2023, con dati dettagliati su entrate e spese accessibili tramite ProPublica.",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/270109312"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "valutazione_indipendente",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Charity Navigator assegna un rating di 4 stelle (91%) all'ente, indicando una buona performance in termini di accountability e finanza.",
-          "source_url": "https://www.charitynavigator.org/ein/270109312"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "coerenza_importo",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "L'obiettivo di raccolta di 5000 USD è coerente con le dimensioni dell'ente, che ha registrato entrate annuali tra i 110k e i 1.2M USD negli ultimi anni. L'importo richiesto è modesto rispetto alla capacità finanziaria dell'organizzazione.",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/270109312"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "storico_progetti",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "L'ente ha una storia documentata di attività, con bilanci pubblici dal 2011 al 2023 e una missione chiara di distribuzione di cibo a East Hampton, NY. Il sito web mostra attività recenti come il Polar Plunge 2026.",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/270109312"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "segnali_allarme",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun segnale d'allarme trovato nelle prove. L'ente ha un sito web attivo, contatti pubblici, e una presenza verificabile su piattaforme come MapQuest e Charity Navigator. Non ci sono indicazioni di pagamenti a persone fisiche, crypto anonime, o pressioni artificiali.",
-          "source_url": "https://www.charitynavigator.org/ein/270109312"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "conflitti_interesse",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
-          "source_url": "config/conflitti.yaml"
-        }
-      ],
-      "sources": [
-        "https://aidonate.org/en/compare/charity-navigator-vs-charitywatch",
-        "https://easthamptonfoodpantry.org",
-        "https://projects.propublica.org/nonprofits/organizations/270109312",
-        "https://www.charitynavigator.org/ein/270109312",
-        "https://www.mapquest.com/us/new-york/east-hampton-food-pantry-414721059",
-        "https://www.mapquest.com/us/new-york/springs-food-pantry-inc-654679468"
-      ],
-      "waiting_counter": false,
-      "profile": {
-        "de": {
-          "does": [
-            {
-              "text": "Die Organisation stellt Personen, die in East Hampton, NY leben und aufgrund von Notlagen oder Notfällen bedürftig sind, Lebensmittel zur Verfügung.",
-              "source": "https://www.charitynavigator.org/ein/270109312",
-              "by_org": false
-            },
-            {
-              "text": "Die Organisation arbeitet vor Ort an der East Hampton High School und betreibt einen Satelliten in Amagansett.",
-              "source": "https://easthamptonfoodpantry.org",
-              "by_org": true
-            },
-            {
-              "text": "Jeder, der Schwierigkeiten hat, Lebensmittel zu beschaffen oder sich selbst oder seine Familie zu ernähren, ist berechtigt.",
-              "source": "https://easthamptonfoodpantry.org",
-              "by_org": true
-            }
-          ],
-          "mission": "Um Lebensmittel für Personen bereitzustellen, die in East Hampton, NY leben und aufgrund von Notlage oder Notfällen bedürftig sind.",
-          "does_not": [],
-          "strengths": [
-            {
-              "text": "Die Organisation gibt ihre Website im Steuerformular an.",
-              "source": "https://www.charitynavigator.org/ein/270109312",
-              "by_org": false
-            },
-            {
-              "text": "Im Geschäftsjahr fand keine wesentliche Umleitung von Vermögenswerten statt.",
-              "source": "https://www.charitynavigator.org/ein/270109312",
-              "by_org": false
-            }
-          ]
-        },
-        "en": {
-          "does": [
-            {
-              "text": "The organization provides food to individuals who live in East Hampton, NY and are in need due to hardship and or emergencies.",
-              "quote": "TO PROVIDE FOOD TO INDIVIDUALS WHO LIVE IN EAST HAMPTON, NY AND ARE IN NEED DUE TO HARDSHIP AND OR EMERGENCIES.",
-              "source": "https://www.charitynavigator.org/ein/270109312",
-              "by_org": false
-            },
-            {
-              "text": "The organization operates onsite at East Hampton High School and maintains an Amagansett satellite.",
-              "quote": "We provide food (and more) in East Hampton, onsite at East Hampton High School and in our Amagansett satellite.",
-              "source": "https://easthamptonfoodpantry.org",
-              "by_org": true
-            },
-            {
-              "text": "Anyone having trouble obtaining food or feed themselves or their family is eligible.",
-              "quote": "Anyone having trouble obtaining food or feed themselves or their family is eligible.",
-              "source": "https://easthamptonfoodpantry.org",
-              "by_org": true
-            }
-          ],
-          "mission": "TO PROVIDE FOOD TO INDIVIDUALS WHO LIVE IN EAST HAMPTON, NY AND ARE IN NEED DUE TO HARDSHIP AND OR EMERGENCIES.",
-          "does_not": [],
-          "strengths": [
-            {
-              "text": "The organization discloses its website on the tax form.",
-              "quote": "Website Reported on Tax Form:Yes SCORE100% Disclosing the charity’s website promotes transparency and provides access to the public.",
-              "source": "https://www.charitynavigator.org/ein/270109312",
-              "by_org": false
-            },
-            {
-              "text": "No material diversion of assets occurred during the fiscal year.",
-              "quote": "No Material Diversion of Assets:Yes SCORE100% Organizations report 'Yes' to confirm that no material diversion of assets, the unauthorized redirection of funds, occurred during their fi",
-              "source": "https://www.charitynavigator.org/ein/270109312",
-              "by_org": false
-            }
-          ]
-        },
-        "es": {
-          "does": [
-            {
-              "text": "La organización proporciona comida a individuos que viven en East Hampton, NY y están en necesidad debido a dificultades y/o emergencias.",
-              "source": "https://www.charitynavigator.org/ein/270109312",
-              "by_org": false
-            },
-            {
-              "text": "La organización opera en el sitio de la East Hampton High School y mantiene una sede satélite en Amagansett.",
-              "source": "https://easthamptonfoodpantry.org",
-              "by_org": true
-            },
-            {
-              "text": "Cualquier persona que tenga problemas para obtener comida o alimentarse a sí misma o a su familia es elegible.",
-              "source": "https://easthamptonfoodpantry.org",
-              "by_org": true
-            }
-          ],
-          "mission": "PROPORCIONAR COMIDA A INDIVIDUOS QUE VIVEN EN EAST HAMPTON, NY Y ESTÁN EN NECESIDAD DEBIDO A DIFICULTADES Y/O EMERGENCIAS.",
-          "does_not": [],
-          "strengths": [
-            {
-              "text": "La organización divulga su sitio web en el formulario fiscal.",
-              "source": "https://www.charitynavigator.org/ein/270109312",
-              "by_org": false
-            },
-            {
-              "text": "No se produjo una desviación material de activos durante el año fiscal.",
-              "source": "https://www.charitynavigator.org/ein/270109312",
-              "by_org": false
-            }
-          ]
-        },
-        "fr": {
-          "does": [
-            {
-              "text": "L'organisation fournit de la nourriture aux individus qui vivent à East Hampton, NY et qui sont dans le besoin en raison de difficultés ou d'urgences.",
-              "source": "https://www.charitynavigator.org/ein/270109312",
-              "by_org": false
-            },
-            {
-              "text": "L'organisation fonctionne sur site à East Hampton High School et maintient un satellite à Amagansett.",
-              "source": "https://easthamptonfoodpantry.org",
-              "by_org": true
-            },
-            {
-              "text": "Toute personne ayant des difficultés à se procurer de la nourriture ou à nourrir elle-même ou sa famille est éligible.",
-              "source": "https://easthamptonfoodpantry.org",
-              "by_org": true
-            }
-          ],
-          "mission": "FOURNIR DE LA NOURRITURE AUX INDIVIDUS QUI VIVENT À EAST HAMPTON, NY ET QUI SONT EN BESOIN EN RAISON DE DIFFICULTÉS OU D'URGENCES.",
-          "does_not": [],
-          "strengths": [
-            {
-              "text": "L'organisation indique son site web sur le formulaire fiscal.",
-              "source": "https://www.charitynavigator.org/ein/270109312",
-              "by_org": false
-            },
-            {
-              "text": "Aucune diversion matérielle d'actifs n'a eu lieu au cours de l'exercice fiscal.",
-              "source": "https://www.charitynavigator.org/ein/270109312",
-              "by_org": false
-            }
-          ]
-        },
-        "hi": {
-          "does": [
-            {
-              "text": "संगठन ईस्ट हैम्पटन, एनवाई में रहने वाले व्यक्तियों को कठिनाइयों या आपात स्थितियों के कारण आवश्यकता होने पर भोजन प्रदान करता है।",
-              "source": "https://www.charitynavigator.org/ein/270109312",
-              "by_org": false
-            },
-            {
-              "text": "संगठन ईस्ट हैम्पटन हाई स्कूल में ऑनसाइट संचालन करता है और एक अमागन्सेट सैटेलाइट बनाए रखता है।",
-              "source": "https://easthamptonfoodpantry.org",
-              "by_org": true
-            },
-            {
-              "text": "जो कोई भी भोजन प्राप्त करने में कठिनाई का सामना कर रहा है या स्वयं या अपने परिवार को खिलाने में कठिनाई है, वह पात्र है।",
-              "source": "https://easthamptonfoodpantry.org",
-              "by_org": true
-            }
-          ],
-          "mission": "ईस्ट हैम्पटन, एनवाई में रहने वाले व्यक्तियों को कठिनाइयों या आपात स्थितियों के कारण आवश्यकता होने पर भोजन प्रदान करने के लिए।",
-          "does_not": [],
-          "strengths": [
-            {
-              "text": "संगठन अपने वेबसाइट को कर फॉर्म पर प्रकट करता है।",
-              "source": "https://www.charitynavigator.org/ein/270109312",
-              "by_org": false
-            },
-            {
-              "text": "वित्तीय वर्ष के दौरान संपत्तियों का कोई महत्वपूर्ण विचलन नहीं हुआ।",
-              "source": "https://www.charitynavigator.org/ein/270109312",
-              "by_org": false
-            }
-          ]
-        },
-        "it": {
-          "does": [
-            {
-              "text": "L'organizzazione fornisce cibo agli individui che vivono a East Hampton, NY e che hanno bisogno a causa di difficoltà e/o emergenze.",
-              "source": "https://www.charitynavigator.org/ein/270109312",
-              "by_org": false
-            },
-            {
-              "text": "L'organizzazione opera in loco presso la East Hampton High School e mantiene un satellite ad Amagansett.",
-              "source": "https://easthamptonfoodpantry.org",
-              "by_org": true
-            },
-            {
-              "text": "Chiunque abbia difficoltà a ottenere cibo o a nutrire se stesso o la propria famiglia è idoneo.",
-              "source": "https://easthamptonfoodpantry.org",
-              "by_org": true
-            }
-          ],
-          "mission": "PER FORNIRE CIBO A GLI INDIVIDUI CHE VIVONO A EAST HAMPTON, NY E CHE HANNO BISOGNO A CAUSA DI DIFFICOLTÀ E/O EMERGENZE.",
-          "does_not": [],
-          "strengths": [
-            {
-              "text": "L'organizzazione dichiara il proprio sito web nel modulo fiscale.",
-              "source": "https://www.charitynavigator.org/ein/270109312",
-              "by_org": false
-            },
-            {
-              "text": "Non si è verificata alcuna deviazione materiale di beni durante l'anno fiscale.",
-              "source": "https://www.charitynavigator.org/ein/270109312",
-              "by_org": false
-            }
-          ]
-        },
-        "ja": {
-          "does": [
-            {
-              "text": "この組織は、ニューヨーク州イーストハンプトンに住み、困難や緊急事態により食料が必要な個人に食料を提供します。",
-              "source": "https://www.charitynavigator.org/ein/270109312",
-              "by_org": false
-            },
-            {
-              "text": "この組織はイーストハンプトン高校の敷地内で運営し、アマグサネットのサテライト拠点も維持しています。",
-              "source": "https://easthamptonfoodpantry.org",
-              "by_org": true
-            },
-            {
-              "text": "食料の入手や自分や家族への食事に困っている人はすべて対象となります。",
-              "source": "https://easthamptonfoodpantry.org",
-              "by_org": true
-            }
-          ],
-          "mission": "ニューヨーク州イーストハンプトンに住み、困難や緊急事態により食料が必要な個人に食料を提供すること。",
-          "does_not": [],
-          "strengths": [
-            {
-              "text": "この組織は税務書類にウェブサイトを記載しています。",
-              "source": "https://www.charitynavigator.org/ein/270109312",
-              "by_org": false
-            },
-            {
-              "text": "会計年度中に資産の実質的な流用は発生しませんでした。",
-              "source": "https://www.charitynavigator.org/ein/270109312",
-              "by_org": false
-            }
-          ]
-        },
-        "pt": {
-          "does": [
-            {
-              "text": "A organização fornece comida a indivíduos que vivem em East Hampton, NY e estão em necessidade devido a dificuldades e/ou emergências.",
-              "source": "https://www.charitynavigator.org/ein/270109312",
-              "by_org": false
-            },
-            {
-              "text": "A organização opera no local na East Hampton High School e mantém um satélite em Amagansett.",
-              "source": "https://easthamptonfoodpantry.org",
-              "by_org": true
-            },
-            {
-              "text": "Qualquer pessoa que tenha dificuldade em obter comida ou alimentar a si mesma ou sua família é elegível.",
-              "source": "https://easthamptonfoodpantry.org",
-              "by_org": true
-            }
-          ],
-          "mission": "PARA FORNECER COMIDA A INDIVÍDUOS QUE MORAM EM EAST HAMPTON, NY E ESTÃO EM NECESSIDADE DEVIDO A DIFICULDADES E/OU EMERGÊNCIAS.",
-          "does_not": [],
-          "strengths": [
-            {
-              "text": "A organização divulga seu site no formulário fiscal.",
-              "source": "https://www.charitynavigator.org/ein/270109312",
-              "by_org": false
-            },
-            {
-              "text": "Nenhum desvio material de ativos ocorreu durante o ano fiscal.",
-              "source": "https://www.charitynavigator.org/ein/270109312",
-              "by_org": false
-            }
-          ]
-        },
-        "ru": {
-          "does": [
-            {
-              "text": "Организация предоставляет пищу людям, живущим в East Hampton, NY, и нуждающимся из‑за трудностей и/или чрезвычайных ситуаций.",
-              "source": "https://www.charitynavigator.org/ein/270109312",
-              "by_org": false
-            },
-            {
-              "text": "Организация работает на территории East Hampton High School и поддерживает филиал в Amagansett.",
-              "source": "https://easthamptonfoodpantry.org",
-              "by_org": true
-            },
-            {
-              "text": "Любой, у кого возникают трудности с получением пищи или кормлением себя или своей семьи, имеет право на участие.",
-              "source": "https://easthamptonfoodpantry.org",
-              "by_org": true
-            }
-          ],
-          "mission": "ПРЕДОСТАВЛЯТЬ ПИЩУ ДЛЯ ЛИЦ, ЖИВУЩИХ В EAST HAMPTON, NY И НЕОБХОДИМОСТИ В СВЯЗИ С ТРУДНОСТЯМИ ИЛИ ЧРЕЗВЫЧАЙНЫМИ СИТУАЦИЯМИ.",
-          "does_not": [],
-          "strengths": [
-            {
-              "text": "Организация указывает свой веб‑сайт в налоговой форме.",
-              "source": "https://www.charitynavigator.org/ein/270109312",
-              "by_org": false
-            },
-            {
-              "text": "В течение финансового года не произошло существенного отклонения активов.",
-              "source": "https://www.charitynavigator.org/ein/270109312",
-              "by_org": false
-            }
-          ]
-        },
-        "zh": {
-          "does": [
-            {
-              "text": "该组织向居住在纽约东汉普顿且因困难或紧急情况需要帮助的个人提供食物。",
-              "source": "https://www.charitynavigator.org/ein/270109312",
-              "by_org": false
-            },
-            {
-              "text": "该组织在 East Hampton High School 现场运营，并在 Amagansett 设有分支机构。",
-              "source": "https://easthamptonfoodpantry.org",
-              "by_org": true
-            },
-            {
-              "text": "任何在获取食物或为自己或家人提供食物方面有困难的人均符合资格。",
-              "source": "https://easthamptonfoodpantry.org",
-              "by_org": true
-            }
-          ],
-          "mission": "向居住在纽约东汉普顿且因困难或紧急情况需要帮助的个人提供食物。",
-          "does_not": [],
-          "strengths": [
-            {
-              "text": "该组织在税表上披露了其网站。",
-              "source": "https://www.charitynavigator.org/ein/270109312",
-              "by_org": false
-            },
-            {
-              "text": "本财政年度未发生重大资产挪用。",
-              "source": "https://www.charitynavigator.org/ein/270109312",
-              "by_org": false
-            }
-          ]
-        }
-      },
-      "safety": {
-        "evaluator": "Charity Navigator",
-        "stars": 4,
-        "score": 91,
-        "rating_url": "https://www.charitynavigator.org/ein/270109312",
-        "rating_checked": "2026-11-13",
-        "since": "2006",
-        "registry_url": "https://projects.propublica.org/nonprofits/organizations/270109312",
-        "filings": 13,
-        "first_year": 2011,
-        "last_year": 2023,
-        "checks_passed": 18,
-        "verifiers": 3,
-        "unanimous": true,
-        "site": "easthamptonfoodpantry.org",
-        "official_host": "easthamptonfoodpantry.org",
-        "profile_claimed": true
-      },
-      "platform": "every.org",
-      "counter": {
-        "raised": "0",
-        "read_at": "2026-11-17T07:06:23.477571+00:00",
-        "currency": "USD",
-        "platform": "every.org",
-        "supporters": 0,
-        "raised_cents": 0,
-        "matches_cents": 0
-      },
-      "fundraiser_open": true,
-      "progress_pct": 0,
-      "donate": {
-        "recipient": "East Hampton Food Pantry Inc",
-        "url": "https://www.every.org/easthamptonfoodpantry/f/ai-against-hunger-for",
-        "money_goes_to": "Every.org, a US 501(c)(3) nonprofit, which grants it to the organization (unrestricted); this project never receives or holds money",
-        "counted_here_only_if": "shown in the public total of the fundraising page",
-        "status": "open",
-        "platform": "Every.org (US 501(c)(3) nonprofit; receipts tax-deductible only in the US)",
-        "public_total": {
-          "raised": "0",
-          "currency": "USD",
-          "people": 0,
-          "read_on": "2026-11-17"
-        },
-        "note": "Every.org suggests an optional tip to itself (sometimes preselected); it can be set to 0. Payment fees are deducted from what the organization receives."
-      }
-    },
     {
       "slug": "support-feeding-america-against-hunger-1993",
       "title": "Support Feeding America against hunger",
@@ -1223,7 +569,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-17T07:06:19.452630+00:00",
+        "read_at": "2026-11-17T21:04:40.903183+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -2234,7 +1580,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-17T07:06:20.994097+00:00",
+        "read_at": "2026-11-17T21:04:42.728397+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -2855,7 +2201,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-17T07:06:20.575443+00:00",
+        "read_at": "2026-11-17T21:04:42.141499+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -3927,7 +3273,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-17T07:06:22.769212+00:00",
+        "read_at": "2026-11-17T21:04:44.586142+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -4417,7 +3763,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-17T07:06:18.413813+00:00",
+        "read_at": "2026-11-17T21:04:39.610051+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -5661,7 +5007,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-17T07:06:19.833049+00:00",
+        "read_at": "2026-11-17T21:04:41.299613+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -6845,7 +6191,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-17T07:06:19.049080+00:00",
+        "read_at": "2026-11-17T21:04:40.437217+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -7448,7 +6794,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-17T07:06:23.130878+00:00",
+        "read_at": "2026-11-17T21:04:45.026425+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -8794,7 +8140,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-17T07:06:22.429143+00:00",
+        "read_at": "2026-11-17T21:04:44.237611+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -9369,7 +8715,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-17T07:06:20.222493+00:00",
+        "read_at": "2026-11-17T21:04:41.662901+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -9972,7 +9318,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-17T07:06:21.748056+00:00",
+        "read_at": "2026-11-17T21:04:43.470447+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -10626,7 +9972,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-17T07:06:21.397938+00:00",
+        "read_at": "2026-11-17T21:04:43.120549+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -11229,7 +10575,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-17T07:06:22.103290+00:00",
+        "read_at": "2026-11-17T21:04:43.837218+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -12181,6 +11527,660 @@
         "counted_here_only_if": "shown in the public total of the fundraising page",
         "status": "in public review"
       }
+    },
+    {
+      "slug": "support-east-hampton-food-pantry-inc-against-hunger-5988",
+      "title": "Support East Hampton Food Pantry Inc against hunger",
+      "description": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'Every.org: food pantry'.",
+      "org_name": "East Hampton Food Pantry Inc",
+      "org_country": "US",
+      "org_website": "https://easthamptonfoodpantry.org/",
+      "country": "US",
+      "currency": "USD",
+      "goal": 5000.0,
+      "raised": 0.0,
+      "donated": 0.0,
+      "status": "attiva",
+      "donation_url": "https://www.every.org/easthamptonfoodpantry/f/ai-against-hunger-for",
+      "source_url": "https://www.charitynavigator.org/ein/270109312",
+      "approved_on": "2026-11-14",
+      "review_until": null,
+      "translations": {
+        "de": {
+          "text": "Organisation bewertet von Charity Navigator, gefunden von den Agenten mit: 'Every.org: food pantry'.",
+          "title": "Unterstützen Sie East Hampton Food Pantry Inc im Kampf gegen den Hunger",
+          "source": "traduzione AI"
+        },
+        "en": {
+          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'Every.org: food pantry'.",
+          "title": "Support East Hampton Food Pantry Inc against hunger",
+          "source": "originale"
+        },
+        "es": {
+          "text": "Entidad evaluada por Charity Navigator, encontrada por los agentes con: 'Every.org: food pantry'.",
+          "title": "Apoya a East Hampton Food Pantry Inc contra el hambre",
+          "source": "traduzione AI"
+        },
+        "fr": {
+          "text": "Organisation évaluée par Charity Navigator, trouvée par les agents avec : 'Every.org : food pantry'.",
+          "title": "Soutenez East Hampton Food Pantry Inc contre la faim",
+          "source": "traduzione AI"
+        },
+        "hi": {
+          "text": "Charity Navigator द्वारा मूल्यांकित संस्था, एजेंटों द्वारा पाया गया: 'Every.org: food pantry'.",
+          "title": "भूख के खिलाफ East Hampton Food Pantry Inc का समर्थन करें",
+          "source": "traduzione AI"
+        },
+        "it": {
+          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'Every.org: food pantry'.",
+          "title": "Sostieni East Hampton Food Pantry Inc contro la fame",
+          "source": "traduzione AI"
+        },
+        "ja": {
+          "text": "Charity Navigator に評価された団体で、エージェントが次のように見つけました: 'Every.org: food pantry'。",
+          "title": "East Hampton Food Pantry Inc を飢餓から支援する",
+          "source": "traduzione AI"
+        },
+        "pt": {
+          "text": "Entidade avaliada pela Charity Navigator, encontrada pelos agentes com: 'Every.org: food pantry'.",
+          "title": "Apoie a East Hampton Food Pantry Inc contra a fome",
+          "source": "traduzione AI"
+        },
+        "ru": {
+          "text": "Организация, оцененная Charity Navigator, найденная агентами с: 'Every.org: food pantry'.",
+          "title": "Поддержите East Hampton Food Pantry Inc в борьбе с голодом",
+          "source": "traduzione AI"
+        },
+        "zh": {
+          "text": "由 Charity Navigator 评估的机构，由特工通过以下方式找到：'Every.org: food pantry'。",
+          "title": "支持 East Hampton Food Pantry Inc 对抗饥饿",
+          "source": "traduzione AI"
+        }
+      },
+      "tranches": [
+        {
+          "number": 1,
+          "goal": 2000.0,
+          "status": "aperta"
+        }
+      ],
+      "checks": [
+        {
+          "verifier": "regole",
+          "check_type": "ammissibilita",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Regole di ammissibilità (config/regole.yaml):\n✓ fonte ammessa: fonte 'valutatore'\n✓ ente registrato nel database: East Hampton Food Pantry Inc\n✓ codice fiscale verificato (IRS): EIN 270109312\n✓ ente valutato dal valutatore: Charity Navigator\n✓ voto del valutatore: 91%, 4 stelle su 4 (minimo 4 stelle e 90%)\n✓ anni di bilanci ufficiali: 13 anni [2019, 2020, 2021, 2022, 2023] (minimo 3)\n✓ tema fame / nutrizione: categoria IRS K31 (richiesta ['K3', 'K4']); tema nel nome: True; tema nella descrizione ufficiale: no (Every.org, campo description: https://www.every.org/easthamptonfoodpantry; API https://partners.every.org/v0.2/nonprofit/270109312); no (Charity Navigator, riquadro Mission della pagina Rating for: https://www.charitynavigator.org/ein/270109312)",
+          "source_url": "https://www.charitynavigator.org/ein/270109312"
+        },
+        {
+          "verifier": "regole",
+          "check_type": "ammissibilita",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "✓ valutatore indipendente tra le prove: 1 pagine di valutatori (https://www.charitynavigator.org/ein/270109312); minimo 1",
+          "source_url": "https://www.charitynavigator.org/ein/270109312"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "registrazione",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "L'ente risulta regolarmente registrato negli Stati Uniti come organizzazione 501(c)(3) con EIN 270109312 e data di riconoscimento 2006-01-01.",
+          "source_url": "https://www.charitynavigator.org/ein/270109312"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "bilanci",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Esistono bilanci pubblici Form 990 presentati regolarmente negli ultimi anni, tra cui il bilancio 2023 con entrate e spese documentate.",
+          "source_url": "https://www.charitynavigator.org/ein/270109312"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "valutazione_indipendente",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "L'ente è valutato da Charity Navigator con un punteggio elevato (Four-Star Charity, 91%).",
+          "source_url": "https://www.charitynavigator.org/ein/270109312"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "coerenza_importo",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "L'obiettivo di raccolta previsto di 5000 USD è estremamente contenuto e ampiamente coerente con il bilancio e le dimensioni dell'ente.",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/270109312"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "storico_progetti",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "L'ente opera continuativamente dal 2006 fornendo assistenza alimentare e gestendo programmi locali documentati anche sul proprio sito.",
+          "source_url": "https://www.charitynavigator.org/ein/270109312"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "segnali_allarme",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Non sono stati riscontrati segnali d'allarme, notizie negative o criticità nelle verifiche effettuate.",
+          "source_url": "https://www.charitynavigator.org/ein/270109312"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "conflitti_interesse",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "source_url": "config/conflitti.yaml"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "registrazione",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "L'ente è registrato come 501(c)(3) con EIN 270109312, indirizzo a East Hampton, NY, confermato da Charity Navigator e ProPublica.",
+          "source_url": "https://www.charitynavigator.org/ein/270109312"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "bilanci",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Form 990 disponibili per gli ultimi 6 anni (2023‑2018) con dati di entrate e spese.",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/270109312"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "valutazione_indipendente",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Charity Navigator, valutatore indipendente, assegna 4 stelle (91% rating).",
+          "source_url": "https://www.charitynavigator.org/ein/270109312"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "coerenza_importo",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "Importo richiesto $5,000 è inferiore all'1% delle entrate annuali (circa $613k nel 2023), quindi ragionevole.",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/270109312"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "storico_progetti",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "Documentazione di attività passate nei Form 990 (2018‑2023) e eventi come Polar Plunge 2026 sul sito.",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/270109312"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "segnali_allarme",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun segnale di allarme: nessuna urgenza artificiosa, pagamenti crypto, contatti solo via email/telefono, informazioni trasparenti.",
+          "source_url": "https://www.charitynavigator.org/ein/270109312"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "conflitti_interesse",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "source_url": "config/conflitti.yaml"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "registrazione",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "L'ente East Hampton Food Pantry Inc è registrato come 501(c)(3) con EIN 270109312, riconosciuto dall'IRS dal 2006-01-01. La registrazione è confermata sia da Charity Navigator che dal ProPublica Nonprofit Explorer.",
+          "source_url": "https://www.charitynavigator.org/ein/270109312"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "bilanci",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Sono disponibili i bilanci pubblici (Form 990) per gli anni fiscali dal 2011 al 2023, con dati dettagliati su entrate e spese accessibili tramite ProPublica.",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/270109312"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "valutazione_indipendente",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Charity Navigator assegna un rating di 4 stelle (91%) all'ente, indicando una buona performance in termini di accountability e finanza.",
+          "source_url": "https://www.charitynavigator.org/ein/270109312"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "coerenza_importo",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "L'obiettivo di raccolta di 5000 USD è coerente con le dimensioni dell'ente, che ha registrato entrate annuali tra i 110k e i 1.2M USD negli ultimi anni. L'importo richiesto è modesto rispetto alla capacità finanziaria dell'organizzazione.",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/270109312"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "storico_progetti",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "L'ente ha una storia documentata di attività, con bilanci pubblici dal 2011 al 2023 e una missione chiara di distribuzione di cibo a East Hampton, NY. Il sito web mostra attività recenti come il Polar Plunge 2026.",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/270109312"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "segnali_allarme",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun segnale d'allarme trovato nelle prove. L'ente ha un sito web attivo, contatti pubblici, e una presenza verificabile su piattaforme come MapQuest e Charity Navigator. Non ci sono indicazioni di pagamenti a persone fisiche, crypto anonime, o pressioni artificiali.",
+          "source_url": "https://www.charitynavigator.org/ein/270109312"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "conflitti_interesse",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "source_url": "config/conflitti.yaml"
+        }
+      ],
+      "sources": [
+        "https://aidonate.org/en/compare/charity-navigator-vs-charitywatch",
+        "https://easthamptonfoodpantry.org",
+        "https://projects.propublica.org/nonprofits/organizations/270109312",
+        "https://www.charitynavigator.org/ein/270109312",
+        "https://www.mapquest.com/us/new-york/east-hampton-food-pantry-414721059",
+        "https://www.mapquest.com/us/new-york/springs-food-pantry-inc-654679468"
+      ],
+      "waiting_counter": false,
+      "profile": {
+        "de": {
+          "does": [
+            {
+              "text": "Die Organisation stellt Personen, die in East Hampton, NY leben und aufgrund von Notlagen oder Notfällen bedürftig sind, Lebensmittel zur Verfügung.",
+              "source": "https://www.charitynavigator.org/ein/270109312",
+              "by_org": false
+            },
+            {
+              "text": "Die Organisation arbeitet vor Ort an der East Hampton High School und betreibt einen Satelliten in Amagansett.",
+              "source": "https://easthamptonfoodpantry.org",
+              "by_org": true
+            },
+            {
+              "text": "Jeder, der Schwierigkeiten hat, Lebensmittel zu beschaffen oder sich selbst oder seine Familie zu ernähren, ist berechtigt.",
+              "source": "https://easthamptonfoodpantry.org",
+              "by_org": true
+            }
+          ],
+          "mission": "Um Lebensmittel für Personen bereitzustellen, die in East Hampton, NY leben und aufgrund von Notlage oder Notfällen bedürftig sind.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "Die Organisation gibt ihre Website im Steuerformular an.",
+              "source": "https://www.charitynavigator.org/ein/270109312",
+              "by_org": false
+            },
+            {
+              "text": "Im Geschäftsjahr fand keine wesentliche Umleitung von Vermögenswerten statt.",
+              "source": "https://www.charitynavigator.org/ein/270109312",
+              "by_org": false
+            }
+          ]
+        },
+        "en": {
+          "does": [
+            {
+              "text": "The organization provides food to individuals who live in East Hampton, NY and are in need due to hardship and or emergencies.",
+              "quote": "TO PROVIDE FOOD TO INDIVIDUALS WHO LIVE IN EAST HAMPTON, NY AND ARE IN NEED DUE TO HARDSHIP AND OR EMERGENCIES.",
+              "source": "https://www.charitynavigator.org/ein/270109312",
+              "by_org": false
+            },
+            {
+              "text": "The organization operates onsite at East Hampton High School and maintains an Amagansett satellite.",
+              "quote": "We provide food (and more) in East Hampton, onsite at East Hampton High School and in our Amagansett satellite.",
+              "source": "https://easthamptonfoodpantry.org",
+              "by_org": true
+            },
+            {
+              "text": "Anyone having trouble obtaining food or feed themselves or their family is eligible.",
+              "quote": "Anyone having trouble obtaining food or feed themselves or their family is eligible.",
+              "source": "https://easthamptonfoodpantry.org",
+              "by_org": true
+            }
+          ],
+          "mission": "TO PROVIDE FOOD TO INDIVIDUALS WHO LIVE IN EAST HAMPTON, NY AND ARE IN NEED DUE TO HARDSHIP AND OR EMERGENCIES.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "The organization discloses its website on the tax form.",
+              "quote": "Website Reported on Tax Form:Yes SCORE100% Disclosing the charity’s website promotes transparency and provides access to the public.",
+              "source": "https://www.charitynavigator.org/ein/270109312",
+              "by_org": false
+            },
+            {
+              "text": "No material diversion of assets occurred during the fiscal year.",
+              "quote": "No Material Diversion of Assets:Yes SCORE100% Organizations report 'Yes' to confirm that no material diversion of assets, the unauthorized redirection of funds, occurred during their fi",
+              "source": "https://www.charitynavigator.org/ein/270109312",
+              "by_org": false
+            }
+          ]
+        },
+        "es": {
+          "does": [
+            {
+              "text": "La organización proporciona comida a individuos que viven en East Hampton, NY y están en necesidad debido a dificultades y/o emergencias.",
+              "source": "https://www.charitynavigator.org/ein/270109312",
+              "by_org": false
+            },
+            {
+              "text": "La organización opera en el sitio de la East Hampton High School y mantiene una sede satélite en Amagansett.",
+              "source": "https://easthamptonfoodpantry.org",
+              "by_org": true
+            },
+            {
+              "text": "Cualquier persona que tenga problemas para obtener comida o alimentarse a sí misma o a su familia es elegible.",
+              "source": "https://easthamptonfoodpantry.org",
+              "by_org": true
+            }
+          ],
+          "mission": "PROPORCIONAR COMIDA A INDIVIDUOS QUE VIVEN EN EAST HAMPTON, NY Y ESTÁN EN NECESIDAD DEBIDO A DIFICULTADES Y/O EMERGENCIAS.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "La organización divulga su sitio web en el formulario fiscal.",
+              "source": "https://www.charitynavigator.org/ein/270109312",
+              "by_org": false
+            },
+            {
+              "text": "No se produjo una desviación material de activos durante el año fiscal.",
+              "source": "https://www.charitynavigator.org/ein/270109312",
+              "by_org": false
+            }
+          ]
+        },
+        "fr": {
+          "does": [
+            {
+              "text": "L'organisation fournit de la nourriture aux individus qui vivent à East Hampton, NY et qui sont dans le besoin en raison de difficultés ou d'urgences.",
+              "source": "https://www.charitynavigator.org/ein/270109312",
+              "by_org": false
+            },
+            {
+              "text": "L'organisation fonctionne sur site à East Hampton High School et maintient un satellite à Amagansett.",
+              "source": "https://easthamptonfoodpantry.org",
+              "by_org": true
+            },
+            {
+              "text": "Toute personne ayant des difficultés à se procurer de la nourriture ou à nourrir elle-même ou sa famille est éligible.",
+              "source": "https://easthamptonfoodpantry.org",
+              "by_org": true
+            }
+          ],
+          "mission": "FOURNIR DE LA NOURRITURE AUX INDIVIDUS QUI VIVENT À EAST HAMPTON, NY ET QUI SONT EN BESOIN EN RAISON DE DIFFICULTÉS OU D'URGENCES.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "L'organisation indique son site web sur le formulaire fiscal.",
+              "source": "https://www.charitynavigator.org/ein/270109312",
+              "by_org": false
+            },
+            {
+              "text": "Aucune diversion matérielle d'actifs n'a eu lieu au cours de l'exercice fiscal.",
+              "source": "https://www.charitynavigator.org/ein/270109312",
+              "by_org": false
+            }
+          ]
+        },
+        "hi": {
+          "does": [
+            {
+              "text": "संगठन ईस्ट हैम्पटन, एनवाई में रहने वाले व्यक्तियों को कठिनाइयों या आपात स्थितियों के कारण आवश्यकता होने पर भोजन प्रदान करता है।",
+              "source": "https://www.charitynavigator.org/ein/270109312",
+              "by_org": false
+            },
+            {
+              "text": "संगठन ईस्ट हैम्पटन हाई स्कूल में ऑनसाइट संचालन करता है और एक अमागन्सेट सैटेलाइट बनाए रखता है।",
+              "source": "https://easthamptonfoodpantry.org",
+              "by_org": true
+            },
+            {
+              "text": "जो कोई भी भोजन प्राप्त करने में कठिनाई का सामना कर रहा है या स्वयं या अपने परिवार को खिलाने में कठिनाई है, वह पात्र है।",
+              "source": "https://easthamptonfoodpantry.org",
+              "by_org": true
+            }
+          ],
+          "mission": "ईस्ट हैम्पटन, एनवाई में रहने वाले व्यक्तियों को कठिनाइयों या आपात स्थितियों के कारण आवश्यकता होने पर भोजन प्रदान करने के लिए।",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "संगठन अपने वेबसाइट को कर फॉर्म पर प्रकट करता है।",
+              "source": "https://www.charitynavigator.org/ein/270109312",
+              "by_org": false
+            },
+            {
+              "text": "वित्तीय वर्ष के दौरान संपत्तियों का कोई महत्वपूर्ण विचलन नहीं हुआ।",
+              "source": "https://www.charitynavigator.org/ein/270109312",
+              "by_org": false
+            }
+          ]
+        },
+        "it": {
+          "does": [
+            {
+              "text": "L'organizzazione fornisce cibo agli individui che vivono a East Hampton, NY e che hanno bisogno a causa di difficoltà e/o emergenze.",
+              "source": "https://www.charitynavigator.org/ein/270109312",
+              "by_org": false
+            },
+            {
+              "text": "L'organizzazione opera in loco presso la East Hampton High School e mantiene un satellite ad Amagansett.",
+              "source": "https://easthamptonfoodpantry.org",
+              "by_org": true
+            },
+            {
+              "text": "Chiunque abbia difficoltà a ottenere cibo o a nutrire se stesso o la propria famiglia è idoneo.",
+              "source": "https://easthamptonfoodpantry.org",
+              "by_org": true
+            }
+          ],
+          "mission": "PER FORNIRE CIBO A GLI INDIVIDUI CHE VIVONO A EAST HAMPTON, NY E CHE HANNO BISOGNO A CAUSA DI DIFFICOLTÀ E/O EMERGENZE.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "L'organizzazione dichiara il proprio sito web nel modulo fiscale.",
+              "source": "https://www.charitynavigator.org/ein/270109312",
+              "by_org": false
+            },
+            {
+              "text": "Non si è verificata alcuna deviazione materiale di beni durante l'anno fiscale.",
+              "source": "https://www.charitynavigator.org/ein/270109312",
+              "by_org": false
+            }
+          ]
+        },
+        "ja": {
+          "does": [
+            {
+              "text": "この組織は、ニューヨーク州イーストハンプトンに住み、困難や緊急事態により食料が必要な個人に食料を提供します。",
+              "source": "https://www.charitynavigator.org/ein/270109312",
+              "by_org": false
+            },
+            {
+              "text": "この組織はイーストハンプトン高校の敷地内で運営し、アマグサネットのサテライト拠点も維持しています。",
+              "source": "https://easthamptonfoodpantry.org",
+              "by_org": true
+            },
+            {
+              "text": "食料の入手や自分や家族への食事に困っている人はすべて対象となります。",
+              "source": "https://easthamptonfoodpantry.org",
+              "by_org": true
+            }
+          ],
+          "mission": "ニューヨーク州イーストハンプトンに住み、困難や緊急事態により食料が必要な個人に食料を提供すること。",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "この組織は税務書類にウェブサイトを記載しています。",
+              "source": "https://www.charitynavigator.org/ein/270109312",
+              "by_org": false
+            },
+            {
+              "text": "会計年度中に資産の実質的な流用は発生しませんでした。",
+              "source": "https://www.charitynavigator.org/ein/270109312",
+              "by_org": false
+            }
+          ]
+        },
+        "pt": {
+          "does": [
+            {
+              "text": "A organização fornece comida a indivíduos que vivem em East Hampton, NY e estão em necessidade devido a dificuldades e/ou emergências.",
+              "source": "https://www.charitynavigator.org/ein/270109312",
+              "by_org": false
+            },
+            {
+              "text": "A organização opera no local na East Hampton High School e mantém um satélite em Amagansett.",
+              "source": "https://easthamptonfoodpantry.org",
+              "by_org": true
+            },
+            {
+              "text": "Qualquer pessoa que tenha dificuldade em obter comida ou alimentar a si mesma ou sua família é elegível.",
+              "source": "https://easthamptonfoodpantry.org",
+              "by_org": true
+            }
+          ],
+          "mission": "PARA FORNECER COMIDA A INDIVÍDUOS QUE MORAM EM EAST HAMPTON, NY E ESTÃO EM NECESSIDADE DEVIDO A DIFICULDADES E/OU EMERGÊNCIAS.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "A organização divulga seu site no formulário fiscal.",
+              "source": "https://www.charitynavigator.org/ein/270109312",
+              "by_org": false
+            },
+            {
+              "text": "Nenhum desvio material de ativos ocorreu durante o ano fiscal.",
+              "source": "https://www.charitynavigator.org/ein/270109312",
+              "by_org": false
+            }
+          ]
+        },
+        "ru": {
+          "does": [
+            {
+              "text": "Организация предоставляет пищу людям, живущим в East Hampton, NY, и нуждающимся из‑за трудностей и/или чрезвычайных ситуаций.",
+              "source": "https://www.charitynavigator.org/ein/270109312",
+              "by_org": false
+            },
+            {
+              "text": "Организация работает на территории East Hampton High School и поддерживает филиал в Amagansett.",
+              "source": "https://easthamptonfoodpantry.org",
+              "by_org": true
+            },
+            {
+              "text": "Любой, у кого возникают трудности с получением пищи или кормлением себя или своей семьи, имеет право на участие.",
+              "source": "https://easthamptonfoodpantry.org",
+              "by_org": true
+            }
+          ],
+          "mission": "ПРЕДОСТАВЛЯТЬ ПИЩУ ДЛЯ ЛИЦ, ЖИВУЩИХ В EAST HAMPTON, NY И НЕОБХОДИМОСТИ В СВЯЗИ С ТРУДНОСТЯМИ ИЛИ ЧРЕЗВЫЧАЙНЫМИ СИТУАЦИЯМИ.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "Организация указывает свой веб‑сайт в налоговой форме.",
+              "source": "https://www.charitynavigator.org/ein/270109312",
+              "by_org": false
+            },
+            {
+              "text": "В течение финансового года не произошло существенного отклонения активов.",
+              "source": "https://www.charitynavigator.org/ein/270109312",
+              "by_org": false
+            }
+          ]
+        },
+        "zh": {
+          "does": [
+            {
+              "text": "该组织向居住在纽约东汉普顿且因困难或紧急情况需要帮助的个人提供食物。",
+              "source": "https://www.charitynavigator.org/ein/270109312",
+              "by_org": false
+            },
+            {
+              "text": "该组织在 East Hampton High School 现场运营，并在 Amagansett 设有分支机构。",
+              "source": "https://easthamptonfoodpantry.org",
+              "by_org": true
+            },
+            {
+              "text": "任何在获取食物或为自己或家人提供食物方面有困难的人均符合资格。",
+              "source": "https://easthamptonfoodpantry.org",
+              "by_org": true
+            }
+          ],
+          "mission": "向居住在纽约东汉普顿且因困难或紧急情况需要帮助的个人提供食物。",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "该组织在税表上披露了其网站。",
+              "source": "https://www.charitynavigator.org/ein/270109312",
+              "by_org": false
+            },
+            {
+              "text": "本财政年度未发生重大资产挪用。",
+              "source": "https://www.charitynavigator.org/ein/270109312",
+              "by_org": false
+            }
+          ]
+        }
+      },
+      "safety": {
+        "evaluator": "Charity Navigator",
+        "stars": 4,
+        "score": 91,
+        "rating_url": "https://www.charitynavigator.org/ein/270109312",
+        "rating_checked": "2026-11-13",
+        "since": "2006",
+        "registry_url": "https://projects.propublica.org/nonprofits/organizations/270109312",
+        "filings": 13,
+        "first_year": 2011,
+        "last_year": 2023,
+        "checks_passed": 18,
+        "verifiers": 3,
+        "unanimous": true,
+        "site": "easthamptonfoodpantry.org",
+        "official_host": "easthamptonfoodpantry.org",
+        "profile_claimed": true
+      },
+      "platform": "every.org",
+      "counter": {
+        "raised": "0",
+        "read_at": "2026-11-17T21:04:45.427997+00:00",
+        "currency": "USD",
+        "platform": "every.org",
+        "supporters": 0,
+        "raised_cents": 0,
+        "matches_cents": 0
+      },
+      "fundraiser_open": true,
+      "progress_pct": 0,
+      "donate": {
+        "recipient": "East Hampton Food Pantry Inc",
+        "url": "https://www.every.org/easthamptonfoodpantry/f/ai-against-hunger-for",
+        "money_goes_to": "Every.org, a US 501(c)(3) nonprofit, which grants it to the organization (unrestricted); this project never receives or holds money",
+        "counted_here_only_if": "shown in the public total of the fundraising page",
+        "status": "open",
+        "platform": "Every.org (US 501(c)(3) nonprofit; receipts tax-deductible only in the US)",
+        "public_total": {
+          "raised": "0",
+          "currency": "USD",
+          "people": 0,
+          "read_on": "2026-11-17"
+        },
+        "note": "Every.org suggests an optional tip to itself (sometimes preselected); it can be set to 0. Payment fees are deducted from what the organization receives."
+      }
     }
   ],
   "order_rule": "All projects are equal: the order rotates by one position every day.",
@@ -12192,9 +12192,9 @@
     "costs": {
       "USD": 8.5
     },
-    "ai_calls": 1446,
+    "ai_calls": 1478,
     "ai_cost_real_usd": 0.0,
-    "ai_value_offered_usd": 8.796302,
+    "ai_value_offered_usd": 8.945542,
     "candidates_examined": 77,
     "candidates_discarded": 42
   },
