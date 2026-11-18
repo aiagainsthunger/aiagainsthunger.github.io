@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T08:04:06.934913+00:00",
+  "generated_at": "2026-11-18T09:04:29.256761+00:00",
   "projects": [
     {
       "slug": "support-feeding-america-against-hunger-1993",
@@ -4354,18 +4354,34 @@
         "unanimous": true,
         "site": "mealsonwheelsmd.org",
         "official_host": "mealsonwheelsmd.org",
-        "profile_claimed": false
+        "profile_claimed": true
       },
-      "platform": "",
-      "counter": {},
-      "fundraiser_open": false,
+      "platform": "every.org",
+      "counter": {
+        "raised": "0",
+        "read_at": "2026-11-18T08:04:25.016227+00:00",
+        "currency": "USD",
+        "platform": "every.org",
+        "supporters": 0,
+        "raised_cents": 0,
+        "matches_cents": 0
+      },
+      "fundraiser_open": true,
       "progress_pct": 0,
       "donate": {
         "recipient": "Meals On Wheels Of Central Maryland Inc",
         "url": null,
-        "money_goes_to": "not open yet: donations open on a fundraising page with a public total",
+        "money_goes_to": "Every.org, a US 501(c)(3) nonprofit, which grants it to the organization (unrestricted); this project never receives or holds money",
         "counted_here_only_if": "shown in the public total of the fundraising page",
-        "status": "in public review"
+        "status": "in public review",
+        "platform": "Every.org (US 501(c)(3) nonprofit; receipts tax-deductible only in the US)",
+        "public_total": {
+          "raised": "0",
+          "currency": "USD",
+          "people": 0,
+          "read_on": "2026-11-18"
+        },
+        "note": "Every.org suggests an optional tip to itself (sometimes preselected); it can be set to 0. Payment fees are deducted from what the organization receives."
       }
     },
     {
