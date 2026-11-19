@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T12:04:07.202567+00:00",
+  "generated_at": "2026-11-19T13:04:32.191503+00:00",
   "projects": [
     {
       "slug": "support-food-gatherers-against-hunger-5718",
@@ -2803,7 +2803,58 @@
       "source_url": "https://www.charitynavigator.org/ein/810414143",
       "approved_on": "2026-11-19",
       "review_until": "2026-11-22 11:37 UTC",
-      "translations": {},
+      "translations": {
+        "de": {
+          "text": "Organisation bewertet von Charity Navigator, gefunden von den Agenten mit: 'Every.org: hunger latin america'.",
+          "title": "Unterstützen Sie Missoula Food Bank & Community Center Incorporated im Kampf gegen den Hunger",
+          "source": "traduzione AI"
+        },
+        "en": {
+          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'Every.org: hunger latin america'.",
+          "title": "Support Missoula Food Bank & Community Center Incorporated against hunger",
+          "source": "originale"
+        },
+        "es": {
+          "text": "Entidad evaluada por Charity Navigator, encontrada por los agentes con: 'Every.org: hunger latin america'.",
+          "title": "Apoya a Missoula Food Bank & Community Center Incorporated contra el hambre",
+          "source": "traduzione AI"
+        },
+        "fr": {
+          "text": "Organisation évaluée par Charity Navigator, trouvée par les agents avec : 'Every.org: hunger latin america'.",
+          "title": "Soutenez Missoula Food Bank & Community Center Incorporated contre la faim",
+          "source": "traduzione AI"
+        },
+        "hi": {
+          "text": "Charity Navigator द्वारा मूल्यांकित संस्था, एजेंटों द्वारा पाया गया: 'Every.org: hunger latin america'।",
+          "title": "भूख के खिलाफ Missoula Food Bank & Community Center Incorporated का समर्थन करें",
+          "source": "traduzione AI"
+        },
+        "it": {
+          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'Every.org: hunger latin america'.",
+          "title": "Sostieni Missoula Food Bank & Community Center Incorporated contro la fame",
+          "source": "traduzione AI"
+        },
+        "ja": {
+          "text": "Charity Navigator によって評価された団体で、エージェントが次で見つけました: 'Every.org: hunger latin america'.",
+          "title": "Missoula Food Bank & Community Center Incorporated を飢餓に対して支援する",
+          "source": "traduzione AI"
+        },
+        "pt": {
+          "text": "Entidade avaliada pela Charity Navigator, encontrada pelos agentes com: 'Every.org: hunger latin america'.",
+          "title": "Apoie Missoula Food Bank & Community Center Incorporated contra a fome",
+          "source": "traduzione AI"
+        },
+        "ru": {
+          "text": "Организация, оцененная Charity Navigator, найденная агентами с: 'Every.org: hunger latin america'.",
+          "title": "Поддержите Missoula Food Bank & Community Center Incorporated в борьбе с голодом",
+          "source": "traduzione AI"
+        },
+        "zh": {
+          "text": "该机构已被 Charity Navigator 评估，已被代理人发现，使用：“Every.org: hunger latin america”。",
+          "title": "支持 Missoula Food Bank & Community Center Incorporated 对抗饥饿",
+          "source": "traduzione AI"
+        }
+      },
       "tranches": [],
       "checks": [
         {
@@ -3000,7 +3051,292 @@
         "https://www.mapquest.com/us/montana/pantry-partners-food-bank-352878031"
       ],
       "waiting_counter": false,
-      "profile": {},
+      "profile": {
+        "de": {
+          "does": [
+            {
+              "text": "Die Organisation bietet Menschen Notfall-Nahrungsmittelhilfe, um zur Verringerung des Hungers beizutragen.",
+              "source": "https://www.charitynavigator.org/ein/810414143",
+              "by_org": false
+            },
+            {
+              "text": "Jedes Jahr verteilt die Organisation mehr als 1,000 Tonnen Lebensmittel an Bewohner der Region Missoula.",
+              "source": "https://www.charitynavigator.org/ein/810414143",
+              "by_org": false
+            },
+            {
+              "text": "Besucher können im Laden der Lebensmittelbank Produkte wie frische Erzeugnisse, Molkereiprodukte, Gefrierfleisch, Backwaren und Konserven einkaufen.",
+              "source": "https://missoulafoodbank.org/",
+              "by_org": true
+            }
+          ],
+          "mission": "Missoula Food Bank bietet Notfall-Nahrungsmittelhilfe für Menschen und ist bestrebt, den Hunger zu reduzieren. Jedes Jahr verteilen wir mehr als 1,000 Tonnen Lebensmittel – Konserven, frische Erzeugnisse, Backwaren, Müsli, Babynahrung, Säuglingsnahrung und mehr – an Bewohner der Region Missoula. Das reicht aus, um monatlich etwa 3,000 Haushalte zu versorgen. Unsere Mitarbeiter und Freiwilligen versorgen Bedürftige über eine Vielzahl von Programmen und Diensten mit Lebensmitteln: unser kostenloser Laden in der Wyoming Street; das ROOTS-Programm für an das Haus gebundene Senioren mit geringem Einkommen; Kids Table und unser EmPower Pack-Programm, das vom Hunger bedrohten Kindern an Wochenenden und in den Schulferien Mahlzeiten anbietet; sowie unsere Satelliten-Verteilungsstellen in Lolo und Potomac, MT.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "Der Laden der Lebensmittelbank arbeitet ohne Berechtigungskriterien, sodass keine Einzelperson abgewiesen wird.",
+              "source": "https://missoulafoodbank.org/",
+              "by_org": true
+            }
+          ]
+        },
+        "en": {
+          "does": [
+            {
+              "text": "The organization provides emergency food assistance to people to help reduce hunger.",
+              "quote": "Missoula Food Bank provides emergency food assistance to people, and strives to reduce hunger.",
+              "source": "https://www.charitynavigator.org/ein/810414143",
+              "by_org": false
+            },
+            {
+              "text": "Each year the organization distributes more than 1,000 tons of food to Missoula area residents.",
+              "quote": "Each year we distribute more than 1,000 tons of food - canned goods, fresh produce, bakery items, cereal, baby food, formula and more - to Missoula area residents.",
+              "source": "https://www.charitynavigator.org/ein/810414143",
+              "by_org": false
+            },
+            {
+              "text": "Visitors can shop at the food bank store for items such as fresh produce, dairy, frozen meat, bakery goods, and canned items.",
+              "quote": "Based on the number of people in your household, you will shop our Food Bank Store. We work to keep a variety of food items available, including fresh produce, dairy, frozen meat, bakery items, and dry and canned goods.",
+              "source": "https://missoulafoodbank.org/",
+              "by_org": true
+            }
+          ],
+          "mission": "Missoula Food Bank provides emergency food assistance to people, and strives to reduce hunger. Each year we distribute more than 1,000 tons of food - canned goods, fresh produce, bakery items, cereal, baby food, formula and more - to Missoula area residents. That's enough to serve roughly 3,000 households a month. Our staff and volunteers provide food to those who need it through a variety of programs and services: our free store on Wyoming Street; the ROOTS program serving home-bound, low income seniors; Kids Table and our EmPower Pack program providing meals to children at risk of hunger during weekends and school vacations; and our satellite distribution sites in Lolo and Potomac, MT.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "The food bank store operates without eligibility criteria so that no individual is turned away.",
+              "quote": "Our Store does not have eligibility criteria, so no one needs worry that they will be turned away.",
+              "source": "https://missoulafoodbank.org/",
+              "by_org": true
+            }
+          ]
+        },
+        "es": {
+          "does": [
+            {
+              "text": "La organización brinda asistencia alimentaria de emergencia a las personas para ayudar a reducir el hambre.",
+              "source": "https://www.charitynavigator.org/ein/810414143",
+              "by_org": false
+            },
+            {
+              "text": "Cada año la organización distribuye más de 1,000 toneladas de alimentos a los residentes del área de Missoula.",
+              "source": "https://www.charitynavigator.org/ein/810414143",
+              "by_org": false
+            },
+            {
+              "text": "Los visitantes pueden comprar en la tienda del banco de alimentos artículos como productos frescos, lácteos, carne congelada, productos de panadería y artículos enlatados.",
+              "source": "https://missoulafoodbank.org/",
+              "by_org": true
+            }
+          ],
+          "mission": "Missoula Food Bank brinda asistencia alimentaria de emergencia a las personas y se esfuerza por reducir el hambre. Cada año distribuimos más de 1,000 toneladas de alimentos - productos enlatados, productos frescos, artículos de panadería, cereales, alimentos para bebés, fórmula y más - a los residentes del área de Missoula. Eso es suficiente para atender aproximadamente a 3,000 hogares al mes. Nuestro personal y voluntarios proporcionan alimentos a quienes lo necesitan a través de una variedad de programas y servicios: nuestra tienda gratuita en Wyoming Street; el programa ROOTS que atiende a adultos mayores con movilidad limitada y bajos ingresos; Kids Table y nuestro programa EmPower Pack que brinda comidas a niños en riesgo de hambre durante los fines de semana y vacaciones escolares; y nuestros sitios de distribución satélite en Lolo y Potomac, MT.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "La tienda del banco de alimentos funciona sin criterios de elegibilidad, de modo que no se rechaza a ningún individuo.",
+              "source": "https://missoulafoodbank.org/",
+              "by_org": true
+            }
+          ]
+        },
+        "fr": {
+          "does": [
+            {
+              "text": "L'organisation fournit une aide alimentaire d'urgence aux personnes pour aider à réduire la faim.",
+              "source": "https://www.charitynavigator.org/ein/810414143",
+              "by_org": false
+            },
+            {
+              "text": "Chaque année, l'organisation distribue plus de 1,000 tons d'aliments aux résidents de la région de Missoula.",
+              "source": "https://www.charitynavigator.org/ein/810414143",
+              "by_org": false
+            },
+            {
+              "text": "Les visiteurs peuvent faire leurs achats au magasin de la banque alimentaire pour des produits tels que des fruits et légumes frais, des produits laitiers, de la viande surgelée, des produits de boulangerie et des conserves.",
+              "source": "https://missoulafoodbank.org/",
+              "by_org": true
+            }
+          ],
+          "mission": "Missoula Food Bank fournit une aide alimentaire d'urgence aux personnes et s'efforce de réduire la faim. Chaque année, nous distribuons plus de 1,000 tons d'aliments - conserves, produits frais, produits de boulangerie, céréales, aliments pour bébés, préparations pour nourrissons et plus - aux résidents de la région de Missoula. Cela suffit pour servir environ 3,000 foyers par mois. Notre personnel et nos bénévoles offrent de la nourriture à ceux qui en ont besoin à travers une variété de programmes et services : notre magasin gratuit sur Wyoming Street ; le programme ROOTS qui dessert les aînés à domicile à faible revenu ; Kids Table et notre programme EmPower Pack qui fournissent des repas aux enfants à risque de faim pendant les week-ends et les vacances scolaires ; ainsi que nos sites de distribution satellites à Lolo et Potomac, MT.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "Le magasin de la banque alimentaire fonctionne sans critères d'éligibilité afin qu'aucun individu ne soit refusé.",
+              "source": "https://missoulafoodbank.org/",
+              "by_org": true
+            }
+          ]
+        },
+        "hi": {
+          "does": [
+            {
+              "text": "संगठन लोगों को आपातकालीन खाद्य सहायता प्रदान करता है ताकि भूख को कम किया जा सके।",
+              "source": "https://www.charitynavigator.org/ein/810414143",
+              "by_org": false
+            },
+            {
+              "text": "प्रत्येक वर्ष संगठन 1,000 टन से अधिक भोजन मिसौला क्षेत्र के निवासियों को वितरित करता है।",
+              "source": "https://www.charitynavigator.org/ein/810414143",
+              "by_org": false
+            },
+            {
+              "text": "आगंतुक खाद्य बैंक स्टोर में ताज़ा फल‑सब्ज़ी, डेयरी, जमे हुए मांस, बेकरी वस्तुएँ और डिब्बाबंद सामान जैसी वस्तुओं को खरीद सकते हैं।",
+              "source": "https://missoulafoodbank.org/",
+              "by_org": true
+            }
+          ],
+          "mission": "Missoula Food Bank लोगों को आपातकालीन खाद्य सहायता प्रदान करता है, और भूख को कम करने का प्रयास करता है। प्रत्येक वर्ष हम 1,000 टन से अधिक भोजन वितरित करते हैं - डिब्बाबंद वस्तुएँ, ताज़ा फल‑सब्ज़ी, बेकरी आइटम, सीरियल, शिशु भोजन, फ़ॉर्मूला और अधिक - मिसौला क्षेत्र के निवासियों को। यह लगभग 3,000 परिवारों को एक महीने में सेवा देने के लिए पर्याप्त है। हमारा स्टाफ और स्वयंसेवक विभिन्न कार्यक्रमों और सेवाओं के माध्यम से जरूरतमंदों को भोजन प्रदान करते हैं: हमारे मुफ्त स्टोर, Wyoming Street पर; ROOTS कार्यक्रम जो घर पर रहने वाले, कम आय वाले वरिष्ठ नागरिकों की सेवा करता है; Kids Table और हमारा EmPower Pack कार्यक्रम जो सप्ताहांत और स्कूल की छुट्टियों के दौरान भूख के जोखिम में बच्चों को भोजन प्रदान करता है; और हमारे उपग्रह वितरण स्थल Lolo और Potomac, MT में।",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "खाद्य बैंक स्टोर बिना पात्रता मानदंडों के संचालित होता है ताकि कोई भी व्यक्ति बाहर न किया जाए।",
+              "source": "https://missoulafoodbank.org/",
+              "by_org": true
+            }
+          ]
+        },
+        "it": {
+          "does": [
+            {
+              "text": "L'organizzazione fornisce assistenza alimentare di emergenza alle persone per contribuire a ridurre la fame.",
+              "source": "https://www.charitynavigator.org/ein/810414143",
+              "by_org": false
+            },
+            {
+              "text": "Ogni anno l'organizzazione distribuisce più di 1,000 tonnellate di cibo ai residenti dell'area di Missoula.",
+              "source": "https://www.charitynavigator.org/ein/810414143",
+              "by_org": false
+            },
+            {
+              "text": "I visitatori possono fare acquisti nel negozio della banca alimentare per articoli come prodotti freschi, latticini, carne surgelata, prodotti da forno e prodotti in scatola.",
+              "source": "https://missoulafoodbank.org/",
+              "by_org": true
+            }
+          ],
+          "mission": "Missoula Food Bank fornisce assistenza alimentare di emergenza alle persone e si impegna a ridurre la fame. Ogni anno distribuiamo più di 1,000 tonnellate di cibo – prodotti in scatola, prodotti freschi, prodotti da forno, cereali, alimenti per bambini, formula e altro – ai residenti dell'area di Missoula. Questo è sufficiente per servire circa 3,000 famiglie al mese. Il nostro personale e i volontari forniscono cibo a chi ne ha bisogno attraverso una varietà di programmi e servizi: il nostro negozio gratuito su Wyoming Street; il programma ROOTS che serve anziani a domicilio a basso reddito; Kids Table e il nostro programma EmPower Pack che fornisce pasti ai bambini a rischio di fame durante i fine settimana e le vacanze scolastiche; e i nostri siti di distribuzione satellitari a Lolo e Potomac, MT.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "Il negozio della banca alimentare opera senza criteri di ammissibilità, così che nessun individuo venga rifiutato.",
+              "source": "https://missoulafoodbank.org/",
+              "by_org": true
+            }
+          ]
+        },
+        "ja": {
+          "does": [
+            {
+              "text": "この組織は飢餓削減のために、人々に緊急食料支援を提供します。",
+              "source": "https://www.charitynavigator.org/ein/810414143",
+              "by_org": false
+            },
+            {
+              "text": "毎年、組織はミズーラ地域の住民に1,000 トン以上の食料を配布します。",
+              "source": "https://www.charitynavigator.org/ein/810414143",
+              "by_org": false
+            },
+            {
+              "text": "来訪者はフレッシュプロデュース、乳製品、冷凍肉、ベーカリー製品、缶詰などの品目を食料バンクのストアで購入できます。",
+              "source": "https://missoulafoodbank.org/",
+              "by_org": true
+            }
+          ],
+          "mission": "Missoula Food Bank は人々に緊急食料支援を提供し、飢餓の削減に努めています。毎年、私たちは1,000 トン以上の食料（缶詰、フレッシュプロデュース、ベーカリー製品、シリアル、ベビーフード、フォーミュラなど）をミズーラ地域の住民に配布しています。これは月に約3,000 世帯に供給できる量です。スタッフとボランティアは、さまざまなプログラムとサービスを通じて必要な人々に食料を提供しています：Wyoming Street の無料ストア、在宅の低所得高齢者にサービスを提供する ROOTS プログラム、週末や学校休暇中に飢餓リスクのある子どもたちに食事を提供する Kids Table と EmPower Pack プログラム、そして MT 州の Lolo と Potomac にあるサテライト配布拠点です。",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "食料バンクのストアは資格基準なしで運営されており、誰も受け入れを拒否されません。",
+              "source": "https://missoulafoodbank.org/",
+              "by_org": true
+            }
+          ]
+        },
+        "pt": {
+          "does": [
+            {
+              "text": "A organização fornece assistência alimentar de emergência às pessoas para ajudar a reduzir a fome.",
+              "source": "https://www.charitynavigator.org/ein/810414143",
+              "by_org": false
+            },
+            {
+              "text": "Cada ano a organização distribui mais de 1,000 toneladas de alimentos para os residentes da região de Missoula.",
+              "source": "https://www.charitynavigator.org/ein/810414143",
+              "by_org": false
+            },
+            {
+              "text": "Os visitantes podem comprar na loja do banco de alimentos itens como produtos frescos, laticínios, carnes congeladas, produtos de padaria e itens enlatados.",
+              "source": "https://missoulafoodbank.org/",
+              "by_org": true
+            }
+          ],
+          "mission": "Missoula Food Bank fornece assistência alimentar de emergência às pessoas e se esforça para reduzir a fome. Cada ano distribuímos mais de 1,000 toneladas de alimentos - enlatados, produtos frescos, itens de padaria, cereais, papinhas para bebês, fórmula e mais - para os residentes da região de Missoula. Isso é suficiente para atender aproximadamente 3,000 domicílios por mês. Nossa equipe e voluntários fornecem alimentos àqueles que precisam através de uma variedade de programas e serviços: nossa loja gratuita na Wyoming Street; o programa ROOTS que atende idosos de baixa renda e confinados em casa; Kids Table e nosso programa EmPower Pack que fornecem refeições para crianças em risco de fome durante fins de semana e férias escolares; e nossos pontos de distribuição satélite em Lolo e Potomac, MT.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "A loja do banco de alimentos funciona sem critérios de elegibilidade, de modo que nenhum indivíduo é recusado.",
+              "source": "https://missoulafoodbank.org/",
+              "by_org": true
+            }
+          ]
+        },
+        "ru": {
+          "does": [
+            {
+              "text": "Организация предоставляет экстренную продовольственную помощь людям, чтобы помочь снизить уровень голода.",
+              "source": "https://www.charitynavigator.org/ein/810414143",
+              "by_org": false
+            },
+            {
+              "text": "Каждый год организация распределяет более 1,000 тонн продовольствия жителям района Missoula.",
+              "source": "https://www.charitynavigator.org/ein/810414143",
+              "by_org": false
+            },
+            {
+              "text": "Посетители могут совершать покупки в магазине продовольственного банка, выбирая такие товары, как свежие овощи и фрукты, молочные продукты, замороженное мясо, выпечка и консервированные изделия.",
+              "source": "https://missoulafoodbank.org/",
+              "by_org": true
+            }
+          ],
+          "mission": "Missoula Food Bank предоставляет экстренную продовольственную помощь людям и стремится снизить уровень голода. Каждый год мы распределяем более 1,000 тонн продовольствия — консервированные товары, свежие овощи и фрукты, выпечку, крупы, детское питание, смесь и многое другое — жителям района Missoula. Это достаточно, чтобы обслуживать примерно 3,000 домохозяйств в месяц. Наш персонал и волонтёры предоставляют еду тем, кто в ней нуждается через различные программы и услуги: наш бесплатный магазин на Wyoming Street; программа ROOTS, обслуживающая пожилых людей с ограниченной мобильностью и низким доходом; Kids Table и наша программа EmPower Pack, предоставляющие питание детям, находящимся в зоне риска голода, в выходные и школьные каникулы; а также наши распределительные пункты в Lolo и Potomac, MT.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "Магазин продовольственного банка работает без критериев отбора, поэтому никого не отказывают.",
+              "source": "https://missoulafoodbank.org/",
+              "by_org": true
+            }
+          ]
+        },
+        "zh": {
+          "does": [
+            {
+              "text": "该组织为人们提供紧急食品援助，以帮助减少饥饿。",
+              "source": "https://www.charitynavigator.org/ein/810414143",
+              "by_org": false
+            },
+            {
+              "text": "该组织每年向 Missoula 区域居民分发超过 1,000 吨食品。",
+              "source": "https://www.charitynavigator.org/ein/810414143",
+              "by_org": false
+            },
+            {
+              "text": "访客可以在食品银行商店购买新鲜农产品、乳制品、冷冻肉类、烘焙食品和罐装食品等商品。",
+              "source": "https://missoulafoodbank.org/",
+              "by_org": true
+            }
+          ],
+          "mission": "Missoula Food Bank 为人们提供紧急食品援助，并致力于减少饥饿。每年我们向 Missoula 区域居民分发超过 1,000 吨食品——罐装食品、新鲜农产品、烘焙食品、谷物、婴儿食品、配方奶粉等——。这足以每月为大约 3,000 户家庭提供服务。我们的工作人员和志愿者通过多种项目和服务向有需要的人提供食物：位于 Wyoming Street 的免费商店；为居家、低收入老年人服务的 ROOTS 项目；Kids Table 和我们的 EmPower Pack 项目，为周末和学校假期期间面临饥饿风险的儿童提供餐食；以及位于 Lolo 和 Potomac, MT 的卫星分发点。",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "食品银行商店在没有资格标准的情况下运营，确保没有人被拒之门外。",
+              "source": "https://missoulafoodbank.org/",
+              "by_org": true
+            }
+          ]
+        }
+      },
       "safety": {
         "evaluator": "Charity Navigator",
         "stars": 4,
@@ -3712,7 +4048,58 @@
       "source_url": "https://www.charitynavigator.org/ein/751785357",
       "approved_on": "2026-11-19",
       "review_until": "2026-11-22 11:37 UTC",
-      "translations": {},
+      "translations": {
+        "de": {
+          "text": "Von Charity Navigator bewertete Organisation, von den Agenten gefunden mit: 'Every.org: hunger latin america'.",
+          "title": "Unterstützen Sie die North Texas Food Bank gegen den Hunger",
+          "source": "traduzione AI"
+        },
+        "en": {
+          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'Every.org: hunger latin america'.",
+          "title": "Support North Texas Food Bank against hunger",
+          "source": "originale"
+        },
+        "es": {
+          "text": "Organización evaluada por Charity Navigator, encontrada por los agentes con: 'Every.org: hunger latin america'.",
+          "title": "Apoya a North Texas Food Bank contra el hambre",
+          "source": "traduzione AI"
+        },
+        "fr": {
+          "text": "Organisation évaluée par Charity Navigator, trouvée par les agents avec : 'Every.org: hunger latin america'.",
+          "title": "Soutenez North Texas Food Bank contre la faim",
+          "source": "traduzione AI"
+        },
+        "hi": {
+          "text": "Charity Navigator द्वारा मूल्यांकित संस्था, एजेंटों द्वारा इसके साथ खोजी गई: 'Every.org: hunger latin america'.",
+          "title": "भूख के खिलाफ North Texas Food Bank का समर्थन करें",
+          "source": "traduzione AI"
+        },
+        "it": {
+          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'Every.org: hunger latin america'.",
+          "title": "Sostieni North Texas Food Bank contro la fame",
+          "source": "traduzione AI"
+        },
+        "ja": {
+          "text": "Charity Navigatorによって評価された団体で、エージェントが次のように見つけました: 'Every.org: hunger latin america'.",
+          "title": "飢餓に対してNorth Texas Food Bankを支援する",
+          "source": "traduzione AI"
+        },
+        "pt": {
+          "text": "Entidade avaliada pela Charity Navigator, encontrada pelos agentes com: 'Every.org: hunger latin america'.",
+          "title": "Apoie a North Texas Food Bank contra a fome",
+          "source": "traduzione AI"
+        },
+        "ru": {
+          "text": "Организация оценена Charity Navigator, найдена агентами по запросу: 'Every.org: hunger latin america'.",
+          "title": "Поддержите North Texas Food Bank в борьбе с голодом",
+          "source": "traduzione AI"
+        },
+        "zh": {
+          "text": "经 Charity Navigator 评估的机构，由 Agent 通过以下关键词找到：'Every.org: hunger latin america'。",
+          "title": "支持 North Texas Food Bank 对抗饥饿",
+          "source": "traduzione AI"
+        }
+      },
       "tranches": [],
       "checks": [
         {
@@ -3909,7 +4296,244 @@
         "https://www.cnbc.com/2016/09/09/britains-sfo-says-charges-three-with-fraud-in-tesco-investigation.html"
       ],
       "waiting_counter": false,
-      "profile": {},
+      "profile": {
+        "de": {
+          "does": [
+            {
+              "text": "Die Organisation beschafft, verpackt und verteilt Lebensmittel über ein Netzwerk von fast 500 Partneragenturen in 12 Landkreisen von North Texas.",
+              "source": "https://www.charitynavigator.org/ein/751785357",
+              "by_org": false
+            },
+            {
+              "text": "Im FY25 verteilte die North Texas Food Bank 116 Millionen physische Mahlzeiten, von denen fast 106 Millionen nahrhaft waren.",
+              "source": "https://www.charitynavigator.org/ein/751785357",
+              "by_org": false
+            },
+            {
+              "text": "Die Organisation stellt Kindern, Senioren und Familien über verschiedene Direktlieferprogramme, einschließlich mobiler Tafeln, Lebensmittel zur Verfügung.",
+              "source": "https://www.charitynavigator.org/ein/751785357",
+              "by_org": false
+            },
+            {
+              "text": "Das Social Services Assistance Team ermöglichte im letzten Jahr mehr als 20 Millionen Mahlzeiten, indem es Nachbarn half, SNAP-Leistungen zu beantragen.",
+              "source": "https://www.northtexasgivingday.org/organization/northtexasfoodbank",
+              "by_org": true
+            }
+          ],
+          "mission": "Die North Texas Food Bank (NTFB) ist eine hochrangige gemeinnützige Hungerhilfe-Organisation, die Lebensmittel über ein Netzwerk von fast 500 Partneragenturen und Organisationen in 12 Landkreisen von North Texas beschafft, verpackt und verteilt. Die Organisation stellt auch Kindern, Senioren und Familien über verschiedene Direktlieferprogramme, einschließlich mobiler Tafeln, Lebensmittel zur Verfügung. Im FY25 verteilte die North Texas Food Bank 116 Millionen physische Mahlzeiten, von denen fast 106 Millionen nahrhaft waren. Zusätzlich ermöglichte das Social Services Assistance Team von NTFB 20.6 Millionen Mahlzeiten durch das Supplemental Nutrition Assistance Program (SNAP). NTFB ist Mitglied von Feeding America, der größten Hungerhilfe-Organisation des Landes.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "Direkt gehen 94 Prozent der Ressourcen der Organisation in Hungerhilfe-Programme.",
+              "source": "https://www.northtexasgivingday.org/organization/northtexasfoodbank",
+              "by_org": true
+            }
+          ]
+        },
+        "en": {
+          "does": [
+            {
+              "text": "The organization sources, packages and distributes food through a network of nearly 500 partner agencies across 12 North Texas counties.",
+              "quote": "The North Texas Food Bank (NTFB) is a top-ranked non-profit hunger-relief organization that sources, packages and distributes food through a network of nearly 500 Partner Agencies and organizations across 12 North Texas counties.",
+              "source": "https://www.charitynavigator.org/ein/751785357",
+              "by_org": false
+            },
+            {
+              "text": "In FY25, the North Texas Food Bank distributed 116 million physical meals, of which nearly 106 million were nutritious.",
+              "quote": "In FY25 the North Texas Food Bank distributed 116 million physical meals, of which nearly 106 million were nutritious.",
+              "source": "https://www.charitynavigator.org/ein/751785357",
+              "by_org": false
+            },
+            {
+              "text": "The organization provides food to children, seniors and families through various direct-delivery programs, including mobile pantries.",
+              "quote": "The organization also provides food to children, seniors and families through various direct-delivery programs, including mobile pantries.",
+              "source": "https://www.charitynavigator.org/ein/751785357",
+              "by_org": false
+            },
+            {
+              "text": "The Social Services Assistance team enabled more than 20 million meals last year by helping neighbors apply for SNAP benefits.",
+              "quote": "Our Social Services Assistance team also enabled more than 20 million meals last year through the Supplemental Nutrition Assistance Program)(SNAP), for which they help neighbors apply.",
+              "source": "https://www.northtexasgivingday.org/organization/northtexasfoodbank",
+              "by_org": true
+            }
+          ],
+          "mission": "The North Texas Food Bank (NTFB) is a top-ranked non-profit hunger-relief organization that sources, packages and distributes food through a network of nearly 500 Partner Agencies and organizations across 12 North Texas counties. The organization also provides food to children, seniors and families through various direct-delivery programs, including mobile pantries. In FY25 the North Texas Food Bank distributed 116 million physical meals, of which nearly 106 million were nutritious. Additionally, NTFB’s Social Services Assistance team enabled 20.6 million meals through the Supplemental Nutrition Assistance Program (SNAP). NTFB is a member of Feeding America, the nation’s largest hunger-relief organization.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "Directly 94 percent of the organization's resources go to hunger relief programs.",
+              "quote": "Every dollar donated to North Texas Food Bank provides access to three (3) healthy meals for North Texas families experiencing hunger, and 94 percent of our resources go directly to hunger relief programs.",
+              "source": "https://www.northtexasgivingday.org/organization/northtexasfoodbank",
+              "by_org": true
+            }
+          ]
+        },
+        "es": {
+          "does": [
+            {
+              "text": "La organización adquiere, empaqueta y distribuye alimentos a través de una red de casi 500 agencias asociadas en los 12 condados del norte de Texas.",
+              "source": "https://www.charitynavigator.org/ein/751785357",
+              "by_org": false
+            },
+            {
+              "text": "En el FY25, North Texas Food Bank distribuyó 116 millones de comidas físicas, de los cuales casi 106 millones fueron nutritivas.",
+              "source": "https://www.charitynavigator.org/ein/751785357",
+              "by_org": false
+            },
+            {
+              "text": "La organización brinda alimentos a niños, personas mayores y familias mediante varios programas de entrega directa, incluidos los despensas móviles.",
+              "source": "https://www.charitynavigator.org/ein/751785357",
+              "by_org": false
+            },
+            {
+              "text": "El equipo de Asistencia de Servicios Sociales facilitó más de 20 millones de comidas el año pasado al ayudar a los vecinos a solicitar los beneficios de SNAP.",
+              "source": "https://www.northtexasgivingday.org/organization/northtexasfoodbank",
+              "by_org": true
+            }
+          ],
+          "mission": "North Texas Food Bank (NTFB) es una organización sin fines de lucro de primera categoría en la lucha contra el hambre que adquiere, empaqueta y distribuye alimentos a través de una red de casi 500 agencias asociadas y organizaciones en los 12 condados del norte de Texas. La organización también brinda alimentos a niños, personas mayores y familias mediante varios programas de entrega directa, incluidos los despensas móviles. En el FY25 North Texas Food Bank distribuyó 116 millones de comidas físicas, de los cuales casi 106 millones fueron nutritivas. Además, el equipo de Asistencia de Servicios Sociales de NTFB facilitó 20.6 millones de comidas a través del Programa de Asistencia Nutricional Suplementaria (SNAP). NTFB es miembro de Feeding America, la organización de ayuda contra el hambre más grande del país.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "Directamente, el 94 por ciento de los recursos de la organización se destinan a programas de ayuda contra el hambre.",
+              "source": "https://www.northtexasgivingday.org/organization/northtexasfoodbank",
+              "by_org": true
+            }
+          ]
+        },
+        "fr": {
+          "does": [
+            {
+              "text": "L'organisation approvisionne, emballe et distribue des aliments via un réseau d'environ 500 agences partenaires dans les 12 comtés du Nord du Texas.",
+              "source": "https://www.charitynavigator.org/ein/751785357",
+              "by_org": false
+            },
+            {
+              "text": "Au cours de FY25, North Texas Food Bank a distribué 116 million de repas physiques, dont près de 106 million étaient nutritifs.",
+              "source": "https://www.charitynavigator.org/ein/751785357",
+              "by_org": false
+            },
+            {
+              "text": "L'organisation fournit de la nourriture aux enfants, aux personnes âgées et aux familles grâce à divers programmes de distribution directe, y compris les épiceries mobiles.",
+              "source": "https://www.charitynavigator.org/ein/751785357",
+              "by_org": false
+            },
+            {
+              "text": "L'équipe d'Aide aux Services Sociaux a permis plus de 20 million de repas l'année dernière en aidant les voisins à demander les prestations SNAP.",
+              "source": "https://www.northtexasgivingday.org/organization/northtexasfoodbank",
+              "by_org": true
+            }
+          ],
+          "mission": "North Texas Food Bank (NTFB) est une organisation à but non lucratif de premier rang dans la lutte contre la faim qui approvisionne, emballe et distribue des aliments via un réseau d'environ 500 agences partenaires et organisations dans les 12 comtés du Nord du Texas. L'organisation fournit également de la nourriture aux enfants, aux personnes âgées et aux familles grâce à divers programmes de distribution directe, y compris les épiceries mobiles. Au cours de FY25, North Texas Food Bank a distribué 116 million de repas physiques, dont près de 106 million étaient nutritifs. De plus, l'équipe d'Aide aux Services Sociaux de NTFB a permis 20.6 million de repas grâce au Programme d'Assistance Nutritionnelle Supplémentaire (SNAP). NTFB est membre de Feeding America, la plus grande organisation de lutte contre la faim du pays.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "Directement, 94 pour cent des ressources de l'organisation sont allouées aux programmes de lutte contre la faim.",
+              "source": "https://www.northtexasgivingday.org/organization/northtexasfoodbank",
+              "by_org": true
+            }
+          ]
+        },
+        "it": {
+          "does": [
+            {
+              "text": "L'organizzazione approvvigiona, confeziona e distribuisce cibo attraverso una rete di quasi 500 agenzie partner in 12 contee del Nord Texas.",
+              "source": "https://www.charitynavigator.org/ein/751785357",
+              "by_org": false
+            },
+            {
+              "text": "Nell'FY25, il North Texas Food Bank ha distribuito 116 milioni di pasti fisici, di cui quasi 106 milioni erano nutrienti.",
+              "source": "https://www.charitynavigator.org/ein/751785357",
+              "by_org": false
+            },
+            {
+              "text": "L'organizzazione fornisce cibo a bambini, anziani e famiglie tramite vari programmi di consegna diretta, inclusi i pantries mobili.",
+              "source": "https://www.charitynavigator.org/ein/751785357",
+              "by_org": false
+            },
+            {
+              "text": "Il team Social Services Assistance ha permesso più di 20 milioni di pasti lo scorso anno aiutando i vicini a richiedere i benefici SNAP.",
+              "source": "https://www.northtexasgivingday.org/organization/northtexasfoodbank",
+              "by_org": true
+            }
+          ],
+          "mission": "The North Texas Food Bank (NTFB) è un'organizzazione non profit di primo livello per la lotta alla fame che approvvigiona, confeziona e distribuisce cibo attraverso una rete di quasi 500 agenzie partner e organizzazioni in 12 contee del Nord Texas. L'organizzazione fornisce anche cibo a bambini, anziani e famiglie tramite vari programmi di consegna diretta, inclusi i pantries mobili. Nell'FY25 il North Texas Food Bank ha distribuito 116 milioni di pasti fisici, di cui quasi 106 milioni erano nutrienti. Inoltre, il team Social Services Assistance di NTFB ha permesso 20.6 milioni di pasti attraverso il Supplemental Nutrition Assistance Program (SNAP). NTFB è membro di Feeding America, la più grande organizzazione nazionale di lotta alla fame.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "Direttamente il 94 percento delle risorse dell'organizzazione va ai programmi di lotta alla fame.",
+              "source": "https://www.northtexasgivingday.org/organization/northtexasfoodbank",
+              "by_org": true
+            }
+          ]
+        },
+        "ru": {
+          "does": [
+            {
+              "text": "Организация закупает, упаковывает и распределяет продовольствие через сеть почти 500 партнёрских агентств в 12 округах Северного Техаса.",
+              "source": "https://www.charitynavigator.org/ein/751785357",
+              "by_org": false
+            },
+            {
+              "text": "В FY25 North Texas Food Bank распределил 116 миллионов физических приёмов пищи, из которых почти 106 миллионов были питательными.",
+              "source": "https://www.charitynavigator.org/ein/751785357",
+              "by_org": false
+            },
+            {
+              "text": "Организация предоставляет продовольствие детям, пожилым людям и семьям через различные программы прямой доставки, включая мобильные продовольственные пункты.",
+              "source": "https://www.charitynavigator.org/ein/751785357",
+              "by_org": false
+            },
+            {
+              "text": "Команда Social Services Assistance обеспечила более 20 миллионов приёмов пищи в прошлом году, помогая соседям подавать заявки на льготы SNAP.",
+              "source": "https://www.northtexasgivingday.org/organization/northtexasfoodbank",
+              "by_org": true
+            }
+          ],
+          "mission": "North Texas Food Bank (NTFB) — это высоко оценённая некоммерческая организация по борьбе с голодом, которая закупает, упаковывает и распределяет продовольствие через сеть почти 500 партнёрских агентств и организаций в 12 округах Северного Техаса. Организация также предоставляет продовольствие детям, пожилым людям и семьям через различные программы прямой доставки, включая мобильные продовольственные пункты. В FY25 North Texas Food Bank распределил 116 миллионов физических приёмов пищи, из которых почти 106 миллионов были питательными. Кроме того, команда Social Services Assistance NTFB обеспечила 20,6 миллионов приёмов пищи через Программу дополнительной продовольственной помощи (SNAP). NTFB является членом Feeding America, крупнейшей в стране организации по борьбе с голодом.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "Прямо 94 процента ресурсов организации идут на программы борьбы с голодом.",
+              "source": "https://www.northtexasgivingday.org/organization/northtexasfoodbank",
+              "by_org": true
+            }
+          ]
+        },
+        "zh": {
+          "does": [
+            {
+              "text": "该组织通过遍及12个北德克萨斯县的近500家合作机构网络采购、包装和分发食品。",
+              "source": "https://www.charitynavigator.org/ein/751785357",
+              "by_org": false
+            },
+            {
+              "text": "在FY25，North Texas Food Bank分发了116 million实体餐食，其中近106 million是营养餐。",
+              "source": "https://www.charitynavigator.org/ein/751785357",
+              "by_org": false
+            },
+            {
+              "text": "该组织通过各种直接配送项目，包括流动食品柜，为儿童、老年人和家庭提供食品。",
+              "source": "https://www.charitynavigator.org/ein/751785357",
+              "by_org": false
+            },
+            {
+              "text": "Social Services Assistance团队通过帮助邻居申请SNAP福利，使去年超过20 million餐食得以实现。",
+              "source": "https://www.northtexasgivingday.org/organization/northtexasfoodbank",
+              "by_org": true
+            }
+          ],
+          "mission": "North Texas Food Bank（NTFB）是一家排名靠前的非营利性饥饿救助组织，通过遍及12个北德克萨斯县的近500家Partner Agencies和组织网络采购、包装和分发食品。该组织还通过各种直接配送项目，包括流动食品柜，为儿童、老年人和家庭提供食品。在FY25，North Texas Food Bank分发了116 million实体餐食，其中近106 million是营养餐。此外，NTFB的Social Services Assistance团队通过Supplemental Nutrition Assistance Program（SNAP）提供了20.6 million餐食。North Texas Food Bank是Feeding America的成员，后者是全国最大的饥饿救助组织。",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "组织的资源中直接有94%用于饥饿救助项目。",
+              "source": "https://www.northtexasgivingday.org/organization/northtexasfoodbank",
+              "by_org": true
+            }
+          ]
+        }
+      },
       "safety": {
         "evaluator": "Charity Navigator",
         "stars": 4,
@@ -12118,11 +12742,11 @@
     "costs": {
       "USD": 8.5
     },
-    "ai_calls": 1594,
+    "ai_calls": 1631,
     "ai_cost_real_usd": 0.0,
-    "ai_value_offered_usd": 9.9722,
-    "candidates_examined": 82,
-    "candidates_discarded": 45
+    "ai_value_offered_usd": 10.170508,
+    "candidates_examined": 83,
+    "candidates_discarded": 46
   },
   "agent_program": {
     "join": "https://aiagainsthunger.org/en/agents.html",
