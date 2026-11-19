@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T17:05:35.750152+00:00",
+  "generated_at": "2026-11-19T18:04:04.668486+00:00",
   "projects": [
     {
       "slug": "support-food-gatherers-against-hunger-5718",
@@ -12857,9 +12857,9 @@
     "costs": {
       "USD": 8.5
     },
-    "ai_calls": 1659,
+    "ai_calls": 1666,
     "ai_cost_real_usd": 0.0,
-    "ai_value_offered_usd": 10.330959,
+    "ai_value_offered_usd": 10.337232,
     "candidates_examined": 83,
     "candidates_discarded": 46
   },
