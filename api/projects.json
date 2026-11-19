@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T13:04:32.191503+00:00",
+  "generated_at": "2026-11-19T14:04:04.102535+00:00",
   "projects": [
     {
       "slug": "support-food-gatherers-against-hunger-5718",
@@ -4434,6 +4434,39 @@
             }
           ]
         },
+        "hi": {
+          "does": [
+            {
+              "text": "संगठन लगभग 500 पार्टनर एजेंसियों के नेटवर्क के माध्यम से 12 नॉर्थ टेक्सास काउंटियों में खाद्य सामग्री स्रोत, पैकेज और वितरित करता है।",
+              "source": "https://www.charitynavigator.org/ein/751785357",
+              "by_org": false
+            },
+            {
+              "text": "FY25 में, North Texas Food Bank ने 116 मिलियन शारीरिक भोजन वितरित किए, जिनमें से लगभग 106 मिलियन पोषक थे।",
+              "source": "https://www.charitynavigator.org/ein/751785357",
+              "by_org": false
+            },
+            {
+              "text": "संगठन विभिन्न प्रत्यक्ष-डिलीवरी कार्यक्रमों के माध्यम से, जिसमें मोबाइल पैंट्री शामिल हैं, बच्चों, वरिष्ठ नागरिकों और परिवारों को भोजन प्रदान करता है।",
+              "source": "https://www.charitynavigator.org/ein/751785357",
+              "by_org": false
+            },
+            {
+              "text": "Social Services Assistance टीम ने पिछले वर्ष पड़ोसियों को SNAP लाभ के लिए आवेदन करने में मदद करके 20 मिलियन से अधिक भोजन सक्षम किए।",
+              "source": "https://www.northtexasgivingday.org/organization/northtexasfoodbank",
+              "by_org": true
+            }
+          ],
+          "mission": "North Texas Food Bank (NTFB) एक शीर्ष-रैंक वाला गैर-लाभकारी भूख-राहत संगठन है जो लगभग 500 पार्टनर एजेंसियों और 12 नॉर्थ टेक्सास काउंटियों में स्थित संगठनों के नेटवर्क के माध्यम से खाद्य सामग्री स्रोत, पैकेज और वितरित करता है। संगठन बच्चों, वरिष्ठ नागरिकों और परिवारों को विभिन्न प्रत्यक्ष-डिलीवरी कार्यक्रमों के माध्यम से, जिसमें मोबाइल पैंट्री शामिल हैं, भोजन प्रदान करता है। FY25 में North Texas Food Bank ने 116 मिलियन शारीरिक भोजन वितरित किए, जिनमें से लगभग 106 मिलियन पोषक थे। अतिरिक्त रूप से, NTFB की Social Services Assistance टीम ने Supplemental Nutrition Assistance Program (SNAP) के माध्यम से 20.6 मिलियन भोजन सक्षम किए। NTFB Feeding America का सदस्य है, जो राष्ट्र का सबसे बड़ा भूख-राहत संगठन है।",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "संगठन के संसाधनों में से सीधे 94 प्रतिशत भूख राहत कार्यक्रमों में जाते हैं।",
+              "source": "https://www.northtexasgivingday.org/organization/northtexasfoodbank",
+              "by_org": true
+            }
+          ]
+        },
         "it": {
           "does": [
             {
@@ -4462,6 +4495,72 @@
           "strengths": [
             {
               "text": "Direttamente il 94 percento delle risorse dell'organizzazione va ai programmi di lotta alla fame.",
+              "source": "https://www.northtexasgivingday.org/organization/northtexasfoodbank",
+              "by_org": true
+            }
+          ]
+        },
+        "ja": {
+          "does": [
+            {
+              "text": "組織は、12のノーステキサス郡にわたるほぼ500のパートナーエージェンシーのネットワークを通じて食料を調達、包装、配布しています。",
+              "source": "https://www.charitynavigator.org/ein/751785357",
+              "by_org": false
+            },
+            {
+              "text": "FY25にNorth Texas Food Bankは116 millionの実体食事を配布し、そのうちほぼ106 millionは栄養価が高いものでした。",
+              "source": "https://www.charitynavigator.org/ein/751785357",
+              "by_org": false
+            },
+            {
+              "text": "組織は、モバイルパントリーを含むさまざまな直接配達プログラムを通じて、子ども、高齢者、家族に食料を提供しています。",
+              "source": "https://www.charitynavigator.org/ein/751785357",
+              "by_org": false
+            },
+            {
+              "text": "ソーシャルサービス支援チームは、近隣住民がSNAP給付を申請するのを支援することで、20 million以上の食事を昨年実現しました。",
+              "source": "https://www.northtexasgivingday.org/organization/northtexasfoodbank",
+              "by_org": true
+            }
+          ],
+          "mission": "North Texas Food Bank（NTFB）は、トップクラスの非営利飢餓救済組織で、12のノーステキサス郡にわたるほぼ500のパートナーエージェンシーと組織のネットワークを通じて食料を調達、包装、配布しています。組織はまた、モバイルパントリーを含むさまざまな直接配達プログラムを通じて、子ども、高齢者、家族に食料を提供しています。FY25にNorth Texas Food Bankは116 millionの実体食事を配布し、そのうちほぼ106 millionは栄養価が高いものでした。さらに、NTFBのソーシャルサービス支援チームは、Supplemental Nutrition Assistance Program（SNAP）を通じて20.6 million食を実現しました。NTFBは、国内最大の飢餓救済組織であるFeeding Americaのメンバーです。",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "組織のリソースのうち94パーセントが直接飢餓救済プログラムに充てられています。",
+              "source": "https://www.northtexasgivingday.org/organization/northtexasfoodbank",
+              "by_org": true
+            }
+          ]
+        },
+        "pt": {
+          "does": [
+            {
+              "text": "A organização obtém, embala e distribui alimentos através de uma rede de quase 500 partner agencies em 12 condados do Norte do Texas.",
+              "source": "https://www.charitynavigator.org/ein/751785357",
+              "by_org": false
+            },
+            {
+              "text": "No FY25, o North Texas Food Bank distribuiu 116 milhões de refeições físicas, das quais quase 106 milhões foram nutritivas.",
+              "source": "https://www.charitynavigator.org/ein/751785357",
+              "by_org": false
+            },
+            {
+              "text": "A organização fornece alimentos a crianças, idosos e famílias por meio de vários programas de entrega direta, incluindo mobile pantries.",
+              "source": "https://www.charitynavigator.org/ein/751785357",
+              "by_org": false
+            },
+            {
+              "text": "A equipe de Social Services Assistance possibilitou mais de 20 milhões de refeições no ano passado ao ajudar vizinhos a solicitar benefícios do SNAP.",
+              "source": "https://www.northtexasgivingday.org/organization/northtexasfoodbank",
+              "by_org": true
+            }
+          ],
+          "mission": "O North Texas Food Bank (NTFB) é uma organização sem fins lucrativos de combate à fome, classificada entre as melhores, que obtém, embala e distribui alimentos através de uma rede de quase 500 Partner Agencies e organizações em 12 condados do Norte do Texas. A organização também fornece alimentos a crianças, idosos e famílias por meio de vários programas de entrega direta, incluindo mobile pantries. No FY25 o North Texas Food Bank distribuiu 116 milhões de refeições físicas, das quais quase 106 milhões foram nutritivas. Além disso, a equipe de Social Services Assistance da NTFB possibilitou 20.6 milhões de refeições através do Supplemental Nutrition Assistance Program (SNAP). A NTFB é membro da Feeding America, a maior organização de combate à fome do país.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "Diretamente, 94 por cento dos recursos da organização vão para programas de combate à fome.",
               "source": "https://www.northtexasgivingday.org/organization/northtexasfoodbank",
               "by_org": true
             }
@@ -12742,9 +12841,9 @@
     "costs": {
       "USD": 8.5
     },
-    "ai_calls": 1631,
+    "ai_calls": 1634,
     "ai_cost_real_usd": 0.0,
-    "ai_value_offered_usd": 10.170508,
+    "ai_value_offered_usd": 10.173913,
     "candidates_examined": 83,
     "candidates_discarded": 46
   },
