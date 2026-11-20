@@ -627,39 +627,36 @@ html:is([lang="hi"], [lang="zh"], [lang="ja"]) :is(.why-kicker, .h-kicker, .kick
 @keyframes why-grow { from { transform: scaleX(0); } }
 @keyframes why-drift { from { transform: scale(1.02); } to { transform: scale(1.12) translate3d(-1.5%, -1%, 0); } }
 
-/* nastro scorrevole con i dati principali, tipo telegiornale (decorativo: le frasi sono anche sotto) */
-.ticker { position: relative; overflow: hidden; padding: 13px 0; border-bottom: 1px solid rgba(255, 255, 255, .1); background: rgba(255, 107, 61, .09); }
-.why--band .ticker { margin: -96px 0 60px; }
-.why--page .ticker { margin: 52px 0 -72px; border-bottom: 0; border-top: 1px solid rgba(255, 255, 255, .1); }
+/* nastro scorrevole con i dati principali, appena sotto il menu (Pio, 20/11/2026), tipo telegiornale */
+.ticker-bar { position: relative; z-index: 10; display: flex; align-items: center; background: #0a110e; border-bottom: 1px solid #2a1a12; }
+.ticker { flex: 1; min-width: 0; overflow: hidden; padding: 11px 0; background: linear-gradient(90deg, rgba(255, 107, 61, .16), rgba(255, 107, 61, .06)); }
 .ticker-track { display: flex; width: max-content; animation: why-ticker 80s linear infinite; animation-play-state: var(--motion, running); }
 .ticker:hover .ticker-track { animation-play-state: paused; }
 .ticker p { display: flex; flex: none; margin: 0; }
 .ticker span { white-space: nowrap; padding: 0 30px 0 0; font-size: .95rem; font-weight: 700; color: #f3efe6; }
-.ticker span::before { content: "\25CF"; margin-right: 14px; color: var(--hot); font-size: .7em; vertical-align: .15em; }
-@media (max-width: 760px) {
-  .why--band .ticker { margin: -64px 0 44px; }
-  .why--page .ticker { margin: 36px 0 -48px; }
-}
+.ticker span::before { content: "\25CF"; margin-right: 14px; color: #ff6b3d; font-size: .7em; vertical-align: .15em; }
+@media (max-width: 760px) { .ticker span { font-size: .88rem; } }
 
 /* interruttore "Ferma le animazioni" (WCAG 2.2.2), senza JavaScript: una casella; ferma solo i movimenti continui */
 html:has(.motion-toggle:checked) { --motion: paused; }
 .motion-toggle { position: absolute; width: 1px; height: 1px; margin: 0; opacity: 0; }
 .motion-label {
-  position: absolute; z-index: 2; top: 62px; right: 16px; display: inline-flex; align-items: center; gap: 6px;
-  padding: 5px 12px; border: 1px solid rgba(255, 255, 255, .3); border-radius: 999px; background: rgba(0, 0, 0, .3);
-  color: #ddd8cc; font-size: .8rem; font-weight: 650; line-height: 1.3; cursor: pointer;
+  flex: none; display: inline-flex; align-items: center; gap: 6px; margin: 0 10px; padding: 4px 11px;
+  border: 1px solid rgba(255, 255, 255, .3); border-radius: 999px; background: #0a110e;
+  color: #ddd8cc; font-size: .78rem; font-weight: 650; line-height: 1.3; white-space: nowrap; cursor: pointer;
 }
-.why--page .motion-label { top: 16px; }
 .motion-label:hover { background: rgba(255, 255, 255, .12); color: #fff; }
 .motion-toggle:focus-visible + .motion-label { outline: 3px solid #fff; outline-offset: 2px; }
 .m-play, .motion-toggle:checked + .motion-label .m-pause { display: none; }
 .motion-toggle:checked + .motion-label .m-play { display: inline; }
-@media (max-width: 760px) { .motion-label { top: 50px; right: 12px; } .why--page .motion-label { top: 10px; } }
+@media (max-width: 600px) {  /* sul telefono solo il simbolo; il nome resta per i lettori di schermo */
+  .motion-label .m-text { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
+}
 
 @media (prefers-reduced-motion: reduce) {
   .why::before, .hero-img, .hero-inner > *, .stats .counter, .rv, .count, .pop, .person, .person--lit, .card,
   .why-facts li, .h-facts li, .t-area, .t-line, .t-proj, .t-range, .t-goal, .t-dot, .t-label, .hbar-track i,
   .hbar-track i::after, .t-ping, .why .cta--primary, .ticker-track { animation: none !important; }
   .t-line { stroke-dashoffset: 0; }
-  .ticker, .motion-label, .t-ping, .hbar-track i::after { display: none; }  /* niente si muove: non servono */
+  .ticker-bar, .t-ping, .hbar-track i::after { display: none; }  /* niente si muove: non servono */
 }
