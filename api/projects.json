@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T14:04:33.898277+00:00",
+  "generated_at": "2026-11-20T17:46:21.076565+00:00",
   "projects": [
     {
       "slug": "support-central-texas-food-bank-inc-against-hunger-7550",
@@ -12416,9 +12416,9 @@
     "costs": {
       "USD": 8.5
     },
-    "ai_calls": 1699,
+    "ai_calls": 1717,
     "ai_cost_real_usd": 0.0,
-    "ai_value_offered_usd": 10.657837,
+    "ai_value_offered_usd": 10.99038,
     "candidates_examined": 85,
     "candidates_discarded": 48
   },
