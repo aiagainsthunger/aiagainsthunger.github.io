@@ -86,6 +86,12 @@ code { background: var(--accent-soft); padding: 1px 6px; border-radius: 5px; }
 
 /* ---------------------------------------------------------------- intestazione */
 header.site { position: relative; z-index: 20; background: var(--surface); border-bottom: 1px solid var(--line); }
+/* Pio, 20/11/2026: su computer menu e nastro restano in alto mentre si scorre; sul telefono no, perché il menu va
+   su più righe e coprirebbe troppo schermo */
+@media (min-width: 960px) and (min-height: 640px) {
+  .site-top { position: sticky; top: 0; z-index: 40; box-shadow: 0 2px 12px rgba(16, 36, 27, .12); }
+  html { scroll-padding-top: 170px; }  /* i link interni (#fonti) non finiscono sotto il menu */
+}
 .header-row { display: flex; flex-wrap: wrap; align-items: center; gap: 8px 20px; padding-top: 12px; padding-bottom: 12px; }
 .brand { display: inline-flex; align-items: center; gap: 10px; font-weight: 800; font-size: 1.12rem; color: var(--text); text-decoration: none; letter-spacing: -.01em; white-space: nowrap; }
 .brand em { font-style: normal; color: var(--warm); }
