@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T11:04:04.742253+00:00",
+  "generated_at": "2026-11-20T13:04:05.005517+00:00",
   "projects": [
     {
       "slug": "support-central-texas-food-bank-inc-against-hunger-7550",
@@ -670,18 +670,34 @@
         "unanimous": true,
         "site": "centraltexasfoodbank.org",
         "official_host": "centraltexasfoodbank.org",
-        "profile_claimed": false
+        "profile_claimed": true
       },
-      "platform": "",
-      "counter": {},
-      "fundraiser_open": false,
+      "platform": "every.org",
+      "counter": {
+        "raised": "0",
+        "read_at": "2026-11-20T12:04:50.981288+00:00",
+        "currency": "USD",
+        "platform": "every.org",
+        "supporters": 0,
+        "raised_cents": 0,
+        "matches_cents": 0
+      },
+      "fundraiser_open": true,
       "progress_pct": 0,
       "donate": {
         "recipient": "Central Texas Food Bank Inc",
         "url": null,
-        "money_goes_to": "not open yet: donations open on a fundraising page with a public total",
+        "money_goes_to": "Every.org, a US 501(c)(3) nonprofit, which grants it to the organization (unrestricted); this project never receives or holds money",
         "counted_here_only_if": "shown in the public total of the fundraising page",
-        "status": "in public review"
+        "status": "in public review",
+        "platform": "Every.org (US 501(c)(3) nonprofit; receipts tax-deductible only in the US)",
+        "public_total": {
+          "raised": "0",
+          "currency": "USD",
+          "people": 0,
+          "read_on": "2026-11-20"
+        },
+        "note": "Every.org suggests an optional tip to itself (sometimes preselected); it can be set to 0. Payment fees are deducted from what the organization receives."
       }
     },
     {
@@ -12400,9 +12416,9 @@
     "costs": {
       "USD": 8.5
     },
-    "ai_calls": 1690,
+    "ai_calls": 1699,
     "ai_cost_real_usd": 0.0,
-    "ai_value_offered_usd": 10.551814,
+    "ai_value_offered_usd": 10.657837,
     "candidates_examined": 83,
     "candidates_discarded": 46
   },
