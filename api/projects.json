@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T14:04:33.331461+00:00",
+  "generated_at": "2026-11-21T15:04:05.462394+00:00",
   "projects": [
     {
       "slug": "support-our-daily-bread-food-pantry-against-hunger-5987",
@@ -579,7 +579,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-21T07:44:59.203508+00:00",
+        "read_at": "2026-11-21T14:04:53.770853+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -1345,7 +1345,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-21T07:45:00.614645+00:00",
+        "read_at": "2026-11-21T14:04:55.250586+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -1947,7 +1947,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-21T07:44:58.446900+00:00",
+        "read_at": "2026-11-21T14:04:53.031551+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -2522,7 +2522,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-21T07:44:56.194393+00:00",
+        "read_at": "2026-11-21T14:04:50.687862+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -3125,7 +3125,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-21T07:44:57.748761+00:00",
+        "read_at": "2026-11-21T14:04:52.281948+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -3779,7 +3779,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-21T07:44:57.380149+00:00",
+        "read_at": "2026-11-21T14:04:51.934732+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -4382,7 +4382,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-21T07:44:58.088339+00:00",
+        "read_at": "2026-11-21T14:04:52.654850+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -5087,7 +5087,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-21T07:45:00.993539+00:00",
+        "read_at": "2026-11-21T14:04:55.668054+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -5741,7 +5741,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-21T07:44:59.535484+00:00",
+        "read_at": "2026-11-21T14:04:54.154984+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -6334,7 +6334,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-21T07:44:55.379922+00:00",
+        "read_at": "2026-11-21T14:04:49.939186+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -6988,7 +6988,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-21T07:44:57.030656+00:00",
+        "read_at": "2026-11-21T14:04:51.575799+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -7030,7 +7030,53 @@
       "source_url": "https://www.charitynavigator.org/ein/133179546",
       "approved_on": "2026-11-21",
       "review_until": "2026-11-24 13:07 UTC",
-      "translations": {},
+      "translations": {
+        "de": {
+          "text": "Organisation bewertet von Charity Navigator, gefunden von den Agenten mit: 'Every.org: food bank'.",
+          "title": "Unterstützen Sie Food Bank For New York City gegen den Hunger",
+          "source": "traduzione AI"
+        },
+        "en": {
+          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'Every.org: food bank'.",
+          "title": "Support Food Bank For New York City against hunger",
+          "source": "originale"
+        },
+        "es": {
+          "text": "Entidad evaluada por Charity Navigator, encontrada por los agentes con: 'Every.org: food bank'.",
+          "title": "Apoya Food Bank For New York City contra el hambre",
+          "source": "traduzione AI"
+        },
+        "fr": {
+          "text": "Organisation évaluée par Charity Navigator, trouvée par les agents avec : 'Every.org: food bank'.",
+          "title": "Soutenez Food Bank For New York City contre la faim",
+          "source": "traduzione AI"
+        },
+        "it": {
+          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'Every.org: food bank'.",
+          "title": "Sostieni Food Bank For New York City contro la fame",
+          "source": "traduzione AI"
+        },
+        "ja": {
+          "text": "Charity Navigator によって評価された団体で、エージェントが次のように見つけました: 'Every.org: food bank'.",
+          "title": "Food Bank For New York City を飢餓から支援する",
+          "source": "traduzione AI"
+        },
+        "pt": {
+          "text": "Entidade avaliada pela Charity Navigator, encontrada pelos agentes com: 'Every.org: food bank'.",
+          "title": "Apoie Food Bank For New York City contra a fome",
+          "source": "traduzione AI"
+        },
+        "ru": {
+          "text": "Организация, оцененная Charity Navigator, найденная агентами с: 'Every.org: food bank'.",
+          "title": "Поддержите Food Bank For New York City в борьбе с голодом",
+          "source": "traduzione AI"
+        },
+        "zh": {
+          "text": "由 Charity Navigator 评估的机构，由代理人通过：'Every.org: food bank' 找到。",
+          "title": "支持 Food Bank For New York City 抗击饥饿",
+          "source": "traduzione AI"
+        }
+      },
       "tranches": [],
       "checks": [
         {
@@ -7227,7 +7273,343 @@
         "https://www.mapquest.com/us/new-york/food-bank-for-new-york-city-284952719"
       ],
       "waiting_counter": false,
-      "profile": {},
+      "profile": {
+        "de": {
+          "does": [
+            {
+              "text": "Die Organisation liefert frische Lebensmittel und Werkzeuge für Selbstversorgung in allen fünf Stadtbezirken über fast 800 Community‑Partner.",
+              "source": "https://www.charitynavigator.org/ein/133179546",
+              "by_org": false
+            },
+            {
+              "text": "Die Organisation liefert Lebensmittel an K-12‑Schulen und Hochschulen.",
+              "source": "https://www.foodbanknyc.org/",
+              "by_org": true
+            },
+            {
+              "text": "Die Organisation bietet warme Mahlzeiten, Lebensmittel, Gesundheitschecks und SNAP‑Unterstützung.",
+              "source": "https://www.foodbanknyc.org/",
+              "by_org": true
+            }
+          ],
+          "mission": "In der reichsten Stadt der Welt sollte kein New Yorker hungern oder schwierige Entscheidungen zwischen Nahrung und Miete treffen. Seit über 40 Jahren ist Food Bank For New York City eine Lebensader für die 1.4 million hart arbeitenden New Yorker, die nicht wissen, woher ihre nächste Mahlzeit kommt. Als die größte Hunger‑Relief‑Organisation der Stadt gehen wir über die Mahlzeit hinaus – wir bieten SNAP‑Unterstützung und Ernährungsbildung. Mit fast 800 Community‑Partnern in allen fünf Stadtbezirken liefern wir frische, kulturell relevante Lebensmittel und die Werkzeuge für Selbstversorgung. Unsere Mission: Jeden New Yorker befähigen, dauerhafte Ernährungssicherheit zu erreichen.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "Die Organisation bietet seit über 40 Jahren Lebensmittelhilfe in New York City an und erreicht 1.4 million Einwohner.",
+              "source": "https://www.charitynavigator.org/ein/133179546",
+              "by_org": false
+            },
+            {
+              "text": "Die Organisation wuchs von 600,000 Pfund Lebensmittel und 129 Agenturen zu einem Netzwerk von fast 800 Community‑Partnern in allen fünf Stadtbezirken.",
+              "source": "https://www.foodbanknyc.org/who-we-are/about/our-story/",
+              "by_org": true
+            }
+          ]
+        },
+        "en": {
+          "does": [
+            {
+              "text": "The organization delivers fresh food and tools for self-sufficiency across all five boroughs through nearly 800 community partners.",
+              "quote": "With nearly 800 community partners across all five boroughs, we deliver fresh, culturally relevant food and the tools for self-sufficiency.",
+              "source": "https://www.charitynavigator.org/ein/133179546",
+              "by_org": false
+            },
+            {
+              "text": "The organization delivers groceries to K-12 schools and colleges.",
+              "quote": "Groceries delivered to K-12 schools and colleges so students can thrive",
+              "source": "https://www.foodbanknyc.org/",
+              "by_org": true
+            },
+            {
+              "text": "The organization provides hot meals, groceries, health checks, and SNAP assistance.",
+              "quote": "Hot meals, groceries, health checks, and SNAP help—all in one spot",
+              "source": "https://www.foodbanknyc.org/",
+              "by_org": true
+            }
+          ],
+          "mission": "In the richest city in the world, no New Yorker should go hungry or make tough choices between food and rent. For over 40 years, Food Bank For New York City has been a lifeline for the 1.4 million hardworking New Yorkers who don't know where their next meal is coming from. As the city's largest hunger-relief organization, we go beyond the meal — providing SNAP support and nutrition education. With nearly 800 community partners across all five boroughs, we deliver fresh, culturally relevant food and the tools for self-sufficiency. Our mission: Empower every New Yorker to achieve food security for good.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "The organization has provided food assistance in New York City for over 40 years, reaching 1.4 million residents.",
+              "quote": "For over 40 years, Food Bank For New York City has been a lifeline for the 1.4 million hardworking New Yorkers who don't know where their next meal is coming from.",
+              "source": "https://www.charitynavigator.org/ein/133179546",
+              "by_org": false
+            },
+            {
+              "text": "The organization grew from 600,000 pounds of food and 129 agencies into a network of nearly 800 community partners across all five boroughs.",
+              "quote": "What began with 600,000 pounds of food and 129 agencies has grown into a citywide network of nearly 800 community partners across all five boroughs.",
+              "source": "https://www.foodbanknyc.org/who-we-are/about/our-story/",
+              "by_org": true
+            }
+          ]
+        },
+        "es": {
+          "does": [
+            {
+              "text": "La organización entrega alimentos frescos y herramientas para la autosuficiencia en los cinco distritos a través de casi 800 socios comunitarios.",
+              "source": "https://www.charitynavigator.org/ein/133179546",
+              "by_org": false
+            },
+            {
+              "text": "La organización entrega comestibles a escuelas K-12 y universidades.",
+              "source": "https://www.foodbanknyc.org/",
+              "by_org": true
+            },
+            {
+              "text": "La organización proporciona comidas calientes, comestibles, chequeos de salud y asistencia SNAP.",
+              "source": "https://www.foodbanknyc.org/",
+              "by_org": true
+            }
+          ],
+          "mission": "En la ciudad más rica del mundo, ningún neoyorquino debería pasar hambre ni tener que tomar decisiones difíciles entre comida y alquiler. Durante más de 40 años, Food Bank For New York City ha sido un salvavidas para los 1.4 million hardworking New Yorkers que no saben de dónde vendrá su próxima comida. Como la organización de alivio del hambre más grande de la ciudad, vamos más allá de la comida — ofreciendo apoyo SNAP y educación nutricional. Con casi 800 socios comunitarios en los cinco distritos, entregamos alimentos frescos y culturalmente relevantes y las herramientas para la autosuficiencia. Nuestra misión: Empoderar a cada neoyorquino para lograr la seguridad alimentaria de forma permanente.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "La organización ha brindado asistencia alimentaria en New York City durante más de 40 años, alcanzando a 1.4 million residentes.",
+              "source": "https://www.charitynavigator.org/ein/133179546",
+              "by_org": false
+            },
+            {
+              "text": "La organización pasó de 600,000 libras de alimentos y 129 agencias a una red de casi 800 socios comunitarios en los cinco distritos.",
+              "source": "https://www.foodbanknyc.org/who-we-are/about/our-story/",
+              "by_org": true
+            }
+          ]
+        },
+        "fr": {
+          "does": [
+            {
+              "text": "L'organisation fournit des aliments frais et des outils pour l'autosuffisance dans les cinq arrondissements grâce à près de 800 partenaires communautaires.",
+              "source": "https://www.charitynavigator.org/ein/133179546",
+              "by_org": false
+            },
+            {
+              "text": "L'organisation livre des produits d'épicerie aux écoles K-12 et aux universités.",
+              "source": "https://www.foodbanknyc.org/",
+              "by_org": true
+            },
+            {
+              "text": "L'organisation fournit des repas chauds, des produits d'épicerie, des contrôles de santé et une assistance SNAP.",
+              "source": "https://www.foodbanknyc.org/",
+              "by_org": true
+            }
+          ],
+          "mission": "Dans la ville la plus riche du monde, aucun New Yorker ne devrait souffrir de la faim ou devoir faire des choix difficiles entre la nourriture et le loyer. Depuis plus de 40 ans, Food Bank For New York City est un filet de sécurité pour les 1.4 million de New Yorker travailleurs qui ne savent pas d'où viendra leur prochain repas. En tant que plus grande organisation de lutte contre la faim de la ville, nous allons au-delà du repas — en offrant un soutien SNAP et une éducation nutritionnelle. Avec près de 800 partenaires communautaires dans les cinq arrondissements, nous livrons des aliments frais et culturellement pertinents ainsi que les outils pour l'autosuffisance. Notre mission : Donner à chaque New Yorker les moyens d'atteindre la sécurité alimentaire durable.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "L'organisation fournit une aide alimentaire à New York City depuis plus de 40 ans, atteignant 1.4 million de résidents.",
+              "source": "https://www.charitynavigator.org/ein/133179546",
+              "by_org": false
+            },
+            {
+              "text": "L'organisation est passée de 600,000 pounds de nourriture et 129 agencies à un réseau de près de 800 partenaires communautaires dans les cinq arrondissements.",
+              "source": "https://www.foodbanknyc.org/who-we-are/about/our-story/",
+              "by_org": true
+            }
+          ]
+        },
+        "hi": {
+          "does": [
+            {
+              "text": "संगठन लगभग 800 सामुदायिक साझेदारों के माध्यम से सभी पाँच बरो में ताज़ा भोजन और आत्मनिर्भरता के उपकरण प्रदान करता है।",
+              "source": "https://www.charitynavigator.org/ein/133179546",
+              "by_org": false
+            },
+            {
+              "text": "संगठन K-12 स्कूलों और कॉलेजों को किराने का सामान पहुंचाता है।",
+              "source": "https://www.foodbanknyc.org/",
+              "by_org": true
+            },
+            {
+              "text": "संगठन गरम भोजन, किराने का सामान, स्वास्थ्य जांच, और SNAP सहायता प्रदान करता है।",
+              "source": "https://www.foodbanknyc.org/",
+              "by_org": true
+            }
+          ],
+          "mission": "दुनिया के सबसे धनी शहर में, कोई भी न्यूयॉर्कर भूखा नहीं रहना चाहिए या भोजन और किराए के बीच कठिन विकल्प नहीं बनाने चाहिए। 40 से अधिक वर्षों से, Food Bank For New York City ने 1.4 million मेहनती न्यूयॉर्करों के लिए एक जीवनरेखा के रूप में कार्य किया है जो नहीं जानते कि उनका अगला भोजन कहाँ से आएगा। शहर के सबसे बड़े भूख राहत संगठन के रूप में, हम भोजन से आगे बढ़ते हैं — SNAP समर्थन और पोषण शिक्षा प्रदान करते हैं। लगभग 800 सामुदायिक साझेदारों के साथ सभी पाँच बरो में, हम ताज़ा, सांस्कृतिक रूप से प्रासंगिक भोजन और आत्मनिर्भरता के उपकरण प्रदान करते हैं। हमारा मिशन: प्रत्येक न्यूयॉर्कर को स्थायी रूप से खाद्य सुरक्षा प्राप्त करने के लिए सशक्त बनाना।",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "संगठन ने न्यूयॉर्क सिटी में 40 से अधिक वर्षों तक खाद्य सहायता प्रदान की है, जिससे 1.4 million निवासी तक पहुँचा है।",
+              "source": "https://www.charitynavigator.org/ein/133179546",
+              "by_org": false
+            },
+            {
+              "text": "संगठन 600,000 पाउंड भोजन और 129 एजेंसियों से बढ़कर सभी पाँच बरो में लगभग 800 सामुदायिक साझेदारों के नेटवर्क में विकसित हुआ।",
+              "source": "https://www.foodbanknyc.org/who-we-are/about/our-story/",
+              "by_org": true
+            }
+          ]
+        },
+        "it": {
+          "does": [
+            {
+              "text": "L'organizzazione consegna cibo fresco e strumenti per l'autosufficienza in tutti e cinque i distretti attraverso quasi 800 partner comunitari.",
+              "source": "https://www.charitynavigator.org/ein/133179546",
+              "by_org": false
+            },
+            {
+              "text": "L'organizzazione consegna generi alimentari alle scuole K-12 e alle università.",
+              "source": "https://www.foodbanknyc.org/",
+              "by_org": true
+            },
+            {
+              "text": "L'organizzazione fornisce pasti caldi, generi alimentari, controlli sanitari e assistenza SNAP.",
+              "source": "https://www.foodbanknyc.org/",
+              "by_org": true
+            }
+          ],
+          "mission": "Nella città più ricca del mondo, nessun newyorkese dovrebbe andare affamato o dover fare scelte difficili tra cibo e affitto. Da oltre 40 anni, Food Bank For New York City è una linea di vita per i 1.4 milioni di newyorkesi laboriosi che non sanno da dove arriverà il loro prossimo pasto. Come la più grande organizzazione di lotta alla fame della città, andiamo oltre il pasto — fornendo supporto SNAP e educazione nutrizionale. Con quasi 800 partner comunitari in tutti e cinque i distretti, consegniamo cibo fresco e culturalmente rilevante e gli strumenti per l'autosufficienza. La nostra missione: Dare a ogni newyorkese il potere di raggiungere la sicurezza alimentare in modo definitivo.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "L'organizzazione ha fornito assistenza alimentare a New York City per oltre 40 anni, raggiungendo 1.4 milioni di residenti.",
+              "source": "https://www.charitynavigator.org/ein/133179546",
+              "by_org": false
+            },
+            {
+              "text": "L'organizzazione è cresciuta da 600,000 libbre di cibo e 129 agenzie a una rete di quasi 800 partner comunitari in tutti e cinque i distretti.",
+              "source": "https://www.foodbanknyc.org/who-we-are/about/our-story/",
+              "by_org": true
+            }
+          ]
+        },
+        "ja": {
+          "does": [
+            {
+              "text": "この組織は、ほぼ800のコミュニティパートナーを通じて、five boroughs全体に新鮮な食料と自立のためのツールを提供します。",
+              "source": "https://www.charitynavigator.org/ein/133179546",
+              "by_org": false
+            },
+            {
+              "text": "この組織は、K-12の学校や大学に食料品を配達します。",
+              "source": "https://www.foodbanknyc.org/",
+              "by_org": true
+            },
+            {
+              "text": "この組織は、温かい食事、食料品、健康チェック、そしてSNAP支援を提供します。",
+              "source": "https://www.foodbanknyc.org/",
+              "by_org": true
+            }
+          ],
+          "mission": "世界で最も裕福な都市で、ニューヨーカーが飢えることや食費と家賃の間で厳しい選択を迫られるべきではありません。40年以上にわたり、Food Bank For New York City は、次の食事がどこから来るか分からない1.4 millionの勤勉なニューヨーカーの命綱となってきました。市内最大の飢餓救済組織として、私たちは食事だけでなく、SNAP支援と栄養教育も提供します。five boroughs全体にほぼ800のコミュニティパートナーと共に、新鮮で文化的に適した食料と自立のためのツールを提供しています。私たちの使命：すべてのニューヨーカーが永続的に食料安全保障を達成できるように力を与えることです。",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "この組織は、40年以上にわたりNew York Cityで食料支援を提供し、1.4 million人の住民に届いています。",
+              "source": "https://www.charitynavigator.org/ein/133179546",
+              "by_org": false
+            },
+            {
+              "text": "この組織は、600,000 poundsの食料と129 agenciesから始まり、five boroughs全体にnearly 800のコミュニティパートナーのネットワークへと成長しました。",
+              "source": "https://www.foodbanknyc.org/who-we-are/about/our-story/",
+              "by_org": true
+            }
+          ]
+        },
+        "pt": {
+          "does": [
+            {
+              "text": "A organização entrega alimentos frescos e ferramentas para a autossuficiência em todos os cinco distritos por meio de quase 800 parceiros comunitários.",
+              "source": "https://www.charitynavigator.org/ein/133179546",
+              "by_org": false
+            },
+            {
+              "text": "A organização entrega mantimentos para escolas K-12 e faculdades.",
+              "source": "https://www.foodbanknyc.org/",
+              "by_org": true
+            },
+            {
+              "text": "A organização oferece refeições quentes, mantimentos, exames de saúde e assistência com o SNAP.",
+              "source": "https://www.foodbanknyc.org/",
+              "by_org": true
+            }
+          ],
+          "mission": "Na cidade mais rica do mundo, nenhum nova-iorquino deveria passar fome ou ter que fazer escolhas difíceis entre alimentação e aluguel. Há mais de 40 anos, o Food Bank For New York City tem sido uma tábua de salvação para os 1.4 milhão de nova-iorquinos trabalhadores que não sabem de onde virá sua próxima refeição. Como a maior organização de combate à fome da cidade, vamos além da refeição — oferecendo suporte ao SNAP e educação nutricional. Com quase 800 parceiros comunitários em todos os cinco distritos, entregamos alimentos frescos e culturalmente relevantes, além de ferramentas para a autossuficiência. Nossa missão: Capacitar cada nova-iorquino a alcançar a segurança alimentar de forma definitiva.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "A organização presta assistência alimentar na cidade de Nova York há mais de 40 anos, alcançando 1.4 milhão de residentes.",
+              "source": "https://www.charitynavigator.org/ein/133179546",
+              "by_org": false
+            },
+            {
+              "text": "A organização cresceu de 600,000 libras de alimentos e 129 agências para uma rede de quase 800 parceiros comunitários em todos os cinco distritos.",
+              "source": "https://www.foodbanknyc.org/who-we-are/about/our-story/",
+              "by_org": true
+            }
+          ]
+        },
+        "ru": {
+          "does": [
+            {
+              "text": "Организация доставляет свежие продукты и инструменты для самодостаточности во всех пяти боро через почти 800 партнёров‑сообществ.",
+              "source": "https://www.charitynavigator.org/ein/133179546",
+              "by_org": false
+            },
+            {
+              "text": "Организация доставляет продукты в школы K‑12 и колледжи.",
+              "source": "https://www.foodbanknyc.org/",
+              "by_org": true
+            },
+            {
+              "text": "Организация предоставляет горячие блюда, продукты, медицинские осмотры и помощь по программе SNAP.",
+              "source": "https://www.foodbanknyc.org/",
+              "by_org": true
+            }
+          ],
+          "mission": "В самом богатом городе мира ни один житель Нью‑Йорка не должен голодать или делать трудный выбор между едой и арендой. Уже более 40 лет Food Bank For New York City является спасительной линией для 1.4 миллиона трудолюбивых жителей Нью‑Йорка, которые не знают, откуда придёт их следующая еда. Как крупнейшая в городе организация по борьбе с голодом, мы делаем больше, чем просто предоставляем еду — мы предоставляем поддержку SNAP и обучение питанию. С почти 800 партнёрами‑сообществами во всех пяти боро мы доставляем свежие, культурно‑соответствующие продукты и инструменты для самодостаточности. Наша миссия: дать каждому жителю Нью‑Йорка возможность достичь продовольственной безопасности навсегда.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "Организация предоставляет продовольственную помощь в Нью‑Йорке более 40 лет, охватывая 1.4 миллиона жителей.",
+              "source": "https://www.charitynavigator.org/ein/133179546",
+              "by_org": false
+            },
+            {
+              "text": "Организация выросла из 600,000 фунтов продуктов и 129 агентств в сеть почти 800 партнёров‑сообществ во всех пяти боро.",
+              "source": "https://www.foodbanknyc.org/who-we-are/about/our-story/",
+              "by_org": true
+            }
+          ]
+        },
+        "zh": {
+          "does": [
+            {
+              "text": "该组织通过近800个社区合作伙伴，在全部five boroughs提供新鲜食品和自给自足的工具。",
+              "source": "https://www.charitynavigator.org/ein/133179546",
+              "by_org": false
+            },
+            {
+              "text": "该组织向K-12学校和大学配送杂货。",
+              "source": "https://www.foodbanknyc.org/",
+              "by_org": true
+            },
+            {
+              "text": "该组织提供热餐、杂货、健康检查和SNAP援助。",
+              "source": "https://www.foodbanknyc.org/",
+              "by_org": true
+            }
+          ],
+          "mission": "在世界上最富裕的城市，没有纽约人应该挨饿或在食物和租金之间做艰难的选择。超过40 years，Food Bank For New York City一直是1.4 million勤劳的纽约人的生命线，这些人不知道下一餐从何而来。作为全市最大的饥饿救助组织，我们超越了餐食——提供SNAP支持和营养教育。凭借遍及全部five boroughs的近800个社区合作伙伴，我们提供新鲜、符合文化的食物以及自给自足的工具。我们的使命：赋能每位纽约人，实现永久的粮食安全。",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "该组织在纽约市提供食品援助已超过40 years，覆盖了1.4 million居民。",
+              "source": "https://www.charitynavigator.org/ein/133179546",
+              "by_org": false
+            },
+            {
+              "text": "该组织从600,000 pounds的食品和129 agencies发展为遍及全部five boroughs的近800个社区合作伙伴网络。",
+              "source": "https://www.foodbanknyc.org/who-we-are/about/our-story/",
+              "by_org": true
+            }
+          ]
+        }
+      },
       "safety": {
         "evaluator": "Charity Navigator",
         "stars": 4,
@@ -7854,7 +8236,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-21T07:44:56.619261+00:00",
+        "read_at": "2026-11-21T14:04:51.193529+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -7896,7 +8278,58 @@
       "source_url": "https://www.charitynavigator.org/ein/382156255",
       "approved_on": "2026-11-21",
       "review_until": "2026-11-24 13:06 UTC",
-      "translations": {},
+      "translations": {
+        "de": {
+          "text": "Von Charity Navigator bewertete Organisation, von den Agenten gefunden mit: 'Every.org: food bank'.",
+          "title": "Unterstützen Sie Gleaners Community Food Bank Of Southeastern Michigan gegen den Hunger",
+          "source": "traduzione AI"
+        },
+        "en": {
+          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'Every.org: food bank'.",
+          "title": "Support Gleaners Community Food Bank Of Southeastern Michigan against hunger",
+          "source": "originale"
+        },
+        "es": {
+          "text": "Entidad evaluada por Charity Navigator, encontrada por los agentes con: 'Every.org: food bank'.",
+          "title": "Apoya a Gleaners Community Food Bank Of Southeastern Michigan contra el hambre",
+          "source": "traduzione AI"
+        },
+        "fr": {
+          "text": "Organisme évalué par Charity Navigator, trouvé par les agents avec : 'Every.org: food bank'.",
+          "title": "Soutenez Gleaners Community Food Bank Of Southeastern Michigan contre la faim",
+          "source": "traduzione AI"
+        },
+        "hi": {
+          "text": "Charity Navigator द्वारा मूल्यांकित संगठन, एजेंटों द्वारा इसके साथ पाया गया: 'Every.org: food bank'.",
+          "title": "भुखमरी के खिलाफ Gleaners Community Food Bank Of Southeastern Michigan का समर्थन करें",
+          "source": "traduzione AI"
+        },
+        "it": {
+          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'Every.org: food bank'.",
+          "title": "Sostieni Gleaners Community Food Bank Of Southeastern Michigan contro la fame",
+          "source": "traduzione AI"
+        },
+        "ja": {
+          "text": "Charity Navigatorによって評価された団体。エージェントが「Every.org: food bank」で発見しました。",
+          "title": "Gleaners Community Food Bank Of Southeastern Michiganの飢餓対策を支援",
+          "source": "traduzione AI"
+        },
+        "pt": {
+          "text": "Entidade avaliada pela Charity Navigator, encontrada pelos agentes com: 'Every.org: food bank'.",
+          "title": "Apoie a Gleaners Community Food Bank Of Southeastern Michigan contra a fome",
+          "source": "traduzione AI"
+        },
+        "ru": {
+          "text": "Организация оценена Charity Navigator, найдена агентами по запросу: 'Every.org: food bank'.",
+          "title": "Поддержите Gleaners Community Food Bank Of Southeastern Michigan в борьбе с голодом",
+          "source": "traduzione AI"
+        },
+        "zh": {
+          "text": "由 Charity Navigator 评估的机构，由智能体通过以下内容找到：'Every.org: food bank'。",
+          "title": "支持 Gleaners Community Food Bank Of Southeastern Michigan 对抗饥饿",
+          "source": "traduzione AI"
+        }
+      },
       "tranches": [],
       "checks": [
         {
@@ -8093,7 +8526,343 @@
         "https://www.instrumentl.com/990-report/gleaners-community-food-bank-inc-06440cd4-fe9e-4592-b771-4535d1b77af7"
       ],
       "waiting_counter": false,
-      "profile": {},
+      "profile": {
+        "de": {
+          "does": [
+            {
+              "text": "Die Organisation bietet Haushalten Zugang zu ausreichender, nahrhafter Nahrung und verwandten Ressourcen.",
+              "source": "https://www.charitynavigator.org/ein/382156255",
+              "by_org": false
+            },
+            {
+              "text": "Die Organisation arbeitet daran, eine hungerfreie Gemeinschaft im Southeast Michigan durch Zusammenarbeit, Bildung, effiziente Abläufe und innovative Lösungen zu erreichen.",
+              "source": "https://www.charitynavigator.org/ein/382156255",
+              "by_org": false
+            },
+            {
+              "text": "Die Organisation verteilt nahrhafte, hochwertige Lebensmittel an Nachbarn, die von Ernährungsunsicherheit bedroht sind oder diese erleben.",
+              "source": "https://www.charitynavigator.org/ein/382156255",
+              "by_org": false
+            }
+          ],
+          "mission": "Gleaners Community Food Bank existiert, um Haushalten Zugang zu ausreichender, nahrhafter Nahrung und verwandten Ressourcen zu ermöglichen. Wir erreichen dies durch Zusammenarbeit, effiziente Abläufe, Bildung und innovative Lösungen, um eine hungerfreie Gemeinschaft im Southeast Michigan zu schaffen.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "Die Organisation arbeitet mit Partneragenturen und dem Feeding America Netzwerk zusammen, um die Gesundheit und das Wohlbefinden der Gemeinschaft zu verbessern.",
+              "source": "https://www.charitynavigator.org/ein/382156255",
+              "by_org": false
+            },
+            {
+              "text": "Die Organisation nutzt Freiwillige, um die Gemeinschaft breit zu engagieren.",
+              "source": "https://www.charitynavigator.org/ein/382156255",
+              "by_org": false
+            }
+          ]
+        },
+        "en": {
+          "does": [
+            {
+              "text": "The organization provides households with access to sufficient, nutritious food and related resources.",
+              "quote": "Gleaners Community Food Bank exists to provide households with access to sufficient, nutritious food and related resources.",
+              "source": "https://www.charitynavigator.org/ein/382156255",
+              "by_org": false
+            },
+            {
+              "text": "The organization works to achieve a hunger-free community in Southeast Michigan through collaboration, education, efficient operations, and innovative solutions.",
+              "quote": "We accomplish this through collaboration, efficient operations, education, and innovative solutions to achieve a hunger-free community in Southeast Michigan.",
+              "source": "https://www.charitynavigator.org/ein/382156255",
+              "by_org": false
+            },
+            {
+              "text": "The organization distributes nutritious, high-quality food to neighbors who are at risk of or facing food insecurity.",
+              "quote": "Gleaners is committed to distributing nutritious, high-quality food to our neighbors who are at risk of or facing food insecurity.",
+              "source": "https://www.charitynavigator.org/ein/382156255",
+              "by_org": false
+            }
+          ],
+          "mission": "Gleaners Community Food Bank exists to provide households with access to sufficient, nutritious food and related resources. We accomplish this through collaboration, efficient operations, education, and innovative solutions to achieve a hunger-free community in Southeast Michigan.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "The organization collaborates with partner agencies and the Feeding America network to improve community health and well-being.",
+              "quote": "In collaboration with our partner agencies, the Feeding America network, and our program partners, we’re driving innovative solutions to improve the health and well-being of our entire community.",
+              "source": "https://www.charitynavigator.org/ein/382156255",
+              "by_org": false
+            },
+            {
+              "text": "The organization utilizes volunteers to broadly engage the community.",
+              "quote": "Utilize volunteers to broadly engage the community. Foster a team culture that is engaged & empowered.",
+              "source": "https://www.charitynavigator.org/ein/382156255",
+              "by_org": false
+            }
+          ]
+        },
+        "es": {
+          "does": [
+            {
+              "text": "La organización proporciona a los hogares acceso a alimentos suficientes y nutritivos y recursos relacionados.",
+              "source": "https://www.charitynavigator.org/ein/382156255",
+              "by_org": false
+            },
+            {
+              "text": "La organización trabaja para lograr una comunidad sin hambre en Southeast Michigan mediante la colaboración, la educación, operaciones eficientes y soluciones innovadoras.",
+              "source": "https://www.charitynavigator.org/ein/382156255",
+              "by_org": false
+            },
+            {
+              "text": "La organización distribuye alimentos nutritivos y de alta calidad a los vecinos que están en riesgo o enfrentan inseguridad alimentaria.",
+              "source": "https://www.charitynavigator.org/ein/382156255",
+              "by_org": false
+            }
+          ],
+          "mission": "Gleaners Community Food Bank existe para proporcionar a los hogares acceso a alimentos suficientes y nutritivos y recursos relacionados. Logramos esto mediante la colaboración, operaciones eficientes, educación y soluciones innovadoras para alcanzar una comunidad sin hambre en Southeast Michigan.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "La organización colabora con agencias asociadas y la red Feeding America para mejorar la salud y el bienestar de la comunidad.",
+              "source": "https://www.charitynavigator.org/ein/382156255",
+              "by_org": false
+            },
+            {
+              "text": "La organización utiliza voluntarios para involucrar ampliamente a la comunidad.",
+              "source": "https://www.charitynavigator.org/ein/382156255",
+              "by_org": false
+            }
+          ]
+        },
+        "fr": {
+          "does": [
+            {
+              "text": "L'organisation fournit aux ménages un accès à une nourriture suffisante et nutritive ainsi qu'à des ressources connexes.",
+              "source": "https://www.charitynavigator.org/ein/382156255",
+              "by_org": false
+            },
+            {
+              "text": "L'organisation travaille à réaliser une communauté affranchie de la faim dans le sud-est du Michigan grâce à la collaboration, l'éducation, des opérations efficaces et des solutions innovantes.",
+              "source": "https://www.charitynavigator.org/ein/382156255",
+              "by_org": false
+            },
+            {
+              "text": "L'organisation distribue une nourriture nutritive et de haute qualité aux personnes qui risquent l'insécurité alimentaire ou y font face.",
+              "source": "https://www.charitynavigator.org/ein/382156255",
+              "by_org": false
+            }
+          ],
+          "mission": "Gleaners Community Food Bank existe pour fournir aux ménages un accès à une nourriture suffisante et nutritive ainsi qu'à des ressources connexes. Nous y parvenons grâce à la collaboration, à des opérations efficaces, à l'éducation et à des solutions innovantes afin d'obtenir une communauté affranchie de la faim dans le sud-est du Michigan.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "L'organisation collabore avec des organismes partenaires et le réseau Feeding America pour améliorer la santé et le bien-être de la communauté.",
+              "source": "https://www.charitynavigator.org/ein/382156255",
+              "by_org": false
+            },
+            {
+              "text": "L'organisation fait appel à des bénévoles pour mobiliser largement la communauté.",
+              "source": "https://www.charitynavigator.org/ein/382156255",
+              "by_org": false
+            }
+          ]
+        },
+        "hi": {
+          "does": [
+            {
+              "text": "संगठन घरों को पर्याप्त, पोषक भोजन और संबंधित संसाधनों तक पहुँच प्रदान करता है।",
+              "source": "https://www.charitynavigator.org/ein/382156255",
+              "by_org": false
+            },
+            {
+              "text": "संगठन सहयोग, शिक्षा, कुशल संचालन, और नवाचारी समाधानों के माध्यम से दक्षिणपूर्व मिशिगन में भूख-मुक्त समुदाय हासिल करने के लिए काम करता है।",
+              "source": "https://www.charitynavigator.org/ein/382156255",
+              "by_org": false
+            },
+            {
+              "text": "संगठन पोषक, उच्च-गुणवत्ता वाला भोजन उन पड़ोसियों को वितरित करता है जो खाद्य असुरक्षा के जोखिम में हैं या उसका सामना कर रहे हैं।",
+              "source": "https://www.charitynavigator.org/ein/382156255",
+              "by_org": false
+            }
+          ],
+          "mission": "Gleaners Community Food Bank का उद्देश्य घरों को पर्याप्त, पोषक भोजन और संबंधित संसाधनों तक पहुँच प्रदान करना है। हम सहयोग, कुशल संचालन, शिक्षा, और नवाचारी समाधान के माध्यम से दक्षिणपूर्व मिशिगन में भूख-मुक्त समुदाय हासिल करने के लिए यह कार्य करते हैं।",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "संगठन साझेदार एजेंसियों और Feeding America नेटवर्क के साथ सहयोग करके सामुदायिक स्वास्थ्य और कल्याण को सुधारता है।",
+              "source": "https://www.charitynavigator.org/ein/382156255",
+              "by_org": false
+            },
+            {
+              "text": "संगठन स्वयंसेवकों का उपयोग करके व्यापक रूप से समुदाय को शामिल करता है।",
+              "source": "https://www.charitynavigator.org/ein/382156255",
+              "by_org": false
+            }
+          ]
+        },
+        "it": {
+          "does": [
+            {
+              "text": "L'organizzazione fornisce alle famiglie l'accesso a cibo sufficiente e nutriente e alle relative risorse.",
+              "source": "https://www.charitynavigator.org/ein/382156255",
+              "by_org": false
+            },
+            {
+              "text": "L'organizzazione lavora per realizzare una comunità senza fame nel Michigan sud-orientale attraverso la collaborazione, l'istruzione, operazioni efficienti e soluzioni innovative.",
+              "source": "https://www.charitynavigator.org/ein/382156255",
+              "by_org": false
+            },
+            {
+              "text": "L'organizzazione distribuisce cibo nutriente e di alta qualità ai vicini che sono a rischio o che affrontano l'insicurezza alimentare.",
+              "source": "https://www.charitynavigator.org/ein/382156255",
+              "by_org": false
+            }
+          ],
+          "mission": "Gleaners Community Food Bank esiste per fornire alle famiglie l'accesso a cibo sufficiente e nutriente e alle relative risorse. Raggiungiamo questo obiettivo attraverso la collaborazione, operazioni efficienti, l'istruzione e soluzioni innovative per realizzare una comunità senza fame nel Michigan sud-orientale.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "L'organizzazione collabora con le agenzie partner e la rete Feeding America per migliorare la salute e il benessere della comunità.",
+              "source": "https://www.charitynavigator.org/ein/382156255",
+              "by_org": false
+            },
+            {
+              "text": "L'organizzazione utilizza volontari per coinvolgere ampiamente la comunità.",
+              "source": "https://www.charitynavigator.org/ein/382156255",
+              "by_org": false
+            }
+          ]
+        },
+        "ja": {
+          "does": [
+            {
+              "text": "この組織は、世帯が十分で栄養価の高い食料と関連資源にアクセスできるように提供します。",
+              "source": "https://www.charitynavigator.org/ein/382156255",
+              "by_org": false
+            },
+            {
+              "text": "この組織は、協働、教育、効率的な運営、そして革新的なソリューションを通じて、ミシガン州南東部で飢餓のないコミュニティを実現するために取り組んでいます。",
+              "source": "https://www.charitynavigator.org/ein/382156255",
+              "by_org": false
+            },
+            {
+              "text": "この組織は、食料不安に直面している、またはリスクのある近隣住民に対し、栄養価が高く高品質な食料を配布します。",
+              "source": "https://www.charitynavigator.org/ein/382156255",
+              "by_org": false
+            }
+          ],
+          "mission": "Gleaners Community Food Bank は、世帯が十分で栄養価の高い食料と関連資源にアクセスできるようにすることを目的としています。私たちは、協働、効率的な運営、教育、そして革新的なソリューションを通じて、ミシガン州南東部で飢餓のないコミュニティを実現します。",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "この組織は、パートナー機関および Feeding America ネットワークと協力して、コミュニティの健康と福祉の向上に取り組んでいます。",
+              "source": "https://www.charitynavigator.org/ein/382156255",
+              "by_org": false
+            },
+            {
+              "text": "この組織は、ボランティアを活用してコミュニティ全体を広く巻き込みます。",
+              "source": "https://www.charitynavigator.org/ein/382156255",
+              "by_org": false
+            }
+          ]
+        },
+        "pt": {
+          "does": [
+            {
+              "text": "A organização fornece às famílias acesso a alimentos suficientes e nutritivos e recursos relacionados.",
+              "source": "https://www.charitynavigator.org/ein/382156255",
+              "by_org": false
+            },
+            {
+              "text": "A organização trabalha para alcançar uma comunidade livre da fome no Sudeste de Michigan por meio de colaboração, educação, operações eficientes e soluções inovadoras.",
+              "source": "https://www.charitynavigator.org/ein/382156255",
+              "by_org": false
+            },
+            {
+              "text": "A organização distribui alimentos nutritivos e de alta qualidade para vizinhos que estão em risco ou enfrentando insegurança alimentar.",
+              "source": "https://www.charitynavigator.org/ein/382156255",
+              "by_org": false
+            }
+          ],
+          "mission": "Gleaners Community Food Bank existe para proporcionar às famílias acesso a alimentos suficientes e nutritivos e recursos relacionados. Fazemos isso por meio de colaboração, operações eficientes, educação e soluções inovadoras para alcançar uma comunidade livre da fome no Sudeste de Michigan.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "A organização colabora com agências parceiras e a rede Feeding America para melhorar a saúde e o bem-estar da comunidade.",
+              "source": "https://www.charitynavigator.org/ein/382156255",
+              "by_org": false
+            },
+            {
+              "text": "A organização utiliza voluntários para envolver amplamente a comunidade.",
+              "source": "https://www.charitynavigator.org/ein/382156255",
+              "by_org": false
+            }
+          ]
+        },
+        "ru": {
+          "does": [
+            {
+              "text": "Организация обеспечивает домохозяйства доступом к достаточной, питательной еде и сопутствующим ресурсам.",
+              "source": "https://www.charitynavigator.org/ein/382156255",
+              "by_org": false
+            },
+            {
+              "text": "Организация работает над созданием общества, свободного от голода, в Юго-Восточном Мичигане посредством сотрудничества, просвещения, эффективной деятельности и инновационных решений.",
+              "source": "https://www.charitynavigator.org/ein/382156255",
+              "by_org": false
+            },
+            {
+              "text": "Организация распределяет питательные и высококачественные продукты питания среди жителей, подверженных риску или сталкивающихся с нехваткой продовольствия.",
+              "source": "https://www.charitynavigator.org/ein/382156255",
+              "by_org": false
+            }
+          ],
+          "mission": "Gleaners Community Food Bank существует для того, чтобы обеспечить домохозяйства доступом к достаточной, питательной еде и сопутствующим ресурсам. Мы добиваемся этого благодаря сотрудничеству, эффективной деятельности, просвещению и инновационным решениям для достижения общества, свободного от голода, в Юго-Восточном Мичигане.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "Организация сотрудничает с партнерскими агентствами и сетью Feeding America для улучшения здоровья и благополучия местного сообщества.",
+              "source": "https://www.charitynavigator.org/ein/382156255",
+              "by_org": false
+            },
+            {
+              "text": "Организация привлекает волонтеров для широкого вовлечения местного сообщества.",
+              "source": "https://www.charitynavigator.org/ein/382156255",
+              "by_org": false
+            }
+          ]
+        },
+        "zh": {
+          "does": [
+            {
+              "text": "该组织为家庭提供充足、营养的食物和相关资源。",
+              "source": "https://www.charitynavigator.org/ein/382156255",
+              "by_org": false
+            },
+            {
+              "text": "该组织通过合作、教育、高效运营和创新解决方案，致力于在Southeast Michigan实现无饥饿的社区。",
+              "source": "https://www.charitynavigator.org/ein/382156255",
+              "by_org": false
+            },
+            {
+              "text": "该组织向面临或有食品不安全风险的邻居分发营养丰富、高质量的食物。",
+              "source": "https://www.charitynavigator.org/ein/382156255",
+              "by_org": false
+            }
+          ],
+          "mission": "Gleaners Community Food Bank 的存在是为了为家庭提供充足、营养的食物和相关资源。我们通过合作、高效运营、教育和创新解决方案来实现Southeast Michigan的无饥饿社区。",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "该组织与合作机构以及Feeding America网络合作，以提升社区健康和福祉。",
+              "source": "https://www.charitynavigator.org/ein/382156255",
+              "by_org": false
+            },
+            {
+              "text": "该组织利用志愿者广泛参与社区。",
+              "source": "https://www.charitynavigator.org/ein/382156255",
+              "by_org": false
+            }
+          ]
+        }
+      },
       "safety": {
         "evaluator": "Charity Navigator",
         "stars": 4,
@@ -8702,7 +9471,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-21T07:44:58.785972+00:00",
+        "read_at": "2026-11-21T14:04:53.406488+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -9192,7 +9961,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-21T07:44:54.164008+00:00",
+        "read_at": "2026-11-21T14:04:49.066728+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -9794,7 +10563,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-21T07:44:59.880663+00:00",
+        "read_at": "2026-11-21T14:04:54.503491+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -10391,7 +11160,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-21T12:05:27.709865+00:00",
+        "read_at": "2026-11-21T14:04:56.334819+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -11055,7 +11824,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-21T07:44:55.756950+00:00",
+        "read_at": "2026-11-21T14:04:50.344107+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -11703,7 +12472,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-21T12:05:26.181458+00:00",
+        "read_at": "2026-11-21T14:04:55.978209+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -12255,7 +13024,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-21T07:45:00.262374+00:00",
+        "read_at": "2026-11-21T14:04:54.902127+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -12909,7 +13678,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-21T07:44:54.930687+00:00",
+        "read_at": "2026-11-21T14:04:49.529989+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -12944,9 +13713,9 @@
     "costs": {
       "USD": 8.5
     },
-    "ai_calls": 1763,
+    "ai_calls": 1803,
     "ai_cost_real_usd": 0.0,
-    "ai_value_offered_usd": 11.544528,
+    "ai_value_offered_usd": 11.769625,
     "candidates_examined": 89,
     "candidates_discarded": 50
   },
