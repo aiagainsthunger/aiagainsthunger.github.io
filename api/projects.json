@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T15:04:05.462394+00:00",
+  "generated_at": "2026-11-21T21:22:02.675954+00:00",
   "projects": [
     {
       "slug": "support-our-daily-bread-food-pantry-against-hunger-5987",
@@ -147,7 +147,7 @@
           "check_type": "conflitti_interesse",
           "outcome": "superato",
           "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "evidence": "Nessun legame con gli sponsor registrati né con i legami noti dell'elenco dei conflitti (controllo del codice).",
           "source_url": "config/conflitti.yaml"
         },
         {
@@ -203,7 +203,7 @@
           "check_type": "conflitti_interesse",
           "outcome": "superato",
           "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "evidence": "Nessun legame con gli sponsor registrati né con i legami noti dell'elenco dei conflitti (controllo del codice).",
           "source_url": "config/conflitti.yaml"
         },
         {
@@ -259,7 +259,7 @@
           "check_type": "conflitti_interesse",
           "outcome": "superato",
           "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "evidence": "Nessun legame con gli sponsor registrati né con i legami noti dell'elenco dei conflitti (controllo del codice).",
           "source_url": "config/conflitti.yaml"
         }
       ],
@@ -579,7 +579,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-21T14:04:53.770853+00:00",
+        "read_at": "2026-11-21T21:04:45.740921+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -750,7 +750,7 @@
           "check_type": "conflitti_interesse",
           "outcome": "superato",
           "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "evidence": "Nessun legame con gli sponsor registrati né con i legami noti dell'elenco dei conflitti (controllo del codice).",
           "source_url": "config/conflitti.yaml"
         },
         {
@@ -806,7 +806,7 @@
           "check_type": "conflitti_interesse",
           "outcome": "superato",
           "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "evidence": "Nessun legame con gli sponsor registrati né con i legami noti dell'elenco dei conflitti (controllo del codice).",
           "source_url": "config/conflitti.yaml"
         },
         {
@@ -862,7 +862,7 @@
           "check_type": "conflitti_interesse",
           "outcome": "superato",
           "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "evidence": "Nessun legame con gli sponsor registrati né con i legami noti dell'elenco dei conflitti (controllo del codice).",
           "source_url": "config/conflitti.yaml"
         }
       ],
@@ -1345,7 +1345,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-21T14:04:55.250586+00:00",
+        "read_at": "2026-11-21T21:04:47.211870+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -1516,7 +1516,7 @@
           "check_type": "conflitti_interesse",
           "outcome": "superato",
           "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "evidence": "Nessun legame con gli sponsor registrati né con i legami noti dell'elenco dei conflitti (controllo del codice).",
           "source_url": "config/conflitti.yaml"
         },
         {
@@ -1572,7 +1572,7 @@
           "check_type": "conflitti_interesse",
           "outcome": "superato",
           "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "evidence": "Nessun legame con gli sponsor registrati né con i legami noti dell'elenco dei conflitti (controllo del codice).",
           "source_url": "config/conflitti.yaml"
         },
         {
@@ -1628,7 +1628,7 @@
           "check_type": "conflitti_interesse",
           "outcome": "superato",
           "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "evidence": "Nessun legame con gli sponsor registrati né con i legami noti dell'elenco dei conflitti (controllo del codice).",
           "source_url": "config/conflitti.yaml"
         }
       ],
@@ -1947,7 +1947,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-21T14:04:53.031551+00:00",
+        "read_at": "2026-11-21T21:04:44.939306+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -2118,7 +2118,7 @@
           "check_type": "conflitti_interesse",
           "outcome": "superato",
           "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "evidence": "Nessun legame con gli sponsor registrati né con i legami noti dell'elenco dei conflitti (controllo del codice).",
           "source_url": "config/conflitti.yaml"
         },
         {
@@ -2174,7 +2174,7 @@
           "check_type": "conflitti_interesse",
           "outcome": "superato",
           "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "evidence": "Nessun legame con gli sponsor registrati né con i legami noti dell'elenco dei conflitti (controllo del codice).",
           "source_url": "config/conflitti.yaml"
         },
         {
@@ -2230,7 +2230,7 @@
           "check_type": "conflitti_interesse",
           "outcome": "superato",
           "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "evidence": "Nessun legame con gli sponsor registrati né con i legami noti dell'elenco dei conflitti (controllo del codice).",
           "source_url": "config/conflitti.yaml"
         }
       ],
@@ -2522,7 +2522,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-21T14:04:50.687862+00:00",
+        "read_at": "2026-11-21T21:04:41.418696+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -2693,7 +2693,7 @@
           "check_type": "conflitti_interesse",
           "outcome": "superato",
           "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "evidence": "Nessun legame con gli sponsor registrati né con i legami noti dell'elenco dei conflitti (controllo del codice).",
           "source_url": "config/conflitti.yaml"
         },
         {
@@ -2749,7 +2749,7 @@
           "check_type": "conflitti_interesse",
           "outcome": "superato",
           "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "evidence": "Nessun legame con gli sponsor registrati né con i legami noti dell'elenco dei conflitti (controllo del codice).",
           "source_url": "config/conflitti.yaml"
         },
         {
@@ -2805,7 +2805,7 @@
           "check_type": "conflitti_interesse",
           "outcome": "superato",
           "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "evidence": "Nessun legame con gli sponsor registrati né con i legami noti dell'elenco dei conflitti (controllo del codice).",
           "source_url": "config/conflitti.yaml"
         }
       ],
@@ -3125,7 +3125,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-21T14:04:52.281948+00:00",
+        "read_at": "2026-11-21T21:04:43.941987+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -3296,7 +3296,7 @@
           "check_type": "conflitti_interesse",
           "outcome": "superato",
           "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "evidence": "Nessun legame con gli sponsor registrati né con i legami noti dell'elenco dei conflitti (controllo del codice).",
           "source_url": "config/conflitti.yaml"
         },
         {
@@ -3352,7 +3352,7 @@
           "check_type": "conflitti_interesse",
           "outcome": "superato",
           "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "evidence": "Nessun legame con gli sponsor registrati né con i legami noti dell'elenco dei conflitti (controllo del codice).",
           "source_url": "config/conflitti.yaml"
         },
         {
@@ -3408,7 +3408,7 @@
           "check_type": "conflitti_interesse",
           "outcome": "superato",
           "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "evidence": "Nessun legame con gli sponsor registrati né con i legami noti dell'elenco dei conflitti (controllo del codice).",
           "source_url": "config/conflitti.yaml"
         }
       ],
@@ -3779,7 +3779,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-21T14:04:51.934732+00:00",
+        "read_at": "2026-11-21T21:04:43.446466+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -3950,7 +3950,7 @@
           "check_type": "conflitti_interesse",
           "outcome": "superato",
           "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "evidence": "Nessun legame con gli sponsor registrati né con i legami noti dell'elenco dei conflitti (controllo del codice).",
           "source_url": "config/conflitti.yaml"
         },
         {
@@ -4006,7 +4006,7 @@
           "check_type": "conflitti_interesse",
           "outcome": "superato",
           "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "evidence": "Nessun legame con gli sponsor registrati né con i legami noti dell'elenco dei conflitti (controllo del codice).",
           "source_url": "config/conflitti.yaml"
         },
         {
@@ -4062,7 +4062,7 @@
           "check_type": "conflitti_interesse",
           "outcome": "superato",
           "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "evidence": "Nessun legame con gli sponsor registrati né con i legami noti dell'elenco dei conflitti (controllo del codice).",
           "source_url": "config/conflitti.yaml"
         }
       ],
@@ -4382,7 +4382,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-21T14:04:52.654850+00:00",
+        "read_at": "2026-11-21T21:04:44.374732+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -4553,7 +4553,7 @@
           "check_type": "conflitti_interesse",
           "outcome": "superato",
           "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "evidence": "Nessun legame con gli sponsor registrati né con i legami noti dell'elenco dei conflitti (controllo del codice).",
           "source_url": "config/conflitti.yaml"
         },
         {
@@ -4609,7 +4609,7 @@
           "check_type": "conflitti_interesse",
           "outcome": "superato",
           "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "evidence": "Nessun legame con gli sponsor registrati né con i legami noti dell'elenco dei conflitti (controllo del codice).",
           "source_url": "config/conflitti.yaml"
         },
         {
@@ -4665,7 +4665,7 @@
           "check_type": "conflitti_interesse",
           "outcome": "superato",
           "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "evidence": "Nessun legame con gli sponsor registrati né con i legami noti dell'elenco dei conflitti (controllo del codice).",
           "source_url": "config/conflitti.yaml"
         }
       ],
@@ -5087,7 +5087,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-21T14:04:55.668054+00:00",
+        "read_at": "2026-11-21T21:04:47.589501+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -5258,7 +5258,7 @@
           "check_type": "conflitti_interesse",
           "outcome": "superato",
           "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "evidence": "Nessun legame con gli sponsor registrati né con i legami noti dell'elenco dei conflitti (controllo del codice).",
           "source_url": "config/conflitti.yaml"
         },
         {
@@ -5314,7 +5314,7 @@
           "check_type": "conflitti_interesse",
           "outcome": "superato",
           "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "evidence": "Nessun legame con gli sponsor registrati né con i legami noti dell'elenco dei conflitti (controllo del codice).",
           "source_url": "config/conflitti.yaml"
         },
         {
@@ -5370,7 +5370,7 @@
           "check_type": "conflitti_interesse",
           "outcome": "superato",
           "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "evidence": "Nessun legame con gli sponsor registrati né con i legami noti dell'elenco dei conflitti (controllo del codice).",
           "source_url": "config/conflitti.yaml"
         }
       ],
@@ -5741,7 +5741,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-21T14:04:54.154984+00:00",
+        "read_at": "2026-11-21T21:04:46.108307+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -5912,7 +5912,7 @@
           "check_type": "conflitti_interesse",
           "outcome": "superato",
           "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "evidence": "Nessun legame con gli sponsor registrati né con i legami noti dell'elenco dei conflitti (controllo del codice).",
           "source_url": "config/conflitti.yaml"
         },
         {
@@ -5968,7 +5968,7 @@
           "check_type": "conflitti_interesse",
           "outcome": "superato",
           "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "evidence": "Nessun legame con gli sponsor registrati né con i legami noti dell'elenco dei conflitti (controllo del codice).",
           "source_url": "config/conflitti.yaml"
         },
         {
@@ -6024,7 +6024,7 @@
           "check_type": "conflitti_interesse",
           "outcome": "superato",
           "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "evidence": "Nessun legame con gli sponsor registrati né con i legami noti dell'elenco dei conflitti (controllo del codice).",
           "source_url": "config/conflitti.yaml"
         }
       ],
@@ -6334,7 +6334,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-21T14:04:49.939186+00:00",
+        "read_at": "2026-11-21T21:04:40.470621+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -6505,7 +6505,7 @@
           "check_type": "conflitti_interesse",
           "outcome": "superato",
           "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "evidence": "Nessun legame con gli sponsor registrati né con i legami noti dell'elenco dei conflitti (controllo del codice).",
           "source_url": "config/conflitti.yaml"
         },
         {
@@ -6561,7 +6561,7 @@
           "check_type": "conflitti_interesse",
           "outcome": "superato",
           "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "evidence": "Nessun legame con gli sponsor registrati né con i legami noti dell'elenco dei conflitti (controllo del codice).",
           "source_url": "config/conflitti.yaml"
         },
         {
@@ -6617,7 +6617,7 @@
           "check_type": "conflitti_interesse",
           "outcome": "superato",
           "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "evidence": "Nessun legame con gli sponsor registrati né con i legami noti dell'elenco dei conflitti (controllo del codice).",
           "source_url": "config/conflitti.yaml"
         }
       ],
@@ -6988,7 +6988,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-21T14:04:51.575799+00:00",
+        "read_at": "2026-11-21T21:04:43.020293+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -7148,7 +7148,7 @@
           "check_type": "conflitti_interesse",
           "outcome": "superato",
           "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "evidence": "Nessun legame con gli sponsor registrati né con i legami noti dell'elenco dei conflitti (controllo del codice).",
           "source_url": "config/conflitti.yaml"
         },
         {
@@ -7204,7 +7204,7 @@
           "check_type": "conflitti_interesse",
           "outcome": "superato",
           "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "evidence": "Nessun legame con gli sponsor registrati né con i legami noti dell'elenco dei conflitti (controllo del codice).",
           "source_url": "config/conflitti.yaml"
         },
         {
@@ -7260,7 +7260,7 @@
           "check_type": "conflitti_interesse",
           "outcome": "superato",
           "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "evidence": "Nessun legame con gli sponsor registrati né con i legami noti dell'elenco dei conflitti (controllo del codice).",
           "source_url": "config/conflitti.yaml"
         }
       ],
@@ -7786,7 +7786,7 @@
           "check_type": "conflitti_interesse",
           "outcome": "superato",
           "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "evidence": "Nessun legame con gli sponsor registrati né con i legami noti dell'elenco dei conflitti (controllo del codice).",
           "source_url": "config/conflitti.yaml"
         },
         {
@@ -7842,7 +7842,7 @@
           "check_type": "conflitti_interesse",
           "outcome": "superato",
           "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "evidence": "Nessun legame con gli sponsor registrati né con i legami noti dell'elenco dei conflitti (controllo del codice).",
           "source_url": "config/conflitti.yaml"
         },
         {
@@ -7898,7 +7898,7 @@
           "check_type": "conflitti_interesse",
           "outcome": "superato",
           "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "evidence": "Nessun legame con gli sponsor registrati né con i legami noti dell'elenco dei conflitti (controllo del codice).",
           "source_url": "config/conflitti.yaml"
         }
       ],
@@ -8236,7 +8236,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-21T14:04:51.193529+00:00",
+        "read_at": "2026-11-21T21:04:42.544750+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -8401,7 +8401,7 @@
           "check_type": "conflitti_interesse",
           "outcome": "superato",
           "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "evidence": "Nessun legame con gli sponsor registrati né con i legami noti dell'elenco dei conflitti (controllo del codice).",
           "source_url": "config/conflitti.yaml"
         },
         {
@@ -8457,7 +8457,7 @@
           "check_type": "conflitti_interesse",
           "outcome": "superato",
           "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "evidence": "Nessun legame con gli sponsor registrati né con i legami noti dell'elenco dei conflitti (controllo del codice).",
           "source_url": "config/conflitti.yaml"
         },
         {
@@ -8513,7 +8513,7 @@
           "check_type": "conflitti_interesse",
           "outcome": "superato",
           "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "evidence": "Nessun legame con gli sponsor registrati né con i legami noti dell'elenco dei conflitti (controllo del codice).",
           "source_url": "config/conflitti.yaml"
         }
       ],
@@ -9039,7 +9039,7 @@
           "check_type": "conflitti_interesse",
           "outcome": "superato",
           "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "evidence": "Nessun legame con gli sponsor registrati né con i legami noti dell'elenco dei conflitti (controllo del codice).",
           "source_url": "config/conflitti.yaml"
         },
         {
@@ -9095,7 +9095,7 @@
           "check_type": "conflitti_interesse",
           "outcome": "superato",
           "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "evidence": "Nessun legame con gli sponsor registrati né con i legami noti dell'elenco dei conflitti (controllo del codice).",
           "source_url": "config/conflitti.yaml"
         },
         {
@@ -9151,7 +9151,7 @@
           "check_type": "conflitti_interesse",
           "outcome": "superato",
           "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "evidence": "Nessun legame con gli sponsor registrati né con i legami noti dell'elenco dei conflitti (controllo del codice).",
           "source_url": "config/conflitti.yaml"
         }
       ],
@@ -9471,7 +9471,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-21T14:04:53.406488+00:00",
+        "read_at": "2026-11-21T21:04:45.322547+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -9642,7 +9642,7 @@
           "check_type": "conflitti_interesse",
           "outcome": "superato",
           "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "evidence": "Nessun legame con gli sponsor registrati né con i legami noti dell'elenco dei conflitti (controllo del codice).",
           "source_url": "config/conflitti.yaml"
         },
         {
@@ -9698,7 +9698,7 @@
           "check_type": "conflitti_interesse",
           "outcome": "superato",
           "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "evidence": "Nessun legame con gli sponsor registrati né con i legami noti dell'elenco dei conflitti (controllo del codice).",
           "source_url": "config/conflitti.yaml"
         },
         {
@@ -9754,7 +9754,7 @@
           "check_type": "conflitti_interesse",
           "outcome": "superato",
           "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "evidence": "Nessun legame con gli sponsor registrati né con i legami noti dell'elenco dei conflitti (controllo del codice).",
           "source_url": "config/conflitti.yaml"
         }
       ],
@@ -9961,7 +9961,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-21T14:04:49.066728+00:00",
+        "read_at": "2026-11-21T21:04:39.448554+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -10132,7 +10132,7 @@
           "check_type": "conflitti_interesse",
           "outcome": "superato",
           "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "evidence": "Nessun legame con gli sponsor registrati né con i legami noti dell'elenco dei conflitti (controllo del codice).",
           "source_url": "config/conflitti.yaml"
         },
         {
@@ -10188,7 +10188,7 @@
           "check_type": "conflitti_interesse",
           "outcome": "superato",
           "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "evidence": "Nessun legame con gli sponsor registrati né con i legami noti dell'elenco dei conflitti (controllo del codice).",
           "source_url": "config/conflitti.yaml"
         },
         {
@@ -10244,7 +10244,7 @@
           "check_type": "conflitti_interesse",
           "outcome": "superato",
           "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "evidence": "Nessun legame con gli sponsor registrati né con i legami noti dell'elenco dei conflitti (controllo del codice).",
           "source_url": "config/conflitti.yaml"
         }
       ],
@@ -10563,7 +10563,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-21T14:04:54.503491+00:00",
+        "read_at": "2026-11-21T21:04:46.458813+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -10728,7 +10728,7 @@
           "check_type": "conflitti_interesse",
           "outcome": "superato",
           "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "evidence": "Nessun legame con gli sponsor registrati né con i legami noti dell'elenco dei conflitti (controllo del codice).",
           "source_url": "config/conflitti.yaml"
         },
         {
@@ -10784,7 +10784,7 @@
           "check_type": "conflitti_interesse",
           "outcome": "superato",
           "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "evidence": "Nessun legame con gli sponsor registrati né con i legami noti dell'elenco dei conflitti (controllo del codice).",
           "source_url": "config/conflitti.yaml"
         },
         {
@@ -10840,7 +10840,7 @@
           "check_type": "conflitti_interesse",
           "outcome": "superato",
           "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "evidence": "Nessun legame con gli sponsor registrati né con i legami noti dell'elenco dei conflitti (controllo del codice).",
           "source_url": "config/conflitti.yaml"
         }
       ],
@@ -11160,7 +11160,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-21T14:04:56.334819+00:00",
+        "read_at": "2026-11-21T21:04:48.453909+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -11331,7 +11331,7 @@
           "check_type": "conflitti_interesse",
           "outcome": "superato",
           "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "evidence": "Nessun legame con gli sponsor registrati né con i legami noti dell'elenco dei conflitti (controllo del codice).",
           "source_url": "config/conflitti.yaml"
         },
         {
@@ -11387,7 +11387,7 @@
           "check_type": "conflitti_interesse",
           "outcome": "superato",
           "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "evidence": "Nessun legame con gli sponsor registrati né con i legami noti dell'elenco dei conflitti (controllo del codice).",
           "source_url": "config/conflitti.yaml"
         },
         {
@@ -11443,7 +11443,7 @@
           "check_type": "conflitti_interesse",
           "outcome": "superato",
           "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "evidence": "Nessun legame con gli sponsor registrati né con i legami noti dell'elenco dei conflitti (controllo del codice).",
           "source_url": "config/conflitti.yaml"
         }
       ],
@@ -11824,7 +11824,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-21T14:04:50.344107+00:00",
+        "read_at": "2026-11-21T21:04:40.885048+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -11855,7 +11855,7 @@
       "description": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'Every.org: hunger latin america'.",
       "org_name": "North Texas Food Bank",
       "org_country": "US",
-      "org_website": "https://www.northtexasgivingday.org/",
+      "org_website": "https://ntfb.org/",
       "country": "US",
       "currency": "USD",
       "goal": 5000.0,
@@ -11989,7 +11989,7 @@
           "check_type": "conflitti_interesse",
           "outcome": "superato",
           "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "evidence": "Nessun legame con gli sponsor registrati né con i legami noti dell'elenco dei conflitti (controllo del codice).",
           "source_url": "config/conflitti.yaml"
         },
         {
@@ -12045,7 +12045,7 @@
           "check_type": "conflitti_interesse",
           "outcome": "superato",
           "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "evidence": "Nessun legame con gli sponsor registrati né con i legami noti dell'elenco dei conflitti (controllo del codice).",
           "source_url": "config/conflitti.yaml"
         },
         {
@@ -12101,7 +12101,7 @@
           "check_type": "conflitti_interesse",
           "outcome": "superato",
           "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "evidence": "Nessun legame con gli sponsor registrati né con i legami noti dell'elenco dei conflitti (controllo del codice).",
           "source_url": "config/conflitti.yaml"
         }
       ],
@@ -12135,7 +12135,7 @@
             {
               "text": "Das Social Services Assistance Team ermöglichte im letzten Jahr mehr als 20 Millionen Mahlzeiten, indem es Nachbarn half, SNAP-Leistungen zu beantragen.",
               "source": "https://www.northtexasgivingday.org/organization/northtexasfoodbank",
-              "by_org": true
+              "by_org": false
             }
           ],
           "mission": "Die North Texas Food Bank (NTFB) ist eine hochrangige gemeinnützige Hungerhilfe-Organisation, die Lebensmittel über ein Netzwerk von fast 500 Partneragenturen und Organisationen in 12 Landkreisen von North Texas beschafft, verpackt und verteilt. Die Organisation stellt auch Kindern, Senioren und Familien über verschiedene Direktlieferprogramme, einschließlich mobiler Tafeln, Lebensmittel zur Verfügung. Im FY25 verteilte die North Texas Food Bank 116 Millionen physische Mahlzeiten, von denen fast 106 Millionen nahrhaft waren. Zusätzlich ermöglichte das Social Services Assistance Team von NTFB 20.6 Millionen Mahlzeiten durch das Supplemental Nutrition Assistance Program (SNAP). NTFB ist Mitglied von Feeding America, der größten Hungerhilfe-Organisation des Landes.",
@@ -12144,7 +12144,7 @@
             {
               "text": "Direkt gehen 94 Prozent der Ressourcen der Organisation in Hungerhilfe-Programme.",
               "source": "https://www.northtexasgivingday.org/organization/northtexasfoodbank",
-              "by_org": true
+              "by_org": false
             }
           ]
         },
@@ -12172,7 +12172,7 @@
               "text": "The Social Services Assistance team enabled more than 20 million meals last year by helping neighbors apply for SNAP benefits.",
               "quote": "Our Social Services Assistance team also enabled more than 20 million meals last year through the Supplemental Nutrition Assistance Program)(SNAP), for which they help neighbors apply.",
               "source": "https://www.northtexasgivingday.org/organization/northtexasfoodbank",
-              "by_org": true
+              "by_org": false
             }
           ],
           "mission": "The North Texas Food Bank (NTFB) is a top-ranked non-profit hunger-relief organization that sources, packages and distributes food through a network of nearly 500 Partner Agencies and organizations across 12 North Texas counties. The organization also provides food to children, seniors and families through various direct-delivery programs, including mobile pantries. In FY25 the North Texas Food Bank distributed 116 million physical meals, of which nearly 106 million were nutritious. Additionally, NTFB’s Social Services Assistance team enabled 20.6 million meals through the Supplemental Nutrition Assistance Program (SNAP). NTFB is a member of Feeding America, the nation’s largest hunger-relief organization.",
@@ -12182,7 +12182,7 @@
               "text": "Directly 94 percent of the organization's resources go to hunger relief programs.",
               "quote": "Every dollar donated to North Texas Food Bank provides access to three (3) healthy meals for North Texas families experiencing hunger, and 94 percent of our resources go directly to hunger relief programs.",
               "source": "https://www.northtexasgivingday.org/organization/northtexasfoodbank",
-              "by_org": true
+              "by_org": false
             }
           ]
         },
@@ -12206,7 +12206,7 @@
             {
               "text": "El equipo de Asistencia de Servicios Sociales facilitó más de 20 millones de comidas el año pasado al ayudar a los vecinos a solicitar los beneficios de SNAP.",
               "source": "https://www.northtexasgivingday.org/organization/northtexasfoodbank",
-              "by_org": true
+              "by_org": false
             }
           ],
           "mission": "North Texas Food Bank (NTFB) es una organización sin fines de lucro de primera categoría en la lucha contra el hambre que adquiere, empaqueta y distribuye alimentos a través de una red de casi 500 agencias asociadas y organizaciones en los 12 condados del norte de Texas. La organización también brinda alimentos a niños, personas mayores y familias mediante varios programas de entrega directa, incluidos los despensas móviles. En el FY25 North Texas Food Bank distribuyó 116 millones de comidas físicas, de los cuales casi 106 millones fueron nutritivas. Además, el equipo de Asistencia de Servicios Sociales de NTFB facilitó 20.6 millones de comidas a través del Programa de Asistencia Nutricional Suplementaria (SNAP). NTFB es miembro de Feeding America, la organización de ayuda contra el hambre más grande del país.",
@@ -12215,7 +12215,7 @@
             {
               "text": "Directamente, el 94 por ciento de los recursos de la organización se destinan a programas de ayuda contra el hambre.",
               "source": "https://www.northtexasgivingday.org/organization/northtexasfoodbank",
-              "by_org": true
+              "by_org": false
             }
           ]
         },
@@ -12239,7 +12239,7 @@
             {
               "text": "L'équipe d'Aide aux Services Sociaux a permis plus de 20 million de repas l'année dernière en aidant les voisins à demander les prestations SNAP.",
               "source": "https://www.northtexasgivingday.org/organization/northtexasfoodbank",
-              "by_org": true
+              "by_org": false
             }
           ],
           "mission": "North Texas Food Bank (NTFB) est une organisation à but non lucratif de premier rang dans la lutte contre la faim qui approvisionne, emballe et distribue des aliments via un réseau d'environ 500 agences partenaires et organisations dans les 12 comtés du Nord du Texas. L'organisation fournit également de la nourriture aux enfants, aux personnes âgées et aux familles grâce à divers programmes de distribution directe, y compris les épiceries mobiles. Au cours de FY25, North Texas Food Bank a distribué 116 million de repas physiques, dont près de 106 million étaient nutritifs. De plus, l'équipe d'Aide aux Services Sociaux de NTFB a permis 20.6 million de repas grâce au Programme d'Assistance Nutritionnelle Supplémentaire (SNAP). NTFB est membre de Feeding America, la plus grande organisation de lutte contre la faim du pays.",
@@ -12248,7 +12248,7 @@
             {
               "text": "Directement, 94 pour cent des ressources de l'organisation sont allouées aux programmes de lutte contre la faim.",
               "source": "https://www.northtexasgivingday.org/organization/northtexasfoodbank",
-              "by_org": true
+              "by_org": false
             }
           ]
         },
@@ -12272,7 +12272,7 @@
             {
               "text": "Social Services Assistance टीम ने पिछले वर्ष पड़ोसियों को SNAP लाभ के लिए आवेदन करने में मदद करके 20 मिलियन से अधिक भोजन सक्षम किए।",
               "source": "https://www.northtexasgivingday.org/organization/northtexasfoodbank",
-              "by_org": true
+              "by_org": false
             }
           ],
           "mission": "North Texas Food Bank (NTFB) एक शीर्ष-रैंक वाला गैर-लाभकारी भूख-राहत संगठन है जो लगभग 500 पार्टनर एजेंसियों और 12 नॉर्थ टेक्सास काउंटियों में स्थित संगठनों के नेटवर्क के माध्यम से खाद्य सामग्री स्रोत, पैकेज और वितरित करता है। संगठन बच्चों, वरिष्ठ नागरिकों और परिवारों को विभिन्न प्रत्यक्ष-डिलीवरी कार्यक्रमों के माध्यम से, जिसमें मोबाइल पैंट्री शामिल हैं, भोजन प्रदान करता है। FY25 में North Texas Food Bank ने 116 मिलियन शारीरिक भोजन वितरित किए, जिनमें से लगभग 106 मिलियन पोषक थे। अतिरिक्त रूप से, NTFB की Social Services Assistance टीम ने Supplemental Nutrition Assistance Program (SNAP) के माध्यम से 20.6 मिलियन भोजन सक्षम किए। NTFB Feeding America का सदस्य है, जो राष्ट्र का सबसे बड़ा भूख-राहत संगठन है।",
@@ -12281,7 +12281,7 @@
             {
               "text": "संगठन के संसाधनों में से सीधे 94 प्रतिशत भूख राहत कार्यक्रमों में जाते हैं।",
               "source": "https://www.northtexasgivingday.org/organization/northtexasfoodbank",
-              "by_org": true
+              "by_org": false
             }
           ]
         },
@@ -12305,7 +12305,7 @@
             {
               "text": "Il team Social Services Assistance ha permesso più di 20 milioni di pasti lo scorso anno aiutando i vicini a richiedere i benefici SNAP.",
               "source": "https://www.northtexasgivingday.org/organization/northtexasfoodbank",
-              "by_org": true
+              "by_org": false
             }
           ],
           "mission": "The North Texas Food Bank (NTFB) è un'organizzazione non profit di primo livello per la lotta alla fame che approvvigiona, confeziona e distribuisce cibo attraverso una rete di quasi 500 agenzie partner e organizzazioni in 12 contee del Nord Texas. L'organizzazione fornisce anche cibo a bambini, anziani e famiglie tramite vari programmi di consegna diretta, inclusi i pantries mobili. Nell'FY25 il North Texas Food Bank ha distribuito 116 milioni di pasti fisici, di cui quasi 106 milioni erano nutrienti. Inoltre, il team Social Services Assistance di NTFB ha permesso 20.6 milioni di pasti attraverso il Supplemental Nutrition Assistance Program (SNAP). NTFB è membro di Feeding America, la più grande organizzazione nazionale di lotta alla fame.",
@@ -12314,7 +12314,7 @@
             {
               "text": "Direttamente il 94 percento delle risorse dell'organizzazione va ai programmi di lotta alla fame.",
               "source": "https://www.northtexasgivingday.org/organization/northtexasfoodbank",
-              "by_org": true
+              "by_org": false
             }
           ]
         },
@@ -12338,7 +12338,7 @@
             {
               "text": "ソーシャルサービス支援チームは、近隣住民がSNAP給付を申請するのを支援することで、20 million以上の食事を昨年実現しました。",
               "source": "https://www.northtexasgivingday.org/organization/northtexasfoodbank",
-              "by_org": true
+              "by_org": false
             }
           ],
           "mission": "North Texas Food Bank（NTFB）は、トップクラスの非営利飢餓救済組織で、12のノーステキサス郡にわたるほぼ500のパートナーエージェンシーと組織のネットワークを通じて食料を調達、包装、配布しています。組織はまた、モバイルパントリーを含むさまざまな直接配達プログラムを通じて、子ども、高齢者、家族に食料を提供しています。FY25にNorth Texas Food Bankは116 millionの実体食事を配布し、そのうちほぼ106 millionは栄養価が高いものでした。さらに、NTFBのソーシャルサービス支援チームは、Supplemental Nutrition Assistance Program（SNAP）を通じて20.6 million食を実現しました。NTFBは、国内最大の飢餓救済組織であるFeeding Americaのメンバーです。",
@@ -12347,7 +12347,7 @@
             {
               "text": "組織のリソースのうち94パーセントが直接飢餓救済プログラムに充てられています。",
               "source": "https://www.northtexasgivingday.org/organization/northtexasfoodbank",
-              "by_org": true
+              "by_org": false
             }
           ]
         },
@@ -12371,7 +12371,7 @@
             {
               "text": "A equipe de Social Services Assistance possibilitou mais de 20 milhões de refeições no ano passado ao ajudar vizinhos a solicitar benefícios do SNAP.",
               "source": "https://www.northtexasgivingday.org/organization/northtexasfoodbank",
-              "by_org": true
+              "by_org": false
             }
           ],
           "mission": "O North Texas Food Bank (NTFB) é uma organização sem fins lucrativos de combate à fome, classificada entre as melhores, que obtém, embala e distribui alimentos através de uma rede de quase 500 Partner Agencies e organizações em 12 condados do Norte do Texas. A organização também fornece alimentos a crianças, idosos e famílias por meio de vários programas de entrega direta, incluindo mobile pantries. No FY25 o North Texas Food Bank distribuiu 116 milhões de refeições físicas, das quais quase 106 milhões foram nutritivas. Além disso, a equipe de Social Services Assistance da NTFB possibilitou 20.6 milhões de refeições através do Supplemental Nutrition Assistance Program (SNAP). A NTFB é membro da Feeding America, a maior organização de combate à fome do país.",
@@ -12380,7 +12380,7 @@
             {
               "text": "Diretamente, 94 por cento dos recursos da organização vão para programas de combate à fome.",
               "source": "https://www.northtexasgivingday.org/organization/northtexasfoodbank",
-              "by_org": true
+              "by_org": false
             }
           ]
         },
@@ -12404,7 +12404,7 @@
             {
               "text": "Команда Social Services Assistance обеспечила более 20 миллионов приёмов пищи в прошлом году, помогая соседям подавать заявки на льготы SNAP.",
               "source": "https://www.northtexasgivingday.org/organization/northtexasfoodbank",
-              "by_org": true
+              "by_org": false
             }
           ],
           "mission": "North Texas Food Bank (NTFB) — это высоко оценённая некоммерческая организация по борьбе с голодом, которая закупает, упаковывает и распределяет продовольствие через сеть почти 500 партнёрских агентств и организаций в 12 округах Северного Техаса. Организация также предоставляет продовольствие детям, пожилым людям и семьям через различные программы прямой доставки, включая мобильные продовольственные пункты. В FY25 North Texas Food Bank распределил 116 миллионов физических приёмов пищи, из которых почти 106 миллионов были питательными. Кроме того, команда Social Services Assistance NTFB обеспечила 20,6 миллионов приёмов пищи через Программу дополнительной продовольственной помощи (SNAP). NTFB является членом Feeding America, крупнейшей в стране организации по борьбе с голодом.",
@@ -12413,7 +12413,7 @@
             {
               "text": "Прямо 94 процента ресурсов организации идут на программы борьбы с голодом.",
               "source": "https://www.northtexasgivingday.org/organization/northtexasfoodbank",
-              "by_org": true
+              "by_org": false
             }
           ]
         },
@@ -12437,7 +12437,7 @@
             {
               "text": "Social Services Assistance团队通过帮助邻居申请SNAP福利，使去年超过20 million餐食得以实现。",
               "source": "https://www.northtexasgivingday.org/organization/northtexasfoodbank",
-              "by_org": true
+              "by_org": false
             }
           ],
           "mission": "North Texas Food Bank（NTFB）是一家排名靠前的非营利性饥饿救助组织，通过遍及12个北德克萨斯县的近500家Partner Agencies和组织网络采购、包装和分发食品。该组织还通过各种直接配送项目，包括流动食品柜，为儿童、老年人和家庭提供食品。在FY25，North Texas Food Bank分发了116 million实体餐食，其中近106 million是营养餐。此外，NTFB的Social Services Assistance团队通过Supplemental Nutrition Assistance Program（SNAP）提供了20.6 million餐食。North Texas Food Bank是Feeding America的成员，后者是全国最大的饥饿救助组织。",
@@ -12446,7 +12446,7 @@
             {
               "text": "组织的资源中直接有94%用于饥饿救助项目。",
               "source": "https://www.northtexasgivingday.org/organization/northtexasfoodbank",
-              "by_org": true
+              "by_org": false
             }
           ]
         }
@@ -12466,13 +12466,13 @@
         "verifiers": 3,
         "unanimous": true,
         "site": "",
-        "official_host": "northtexasgivingday.org",
+        "official_host": "ntfb.org",
         "profile_claimed": true
       },
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-21T14:04:55.978209+00:00",
+        "read_at": "2026-11-21T21:04:47.960792+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -12643,7 +12643,7 @@
           "check_type": "conflitti_interesse",
           "outcome": "superato",
           "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "evidence": "Nessun legame con gli sponsor registrati né con i legami noti dell'elenco dei conflitti (controllo del codice).",
           "source_url": "config/conflitti.yaml"
         },
         {
@@ -12699,7 +12699,7 @@
           "check_type": "conflitti_interesse",
           "outcome": "superato",
           "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "evidence": "Nessun legame con gli sponsor registrati né con i legami noti dell'elenco dei conflitti (controllo del codice).",
           "source_url": "config/conflitti.yaml"
         },
         {
@@ -12755,7 +12755,7 @@
           "check_type": "conflitti_interesse",
           "outcome": "superato",
           "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "evidence": "Nessun legame con gli sponsor registrati né con i legami noti dell'elenco dei conflitti (controllo del codice).",
           "source_url": "config/conflitti.yaml"
         }
       ],
@@ -13024,7 +13024,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-21T14:04:54.902127+00:00",
+        "read_at": "2026-11-21T21:04:46.818687+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -13195,7 +13195,7 @@
           "check_type": "conflitti_interesse",
           "outcome": "superato",
           "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "evidence": "Nessun legame con gli sponsor registrati né con i legami noti dell'elenco dei conflitti (controllo del codice).",
           "source_url": "config/conflitti.yaml"
         },
         {
@@ -13251,7 +13251,7 @@
           "check_type": "conflitti_interesse",
           "outcome": "superato",
           "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "evidence": "Nessun legame con gli sponsor registrati né con i legami noti dell'elenco dei conflitti (controllo del codice).",
           "source_url": "config/conflitti.yaml"
         },
         {
@@ -13307,7 +13307,7 @@
           "check_type": "conflitti_interesse",
           "outcome": "superato",
           "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "evidence": "Nessun legame con gli sponsor registrati né con i legami noti dell'elenco dei conflitti (controllo del codice).",
           "source_url": "config/conflitti.yaml"
         }
       ],
@@ -13678,7 +13678,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-21T14:04:49.529989+00:00",
+        "read_at": "2026-11-21T21:04:40.088032+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -13713,9 +13713,9 @@
     "costs": {
       "USD": 8.5
     },
-    "ai_calls": 1803,
+    "ai_calls": 1814,
     "ai_cost_real_usd": 0.0,
-    "ai_value_offered_usd": 11.769625,
+    "ai_value_offered_usd": 11.931904,
     "candidates_examined": 89,
     "candidates_discarded": 50
   },
