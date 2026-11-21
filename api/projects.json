@@ -1,705 +1,6 @@
 {
-  "generated_at": "2026-11-20T18:44:08.433836+00:00",
+  "generated_at": "2026-11-21T07:43:39.667091+00:00",
   "projects": [
-    {
-      "slug": "support-central-texas-food-bank-inc-against-hunger-7550",
-      "title": "Support Central Texas Food Bank Inc against hunger",
-      "description": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'Every.org: hunger latin america'.",
-      "org_name": "Central Texas Food Bank Inc",
-      "org_country": "US",
-      "org_website": "https://centraltexasfoodbank.org/",
-      "country": "US",
-      "currency": "USD",
-      "goal": 5000.0,
-      "raised": 0.0,
-      "donated": 0.0,
-      "status": "revisione_pubblica",
-      "donation_url": null,
-      "source_url": "https://www.charitynavigator.org/ein/742217350",
-      "approved_on": "2026-11-18",
-      "review_until": "2026-11-21 11:07 UTC",
-      "translations": {
-        "de": {
-          "text": "Von Charity Navigator bewertete Organisation, von den Agenten gefunden mit: 'Every.org: hunger latin america'.",
-          "title": "Unterstützen Sie Central Texas Food Bank Inc gegen den Hunger",
-          "source": "traduzione AI"
-        },
-        "en": {
-          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'Every.org: hunger latin america'.",
-          "title": "Support Central Texas Food Bank Inc against hunger",
-          "source": "originale"
-        },
-        "es": {
-          "text": "Entidad evaluada por Charity Navigator, encontrada por los agentes con: 'Every.org: hunger latin america'.",
-          "title": "Apoya a Central Texas Food Bank Inc contra el hambre",
-          "source": "traduzione AI"
-        },
-        "fr": {
-          "text": "Organisme évalué par Charity Navigator, trouvé par les agents avec : 'Every.org: hunger latin america'.",
-          "title": "Soutenir Central Texas Food Bank Inc contre la faim",
-          "source": "traduzione AI"
-        },
-        "hi": {
-          "text": "Charity Navigator द्वारा मूल्यांकित संस्था, जिसे एजेंटों द्वारा इसके साथ खोजा गया: 'Every.org: hunger latin america'।",
-          "title": "भूख के खिलाफ Central Texas Food Bank Inc का समर्थन करें",
-          "source": "traduzione AI"
-        },
-        "it": {
-          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'Every.org: hunger latin america'.",
-          "title": "Sostieni Central Texas Food Bank Inc contro la fame",
-          "source": "traduzione AI"
-        },
-        "ja": {
-          "text": "Charity Navigator によって評価された団体。エージェントにより発見：'Every.org: hunger latin america'。",
-          "title": "飢餓に立ち向かう Central Texas Food Bank Inc を支援",
-          "source": "traduzione AI"
-        },
-        "pt": {
-          "text": "Entidade avaliada pela Charity Navigator, encontrada pelos agentes com: 'Every.org: hunger latin america'.",
-          "title": "Apoie a Central Texas Food Bank Inc contra a fome",
-          "source": "traduzione AI"
-        },
-        "ru": {
-          "text": "Организация, оцененная Charity Navigator, найдена агентами с помощью: 'Every.org: hunger latin america'.",
-          "title": "Поддержите Central Texas Food Bank Inc в борьбе с голодом",
-          "source": "traduzione AI"
-        },
-        "zh": {
-          "text": "经 Charity Navigator 评估的机构，由智能体通过以下搜索找到：'Every.org: hunger latin america'。",
-          "title": "支持 Central Texas Food Bank Inc 对抗饥饿",
-          "source": "traduzione AI"
-        }
-      },
-      "tranches": [],
-      "checks": [
-        {
-          "verifier": "regole",
-          "check_type": "ammissibilita",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Regole di ammissibilità (config/regole.yaml):\n✓ fonte ammessa: fonte 'valutatore'\n✓ ente registrato nel database: Central Texas Food Bank Inc\n✓ codice fiscale verificato (IRS): EIN 742217350\n✓ ente valutato dal valutatore: Charity Navigator\n✓ voto del valutatore: 99%, 4 stelle su 4 (minimo 4 stelle e 90%)\n✓ anni di bilanci ufficiali: 13 anni [2019, 2020, 2021, 2022, 2023] (minimo 3)\n✓ tema fame / nutrizione: categoria IRS K31Z (richiesta ['K3', 'K4']); tema nel nome: True; tema nella descrizione ufficiale: sì, \"food bank\" in «The Central Texas Food Bank, a 501c(3) non-profit, is the largest hunger-relief charity in Central Texas.» (Every.org, campo description: https://www.every.org/central-texas-food-bank; API https://partners.every.org/v0.2/nonprofit/742217350)",
-          "source_url": "https://www.charitynavigator.org/ein/742217350"
-        },
-        {
-          "verifier": "regole",
-          "check_type": "ammissibilita",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "✓ valutatore indipendente tra le prove: 2 pagine di valutatori (https://www.charitynavigator.org/ein/742217350, https://charitywatch.org/); minimo 1",
-          "source_url": "https://www.charitynavigator.org/ein/742217350"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "registrazione",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "L'ente Central Texas Food Bank Inc è registrato negli USA come organizzazione 501(c)(3) con EIN 742217350 dal 1982.",
-          "source_url": "https://www.charitynavigator.org/ein/742217350"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "bilanci",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Sono presenti bilanci pubblici ufficiali Form 990 su ProPublica e Charity Navigator per tutti gli ultimi anni dal 2011 al 2023.",
-          "source_url": "https://www.charitynavigator.org/ein/742217350"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "valutazione_indipendente",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Charity Navigator assegna all'ente la valutazione massima di 4 stelle (punteggio del 99%).",
-          "source_url": "https://www.charitynavigator.org/ein/742217350"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "coerenza_importo",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "L'obiettivo di 5.000 USD è ampiamente proporzionato e contenuto rispetto al volume d'affari annuo dell'ente (oltre 100 milioni di USD di entrate).",
-          "source_url": "https://www.charitynavigator.org/ein/742217350"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "storico_progetti",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "Fondato nel 1981, l'ente ha una storia decennale documentata e solo nel 2025 ha distribuito oltre 75 milioni di libbre di cibo in 21 contee del Texas.",
-          "source_url": "https://www.charitynavigator.org/ein/742217350"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "segnali_allarme",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun segnale d'allarme riscontrato nelle prove fornite a carico di Central Texas Food Bank Inc (il caso legale in E5 riguarda una diversa entità in California).",
-          "source_url": "https://www.charitynavigator.org/ein/742217350"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "conflitti_interesse",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
-          "source_url": "config/conflitti.yaml"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "registrazione",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Registro IRS e EIN confermati",
-          "source_url": "https://www.charitynavigator.org/ein/742217350"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "bilanci",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Form 990 pubblici",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/742217350"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "valutazione_indipendente",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Rating 4 stelle su Charity Navigator",
-          "source_url": "https://www.charitynavigator.org/ein/742217350"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "coerenza_importo",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "Fatturato >100 M USD vs richiesta 5 k USD",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/742217350"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "storico_progetti",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "Attività e distribuzioni documentate",
-          "source_url": "https://www.charitynavigator.org/ein/742217350"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "segnali_allarme",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun allarme rilevato",
-          "source_url": "https://www.kut.org/education/2025-04-16/central-texas-food-bank-austin-usda-funding-cuts"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "conflitti_interesse",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
-          "source_url": "config/conflitti.yaml"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "registrazione",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "L'ente Central Texas Food Bank Inc è registrato come 501(c)(3) con EIN 74-2217350, riconosciuto dall'IRS dal 1982. La sede è a Austin, TX.",
-          "source_url": "https://www.charitynavigator.org/ein/742217350"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "bilanci",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Sono disponibili i bilanci pubblici (Form 990) per gli anni dal 2011 al 2023, con dati finanziari dettagliati (es. entrate 2023: ~116M USD).",
-          "source_url": "https://www.charitynavigator.org/ein/742217350"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "valutazione_indipendente",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Charity Navigator assegna la valutazione 'Four-Star Charity' (4 su 4) con un punteggio del 99% e completa tutti i 4 beacon di accountability.",
-          "source_url": "https://www.charitynavigator.org/ein/742217350"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "coerenza_importo",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "L'obiettivo di raccolta di 5000 USD è estremamente coerente con le dimensioni dell'ente, che gestisce budget annuali di oltre 100 milioni di USD e distribuisce 75 milioni di libbre di cibo.",
-          "source_url": "https://www.charitynavigator.org/ein/742217350"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "storico_progetti",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "L'ente opera dal 1981, collabora con 250 organizzazioni comunitarie e ha una lunga storia documentata di distribuzione di cibo e programmi di advocacy.",
-          "source_url": "https://www.charitynavigator.org/ein/742217350"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "segnali_allarme",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun segnale d'allarme specifico per questo ente. L'articolo E5 riguarda un caso storico (1999) in San Bernardino, non collegato a Central Texas Food Bank. L'articolo E6 menziona tagli ai fondi federali (USDA) nel 2025, che è un contesto macroeconomico/politico e non un problema di integrità o gestione interna dell'ente.",
-          "source_url": "https://www.charitynavigator.org/ein/742217350"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "conflitti_interesse",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
-          "source_url": "config/conflitti.yaml"
-        }
-      ],
-      "sources": [
-        "https://charitywatch.org/",
-        "https://leadiq.com/c/charity-navigator/5a1daa4a23000052009ed2d8",
-        "https://projects.propublica.org/nonprofits/organizations/742217350",
-        "https://www.charitynavigator.org/ein/742217350",
-        "https://www.fincen.gov/resources/law-enforcement/case-examples/six-people-arrested-allegedly-bilking-millions-dollars",
-        "https://www.kut.org/education/2025-04-16/central-texas-food-bank-austin-usda-funding-cuts"
-      ],
-      "waiting_counter": false,
-      "profile": {
-        "de": {
-          "does": [
-            {
-              "text": "Die Food Bank versorgt bedürftige Menschen in 21 Countys in Central Texas auf einer Fläche von 19,604 Quadratmeilen mit Lebensmitteln und Produkten des täglichen Bedarfs.",
-              "source": "https://www.charitynavigator.org/ein/742217350",
-              "by_org": false
-            },
-            {
-              "text": "Die Organisation arbeitet mit 250 gemeindebasierten Organisationen in ganz Central Texas zusammen und stellt 75% der von diesen Partnern verteilten Lebensmittel bereit.",
-              "source": "https://www.charitynavigator.org/ein/742217350",
-              "by_org": false
-            },
-            {
-              "text": "Im Jahr 2025 verteilte die Organisation mehr als 75 Millionen Pfund Lebensmittel.",
-              "source": "https://www.charitynavigator.org/ein/742217350",
-              "by_org": false
-            },
-            {
-              "text": "Die Organisation unterstützt Anwohner mit Lebensmitteln, Gesundheitsdiensten, Berufsausbildung und Gemeinschaftspartnerschaften.",
-              "source": "https://www.centraltexasfoodbank.org/",
-              "by_org": true
-            }
-          ],
-          "mission": "Die 1981 gegründete Central Texas Food Bank (CFTB; ehemals Capital Area Food Bank of Texas) versorgt bedürftige Menschen in 21 Countys in Central Texas auf einer Fläche von 19,604 Quadratmeilen mit Lebensmitteln und Produkten des täglichen Bedarfs. Die Mission der Central Texas Food Bank ist es, den Zugang zu Lebensmitteln in Central Texas zu verbessern, indem sie nährstoffreiche Lebensmittel bereitstellt, Anstrengungen zur Bekämpfung von Hunger und Armut anführt und Leben durch Programme, Bildung und innovative Lösungen verändert. CTFB arbeitet mit 250 gemeindebasierten Organisationen in ganz Central Texas zusammen und stellt 75% der Lebensmittel bereit, die diese Organisationen in ihren jeweiligen Gemeinden verteilen. CTFB betreibt außerdem Direktverteilung, Mahlzeitendienste, Arbeitskräfteausbildung und Bildungsprogramme in der Gemeinde. Im Jahr 2025 verteilte CTFB mehr als 75 Millionen Pfund Lebensmittel.",
-          "does_not": [],
-          "strengths": [
-            {
-              "text": "Die Organisation liefert seit 1981 nährstoffreiche Lebensmittel an die Gemeinde.",
-              "source": "https://www.centraltexasfoodbank.org/about-us",
-              "by_org": true
-            },
-            {
-              "text": "Die Organisation wahrt Transparenz, indem sie ihre Finanzberichte, Jahresberichte und Organisationsrichtlinien öffentlich teilt.",
-              "source": "https://www.centraltexasfoodbank.org/about-us",
-              "by_org": true
-            }
-          ]
-        },
-        "en": {
-          "does": [
-            {
-              "text": "The food bank provides food and grocery products to people in need across 21 Central Texas counties covering 19,604 square miles.",
-              "quote": "Established in 1981, the Central Texas Food Bank (CFTB; formerly the Capital Area Food Bank of Texas) provides food and grocery products to people in need in 21 Central Texas counties covering 19,604 square miles.",
-              "source": "https://www.charitynavigator.org/ein/742217350",
-              "by_org": false
-            },
-            {
-              "text": "The organization partners with 250 community-based organizations across Central Texas, providing 75% of the food distributed by these partners.",
-              "quote": "CTFB partners with 250 community-based organizations across Central Texas, providing 75% of the food these organizations distribute in their respective communities.",
-              "source": "https://www.charitynavigator.org/ein/742217350",
-              "by_org": false
-            },
-            {
-              "text": "In 2025, the organization distributed more than 75 million pounds of food.",
-              "quote": "In 2025, CTFB distributed more than 75 million pounds of food.",
-              "source": "https://www.charitynavigator.org/ein/742217350",
-              "by_org": false
-            },
-            {
-              "text": "The organization assists residents with groceries, health services, job training, and community partnerships.",
-              "quote": "From groceries and health to job training and community partnerships, we're helping Central Texans make tomorrow possible.",
-              "source": "https://www.centraltexasfoodbank.org/",
-              "by_org": true
-            }
-          ],
-          "mission": "Established in 1981, the Central Texas Food Bank (CFTB; formerly the Capital Area Food Bank of Texas) provides food and grocery products to people in need in 21 Central Texas counties covering 19,604 square miles. The mission of the Central Texas Food Bank is to increase food access in Central Texas by providing nutritious food; leading hunger and poverty advocacy efforts; and transforming lives through programs, education, and innovative solutions. CTFB partners with 250 community-based organizations across Central Texas, providing 75% of the food these organizations distribute in their respective communities. CTFB also operates direct distribution, meal service, workforce training, and education programs in the community. In 2025, CTFB distributed more than 75 million pounds of food.",
-          "does_not": [],
-          "strengths": [
-            {
-              "text": "The organization has been delivering nutritious food to the community since 1981.",
-              "quote": "Since 1981, the Central Texas Food Bank has provided nutritious food.",
-              "source": "https://www.centraltexasfoodbank.org/about-us",
-              "by_org": true
-            },
-            {
-              "text": "The organization maintains transparency by sharing its financial statements, annual reports, and organizational policies publicly.",
-              "quote": "Explore our financial statements, annual reports, organizational policies and other information about how the Central Texas Food Bank operates and holds itself accountable to the community we serve.",
-              "source": "https://www.centraltexasfoodbank.org/about-us",
-              "by_org": true
-            }
-          ]
-        },
-        "es": {
-          "does": [
-            {
-              "text": "El banco de alimentos proporciona alimentos y productos de abarrotes a personas necesitadas en 21 condados del Centro de Texas que cubren 19,604 millas cuadradas.",
-              "source": "https://www.charitynavigator.org/ein/742217350",
-              "by_org": false
-            },
-            {
-              "text": "La organización se asocia con 250 organizaciones comunitarias en todo el Centro de Texas, proporcionando el 75% de los alimentos distribuidos por estos socios.",
-              "source": "https://www.charitynavigator.org/ein/742217350",
-              "by_org": false
-            },
-            {
-              "text": "En 2025, la organización distribuyó más de 75 millones de libras de alimentos.",
-              "source": "https://www.charitynavigator.org/ein/742217350",
-              "by_org": false
-            },
-            {
-              "text": "La organización ayuda a los residentes con comestibles, servicios de salud, capacitación laboral y asociaciones comunitarias.",
-              "source": "https://www.centraltexasfoodbank.org/",
-              "by_org": true
-            }
-          ],
-          "mission": "Establecida en 1981, la Central Texas Food Bank (CFTB; formerly the Capital Area Food Bank of Texas) proporciona alimentos y productos de abarrotes a personas necesitadas en 21 condados del Centro de Texas que cubren 19,604 millas cuadradas. La misión de la Central Texas Food Bank es aumentar el acceso a alimentos en el Centro de Texas proporcionando alimentos nutritivos; liderando esfuerzos de defensa contra el hambre y la pobreza; y transformando vidas a través de programas, educación y soluciones innovadoras. CTFB se asocia con 250 organizaciones comunitarias en todo el Centro de Texas, proporcionando el 75% de los alimentos que estas organizaciones distribuyen en sus respectivas comunidades. CTFB también opera distribución directa, servicio de comidas, capacitación laboral y programas educativos en la comunidad. En 2025, CTFB distribuyó más de 75 millones de libras de alimentos.",
-          "does_not": [],
-          "strengths": [
-            {
-              "text": "La organización ha estado entregando alimentos nutritivos a la comunidad desde 1981.",
-              "source": "https://www.centraltexasfoodbank.org/about-us",
-              "by_org": true
-            },
-            {
-              "text": "La organización mantiene la transparencia al compartir públicamente sus estados financieros, informes anuales y políticas organizacionales.",
-              "source": "https://www.centraltexasfoodbank.org/about-us",
-              "by_org": true
-            }
-          ]
-        },
-        "fr": {
-          "does": [
-            {
-              "text": "La banque alimentaire fournit de la nourriture et des produits d'épicerie aux personnes dans le besoin dans 21 comtés du Central Texas couvrant 19,604 milles carrés.",
-              "source": "https://www.charitynavigator.org/ein/742217350",
-              "by_org": false
-            },
-            {
-              "text": "L'organisation s'associe à 250 organisations communautaires à travers le Central Texas, fournissant 75 % de la nourriture distribuée par ces partenaires.",
-              "source": "https://www.charitynavigator.org/ein/742217350",
-              "by_org": false
-            },
-            {
-              "text": "En 2025, l'organisation a distribué plus de 75 millions de livres de nourriture.",
-              "source": "https://www.charitynavigator.org/ein/742217350",
-              "by_org": false
-            },
-            {
-              "text": "L'organisation aide les résidents avec des produits d'épicerie, des services de santé, de la formation professionnelle et des partenariats communautaires.",
-              "source": "https://www.centraltexasfoodbank.org/",
-              "by_org": true
-            }
-          ],
-          "mission": "Fondée en 1981, la Central Texas Food Bank (CFTB; anciennement la Capital Area Food Bank of Texas) fournit de la nourriture et des produits d'épicerie aux personnes dans le besoin dans 21 comtés du Central Texas couvrant 19,604 milles carrés. La mission de la Central Texas Food Bank est d'accroître l'accès à la nourriture dans le Central Texas en fournissant des aliments nutritifs, en menant des actions de plaidoyer contre la faim et la pauvreté, et en transformant des vies grâce à des programmes, à l'éducation et à des solutions innovantes. CTFB s'associe à 250 organisations communautaires à travers le Central Texas, fournissant 75 % de la nourriture que ces organisations distribuent dans leurs communautés respectives. CTFB gère également la distribution directe, des services de repas, la formation professionnelle et des programmes éducatifs au sein de la communauté. En 2025, CTFB a distribué plus de 75 millions de livres de nourriture.",
-          "does_not": [],
-          "strengths": [
-            {
-              "text": "L'organisation distribue des aliments nutritifs à la communauté depuis 1981.",
-              "source": "https://www.centraltexasfoodbank.org/about-us",
-              "by_org": true
-            },
-            {
-              "text": "L'organisation maintient sa transparence en partageant publiquement ses états financiers, ses rapports annuels et ses politiques organisationnelles.",
-              "source": "https://www.centraltexasfoodbank.org/about-us",
-              "by_org": true
-            }
-          ]
-        },
-        "hi": {
-          "does": [
-            {
-              "text": "भोजन बैंक 21 Central Texas काउंटियों में, जो 19,604 वर्ग मील को कवर करती हैं, जरूरतमंद लोगों को भोजन और किराना उत्पाद प्रदान करता है।",
-              "source": "https://www.charitynavigator.org/ein/742217350",
-              "by_org": false
-            },
-            {
-              "text": "संगठन Central Texas में 250 सामुदायिक-आधारित संगठनों के साथ साझेदारी करता है, इन साझेदारों द्वारा वितरित भोजन का 75% प्रदान करता है।",
-              "source": "https://www.charitynavigator.org/ein/742217350",
-              "by_org": false
-            },
-            {
-              "text": "2025 में, संगठन ने 75 million पाउंड से अधिक भोजन वितरित किया।",
-              "source": "https://www.charitynavigator.org/ein/742217350",
-              "by_org": false
-            },
-            {
-              "text": "संगठन निवासियों को किराने की वस्तुओं, स्वास्थ्य सेवाओं, नौकरी प्रशिक्षण, और सामुदायिक साझेदारियों के साथ सहायता करता है।",
-              "source": "https://www.centraltexasfoodbank.org/",
-              "by_org": true
-            }
-          ],
-          "mission": "1981 में स्थापित, Central Texas Food Bank (CFTB; पूर्व में Capital Area Food Bank of Texas) जरूरतमंद लोगों को 21 Central Texas काउंटियों में, जो 19,604 वर्ग मील को कवर करती हैं, भोजन और किराना उत्पाद प्रदान करता है। Central Texas Food Bank का मिशन Central Texas में भोजन की पहुँच बढ़ाना है, पोषक भोजन प्रदान करके; भूख और गरीबी के समर्थन प्रयासों का नेतृत्व करके; और कार्यक्रमों, शिक्षा, और नवाचारी समाधान के माध्यम से जीवन बदलना। CTFB Central Texas में 250 सामुदायिक-आधारित संगठनों के साथ साझेदारी करता है, इन संगठनों द्वारा उनके संबंधित समुदायों में वितरित भोजन का 75% प्रदान करता है। CTFB सीधे वितरण, भोजन सेवा, कार्यबल प्रशिक्षण, और शिक्षा कार्यक्रम भी संचालित करता है। 2025 में, CTFB ने 75 million पाउंड से अधिक भोजन वितरित किया।",
-          "does_not": [],
-          "strengths": [
-            {
-              "text": "संगठन 1981 से समुदाय को पोषक भोजन प्रदान कर रहा है।",
-              "source": "https://www.centraltexasfoodbank.org/about-us",
-              "by_org": true
-            },
-            {
-              "text": "संगठन अपनी वित्तीय विवरण, वार्षिक रिपोर्ट, और संगठनात्मक नीतियों को सार्वजनिक रूप से साझा करके पारदर्शिता बनाए रखता है।",
-              "source": "https://www.centraltexasfoodbank.org/about-us",
-              "by_org": true
-            }
-          ]
-        },
-        "it": {
-          "does": [
-            {
-              "text": "Il banco alimentare fornisce cibo e prodotti alimentari alle persone in difficoltà in 21 contee del Central Texas che coprono 19,604 miglia quadrate.",
-              "source": "https://www.charitynavigator.org/ein/742217350",
-              "by_org": false
-            },
-            {
-              "text": "L'organizzazione collabora con 250 organizzazioni basate sulla comunità in tutto il Central Texas, fornendo il 75% del cibo distribuito da questi partner.",
-              "source": "https://www.charitynavigator.org/ein/742217350",
-              "by_org": false
-            },
-            {
-              "text": "Nel 2025, l'organizzazione ha distribuito più di 75 milioni di libbre di cibo.",
-              "source": "https://www.charitynavigator.org/ein/742217350",
-              "by_org": false
-            },
-            {
-              "text": "L'organizzazione assiste i residenti con generi alimentari, servizi sanitari, formazione professionale e partnership comunitarie.",
-              "source": "https://www.centraltexasfoodbank.org/",
-              "by_org": true
-            }
-          ],
-          "mission": "Fondata nel 1981, la Central Texas Food Bank (CFTB; precedentemente Capital Area Food Bank of Texas) fornisce cibo e prodotti alimentari a persone in difficoltà in 21 contee del Central Texas che coprono 19,604 miglia quadrate. La missione della Central Texas Food Bank è aumentare l'accesso al cibo nel Central Texas fornendo cibo nutriente; guidando gli sforzi di tutela contro la fame e la povertà; e trasformando le vite attraverso programmi, istruzione e soluzioni innovative. CTFB collabora con 250 organizzazioni basate sulla comunità in tutto il Central Texas, fornendo il 75% del cibo che queste organizzazioni distribuiscono nelle rispettive comunità. CTFB gestisce anche programmi di distribuzione diretta, servizio pasti, formazione professionale e istruzione nella comunità. Nel 2025, CTFB ha distribuito più di 75 milioni di libbre di cibo.",
-          "does_not": [],
-          "strengths": [
-            {
-              "text": "L'organizzazione distribuisce cibo nutriente alla comunità dal 1981.",
-              "source": "https://www.centraltexasfoodbank.org/about-us",
-              "by_org": true
-            },
-            {
-              "text": "L'organizzazione mantiene la trasparenza condividendo pubblicamente i propri bilanci, relazioni annuali e politiche organizzative.",
-              "source": "https://www.centraltexasfoodbank.org/about-us",
-              "by_org": true
-            }
-          ]
-        },
-        "ja": {
-          "does": [
-            {
-              "text": "このフードバンクは、21のセントラルテキサス郡（合計19,604平方マイル）で支援が必要な人々に食料と食料品を提供しています。",
-              "source": "https://www.charitynavigator.org/ein/742217350",
-              "by_org": false
-            },
-            {
-              "text": "この組織はセントラルテキサス全域の250の地域団体と提携し、これらのパートナーが配布する食料の75%を提供しています。",
-              "source": "https://www.charitynavigator.org/ein/742217350",
-              "by_org": false
-            },
-            {
-              "text": "2025年に、この組織は75 million pounds以上の食料を配布しました。",
-              "source": "https://www.charitynavigator.org/ein/742217350",
-              "by_org": false
-            },
-            {
-              "text": "この組織は住民に食料品、健康サービス、職業訓練、地域パートナーシップを支援しています。",
-              "source": "https://www.centraltexasfoodbank.org/",
-              "by_org": true
-            }
-          ],
-          "mission": "1981年に設立されたCentral Texas Food Bank（CFTB；旧称 Capital Area Food Bank of Texas）は、21のセントラルテキサス郡（合計19,604平方マイル）で支援が必要な人々に食料と食料品を提供しています。Central Texas Food Bankの使命は、栄養価の高い食料を提供することでセントラルテキサスの食料アクセスを拡大し、飢餓と貧困に関する提言活動を主導し、プログラム、教育、革新的なソリューションを通じて生活を変えることです。CTFBはセントラルテキサス全域の250の地域団体と提携し、これらの団体が配布する食料の75%を提供しています。CTFBはまた、直接配布、食事提供、職業訓練、教育プログラムも地域で実施しています。2025年にCTFBは75 million pounds以上の食料を配布しました。",
-          "does_not": [],
-          "strengths": [
-            {
-              "text": "この組織は1981年からコミュニティに栄養価の高い食料を提供し続けています。",
-              "source": "https://www.centraltexasfoodbank.org/about-us",
-              "by_org": true
-            },
-            {
-              "text": "この組織は財務諸表、年次報告書、組織方針を公開することで透明性を保っています。",
-              "source": "https://www.centraltexasfoodbank.org/about-us",
-              "by_org": true
-            }
-          ]
-        },
-        "pt": {
-          "does": [
-            {
-              "text": "O banco de alimentos fornece alimentos e produtos de mercearia a pessoas necessitadas em 21 condados do Central Texas, cobrindo 19,604 milhas quadradas.",
-              "source": "https://www.charitynavigator.org/ein/742217350",
-              "by_org": false
-            },
-            {
-              "text": "A organização mantém parceria com 250 organizações comunitárias em todo o Central Texas, fornecendo 75% dos alimentos distribuídos por esses parceiros.",
-              "source": "https://www.charitynavigator.org/ein/742217350",
-              "by_org": false
-            },
-            {
-              "text": "Em 2025, a organização distribuiu mais de 75 milhões de libras de alimentos.",
-              "source": "https://www.charitynavigator.org/ein/742217350",
-              "by_org": false
-            },
-            {
-              "text": "A organização auxilia os residentes com alimentos, serviços de saúde, capacitação profissional e parcerias comunitárias.",
-              "source": "https://www.centraltexasfoodbank.org/",
-              "by_org": true
-            }
-          ],
-          "mission": "Fundado em 1981, o Central Texas Food Bank (CFTB; anteriormente Capital Area Food Bank of Texas) fornece alimentos e produtos de mercearia a pessoas necessitadas em 21 condados do Central Texas, cobrindo 19,604 milhas quadradas. A missão do Central Texas Food Bank é aumentar o acesso a alimentos no Central Texas, fornecendo alimentos nutritivos; liderando esforços de defesa contra a fome e a pobreza; e transformando vidas por meio de programas, educação e soluções inovadoras. O CTFB mantém parceria com 250 organizações comunitárias em todo o Central Texas, fornecendo 75% dos alimentos que essas organizações distribuem em suas respectivas comunidades. O CTFB também opera programas de distribuição direta, serviço de refeições, capacitação profissional e educação na comunidade. Em 2025, o CTFB distribuiu mais de 75 milhões de libras de alimentos.",
-          "does_not": [],
-          "strengths": [
-            {
-              "text": "A organização entrega alimentos nutritivos à comunidade desde 1981.",
-              "source": "https://www.centraltexasfoodbank.org/about-us",
-              "by_org": true
-            },
-            {
-              "text": "A organização mantém a transparência compartilhando publicamente suas demonstrações financeiras, relatórios anuais e políticas organizacionais.",
-              "source": "https://www.centraltexasfoodbank.org/about-us",
-              "by_org": true
-            }
-          ]
-        },
-        "ru": {
-          "does": [
-            {
-              "text": "Банк продовольствия предоставляет продовольствие и товары первой необходимости людям, нуждающимся, в 21 округах Центрального Техаса, охватывающих 19,604 квадратных миль.",
-              "source": "https://www.charitynavigator.org/ein/742217350",
-              "by_org": false
-            },
-            {
-              "text": "Организация сотрудничает с 250 общественными организациями по всему Центральному Техасу, обеспечивая 75% продовольствия, распределяемого этими партнёрами.",
-              "source": "https://www.charitynavigator.org/ein/742217350",
-              "by_org": false
-            },
-            {
-              "text": "В 2025 году организация распределила более 75 миллионов фунтов продовольствия.",
-              "source": "https://www.charitynavigator.org/ein/742217350",
-              "by_org": false
-            },
-            {
-              "text": "Организация помогает жителям с продуктами, медицинскими услугами, обучением на рабочем месте и общественными партнёрствами.",
-              "source": "https://www.centraltexasfoodbank.org/",
-              "by_org": true
-            }
-          ],
-          "mission": "Основан в 1981 году, Central Texas Food Bank (CFTB; formerly the Capital Area Food Bank of Texas) предоставляет продовольствие и товары первой необходимости людям, нуждающимся, в 21 округах Центрального Техаса, охватывающих 19,604 квадратных миль. Миссия Central Texas Food Bank — увеличить доступ к продовольствию в Центральном Техасе, предоставляя питательные продукты; возглавлять усилия по защите от голода и бедности; и преобразовывать жизни через программы, образование и инновационные решения. CTFB сотрудничает с 250 общественными организациями по всему Центральному Техасу, обеспечивая 75% продовольствия, которое эти организации распределяют в своих сообществах. CTFB также осуществляет прямое распределение, обслуживание питанием, обучение рабочей силе и образовательные программы в сообществе. В 2025 году CTFB распределил более 75 миллионов фунтов продовольствия.",
-          "does_not": [],
-          "strengths": [
-            {
-              "text": "Организация поставляет питательные продукты сообществу с 1981 года.",
-              "source": "https://www.centraltexasfoodbank.org/about-us",
-              "by_org": true
-            },
-            {
-              "text": "Организация поддерживает прозрачность, публично делясь своими финансовыми отчётами, ежегодными отчётами и политиками организации.",
-              "source": "https://www.centraltexasfoodbank.org/about-us",
-              "by_org": true
-            }
-          ]
-        },
-        "zh": {
-          "does": [
-            {
-              "text": "该食品银行在覆盖19,604平方英里的21个德克萨斯中部县向有需要的人提供食品和杂货产品。",
-              "source": "https://www.charitynavigator.org/ein/742217350",
-              "by_org": false
-            },
-            {
-              "text": "该组织与德克萨斯中部的250个社区组织合作，提供这些合作伙伴分发的食品的75%。",
-              "source": "https://www.charitynavigator.org/ein/742217350",
-              "by_org": false
-            },
-            {
-              "text": "2025年，该组织分发了超过75 million pounds的食品。",
-              "source": "https://www.charitynavigator.org/ein/742217350",
-              "by_org": false
-            },
-            {
-              "text": "该组织帮助居民获取杂货、健康服务、职业培训和社区合作伙伴关系。",
-              "source": "https://www.centraltexasfoodbank.org/",
-              "by_org": true
-            }
-          ],
-          "mission": "成立于1981年，Central Texas Food Bank（CFTB；前称Capital Area Food Bank of Texas）向21个德克萨斯中部县（覆盖19,604平方英里）的有需要的人提供食品和杂货产品。Central Texas Food Bank的使命是通过提供营养食品、领导饥饿和贫困倡导工作以及通过项目、教育和创新解决方案来改变生活，从而提升德克萨斯中部的食品获取。CTFB与德克萨斯中部的250个社区组织合作，提供这些组织在各自社区分发的食品的75%。CTFB还在社区开展直接分发、餐食服务、劳动力培训和教育项目。2025年，CFTB分发了超过75 million pounds的食品。",
-          "does_not": [],
-          "strengths": [
-            {
-              "text": "该组织自1981年以来一直向社区提供营养食品。",
-              "source": "https://www.centraltexasfoodbank.org/about-us",
-              "by_org": true
-            },
-            {
-              "text": "该组织通过公开分享其财务报表、年度报告和组织政策来保持透明度。",
-              "source": "https://www.centraltexasfoodbank.org/about-us",
-              "by_org": true
-            }
-          ]
-        }
-      },
-      "safety": {
-        "evaluator": "Charity Navigator",
-        "stars": 4,
-        "score": 99,
-        "rating_url": "https://www.charitynavigator.org/ein/742217350",
-        "rating_checked": "2026-11-18",
-        "since": "1982",
-        "registry_url": "https://projects.propublica.org/nonprofits/organizations/742217350",
-        "filings": 13,
-        "first_year": 2011,
-        "last_year": 2023,
-        "checks_passed": 18,
-        "verifiers": 3,
-        "unanimous": true,
-        "site": "centraltexasfoodbank.org",
-        "official_host": "centraltexasfoodbank.org",
-        "profile_claimed": true
-      },
-      "platform": "every.org",
-      "counter": {
-        "raised": "0",
-        "read_at": "2026-11-20T13:04:26.528394+00:00",
-        "currency": "USD",
-        "platform": "every.org",
-        "supporters": 0,
-        "raised_cents": 0,
-        "matches_cents": 0
-      },
-      "fundraiser_open": true,
-      "progress_pct": 0,
-      "donate": {
-        "recipient": "Central Texas Food Bank Inc",
-        "url": null,
-        "money_goes_to": "Every.org, a US 501(c)(3) nonprofit, which grants it to the organization (unrestricted); this project never receives or holds money",
-        "counted_here_only_if": "shown in the public total of the fundraising page",
-        "status": "in public review",
-        "platform": "Every.org (US 501(c)(3) nonprofit; receipts tax-deductible only in the US)",
-        "public_total": {
-          "raised": "0",
-          "currency": "USD",
-          "people": 0,
-          "read_on": "2026-11-20"
-        },
-        "note": "Every.org suggests an optional tip to itself (sometimes preselected); it can be set to 0. Payment fees are deducted from what the organization receives."
-      }
-    },
     {
       "slug": "support-east-hampton-food-pantry-inc-against-hunger-5988",
       "title": "Support East Hampton Food Pantry Inc against hunger",
@@ -1329,7 +630,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-20T13:04:24.846005+00:00",
+        "read_at": "2026-11-20T20:04:36.710880+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -1922,7 +1223,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-20T13:04:20.229265+00:00",
+        "read_at": "2026-11-20T20:04:32.179506+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -2576,7 +1877,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-20T13:04:21.968526+00:00",
+        "read_at": "2026-11-20T20:04:33.947084+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -3197,7 +2498,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-20T13:04:21.503502+00:00",
+        "read_at": "2026-11-20T20:04:33.560407+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -3800,7 +3101,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-20T13:04:24.084810+00:00",
+        "read_at": "2026-11-20T20:04:35.933875+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -4290,7 +3591,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-20T13:04:19.222549+00:00",
+        "read_at": "2026-11-20T20:04:30.961054+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -4892,7 +4193,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-20T13:04:25.233855+00:00",
+        "read_at": "2026-11-20T20:04:37.056791+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -6137,7 +5438,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-20T13:04:20.647235+00:00",
+        "read_at": "2026-11-20T20:04:32.691143+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -7321,7 +6622,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-20T13:04:25.687999+00:00",
+        "read_at": "2026-11-20T20:04:37.439967+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -7975,7 +7276,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-20T13:04:19.802467+00:00",
+        "read_at": "2026-11-20T20:04:31.654044+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -8578,7 +7879,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-20T13:04:24.489293+00:00",
+        "read_at": "2026-11-20T20:04:36.328678+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -9344,7 +8645,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-20T13:04:26.085498+00:00",
+        "read_at": "2026-11-20T20:04:37.776156+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -9946,7 +9247,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-20T13:04:23.596458+00:00",
+        "read_at": "2026-11-20T20:04:35.576919+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -10521,7 +9822,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-20T13:04:21.105413+00:00",
+        "read_at": "2026-11-20T20:04:33.118610+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -11124,7 +10425,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-20T13:04:22.752850+00:00",
+        "read_at": "2026-11-20T20:04:34.687290+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -11778,7 +11079,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-20T13:04:22.365925+00:00",
+        "read_at": "2026-11-20T20:04:34.312123+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -12381,7 +11682,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-20T13:04:23.170489+00:00",
+        "read_at": "2026-11-20T20:04:35.091447+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -12405,6 +11706,705 @@
         },
         "note": "Every.org suggests an optional tip to itself (sometimes preselected); it can be set to 0. Payment fees are deducted from what the organization receives."
       }
+    },
+    {
+      "slug": "support-central-texas-food-bank-inc-against-hunger-7550",
+      "title": "Support Central Texas Food Bank Inc against hunger",
+      "description": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'Every.org: hunger latin america'.",
+      "org_name": "Central Texas Food Bank Inc",
+      "org_country": "US",
+      "org_website": "https://centraltexasfoodbank.org/",
+      "country": "US",
+      "currency": "USD",
+      "goal": 5000.0,
+      "raised": 0.0,
+      "donated": 0.0,
+      "status": "revisione_pubblica",
+      "donation_url": null,
+      "source_url": "https://www.charitynavigator.org/ein/742217350",
+      "approved_on": "2026-11-18",
+      "review_until": "2026-11-21 11:07 UTC",
+      "translations": {
+        "de": {
+          "text": "Von Charity Navigator bewertete Organisation, von den Agenten gefunden mit: 'Every.org: hunger latin america'.",
+          "title": "Unterstützen Sie Central Texas Food Bank Inc gegen den Hunger",
+          "source": "traduzione AI"
+        },
+        "en": {
+          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'Every.org: hunger latin america'.",
+          "title": "Support Central Texas Food Bank Inc against hunger",
+          "source": "originale"
+        },
+        "es": {
+          "text": "Entidad evaluada por Charity Navigator, encontrada por los agentes con: 'Every.org: hunger latin america'.",
+          "title": "Apoya a Central Texas Food Bank Inc contra el hambre",
+          "source": "traduzione AI"
+        },
+        "fr": {
+          "text": "Organisme évalué par Charity Navigator, trouvé par les agents avec : 'Every.org: hunger latin america'.",
+          "title": "Soutenir Central Texas Food Bank Inc contre la faim",
+          "source": "traduzione AI"
+        },
+        "hi": {
+          "text": "Charity Navigator द्वारा मूल्यांकित संस्था, जिसे एजेंटों द्वारा इसके साथ खोजा गया: 'Every.org: hunger latin america'।",
+          "title": "भूख के खिलाफ Central Texas Food Bank Inc का समर्थन करें",
+          "source": "traduzione AI"
+        },
+        "it": {
+          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'Every.org: hunger latin america'.",
+          "title": "Sostieni Central Texas Food Bank Inc contro la fame",
+          "source": "traduzione AI"
+        },
+        "ja": {
+          "text": "Charity Navigator によって評価された団体。エージェントにより発見：'Every.org: hunger latin america'。",
+          "title": "飢餓に立ち向かう Central Texas Food Bank Inc を支援",
+          "source": "traduzione AI"
+        },
+        "pt": {
+          "text": "Entidade avaliada pela Charity Navigator, encontrada pelos agentes com: 'Every.org: hunger latin america'.",
+          "title": "Apoie a Central Texas Food Bank Inc contra a fome",
+          "source": "traduzione AI"
+        },
+        "ru": {
+          "text": "Организация, оцененная Charity Navigator, найдена агентами с помощью: 'Every.org: hunger latin america'.",
+          "title": "Поддержите Central Texas Food Bank Inc в борьбе с голодом",
+          "source": "traduzione AI"
+        },
+        "zh": {
+          "text": "经 Charity Navigator 评估的机构，由智能体通过以下搜索找到：'Every.org: hunger latin america'。",
+          "title": "支持 Central Texas Food Bank Inc 对抗饥饿",
+          "source": "traduzione AI"
+        }
+      },
+      "tranches": [],
+      "checks": [
+        {
+          "verifier": "regole",
+          "check_type": "ammissibilita",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Regole di ammissibilità (config/regole.yaml):\n✓ fonte ammessa: fonte 'valutatore'\n✓ ente registrato nel database: Central Texas Food Bank Inc\n✓ codice fiscale verificato (IRS): EIN 742217350\n✓ ente valutato dal valutatore: Charity Navigator\n✓ voto del valutatore: 99%, 4 stelle su 4 (minimo 4 stelle e 90%)\n✓ anni di bilanci ufficiali: 13 anni [2019, 2020, 2021, 2022, 2023] (minimo 3)\n✓ tema fame / nutrizione: categoria IRS K31Z (richiesta ['K3', 'K4']); tema nel nome: True; tema nella descrizione ufficiale: sì, \"food bank\" in «The Central Texas Food Bank, a 501c(3) non-profit, is the largest hunger-relief charity in Central Texas.» (Every.org, campo description: https://www.every.org/central-texas-food-bank; API https://partners.every.org/v0.2/nonprofit/742217350)",
+          "source_url": "https://www.charitynavigator.org/ein/742217350"
+        },
+        {
+          "verifier": "regole",
+          "check_type": "ammissibilita",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "✓ valutatore indipendente tra le prove: 2 pagine di valutatori (https://www.charitynavigator.org/ein/742217350, https://charitywatch.org/); minimo 1",
+          "source_url": "https://www.charitynavigator.org/ein/742217350"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "registrazione",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "L'ente Central Texas Food Bank Inc è registrato negli USA come organizzazione 501(c)(3) con EIN 742217350 dal 1982.",
+          "source_url": "https://www.charitynavigator.org/ein/742217350"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "bilanci",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Sono presenti bilanci pubblici ufficiali Form 990 su ProPublica e Charity Navigator per tutti gli ultimi anni dal 2011 al 2023.",
+          "source_url": "https://www.charitynavigator.org/ein/742217350"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "valutazione_indipendente",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Charity Navigator assegna all'ente la valutazione massima di 4 stelle (punteggio del 99%).",
+          "source_url": "https://www.charitynavigator.org/ein/742217350"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "coerenza_importo",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "L'obiettivo di 5.000 USD è ampiamente proporzionato e contenuto rispetto al volume d'affari annuo dell'ente (oltre 100 milioni di USD di entrate).",
+          "source_url": "https://www.charitynavigator.org/ein/742217350"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "storico_progetti",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "Fondato nel 1981, l'ente ha una storia decennale documentata e solo nel 2025 ha distribuito oltre 75 milioni di libbre di cibo in 21 contee del Texas.",
+          "source_url": "https://www.charitynavigator.org/ein/742217350"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "segnali_allarme",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun segnale d'allarme riscontrato nelle prove fornite a carico di Central Texas Food Bank Inc (il caso legale in E5 riguarda una diversa entità in California).",
+          "source_url": "https://www.charitynavigator.org/ein/742217350"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "conflitti_interesse",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "source_url": "config/conflitti.yaml"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "registrazione",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Registro IRS e EIN confermati",
+          "source_url": "https://www.charitynavigator.org/ein/742217350"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "bilanci",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Form 990 pubblici",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/742217350"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "valutazione_indipendente",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Rating 4 stelle su Charity Navigator",
+          "source_url": "https://www.charitynavigator.org/ein/742217350"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "coerenza_importo",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "Fatturato >100 M USD vs richiesta 5 k USD",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/742217350"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "storico_progetti",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "Attività e distribuzioni documentate",
+          "source_url": "https://www.charitynavigator.org/ein/742217350"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "segnali_allarme",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun allarme rilevato",
+          "source_url": "https://www.kut.org/education/2025-04-16/central-texas-food-bank-austin-usda-funding-cuts"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "conflitti_interesse",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "source_url": "config/conflitti.yaml"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "registrazione",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "L'ente Central Texas Food Bank Inc è registrato come 501(c)(3) con EIN 74-2217350, riconosciuto dall'IRS dal 1982. La sede è a Austin, TX.",
+          "source_url": "https://www.charitynavigator.org/ein/742217350"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "bilanci",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Sono disponibili i bilanci pubblici (Form 990) per gli anni dal 2011 al 2023, con dati finanziari dettagliati (es. entrate 2023: ~116M USD).",
+          "source_url": "https://www.charitynavigator.org/ein/742217350"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "valutazione_indipendente",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Charity Navigator assegna la valutazione 'Four-Star Charity' (4 su 4) con un punteggio del 99% e completa tutti i 4 beacon di accountability.",
+          "source_url": "https://www.charitynavigator.org/ein/742217350"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "coerenza_importo",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "L'obiettivo di raccolta di 5000 USD è estremamente coerente con le dimensioni dell'ente, che gestisce budget annuali di oltre 100 milioni di USD e distribuisce 75 milioni di libbre di cibo.",
+          "source_url": "https://www.charitynavigator.org/ein/742217350"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "storico_progetti",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "L'ente opera dal 1981, collabora con 250 organizzazioni comunitarie e ha una lunga storia documentata di distribuzione di cibo e programmi di advocacy.",
+          "source_url": "https://www.charitynavigator.org/ein/742217350"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "segnali_allarme",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun segnale d'allarme specifico per questo ente. L'articolo E5 riguarda un caso storico (1999) in San Bernardino, non collegato a Central Texas Food Bank. L'articolo E6 menziona tagli ai fondi federali (USDA) nel 2025, che è un contesto macroeconomico/politico e non un problema di integrità o gestione interna dell'ente.",
+          "source_url": "https://www.charitynavigator.org/ein/742217350"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "conflitti_interesse",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun legame con sponsor registrati o con i legami noti di Pio. La dichiarazione definitiva di assenza di conflitti la fa Pio all'approvazione.",
+          "source_url": "config/conflitti.yaml"
+        }
+      ],
+      "sources": [
+        "https://charitywatch.org/",
+        "https://leadiq.com/c/charity-navigator/5a1daa4a23000052009ed2d8",
+        "https://projects.propublica.org/nonprofits/organizations/742217350",
+        "https://www.charitynavigator.org/ein/742217350",
+        "https://www.fincen.gov/resources/law-enforcement/case-examples/six-people-arrested-allegedly-bilking-millions-dollars",
+        "https://www.kut.org/education/2025-04-16/central-texas-food-bank-austin-usda-funding-cuts"
+      ],
+      "waiting_counter": false,
+      "profile": {
+        "de": {
+          "does": [
+            {
+              "text": "Die Food Bank versorgt bedürftige Menschen in 21 Countys in Central Texas auf einer Fläche von 19,604 Quadratmeilen mit Lebensmitteln und Produkten des täglichen Bedarfs.",
+              "source": "https://www.charitynavigator.org/ein/742217350",
+              "by_org": false
+            },
+            {
+              "text": "Die Organisation arbeitet mit 250 gemeindebasierten Organisationen in ganz Central Texas zusammen und stellt 75% der von diesen Partnern verteilten Lebensmittel bereit.",
+              "source": "https://www.charitynavigator.org/ein/742217350",
+              "by_org": false
+            },
+            {
+              "text": "Im Jahr 2025 verteilte die Organisation mehr als 75 Millionen Pfund Lebensmittel.",
+              "source": "https://www.charitynavigator.org/ein/742217350",
+              "by_org": false
+            },
+            {
+              "text": "Die Organisation unterstützt Anwohner mit Lebensmitteln, Gesundheitsdiensten, Berufsausbildung und Gemeinschaftspartnerschaften.",
+              "source": "https://www.centraltexasfoodbank.org/",
+              "by_org": true
+            }
+          ],
+          "mission": "Die 1981 gegründete Central Texas Food Bank (CFTB; ehemals Capital Area Food Bank of Texas) versorgt bedürftige Menschen in 21 Countys in Central Texas auf einer Fläche von 19,604 Quadratmeilen mit Lebensmitteln und Produkten des täglichen Bedarfs. Die Mission der Central Texas Food Bank ist es, den Zugang zu Lebensmitteln in Central Texas zu verbessern, indem sie nährstoffreiche Lebensmittel bereitstellt, Anstrengungen zur Bekämpfung von Hunger und Armut anführt und Leben durch Programme, Bildung und innovative Lösungen verändert. CTFB arbeitet mit 250 gemeindebasierten Organisationen in ganz Central Texas zusammen und stellt 75% der Lebensmittel bereit, die diese Organisationen in ihren jeweiligen Gemeinden verteilen. CTFB betreibt außerdem Direktverteilung, Mahlzeitendienste, Arbeitskräfteausbildung und Bildungsprogramme in der Gemeinde. Im Jahr 2025 verteilte CTFB mehr als 75 Millionen Pfund Lebensmittel.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "Die Organisation liefert seit 1981 nährstoffreiche Lebensmittel an die Gemeinde.",
+              "source": "https://www.centraltexasfoodbank.org/about-us",
+              "by_org": true
+            },
+            {
+              "text": "Die Organisation wahrt Transparenz, indem sie ihre Finanzberichte, Jahresberichte und Organisationsrichtlinien öffentlich teilt.",
+              "source": "https://www.centraltexasfoodbank.org/about-us",
+              "by_org": true
+            }
+          ]
+        },
+        "en": {
+          "does": [
+            {
+              "text": "The food bank provides food and grocery products to people in need across 21 Central Texas counties covering 19,604 square miles.",
+              "quote": "Established in 1981, the Central Texas Food Bank (CFTB; formerly the Capital Area Food Bank of Texas) provides food and grocery products to people in need in 21 Central Texas counties covering 19,604 square miles.",
+              "source": "https://www.charitynavigator.org/ein/742217350",
+              "by_org": false
+            },
+            {
+              "text": "The organization partners with 250 community-based organizations across Central Texas, providing 75% of the food distributed by these partners.",
+              "quote": "CTFB partners with 250 community-based organizations across Central Texas, providing 75% of the food these organizations distribute in their respective communities.",
+              "source": "https://www.charitynavigator.org/ein/742217350",
+              "by_org": false
+            },
+            {
+              "text": "In 2025, the organization distributed more than 75 million pounds of food.",
+              "quote": "In 2025, CTFB distributed more than 75 million pounds of food.",
+              "source": "https://www.charitynavigator.org/ein/742217350",
+              "by_org": false
+            },
+            {
+              "text": "The organization assists residents with groceries, health services, job training, and community partnerships.",
+              "quote": "From groceries and health to job training and community partnerships, we're helping Central Texans make tomorrow possible.",
+              "source": "https://www.centraltexasfoodbank.org/",
+              "by_org": true
+            }
+          ],
+          "mission": "Established in 1981, the Central Texas Food Bank (CFTB; formerly the Capital Area Food Bank of Texas) provides food and grocery products to people in need in 21 Central Texas counties covering 19,604 square miles. The mission of the Central Texas Food Bank is to increase food access in Central Texas by providing nutritious food; leading hunger and poverty advocacy efforts; and transforming lives through programs, education, and innovative solutions. CTFB partners with 250 community-based organizations across Central Texas, providing 75% of the food these organizations distribute in their respective communities. CTFB also operates direct distribution, meal service, workforce training, and education programs in the community. In 2025, CTFB distributed more than 75 million pounds of food.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "The organization has been delivering nutritious food to the community since 1981.",
+              "quote": "Since 1981, the Central Texas Food Bank has provided nutritious food.",
+              "source": "https://www.centraltexasfoodbank.org/about-us",
+              "by_org": true
+            },
+            {
+              "text": "The organization maintains transparency by sharing its financial statements, annual reports, and organizational policies publicly.",
+              "quote": "Explore our financial statements, annual reports, organizational policies and other information about how the Central Texas Food Bank operates and holds itself accountable to the community we serve.",
+              "source": "https://www.centraltexasfoodbank.org/about-us",
+              "by_org": true
+            }
+          ]
+        },
+        "es": {
+          "does": [
+            {
+              "text": "El banco de alimentos proporciona alimentos y productos de abarrotes a personas necesitadas en 21 condados del Centro de Texas que cubren 19,604 millas cuadradas.",
+              "source": "https://www.charitynavigator.org/ein/742217350",
+              "by_org": false
+            },
+            {
+              "text": "La organización se asocia con 250 organizaciones comunitarias en todo el Centro de Texas, proporcionando el 75% de los alimentos distribuidos por estos socios.",
+              "source": "https://www.charitynavigator.org/ein/742217350",
+              "by_org": false
+            },
+            {
+              "text": "En 2025, la organización distribuyó más de 75 millones de libras de alimentos.",
+              "source": "https://www.charitynavigator.org/ein/742217350",
+              "by_org": false
+            },
+            {
+              "text": "La organización ayuda a los residentes con comestibles, servicios de salud, capacitación laboral y asociaciones comunitarias.",
+              "source": "https://www.centraltexasfoodbank.org/",
+              "by_org": true
+            }
+          ],
+          "mission": "Establecida en 1981, la Central Texas Food Bank (CFTB; formerly the Capital Area Food Bank of Texas) proporciona alimentos y productos de abarrotes a personas necesitadas en 21 condados del Centro de Texas que cubren 19,604 millas cuadradas. La misión de la Central Texas Food Bank es aumentar el acceso a alimentos en el Centro de Texas proporcionando alimentos nutritivos; liderando esfuerzos de defensa contra el hambre y la pobreza; y transformando vidas a través de programas, educación y soluciones innovadoras. CTFB se asocia con 250 organizaciones comunitarias en todo el Centro de Texas, proporcionando el 75% de los alimentos que estas organizaciones distribuyen en sus respectivas comunidades. CTFB también opera distribución directa, servicio de comidas, capacitación laboral y programas educativos en la comunidad. En 2025, CTFB distribuyó más de 75 millones de libras de alimentos.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "La organización ha estado entregando alimentos nutritivos a la comunidad desde 1981.",
+              "source": "https://www.centraltexasfoodbank.org/about-us",
+              "by_org": true
+            },
+            {
+              "text": "La organización mantiene la transparencia al compartir públicamente sus estados financieros, informes anuales y políticas organizacionales.",
+              "source": "https://www.centraltexasfoodbank.org/about-us",
+              "by_org": true
+            }
+          ]
+        },
+        "fr": {
+          "does": [
+            {
+              "text": "La banque alimentaire fournit de la nourriture et des produits d'épicerie aux personnes dans le besoin dans 21 comtés du Central Texas couvrant 19,604 milles carrés.",
+              "source": "https://www.charitynavigator.org/ein/742217350",
+              "by_org": false
+            },
+            {
+              "text": "L'organisation s'associe à 250 organisations communautaires à travers le Central Texas, fournissant 75 % de la nourriture distribuée par ces partenaires.",
+              "source": "https://www.charitynavigator.org/ein/742217350",
+              "by_org": false
+            },
+            {
+              "text": "En 2025, l'organisation a distribué plus de 75 millions de livres de nourriture.",
+              "source": "https://www.charitynavigator.org/ein/742217350",
+              "by_org": false
+            },
+            {
+              "text": "L'organisation aide les résidents avec des produits d'épicerie, des services de santé, de la formation professionnelle et des partenariats communautaires.",
+              "source": "https://www.centraltexasfoodbank.org/",
+              "by_org": true
+            }
+          ],
+          "mission": "Fondée en 1981, la Central Texas Food Bank (CFTB; anciennement la Capital Area Food Bank of Texas) fournit de la nourriture et des produits d'épicerie aux personnes dans le besoin dans 21 comtés du Central Texas couvrant 19,604 milles carrés. La mission de la Central Texas Food Bank est d'accroître l'accès à la nourriture dans le Central Texas en fournissant des aliments nutritifs, en menant des actions de plaidoyer contre la faim et la pauvreté, et en transformant des vies grâce à des programmes, à l'éducation et à des solutions innovantes. CTFB s'associe à 250 organisations communautaires à travers le Central Texas, fournissant 75 % de la nourriture que ces organisations distribuent dans leurs communautés respectives. CTFB gère également la distribution directe, des services de repas, la formation professionnelle et des programmes éducatifs au sein de la communauté. En 2025, CTFB a distribué plus de 75 millions de livres de nourriture.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "L'organisation distribue des aliments nutritifs à la communauté depuis 1981.",
+              "source": "https://www.centraltexasfoodbank.org/about-us",
+              "by_org": true
+            },
+            {
+              "text": "L'organisation maintient sa transparence en partageant publiquement ses états financiers, ses rapports annuels et ses politiques organisationnelles.",
+              "source": "https://www.centraltexasfoodbank.org/about-us",
+              "by_org": true
+            }
+          ]
+        },
+        "hi": {
+          "does": [
+            {
+              "text": "भोजन बैंक 21 Central Texas काउंटियों में, जो 19,604 वर्ग मील को कवर करती हैं, जरूरतमंद लोगों को भोजन और किराना उत्पाद प्रदान करता है।",
+              "source": "https://www.charitynavigator.org/ein/742217350",
+              "by_org": false
+            },
+            {
+              "text": "संगठन Central Texas में 250 सामुदायिक-आधारित संगठनों के साथ साझेदारी करता है, इन साझेदारों द्वारा वितरित भोजन का 75% प्रदान करता है।",
+              "source": "https://www.charitynavigator.org/ein/742217350",
+              "by_org": false
+            },
+            {
+              "text": "2025 में, संगठन ने 75 million पाउंड से अधिक भोजन वितरित किया।",
+              "source": "https://www.charitynavigator.org/ein/742217350",
+              "by_org": false
+            },
+            {
+              "text": "संगठन निवासियों को किराने की वस्तुओं, स्वास्थ्य सेवाओं, नौकरी प्रशिक्षण, और सामुदायिक साझेदारियों के साथ सहायता करता है।",
+              "source": "https://www.centraltexasfoodbank.org/",
+              "by_org": true
+            }
+          ],
+          "mission": "1981 में स्थापित, Central Texas Food Bank (CFTB; पूर्व में Capital Area Food Bank of Texas) जरूरतमंद लोगों को 21 Central Texas काउंटियों में, जो 19,604 वर्ग मील को कवर करती हैं, भोजन और किराना उत्पाद प्रदान करता है। Central Texas Food Bank का मिशन Central Texas में भोजन की पहुँच बढ़ाना है, पोषक भोजन प्रदान करके; भूख और गरीबी के समर्थन प्रयासों का नेतृत्व करके; और कार्यक्रमों, शिक्षा, और नवाचारी समाधान के माध्यम से जीवन बदलना। CTFB Central Texas में 250 सामुदायिक-आधारित संगठनों के साथ साझेदारी करता है, इन संगठनों द्वारा उनके संबंधित समुदायों में वितरित भोजन का 75% प्रदान करता है। CTFB सीधे वितरण, भोजन सेवा, कार्यबल प्रशिक्षण, और शिक्षा कार्यक्रम भी संचालित करता है। 2025 में, CTFB ने 75 million पाउंड से अधिक भोजन वितरित किया।",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "संगठन 1981 से समुदाय को पोषक भोजन प्रदान कर रहा है।",
+              "source": "https://www.centraltexasfoodbank.org/about-us",
+              "by_org": true
+            },
+            {
+              "text": "संगठन अपनी वित्तीय विवरण, वार्षिक रिपोर्ट, और संगठनात्मक नीतियों को सार्वजनिक रूप से साझा करके पारदर्शिता बनाए रखता है।",
+              "source": "https://www.centraltexasfoodbank.org/about-us",
+              "by_org": true
+            }
+          ]
+        },
+        "it": {
+          "does": [
+            {
+              "text": "Il banco alimentare fornisce cibo e prodotti alimentari alle persone in difficoltà in 21 contee del Central Texas che coprono 19,604 miglia quadrate.",
+              "source": "https://www.charitynavigator.org/ein/742217350",
+              "by_org": false
+            },
+            {
+              "text": "L'organizzazione collabora con 250 organizzazioni basate sulla comunità in tutto il Central Texas, fornendo il 75% del cibo distribuito da questi partner.",
+              "source": "https://www.charitynavigator.org/ein/742217350",
+              "by_org": false
+            },
+            {
+              "text": "Nel 2025, l'organizzazione ha distribuito più di 75 milioni di libbre di cibo.",
+              "source": "https://www.charitynavigator.org/ein/742217350",
+              "by_org": false
+            },
+            {
+              "text": "L'organizzazione assiste i residenti con generi alimentari, servizi sanitari, formazione professionale e partnership comunitarie.",
+              "source": "https://www.centraltexasfoodbank.org/",
+              "by_org": true
+            }
+          ],
+          "mission": "Fondata nel 1981, la Central Texas Food Bank (CFTB; precedentemente Capital Area Food Bank of Texas) fornisce cibo e prodotti alimentari a persone in difficoltà in 21 contee del Central Texas che coprono 19,604 miglia quadrate. La missione della Central Texas Food Bank è aumentare l'accesso al cibo nel Central Texas fornendo cibo nutriente; guidando gli sforzi di tutela contro la fame e la povertà; e trasformando le vite attraverso programmi, istruzione e soluzioni innovative. CTFB collabora con 250 organizzazioni basate sulla comunità in tutto il Central Texas, fornendo il 75% del cibo che queste organizzazioni distribuiscono nelle rispettive comunità. CTFB gestisce anche programmi di distribuzione diretta, servizio pasti, formazione professionale e istruzione nella comunità. Nel 2025, CTFB ha distribuito più di 75 milioni di libbre di cibo.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "L'organizzazione distribuisce cibo nutriente alla comunità dal 1981.",
+              "source": "https://www.centraltexasfoodbank.org/about-us",
+              "by_org": true
+            },
+            {
+              "text": "L'organizzazione mantiene la trasparenza condividendo pubblicamente i propri bilanci, relazioni annuali e politiche organizzative.",
+              "source": "https://www.centraltexasfoodbank.org/about-us",
+              "by_org": true
+            }
+          ]
+        },
+        "ja": {
+          "does": [
+            {
+              "text": "このフードバンクは、21のセントラルテキサス郡（合計19,604平方マイル）で支援が必要な人々に食料と食料品を提供しています。",
+              "source": "https://www.charitynavigator.org/ein/742217350",
+              "by_org": false
+            },
+            {
+              "text": "この組織はセントラルテキサス全域の250の地域団体と提携し、これらのパートナーが配布する食料の75%を提供しています。",
+              "source": "https://www.charitynavigator.org/ein/742217350",
+              "by_org": false
+            },
+            {
+              "text": "2025年に、この組織は75 million pounds以上の食料を配布しました。",
+              "source": "https://www.charitynavigator.org/ein/742217350",
+              "by_org": false
+            },
+            {
+              "text": "この組織は住民に食料品、健康サービス、職業訓練、地域パートナーシップを支援しています。",
+              "source": "https://www.centraltexasfoodbank.org/",
+              "by_org": true
+            }
+          ],
+          "mission": "1981年に設立されたCentral Texas Food Bank（CFTB；旧称 Capital Area Food Bank of Texas）は、21のセントラルテキサス郡（合計19,604平方マイル）で支援が必要な人々に食料と食料品を提供しています。Central Texas Food Bankの使命は、栄養価の高い食料を提供することでセントラルテキサスの食料アクセスを拡大し、飢餓と貧困に関する提言活動を主導し、プログラム、教育、革新的なソリューションを通じて生活を変えることです。CTFBはセントラルテキサス全域の250の地域団体と提携し、これらの団体が配布する食料の75%を提供しています。CTFBはまた、直接配布、食事提供、職業訓練、教育プログラムも地域で実施しています。2025年にCTFBは75 million pounds以上の食料を配布しました。",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "この組織は1981年からコミュニティに栄養価の高い食料を提供し続けています。",
+              "source": "https://www.centraltexasfoodbank.org/about-us",
+              "by_org": true
+            },
+            {
+              "text": "この組織は財務諸表、年次報告書、組織方針を公開することで透明性を保っています。",
+              "source": "https://www.centraltexasfoodbank.org/about-us",
+              "by_org": true
+            }
+          ]
+        },
+        "pt": {
+          "does": [
+            {
+              "text": "O banco de alimentos fornece alimentos e produtos de mercearia a pessoas necessitadas em 21 condados do Central Texas, cobrindo 19,604 milhas quadradas.",
+              "source": "https://www.charitynavigator.org/ein/742217350",
+              "by_org": false
+            },
+            {
+              "text": "A organização mantém parceria com 250 organizações comunitárias em todo o Central Texas, fornecendo 75% dos alimentos distribuídos por esses parceiros.",
+              "source": "https://www.charitynavigator.org/ein/742217350",
+              "by_org": false
+            },
+            {
+              "text": "Em 2025, a organização distribuiu mais de 75 milhões de libras de alimentos.",
+              "source": "https://www.charitynavigator.org/ein/742217350",
+              "by_org": false
+            },
+            {
+              "text": "A organização auxilia os residentes com alimentos, serviços de saúde, capacitação profissional e parcerias comunitárias.",
+              "source": "https://www.centraltexasfoodbank.org/",
+              "by_org": true
+            }
+          ],
+          "mission": "Fundado em 1981, o Central Texas Food Bank (CFTB; anteriormente Capital Area Food Bank of Texas) fornece alimentos e produtos de mercearia a pessoas necessitadas em 21 condados do Central Texas, cobrindo 19,604 milhas quadradas. A missão do Central Texas Food Bank é aumentar o acesso a alimentos no Central Texas, fornecendo alimentos nutritivos; liderando esforços de defesa contra a fome e a pobreza; e transformando vidas por meio de programas, educação e soluções inovadoras. O CTFB mantém parceria com 250 organizações comunitárias em todo o Central Texas, fornecendo 75% dos alimentos que essas organizações distribuem em suas respectivas comunidades. O CTFB também opera programas de distribuição direta, serviço de refeições, capacitação profissional e educação na comunidade. Em 2025, o CTFB distribuiu mais de 75 milhões de libras de alimentos.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "A organização entrega alimentos nutritivos à comunidade desde 1981.",
+              "source": "https://www.centraltexasfoodbank.org/about-us",
+              "by_org": true
+            },
+            {
+              "text": "A organização mantém a transparência compartilhando publicamente suas demonstrações financeiras, relatórios anuais e políticas organizacionais.",
+              "source": "https://www.centraltexasfoodbank.org/about-us",
+              "by_org": true
+            }
+          ]
+        },
+        "ru": {
+          "does": [
+            {
+              "text": "Банк продовольствия предоставляет продовольствие и товары первой необходимости людям, нуждающимся, в 21 округах Центрального Техаса, охватывающих 19,604 квадратных миль.",
+              "source": "https://www.charitynavigator.org/ein/742217350",
+              "by_org": false
+            },
+            {
+              "text": "Организация сотрудничает с 250 общественными организациями по всему Центральному Техасу, обеспечивая 75% продовольствия, распределяемого этими партнёрами.",
+              "source": "https://www.charitynavigator.org/ein/742217350",
+              "by_org": false
+            },
+            {
+              "text": "В 2025 году организация распределила более 75 миллионов фунтов продовольствия.",
+              "source": "https://www.charitynavigator.org/ein/742217350",
+              "by_org": false
+            },
+            {
+              "text": "Организация помогает жителям с продуктами, медицинскими услугами, обучением на рабочем месте и общественными партнёрствами.",
+              "source": "https://www.centraltexasfoodbank.org/",
+              "by_org": true
+            }
+          ],
+          "mission": "Основан в 1981 году, Central Texas Food Bank (CFTB; formerly the Capital Area Food Bank of Texas) предоставляет продовольствие и товары первой необходимости людям, нуждающимся, в 21 округах Центрального Техаса, охватывающих 19,604 квадратных миль. Миссия Central Texas Food Bank — увеличить доступ к продовольствию в Центральном Техасе, предоставляя питательные продукты; возглавлять усилия по защите от голода и бедности; и преобразовывать жизни через программы, образование и инновационные решения. CTFB сотрудничает с 250 общественными организациями по всему Центральному Техасу, обеспечивая 75% продовольствия, которое эти организации распределяют в своих сообществах. CTFB также осуществляет прямое распределение, обслуживание питанием, обучение рабочей силе и образовательные программы в сообществе. В 2025 году CTFB распределил более 75 миллионов фунтов продовольствия.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "Организация поставляет питательные продукты сообществу с 1981 года.",
+              "source": "https://www.centraltexasfoodbank.org/about-us",
+              "by_org": true
+            },
+            {
+              "text": "Организация поддерживает прозрачность, публично делясь своими финансовыми отчётами, ежегодными отчётами и политиками организации.",
+              "source": "https://www.centraltexasfoodbank.org/about-us",
+              "by_org": true
+            }
+          ]
+        },
+        "zh": {
+          "does": [
+            {
+              "text": "该食品银行在覆盖19,604平方英里的21个德克萨斯中部县向有需要的人提供食品和杂货产品。",
+              "source": "https://www.charitynavigator.org/ein/742217350",
+              "by_org": false
+            },
+            {
+              "text": "该组织与德克萨斯中部的250个社区组织合作，提供这些合作伙伴分发的食品的75%。",
+              "source": "https://www.charitynavigator.org/ein/742217350",
+              "by_org": false
+            },
+            {
+              "text": "2025年，该组织分发了超过75 million pounds的食品。",
+              "source": "https://www.charitynavigator.org/ein/742217350",
+              "by_org": false
+            },
+            {
+              "text": "该组织帮助居民获取杂货、健康服务、职业培训和社区合作伙伴关系。",
+              "source": "https://www.centraltexasfoodbank.org/",
+              "by_org": true
+            }
+          ],
+          "mission": "成立于1981年，Central Texas Food Bank（CFTB；前称Capital Area Food Bank of Texas）向21个德克萨斯中部县（覆盖19,604平方英里）的有需要的人提供食品和杂货产品。Central Texas Food Bank的使命是通过提供营养食品、领导饥饿和贫困倡导工作以及通过项目、教育和创新解决方案来改变生活，从而提升德克萨斯中部的食品获取。CTFB与德克萨斯中部的250个社区组织合作，提供这些组织在各自社区分发的食品的75%。CTFB还在社区开展直接分发、餐食服务、劳动力培训和教育项目。2025年，CFTB分发了超过75 million pounds的食品。",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "该组织自1981年以来一直向社区提供营养食品。",
+              "source": "https://www.centraltexasfoodbank.org/about-us",
+              "by_org": true
+            },
+            {
+              "text": "该组织通过公开分享其财务报表、年度报告和组织政策来保持透明度。",
+              "source": "https://www.centraltexasfoodbank.org/about-us",
+              "by_org": true
+            }
+          ]
+        }
+      },
+      "safety": {
+        "evaluator": "Charity Navigator",
+        "stars": 4,
+        "score": 99,
+        "rating_url": "https://www.charitynavigator.org/ein/742217350",
+        "rating_checked": "2026-11-18",
+        "since": "1982",
+        "registry_url": "https://projects.propublica.org/nonprofits/organizations/742217350",
+        "filings": 13,
+        "first_year": 2011,
+        "last_year": 2023,
+        "checks_passed": 18,
+        "verifiers": 3,
+        "unanimous": true,
+        "site": "centraltexasfoodbank.org",
+        "official_host": "centraltexasfoodbank.org",
+        "profile_claimed": true
+      },
+      "platform": "every.org",
+      "counter": {
+        "raised": "0",
+        "read_at": "2026-11-20T20:04:38.109685+00:00",
+        "currency": "USD",
+        "platform": "every.org",
+        "supporters": 0,
+        "raised_cents": 0,
+        "matches_cents": 0
+      },
+      "fundraiser_open": true,
+      "progress_pct": 0,
+      "donate": {
+        "recipient": "Central Texas Food Bank Inc",
+        "url": null,
+        "money_goes_to": "Every.org, a US 501(c)(3) nonprofit, which grants it to the organization (unrestricted); this project never receives or holds money",
+        "counted_here_only_if": "shown in the public total of the fundraising page",
+        "status": "in public review",
+        "platform": "Every.org (US 501(c)(3) nonprofit; receipts tax-deductible only in the US)",
+        "public_total": {
+          "raised": "0",
+          "currency": "USD",
+          "people": 0,
+          "read_on": "2026-11-20"
+        },
+        "note": "Every.org suggests an optional tip to itself (sometimes preselected); it can be set to 0. Payment fees are deducted from what the organization receives."
+      }
     }
   ],
   "order_rule": "All projects are equal: the order rotates by one position every day.",
@@ -12416,9 +12416,9 @@
     "costs": {
       "USD": 8.5
     },
-    "ai_calls": 1717,
+    "ai_calls": 1724,
     "ai_cost_real_usd": 0.0,
-    "ai_value_offered_usd": 10.99038,
+    "ai_value_offered_usd": 11.070297,
     "candidates_examined": 85,
     "candidates_discarded": 48
   },
