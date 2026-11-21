@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T09:04:30.989711+00:00",
+  "generated_at": "2026-11-21T12:04:05.902857+00:00",
   "projects": [
     {
       "slug": "support-east-hampton-food-pantry-inc-against-hunger-5988",
@@ -3575,7 +3575,7 @@
         "stars": 4,
         "score": 96,
         "rating_url": "https://www.charitynavigator.org/ein/521135690",
-        "rating_checked": "2026-11-14",
+        "rating_checked": "2026-11-21",
         "since": "1979",
         "registry_url": "https://projects.propublica.org/nonprofits/organizations/521135690",
         "filings": 13,
@@ -11719,11 +11719,11 @@
       "goal": 5000.0,
       "raised": 0.0,
       "donated": 0.0,
-      "status": "revisione_pubblica",
-      "donation_url": null,
+      "status": "attiva",
+      "donation_url": "https://www.every.org/central-texas-food-bank/f/ai-against-hunger-for",
       "source_url": "https://www.charitynavigator.org/ein/742217350",
       "approved_on": "2026-11-18",
-      "review_until": "2026-11-21 11:07 UTC",
+      "review_until": null,
       "translations": {
         "de": {
           "text": "Von Charity Navigator bewertete Organisation, von den Agenten gefunden mit: 'Every.org: hunger latin america'.",
@@ -11776,7 +11776,13 @@
           "source": "traduzione AI"
         }
       },
-      "tranches": [],
+      "tranches": [
+        {
+          "number": 1,
+          "goal": 2000.0,
+          "status": "aperta"
+        }
+      ],
       "checks": [
         {
           "verifier": "regole",
@@ -12392,10 +12398,10 @@
       "progress_pct": 0,
       "donate": {
         "recipient": "Central Texas Food Bank Inc",
-        "url": null,
+        "url": "https://www.every.org/central-texas-food-bank/f/ai-against-hunger-for",
         "money_goes_to": "Every.org, a US 501(c)(3) nonprofit, which grants it to the organization (unrestricted); this project never receives or holds money",
         "counted_here_only_if": "shown in the public total of the fundraising page",
-        "status": "in public review",
+        "status": "open",
         "platform": "Every.org (US 501(c)(3) nonprofit; receipts tax-deductible only in the US)",
         "public_total": {
           "raised": "0",
@@ -12416,9 +12422,9 @@
     "costs": {
       "USD": 8.5
     },
-    "ai_calls": 1736,
+    "ai_calls": 1738,
     "ai_cost_real_usd": 0.0,
-    "ai_value_offered_usd": 11.243219,
+    "ai_value_offered_usd": 11.299336,
     "candidates_examined": 85,
     "candidates_discarded": 48
   },
