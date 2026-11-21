@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-21T12:04:05.902857+00:00",
+  "generated_at": "2026-11-21T13:04:31.272989+00:00",
   "projects": [
     {
       "slug": "support-east-hampton-food-pantry-inc-against-hunger-5988",
@@ -4785,18 +4785,34 @@
         "unanimous": true,
         "site": "missoulafoodbank.org",
         "official_host": "missoulafoodbank.org",
-        "profile_claimed": false
+        "profile_claimed": true
       },
-      "platform": "",
-      "counter": {},
-      "fundraiser_open": false,
+      "platform": "every.org",
+      "counter": {
+        "raised": "0",
+        "read_at": "2026-11-21T12:05:27.709865+00:00",
+        "currency": "USD",
+        "platform": "every.org",
+        "supporters": 0,
+        "raised_cents": 0,
+        "matches_cents": 0
+      },
+      "fundraiser_open": true,
       "progress_pct": 0,
       "donate": {
         "recipient": "Missoula Food Bank & Community Center Incorporated",
         "url": null,
-        "money_goes_to": "not open yet: donations open on a fundraising page with a public total",
+        "money_goes_to": "Every.org, a US 501(c)(3) nonprofit, which grants it to the organization (unrestricted); this project never receives or holds money",
         "counted_here_only_if": "shown in the public total of the fundraising page",
-        "status": "in public review"
+        "status": "in public review",
+        "platform": "Every.org (US 501(c)(3) nonprofit; receipts tax-deductible only in the US)",
+        "public_total": {
+          "raised": "0",
+          "currency": "USD",
+          "people": 0,
+          "read_on": "2026-11-21"
+        },
+        "note": "Every.org suggests an optional tip to itself (sometimes preselected); it can be set to 0. Payment fees are deducted from what the organization receives."
       }
     },
     {
@@ -6081,18 +6097,34 @@
         "unanimous": true,
         "site": "",
         "official_host": "northtexasgivingday.org",
-        "profile_claimed": false
+        "profile_claimed": true
       },
-      "platform": "",
-      "counter": {},
-      "fundraiser_open": false,
+      "platform": "every.org",
+      "counter": {
+        "raised": "0",
+        "read_at": "2026-11-21T12:05:26.181458+00:00",
+        "currency": "USD",
+        "platform": "every.org",
+        "supporters": 0,
+        "raised_cents": 0,
+        "matches_cents": 0
+      },
+      "fundraiser_open": true,
       "progress_pct": 0,
       "donate": {
         "recipient": "North Texas Food Bank",
         "url": null,
-        "money_goes_to": "not open yet: donations open on a fundraising page with a public total",
+        "money_goes_to": "Every.org, a US 501(c)(3) nonprofit, which grants it to the organization (unrestricted); this project never receives or holds money",
         "counted_here_only_if": "shown in the public total of the fundraising page",
-        "status": "in public review"
+        "status": "in public review",
+        "platform": "Every.org (US 501(c)(3) nonprofit; receipts tax-deductible only in the US)",
+        "public_total": {
+          "raised": "0",
+          "currency": "USD",
+          "people": 0,
+          "read_on": "2026-11-21"
+        },
+        "note": "Every.org suggests an optional tip to itself (sometimes preselected); it can be set to 0. Payment fees are deducted from what the organization receives."
       }
     },
     {
@@ -12422,9 +12454,9 @@
     "costs": {
       "USD": 8.5
     },
-    "ai_calls": 1738,
+    "ai_calls": 1747,
     "ai_cost_real_usd": 0.0,
-    "ai_value_offered_usd": 11.299336,
+    "ai_value_offered_usd": 11.368288,
     "candidates_examined": 85,
     "candidates_discarded": 48
   },
