@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T12:04:34.963770+00:00",
+  "generated_at": "2026-11-22T13:23:42.299659+00:00",
   "projects": [
     {
       "slug": "support-rhode-island-community-food-bank-association-against-7548",
@@ -750,6 +750,9 @@
         "matches_cents": 0
       },
       "fundraiser_open": true,
+      "started_on": "2026-11-20",
+      "place": "Rhode Island",
+      "source_name": "valutatore",
       "progress_pct": 0,
       "donate": {
         "recipient": "Rhode Island Community Food Bank Association",
@@ -1352,6 +1355,9 @@
         "matches_cents": 0
       },
       "fundraiser_open": true,
+      "started_on": "2026-11-17",
+      "place": "California",
+      "source_name": "valutatore",
       "progress_pct": 0,
       "donate": {
         "recipient": "Santa Clarita Valley Food Pantry",
@@ -1880,6 +1886,9 @@
       "platform": "",
       "counter": {},
       "fundraiser_open": false,
+      "started_on": null,
+      "place": "California",
+      "source_name": "valutatore",
       "progress_pct": 0,
       "donate": {
         "recipient": "Second Harvest Food Bank Of Orange County Inc",
@@ -2447,6 +2456,9 @@
         "matches_cents": 0
       },
       "fundraiser_open": true,
+      "started_on": "2026-11-15",
+      "place": "District of Columbia",
+      "source_name": "valutatore",
       "progress_pct": 0,
       "donate": {
         "recipient": "Share Our Strength",
@@ -2727,6 +2739,9 @@
       "platform": "",
       "counter": {},
       "fundraiser_open": false,
+      "started_on": null,
+      "place": "California",
+      "source_name": "valutatore",
       "progress_pct": 0,
       "donate": {
         "recipient": "The Alameda County Community Food Bank Inc",
@@ -3322,6 +3337,9 @@
         "matches_cents": 0
       },
       "fundraiser_open": true,
+      "started_on": "2026-11-16",
+      "place": "Massachusetts",
+      "source_name": "valutatore",
       "progress_pct": 0,
       "donate": {
         "recipient": "The Greater Boston Food Bank Inc",
@@ -3976,6 +3994,9 @@
         "matches_cents": 0
       },
       "fundraiser_open": true,
+      "started_on": "2026-11-16",
+      "place": "Utah",
+      "source_name": "valutatore",
       "progress_pct": 0,
       "donate": {
         "recipient": "Utah Food Bank",
@@ -4579,6 +4600,9 @@
         "matches_cents": 0
       },
       "fundraiser_open": true,
+      "started_on": "2026-11-16",
+      "place": "District of Columbia",
+      "source_name": "valutatore",
       "progress_pct": 0,
       "donate": {
         "recipient": "World Central Kitchen Incorporated",
@@ -5321,6 +5345,9 @@
       "platform": "",
       "counter": {},
       "fundraiser_open": false,
+      "started_on": null,
+      "place": "District of Columbia",
+      "source_name": "valutatore",
       "progress_pct": 0,
       "donate": {
         "recipient": "Capital Area Food Bank",
@@ -6018,6 +6045,9 @@
         "matches_cents": 0
       },
       "fundraiser_open": true,
+      "started_on": "2026-11-21",
+      "place": "Texas",
+      "source_name": "valutatore",
       "progress_pct": 0,
       "donate": {
         "recipient": "Central Texas Food Bank Inc",
@@ -6672,6 +6702,9 @@
         "matches_cents": 0
       },
       "fundraiser_open": true,
+      "started_on": "2026-11-17",
+      "place": "New York",
+      "source_name": "valutatore",
       "progress_pct": 0,
       "donate": {
         "recipient": "East Hampton Food Pantry Inc",
@@ -7265,6 +7298,9 @@
         "matches_cents": 0
       },
       "fundraiser_open": true,
+      "started_on": "2026-11-11",
+      "place": "Illinois",
+      "source_name": "valutatore",
       "progress_pct": 0,
       "donate": {
         "recipient": "Feeding America",
@@ -7919,6 +7955,9 @@
         "matches_cents": 0
       },
       "fundraiser_open": true,
+      "started_on": "2026-11-16",
+      "place": "Montana",
+      "source_name": "valutatore",
       "progress_pct": 0,
       "donate": {
         "recipient": "Flathead Food Bank Inc",
@@ -8554,6 +8593,9 @@
       "platform": "",
       "counter": {},
       "fundraiser_open": false,
+      "started_on": null,
+      "place": "New York",
+      "source_name": "valutatore",
       "progress_pct": 0,
       "donate": {
         "recipient": "Food Bank For New York City",
@@ -9167,6 +9209,9 @@
         "matches_cents": 0
       },
       "fundraiser_open": true,
+      "started_on": "2026-11-15",
+      "place": "Michigan",
+      "source_name": "valutatore",
       "progress_pct": 0,
       "donate": {
         "recipient": "Food Gatherers",
@@ -9807,6 +9852,9 @@
       "platform": "",
       "counter": {},
       "fundraiser_open": false,
+      "started_on": null,
+      "place": "Michigan",
+      "source_name": "valutatore",
       "progress_pct": 0,
       "donate": {
         "recipient": "Gleaners Community Food Bank Of Southeastern Michigan",
@@ -10402,6 +10450,9 @@
         "matches_cents": 0
       },
       "fundraiser_open": true,
+      "started_on": "2026-11-17",
+      "place": "Virginia",
+      "source_name": "valutatore",
       "progress_pct": 0,
       "donate": {
         "recipient": "Loaves & Fishes Food Pantry Inc",
@@ -10892,6 +10943,9 @@
         "matches_cents": 0
       },
       "fundraiser_open": true,
+      "started_on": "2026-11-10",
+      "place": "Maryland",
+      "source_name": "valutatore",
       "progress_pct": 0,
       "donate": {
         "recipient": "Maryland Food Bank Inc",
@@ -11494,6 +11548,9 @@
         "matches_cents": 0
       },
       "fundraiser_open": true,
+      "started_on": "2026-11-19",
+      "place": "Maryland",
+      "source_name": "valutatore",
       "progress_pct": 0,
       "donate": {
         "recipient": "Meals On Wheels Of Central Maryland Inc",
@@ -12097,6 +12154,9 @@
         "matches_cents": 0
       },
       "fundraiser_open": true,
+      "started_on": "2026-11-22",
+      "place": "Montana",
+      "source_name": "valutatore",
       "progress_pct": 0,
       "donate": {
         "recipient": "Missoula Food Bank & Community Center Incorporated",
@@ -12761,6 +12821,9 @@
         "matches_cents": 0
       },
       "fundraiser_open": true,
+      "started_on": "2026-11-11",
+      "place": "New Jersey",
+      "source_name": "valutatore",
       "progress_pct": 0,
       "donate": {
         "recipient": "New Hope Community Ministries A Nj Nonprofit Corp",
@@ -13428,6 +13491,9 @@
         "matches_cents": 0
       },
       "fundraiser_open": true,
+      "started_on": "2026-11-22",
+      "place": "Texas",
+      "source_name": "valutatore",
       "progress_pct": 0,
       "donate": {
         "recipient": "North Texas Food Bank",
@@ -13980,6 +14046,9 @@
         "matches_cents": 0
       },
       "fundraiser_open": true,
+      "started_on": "2026-11-20",
+      "place": "Illinois",
+      "source_name": "valutatore",
       "progress_pct": 0,
       "donate": {
         "recipient": "One Acre Fund",
@@ -14634,6 +14703,9 @@
         "matches_cents": 0
       },
       "fundraiser_open": true,
+      "started_on": "2026-11-11",
+      "place": "Oregon",
+      "source_name": "valutatore",
       "progress_pct": 0,
       "donate": {
         "recipient": "Oregon Food Bank Inc",
@@ -15237,6 +15309,9 @@
         "matches_cents": 0
       },
       "fundraiser_open": true,
+      "started_on": "2026-11-17",
+      "place": "Florida",
+      "source_name": "valutatore",
       "progress_pct": 0,
       "donate": {
         "recipient": "Our Daily Bread Food Pantry",
@@ -15256,6 +15331,12 @@
     }
   ],
   "order_rule": "All projects are equal: the order rotates by one position every day.",
+  "home_today": [
+    "support-loaves-fishes-food-pantry-inc-against-hunger-5986",
+    "support-maryland-food-bank-inc-against-hunger-938",
+    "support-santa-clarita-valley-food-pantry-against-hunger-5985"
+  ],
+  "home_rule": "Home page: 3 active projects a day, in turn. The turn is recomputed every time from the activation day (started_on, UTC) of the projects that are active today. Day by day from the first activation: a project that starts enters with the lowest counts among the others; the 3 projects with the fewest days on the home page are shown; the first of the day is the one, among those that can be shown that day, that has been first the fewest times; when several are tied for the last places, those that have been first more often go in, and the others wait for a day when they can be first; remaining ties follow the alphabetical order of the slug. So among active projects the days on the home page never differ by more than one (a project that started later is counted from the lowest count of the others). When a project stops being active the turn is recomputed among the remaining ones, as if it had never been there: it stays even among them, but it can differ by a few days from the days actually shown before. The Projects page always lists all projects.",
   "totals": {
     "raised": {
       "USD": 0.0
@@ -15264,9 +15345,9 @@
     "costs": {
       "USD": 8.5
     },
-    "ai_calls": 1911,
+    "ai_calls": 1914,
     "ai_cost_real_usd": 0.0,
-    "ai_value_offered_usd": 12.71417,
+    "ai_value_offered_usd": 12.73817,
     "candidates_examined": 93,
     "candidates_discarded": 51
   },

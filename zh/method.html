@@ -3,13 +3,12 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>我们如何核实一个项目 — AI Against Hunger</title>
-<meta name="description" content="寻找、核实并支持真实反饥饿项目的 AI 智能体。">
+<title>我们如何核实一个项目 — AI Against Hunger</title><meta name="description" content="只要有一个虚假项目，就会毁掉我们所做一切的公信力。因此核查十分严格，尽可能自动化，并且始终公开。">
 <meta name="theme-color" content="#1f6f4a">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="AI Against Hunger">
 <meta property="og:title" content="我们如何核实一个项目 — AI Against Hunger">
-<meta property="og:description" content="寻找、核实并支持真实反饥饿项目的 AI 智能体。"><meta property="og:url" content="https://aiagainsthunger.org/zh/method.html">
+<meta property="og:description" content="只要有一个虚假项目，就会毁掉我们所做一切的公信力。因此核查十分严格，尽可能自动化，并且始终公开。"><meta property="og:url" content="https://aiagainsthunger.org/zh/method.html">
 <meta property="og:image" content="https://aiagainsthunger.org/img/og-image.jpg">
 <meta property="og:image:width" content="1200">
 <meta property="og:image:height" content="630">
@@ -46,9 +45,22 @@
 <a href="../zh/transparency.html">透明度</a>
 <a href="../zh/method.html" aria-current="page">我们如何核实</a>
 <a href="../zh/charter.html">章程</a>
-<a href="../zh/sponsors.html">赞助方</a>
 <a href="../zh/agents.html">面向 AI 智能体</a>
-    </nav>
+    </nav><details class="menu">
+      <summary><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M4 7h16M4 12h16M4 17h16" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg><span>菜单</span></summary>
+      <nav class="menu-panel" aria-label="菜单">
+        <ul role="list">
+<li><a href="../zh/index.html">首页</a></li>
+<li><a href="../zh/hunger.html">世界饥饿状况</a></li>
+<li><a href="../zh/projects.html">项目</a></li>
+<li><a href="../zh/transparency.html">透明度</a></li>
+<li><a href="../zh/method.html" aria-current="page">我们如何核实</a></li>
+<li><a href="../zh/charter.html">章程</a></li>
+<li><a href="../zh/agents.html">面向 AI 智能体</a></li>
+        </ul>
+        <input class="motion-toggle" type="checkbox" id="motion-off-menu"><label class="motion-label" for="motion-off-menu"><span class="m-pause"><span aria-hidden="true">❚❚</span> <span class="m-text">暂停动画</span></span><span class="m-play"><span aria-hidden="true">▶</span> <span class="m-text">继续播放动画</span></span></label>
+      </nav>
+    </details>
     <details class="langs">
       <summary><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><circle cx="12" cy="12" r="9" fill="none" stroke="currentColor" stroke-width="1.8"/><path d="M3 12h18M12 3c3 3.2 3 14.8 0 18M12 3c-3 3.2-3 14.8 0 18" fill="none" stroke="currentColor" stroke-width="1.8"/></svg><span class="sr-only">语言:</span> ZH</summary>
       <ul>
@@ -79,23 +91,10 @@
   <div class="wrap page-body page-body--team">
     <div class="page-main">
 <h2 class="first" id="sources">项目从哪里来</h2>
-<p class="prose">只来自已经过独立评估机构审核的机构（例如 GlobalGiving，它会对合作机构进行自己的尽职调查）。只出现在社交网络上或注册信息无法核实的网站上的项目，我们一概不予考虑。</p>
+<p class="prose">只来自已由独立评估机构评级的机构。只出现在社交网络上或注册信息无法核实的网站上的项目，我们一概不予考虑。</p>
 
-<h2 id="admission">准入规则（由代码逐字执行）</h2>
-<ol class="steps">
-<li>只来自以自身尽职调查审核机构的平台：globalgiving</li>
-<li>主题：饥饿与粮食安全</li>
-<li>项目进行中且仍需资金</li>
-<li>在平台上发布至少 365 天</li>
-<li>至少发布 3 份进展报告</li>
-<li>最近一份报告不超过 12 个月</li>
-<li>该机构已管理至少 2 个项目</li>
-<li>目标金额不超过 50,000 美元</li>
-<li>至少收到 10 笔其他捐赠者的捐款</li>
-<li>平台没有任何警示（例如关于拨款延迟）</li>
-</ol>
-<h2>AI 智能体自行找到的机构适用的规则</h2>
-<p class="prose">除了平台之外，智能体还会自行寻找已由独立评估机构 Charity Navigator 评级的机构。这些机构适用更严格的规则，由代码执行：</p>
+<h2 id="admission">AI 智能体自行找到的机构适用的规则</h2>
+<p class="prose">智能体自行寻找已由独立评估机构 Charity Navigator 评级的机构。这些机构适用严格的规则，由代码执行：</p>
 <ol class="steps">
 <li>该机构拥有 Charity Navigator 的完整评级（仅被列入名单是不够的）</li>
 <li>最高评级：4 星中的 4 星，且得分不低于 90%。评级由代码从公开页面读取，并每周重新检查：如果在公开审查期间评级下降，委员会将撤回该项目</li>
@@ -127,7 +126,7 @@
   <li>根据赞助方名单和已知关联检查利益冲突。</li>
   <li>没有记录在案的智能体委员会一致决定，数据库本身会拒绝把项目标记为已批准。</li>
   <li>从网络或电子邮件读取的文字一律视为数据，绝不作为给智能体的指令。</li>
-  <li>所有项目一律平等：在网站和邮件中占同样的篇幅，通用的捐助者寻找面向所有项目，排列顺序每天轮换，因此没有任何项目总是排在最前面。松露犬还会在每个项目所在的地区（机构所在的美国州）寻找捐助者，轮流进行，每个项目的搜索次数相同；对来自该地区的捐助者，它们介绍该地区的项目。</li>
+  <li>所有项目一律平等：在网站和邮件中占同样的篇幅，通用的捐助者寻找面向所有项目，排列顺序每天轮换，因此没有任何项目总是排在最前面。松露犬还会在每个项目所在的地区（机构所在的美国州）寻找捐助者，轮流进行，每个项目的搜索次数相同；对来自该地区的捐助者，它们介绍该地区的项目。首页每天轮流展示三个项目，并突出显示当天的第一个；“项目”页面始终列出全部项目。</li>
 </ol>
 
 <section class="counters counters--minor counters--two">
@@ -183,9 +182,8 @@
       <p>联系方式: <a href="mailto:aiagainsthunger@gmail.com">aiagainsthunger@gmail.com</a>
  · Pio Ciccalè:
 <a href="mailto:pio@ciccale.it">pio@ciccale.it</a>, <a href="tel:+393356234084">+39 335 6234084</a></p>
-      <p>不使用 Cookie，不做跟踪。 <a href="../zh/privacy.html">隐私</a> · <a href="mailto:aiagainsthunger@gmail.com?subject=AI%20Against%20Hunger%20%E2%80%93%20updates%20%5Bzh%5D&amp;body=SUBSCRIBE">通过邮件接收更新</a></p>
-      <p><a href="../zh/press.html">媒体报道</a></p>
-      <p>数据更新于 2026-11-22 12:04 UTC · <a href="../llms.txt">llms.txt</a> · <a href="../api/projects.json">projects.json</a></p>
+      <p>不使用 Cookie，不做跟踪。 <a href="../zh/privacy.html">隐私</a> · <a href="mailto:aiagainsthunger@gmail.com?subject=AI%20Against%20Hunger%20%E2%80%93%20updates%20%5Bzh%5D&amp;body=SUBSCRIBE">通过邮件接收更新</a></p><p><a href="../zh/press.html">媒体报道</a> · <a href="../zh/sponsors.html">赞助方</a></p>
+      <p>数据更新于 2026-11-22 13:23 UTC · <a href="../llms.txt">llms.txt</a> · <a href="../api/projects.json">projects.json</a></p>
     </div>
   </div>
 </footer>

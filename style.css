@@ -86,8 +86,10 @@ code { background: var(--accent-soft); padding: 1px 6px; border-radius: 5px; }
 
 /* ---------------------------------------------------------------- intestazione */
 header.site { position: relative; z-index: 20; background: var(--surface); border-bottom: 1px solid var(--line); }
-/* Pio, 20/11/2026: su computer menu e nastro restano in alto mentre si scorre; sul telefono no, perché il menu va
-   su più righe e coprirebbe troppo schermo */
+/* 20/11/2026 (ideatore del progetto): su computer menu e nastro restano in alto mentre si scorre; sul telefono no
+   (dal 21/11/2026 lì il menu è un <details> e il nastro non si mostra).
+   Questo file è pubblicato così com'è: nei commenti niente nomi di persone (il nome dell'ideatore sta solo nel piè
+   di pagina; lo controlla tests/test_site_percorso.py). */
 @media (min-width: 960px) and (min-height: 640px) {
   .site-top { position: sticky; top: 0; z-index: 40; box-shadow: 0 2px 12px rgba(16, 36, 27, .12); }
   html { scroll-padding-top: 170px; }  /* i link interni (#fonti) non finiscono sotto il menu */
@@ -110,9 +112,54 @@ nav.main a[aria-current="page"] { color: var(--accent-strong); background: var(-
 .langs li a b { width: 2.2em; color: var(--muted); font-weight: 650; font-size: .82rem; }
 .langs li a:hover { background: var(--surface-2); }
 .langs li a[aria-current="true"] { background: var(--accent-soft); font-weight: 700; }
+/* 21/11/2026 (revisione della strategia): sotto i 960 px il menu sta in un <details> come le lingue, su una riga
+   sola (prima: 8 voci su 3 righe, 186 px prima del contenuto su un telefono), e il nastro con i dati sulla fame
+   non si mostra. Le voci sono scritte due volte nell'HTML: qui se ne mostra una sola per larghezza di schermo.
+   Bersagli di tocco di almeno 44 px (titoli dei due menu e ogni voce). */
+.menu { display: none; }
+.menu > summary, .langs > summary { min-height: 44px; }
+.menu > summary { list-style: none; cursor: pointer; display: inline-flex; align-items: center; gap: 6px; padding: 6px 12px; border: 1px solid var(--line); border-radius: 999px; font-size: .9rem; font-weight: 650; color: var(--text); background: var(--surface); }
+.menu > summary::-webkit-details-marker { display: none; }
+.menu > summary:hover { background: var(--surface-2); }
+.menu > summary svg { width: 18px; height: 18px; flex: none; }
+/* 22/11/2026: aperto, il menu sta nel flusso della pagina e la spinge in giù (clear: sotto la riga del marchio).
+   Prima era un riquadro sovrapposto, e a 360 px copriva il pulsante Dona della scheda (riquadro da 64 a 436 px,
+   pulsante a 343 px, in tutte e dieci le lingue): senza JavaScript un <details> resta aperto finché non lo si
+   richiude, quindi il pulsante restava nascosto. Lo stesso per l'elenco delle lingue, sotto i 960 px. */
+.menu-panel { clear: both; padding-top: 8px; }  /* lo spazio sopra è padding: il margine di un blocco con clear non conta */
+.menu-panel ul { list-style: none; margin: 0; padding: 6px 0 0; border-top: 1px solid var(--line); display: grid; grid-template-columns: repeat(auto-fill, minmax(min(200px, 100%), 1fr)); gap: 0 8px; }  /* una colonna sul telefono, due o tre su un tablet */
+.menu-panel li a { display: flex; align-items: center; min-height: 44px; padding: 6px 12px; border-radius: 8px; color: var(--text); text-decoration: none; font-weight: 550; }
+.menu-panel li a:hover { background: var(--surface-2); }
+.menu-panel li a[aria-current="page"] { color: var(--accent-strong); background: var(--accent-soft); font-weight: 700; }
+.langs li a { padding-top: 10px; padding-bottom: 10px; }
 @media (max-width: 959px) {
-  nav.main { order: 3; flex-basis: 100%; margin: 0 -11px; }
+  /* Una riga: marchio a sinistra, poi "Menu" e la lingua a destra, nello stesso ordine dell'HTML (e della
+     tastiera). A blocchi con i float, non più flex: così il titolo del menu resta sulla riga del marchio e le sue
+     voci, che stanno nello stesso <details>, scendono sotto a tutta larghezza, nel flusso. Il titolo delle
+     lingue è appoggiato a destra con una larghezza fissa (--langs-w: icona e sigla di due lettere), e il titolo
+     del menu gli lascia quello spazio; se lo schermo è troppo stretto il titolo del menu va a capo sotto il
+     marchio, senza sovrapporsi a niente. */
+  .header-row { display: flow-root; position: relative; --langs-w: max(4.75rem, 76px); --edge: 16px; }
+  .brand { float: left; min-height: 44px; }
+  nav.main { display: none; }
+  .menu { display: block; }
+  .menu > summary { float: right; margin: 0 calc(var(--langs-w) + 8px) 0 8px; }
+  .langs { position: static; margin: 0; }
+  .langs > summary { position: absolute; top: 12px; right: var(--edge); width: var(--langs-w); justify-content: center; }
+  .langs ul { position: static; clear: both; min-width: 0; margin: 0; padding: 0; border: 0; border-radius: 0; box-shadow: none; background: none; }
+  .langs[open] ul { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(140px, 100%), 1fr)); gap: 0 8px; }
+  .langs ul::before { content: ""; grid-column: 1 / -1; margin: 8px 0 6px; border-top: 1px solid var(--line); }  /* riga di separazione */
+  .site-top .ticker-bar { display: none; }  /* con .site-top: la regola del nastro, più in basso, non la annulla */
 }
+@media (min-width: 700px) and (max-width: 959px) { .header-row { --edge: 24px; } }  /* come il margine di .wrap */
+@media (max-width: 420px) {  /* marchio, menu e lingua su una riga anche a 360 px, in tutte le lingue */
+  .header-row { --langs-w: max(4.2rem, 67px); }
+  .brand { gap: 8px; font-size: 1rem; }
+  .logo { width: 30px; height: 30px; }
+  .menu > summary, .langs > summary { padding: 6px 10px; font-size: .85rem; }
+  .menu > summary svg { display: none; }
+}
+@media (max-width: 380px) { .brand { gap: 6px; font-size: .95rem; } }  /* qualche pixel di margine per "Меню" */
 
 /* ---------------------------------------------------------------- foto in testata */
 .hero, .page-hero { position: relative; isolation: isolate; overflow: hidden; color: #fff; background: var(--ink); }
@@ -122,7 +169,7 @@ nav.main a[aria-current="page"] { color: var(--accent-strong); background: var(-
   content: ""; position: absolute; inset: 0; z-index: -1;
   background: linear-gradient(90deg, rgba(9, 22, 16, .9) 0%, rgba(9, 22, 16, .82) 46%, rgba(9, 22, 16, .4) 70%, rgba(9, 22, 16, .12) 100%);
 }
-.hero-inner { padding-top: 76px; padding-bottom: 112px; }
+.hero-inner { padding-top: 64px; padding-bottom: 68px; }  /* 21/11/2026: i contatori non si sovrappongono più alla testata */
 .hero-inner > * { max-width: 33rem; }
 .hero h1 { font-size: clamp(2.1rem, 5.4vw, 3.5rem); line-height: 1.08; letter-spacing: -.02em; margin: 0 0 16px; }
 .hero .lead, .page-hero .lead { color: #f1ede4; font-size: clamp(1.05rem, 1.7vw, 1.2rem); max-width: 33rem; }
@@ -137,13 +184,22 @@ nav.main a[aria-current="page"] { color: var(--accent-strong); background: var(-
 .cta--primary:hover { background: #ffc65a; }
 .cta--ghost { color: #fff; border: 2px solid rgba(255, 255, 255, .85); }
 .cta--ghost:hover { background: rgba(255, 255, 255, .12); }
+/* 21/11/2026: invito al progetto del giorno (il nome dell'ente può andare su più righe) e pulsante su fondo chiaro */
+.cta--today { border-radius: 26px; }
+.cta--line { color: var(--accent-strong); border: 2px solid var(--accent); background: var(--surface); }
+.cta--line:hover { background: var(--accent-soft); }
+.gt-note { margin: 18px 0 0; font-size: .95rem; font-weight: 650; color: #f1ede4; }
 .hero :focus-visible, .page-hero :focus-visible, .page-band[class*="band--"] :focus-visible, footer.site :focus-visible { outline-color: #fff; }
 .photo-credit { position: absolute; right: 10px; bottom: 8px; max-width: calc(100% - 20px); font-size: .74rem; line-height: 1.4; color: #f1ede4; background: rgba(9, 22, 16, .72); padding: 2px 8px; border-radius: 6px; }
 .photo-credit a { color: #fff; }
 .hero .photo-credit { top: 10px; bottom: auto; }  /* in basso ci sono i contatori sovrapposti */
 @media (max-width: 760px) {
   .hero::before, .page-hero::before { background: linear-gradient(180deg, rgba(9, 22, 16, .6) 0%, rgba(9, 22, 16, .74) 35%, rgba(9, 22, 16, .9) 100%); }
-  .hero-inner { padding-top: 44px; padding-bottom: 84px; }
+  .hero-inner { padding-top: 28px; padding-bottom: 36px; }  /* 21/11/2026: l'invito entra nella prima schermata */
+  .hero .kicker { margin-bottom: 12px; }
+  .hero h1 { font-size: clamp(1.85rem, 7.6vw, 2.4rem); margin-bottom: 12px; }
+  .hero .lead { font-size: 1rem; line-height: 1.55; }
+  .cta-row { margin-top: 20px; }
   .page-hero .hero-inner { padding-top: 40px; padding-bottom: 52px; }
 }
 
@@ -183,7 +239,7 @@ main { display: block; }
 .page-main > :first-child, .page-main > :first-child > h2:first-child { margin-top: 0; }
 
 .counters { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 180px), 1fr)); gap: 14px; margin: 0 0 8px; }
-.counters--main { grid-template-columns: repeat(4, minmax(0, 1fr)); }
+.counters--main { grid-template-columns: repeat(auto-fit, minmax(min(100%, 150px), 1fr)); }  /* da 3 a 7 contatori */
 .counters--minor { grid-template-columns: repeat(3, minmax(0, 1fr)); margin-top: 14px; }
 .counters--two { grid-template-columns: repeat(2, minmax(0, 1fr)); margin-top: 40px; max-width: 46em; }
 .counter { position: relative; overflow: hidden; background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius); padding: 18px 18px 16px 22px; box-shadow: var(--shadow); }
@@ -196,9 +252,11 @@ main { display: block; }
 .counters--minor .counter { box-shadow: none; background: var(--surface-2); border-color: transparent; padding: 14px 16px; }
 .counters--minor .counter::before { display: none; }
 .counters--minor .counter b { font-size: 1.3rem; }
-.stats { position: relative; z-index: 2; margin-top: -84px; }
+/* 21/11/2026: i numeri non sono più sopra la testata ma nella sezione "Trasparenza" della prima pagina */
+.stats { margin-top: 52px; }
+.stats > h2 { margin-top: 0; }
 .stats .note { margin: 10px 0 0; }
-@media (max-width: 900px) { .counters--main { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+.first-gift { margin: 12px 0 0; font-weight: 650; }
 @media (max-width: 560px) {
   .counters--minor { grid-template-columns: 1fr; gap: 8px; }
   .counters--minor .counter { display: flex; align-items: baseline; gap: 12px; padding: 10px 14px; }
@@ -256,6 +314,15 @@ ol.steps.steps--how li::before { left: 18px; top: 16px; background: var(--sun); 
 .card h3 a:hover { text-decoration: underline; }
 .card .meta { margin: 0; font-size: .92rem; }
 .card-more { margin-top: auto; padding-top: 4px; font-weight: 700; font-size: .92rem; color: var(--accent); }
+/* 21/11/2026: card nuove. Prima riga di "che cosa fa", voto del valutatore e pulsante Dona: sta sopra il link che
+   copre tutta la card (z-index), ha lo stesso link della scheda del progetto ed è alto almeno 44 px. */
+.card-does { margin: 0; font-size: .96rem; line-height: 1.5; }
+.card-does .note { font-size: .82rem; white-space: nowrap; }
+.card .card-rating { color: var(--text); font-weight: 600; }
+.card-give { position: relative; z-index: 2; display: flex; align-items: center; justify-content: center; gap: 6px; min-height: 44px; margin-top: auto; padding: 10px 18px; border-radius: 999px; background: var(--accent); color: #fff; font-weight: 700; line-height: 1.3; text-align: center; text-decoration: none; }
+.card-give:hover { background: var(--accent-strong); }
+.card-give + .card-more { margin-top: 0; }
+@media (prefers-color-scheme: dark) { .card-give { color: #0d1411; } }
 .notice { margin: 0; padding: 10px 12px; border-radius: 10px; border-left: 4px solid var(--warm); background: var(--warm-soft); color: var(--text); font-size: .92rem; line-height: 1.45; white-space: normal; overflow-wrap: anywhere; }
 .notice--withdrawn { border-left-color: var(--grey); background: var(--surface-2); }
 .page-body > .notice { margin: 18px 0; max-width: 46em; font-size: 1rem; }
@@ -281,6 +348,52 @@ ol.steps.steps--how li::before { left: 18px; top: 16px; background: var(--sun); 
 .button { display: inline-block; padding: 13px 22px; border-radius: 999px; background: var(--accent); color: #fff; font-weight: 700; font-size: 1.05rem; line-height: 1.3; text-decoration: none; box-shadow: 0 4px 14px rgba(31, 111, 74, .28); }
 .button:hover { background: var(--accent-strong); }
 @media (prefers-color-scheme: dark) { .button { color: #0d1411; box-shadow: none; } }
+
+/* ---------------------------------------------------------------- scheda: percorso verso la donazione (21/11/2026)
+   Revisione della strategia: il pulsante Dona è il primo blocco della scheda (prima stava a 1.001 px dall'alto su
+   un telefono); sotto, la riga "primo dono" o i numeri, dove porta il pulsante, le avvertenze in un riquadro
+   apribile, poi la frase d'impatto dell'ente, perché donare da qui, perché è affidabile. Nessun JavaScript:
+   i riquadri apribili sono <details>, che si aprono anche da tastiera (Invio o Spazio sul titolo). */
+.donate-box .first-gift { margin-top: 14px; font-size: 1.05rem; }
+.totals-line { margin: 14px 0 0; font-variant-numeric: tabular-nums; }
+.page-body > .totals-line { margin: 0 0 4px; max-width: 46em; font-size: 1.05rem; }
+.totals-line b { white-space: nowrap; }
+.donate-box .bar--big { margin: 12px 0 0; }
+.donate-box .gt-note { color: var(--text); font-size: .95rem; font-weight: 400; }  /* una riga, senza enfasi */
+details.fold > summary { display: flex; align-items: center; gap: 8px; min-height: 44px; cursor: pointer; list-style: none; color: var(--accent-strong); font-weight: 700; }
+details.fold > summary::-webkit-details-marker { display: none; }
+details.fold > summary::before { content: ""; flex: none; width: 8px; height: 8px; margin: 0 4px 0 2px; border-right: 2.5px solid currentColor; border-bottom: 2.5px solid currentColor; transform: rotate(-45deg); }
+details.fold[open] > summary::before { transform: rotate(45deg); }
+details.fold > summary:hover { text-decoration: underline; text-underline-offset: 3px; }
+.donate-terms { margin-top: 6px; }
+.donate-terms > summary { font-size: .95rem; }
+.donate-terms .note:first-of-type { margin-top: 4px; }
+.impact { margin: 22px 0; padding: 14px 20px; max-width: 46em; border-left: 4px solid var(--sun); background: var(--surface-2); border-radius: 0 var(--radius) var(--radius) 0; }
+.impact p { margin: 0; font-size: 1.12rem; font-weight: 650; line-height: 1.45; }
+.impact p.note { margin-top: 6px; font-size: .85rem; font-weight: 400; }
+.why-here { margin: 26px 0; padding: 18px 22px; max-width: 46em; border-radius: var(--radius); border-left: 5px solid var(--accent); background: var(--surface); box-shadow: var(--shadow); }
+.why-here h2 { margin-top: 0; font-size: 1.2rem; }
+.why-here ul { margin: 0; padding-left: 1.2em; }
+.why-here li { margin: 8px 0; }
+.why-here a.src { white-space: normal; overflow-wrap: anywhere; }
+.share { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; margin: 36px 0 0; max-width: none; }
+.share-label { margin-right: 4px; font-weight: 650; }
+.share a { display: inline-flex; align-items: center; min-height: 44px; padding: 8px 16px; border: 1px solid var(--line); border-radius: 999px; background: var(--surface); color: var(--accent-strong); font-size: .95rem; font-weight: 650; text-decoration: none; }
+.share a:hover { background: var(--accent-soft); }
+/* 22/11/2026: il titolo del dossier sta fuori dal riquadro apribile (dentro <summary> alcuni lettori di schermo
+   non lo annunciano come titolo); il riquadro si apre con "I controlli" e il loro numero. */
+.dossier { margin-top: 36px; }
+.dossier > h2 { margin-bottom: 6px; }
+.dossier > .note { max-width: 46em; margin: 0; }
+.dossier-fold > .table-wrap { margin-top: 6px; }
+@media (max-width: 760px) {
+  .page-band[class*="band--"] { padding: 22px 0 18px; }
+  .page-band[class*="band--"] .crumb { margin-bottom: 8px; }
+  .page-band[class*="band--"] h1 { margin: 8px 0 6px; font-size: 1.6rem; }
+  .page-band[class*="band--"] .meta { margin-top: 4px; font-size: .95rem; line-height: 1.5; overflow-wrap: anywhere; }
+  .page-band[class*="band--"] + .page-body { padding-top: 16px; }
+  .donate-box { padding: 16px 16px 14px; }
+}
 
 /* ---------------------------------------------------------------- tabelle */
 .table-wrap { overflow-x: auto; border: 1px solid var(--line); border-radius: var(--radius); background: var(--surface); box-shadow: var(--shadow); }
@@ -367,7 +480,6 @@ a.src { font-size: .78rem; white-space: nowrap; }
 
 /* "La squadra" (8/11/2026): Caposquadra, Segugi, Cani da guardia, Cani da tartufo, Cani da riporto. Nell'HTML viene dopo il contenuto
    (ordine di lettura): sotto il contenuto su telefono e tablet, colonna laterale da 1024 px in su. */
-.page-body--team > .stats { margin-bottom: 52px; }  /* il primo elemento delle colonne non ha margine sopra */
 .team { margin-top: 52px; padding: 20px 18px 18px; border-radius: 24px; background: var(--surface-2); }
 .team h2 { margin: 0 0 4px; font-size: 1.3rem; clear: none; }
 .team-intro { margin: 0 0 14px; color: var(--muted); font-size: .92rem; line-height: 1.5; }
@@ -412,7 +524,7 @@ a.src { font-size: .78rem; white-space: nowrap; }
 .step-team-photo { width: 28px; height: 28px; border-radius: 50%; object-fit: cover; flex: none; }
 
 /* ================================================================ la fame nel mondo (20/11/2026)
-   Pio: movimento e "il perché" che colpisce. Solo CSS (il sito non ha JavaScript): i numeri salgono da 0
+   Ideatore: movimento e "il perché" che colpisce. Solo CSS (il sito non ha JavaScript): i numeri salgono da 0
    (@property + counter), le figure si accendono una dopo l'altra, linee e barre si disegnano. Dove il browser
    lo permette il movimento parte quando l'elemento entra nello schermo (animation-timeline: view()),
    altrimenti al caricamento. Con "riduci movimento" tutto resta fermo al valore finale. */
@@ -443,7 +555,7 @@ main { overflow-x: clip; }  /* la fascia a tutta larghezza non deve far scorrere
   content: ""; position: absolute; inset: 0; z-index: -1; pointer-events: none; opacity: .5;
   background: repeating-linear-gradient(180deg, rgba(255, 255, 255, .018) 0 1px, transparent 1px 4px);
 }
-.why--band { margin: 64px calc(50% - 50vw) 0; padding: 96px 0 76px; }
+.why--band { margin: 64px calc(50% - 50vw) 52px; padding: 96px 0 76px; }  /* sotto: il primo elemento delle colonne non ha margine sopra */
 .why--page { padding: 80px 0 72px; }
 .why-inner { max-width: var(--max); margin: 0 auto; padding: 0 16px; }
 @media (min-width: 700px) { .why-inner { padding: 0 24px; } }
@@ -456,7 +568,7 @@ html:is([lang="hi"], [lang="zh"], [lang="ja"]) :is(.why-kicker, .h-kicker, .kick
 .why-one { margin: 26px 0 0; font-size: clamp(1.15rem, 2.2vw, 1.5rem); font-weight: 700; color: #fff; }
 .why-range { margin: 18px 0 0; max-width: 40em; color: #c9c4b8; font-size: .95rem; }
 .people { display: flex; flex-wrap: wrap; gap: clamp(5px, 1.3vw, 14px); margin: 18px 0 6px; }
-/* Pio, 20/11/2026: la figura accesa si sposta, una sola alla volta (--k: ordine sparso, 2,4 s ciascuna); da
+/* Ideatore, 20/11/2026: la figura accesa si sposta, una sola alla volta (--k: ordine sparso, 2,4 s ciascuna); da
    ferma (riduci movimento) resta accesa quella di .person--lit */
 .people--n13 { --turn: why-turn-13; --cycle: 31.2s; }
 .people--n4 { --turn: why-turn-4; --cycle: 9.6s; }
@@ -536,7 +648,7 @@ html:is([lang="hi"], [lang="zh"], [lang="ja"]) :is(.why-kicker, .h-kicker, .kick
 .t-tick, .t-year { fill: var(--muted); font-size: 14px; }
 .t-area { fill: rgba(180, 71, 15, .12); animation: why-fade 1.2s ease-out both .4s; }
 .t-line { fill: none; stroke: var(--warm); stroke-width: 3.5; stroke-linejoin: round; stroke-linecap: round; stroke-dasharray: 1; animation: why-draw 2.2s cubic-bezier(.4, 0, .2, 1) both; }
-/* le linee tratteggiate scorrono verso il 2030 (Pio, 20/11/2026); sul punto di oggi un'onda tipo radar */
+/* le linee tratteggiate scorrono verso il 2030 (ideatore, 20/11/2026); sul punto di oggi un'onda tipo radar */
 .t-proj { stroke: var(--warm); stroke-width: 3; stroke-dasharray: .03 .025; opacity: .85; animation: why-fade .8s ease-out both 2s, why-flow 1.4s linear infinite; animation-play-state: running, var(--motion, running); }
 .t-goal { stroke: var(--accent); stroke-width: 2.5; stroke-dasharray: 6 6; animation: why-fade .8s ease-out both 2.4s, why-flow-goal 1s linear infinite; animation-play-state: running, var(--motion, running); }
 .t-ping { fill: none; stroke: var(--warm); stroke-width: 2.5; transform-box: fill-box; transform-origin: center; opacity: 0; animation: why-ping 2.6s ease-out 2.6s infinite; animation-play-state: var(--motion, running); }
@@ -574,7 +686,7 @@ html:is([lang="hi"], [lang="zh"], [lang="ja"]) :is(.why-kicker, .h-kicker, .kick
   animation-play-state: var(--motion, running);
 }
 
-/* movimento in testata e nelle schede (Pio: "un po' di movimento") */
+/* movimento in testata e nelle schede (ideatore: "un po' di movimento") */
 .hero-img { animation: why-drift 30s ease-in-out infinite alternate; transform-origin: 60% 40%; animation-play-state: var(--motion, running); }
 .why .cta--primary { animation: why-cta 2.8s ease-out 1.5s infinite; animation-play-state: var(--motion, running); }
 .hero-inner > * { animation: why-rise .9s cubic-bezier(.2, .7, .2, 1) both; }
@@ -607,7 +719,7 @@ html:is([lang="hi"], [lang="zh"], [lang="ja"]) :is(.why-kicker, .h-kicker, .kick
 
 @keyframes why-glow { to { transform: translate3d(5%, -4%, 0) scale(1.1); } }
 @keyframes why-pop { from { opacity: 0; transform: scale(.4) translateY(10px); } }
-/* Pio, 20/11/2026: mentre è accesa la figura si rimpicciolisce piano (la fame consuma); il bambino si abbassa,
+/* Ideatore, 20/11/2026: mentre è accesa la figura si rimpicciolisce piano (la fame consuma); il bambino si abbassa,
    come nella crescita stentata (troppo basso per l'età). Mai più di una accesa: il testo dice "una su 13". */
 @keyframes why-turn-13 {
   0%, 8.69%, 100% { fill: var(--dim); filter: none; translate: 0 0; scale: 1; }  /* si spegne mentre la prossima si accende */
@@ -633,7 +745,7 @@ html:is([lang="hi"], [lang="zh"], [lang="ja"]) :is(.why-kicker, .h-kicker, .kick
 @keyframes why-grow { from { transform: scaleX(0); } }
 @keyframes why-drift { from { transform: scale(1.02); } to { transform: scale(1.12) translate3d(-1.5%, -1%, 0); } }
 
-/* nastro scorrevole con i dati principali, appena sotto il menu (Pio, 20/11/2026), tipo telegiornale */
+/* nastro scorrevole con i dati principali, appena sotto il menu (ideatore, 20/11/2026), tipo telegiornale */
 .ticker-bar { position: relative; z-index: 10; display: flex; align-items: center; background: #0a110e; border-bottom: 1px solid #2a1a12; }
 .ticker { flex: 1; min-width: 0; overflow: hidden; padding: 11px 0; background: linear-gradient(90deg, rgba(255, 107, 61, .16), rgba(255, 107, 61, .06)); }
 .ticker-track { display: flex; width: max-content; animation: why-ticker 80s linear infinite; animation-play-state: var(--motion, running); }
@@ -643,8 +755,11 @@ html:is([lang="hi"], [lang="zh"], [lang="ja"]) :is(.why-kicker, .h-kicker, .kick
 .ticker span::before { content: "\25CF"; margin-right: 14px; color: #ff6b3d; font-size: .7em; vertical-align: .15em; }
 @media (max-width: 760px) { .ticker span { font-size: .88rem; } }
 
-/* interruttore "Ferma le animazioni" (WCAG 2.2.2), senza JavaScript: una casella; ferma solo i movimenti continui */
-html:has(.motion-toggle:checked) { --motion: paused; }
+/* interruttore "Ferma le animazioni" (WCAG 2.2.2), senza JavaScript: una casella; ferma solo i movimenti continui.
+   21/11/2026: le caselle sono due, una nel nastro (schermi da 960 px in su) e una nel menu del telefono, dove il
+   nastro non si mostra: per ogni larghezza vale solo quella che si vede, così l'interruttore dice sempre il vero. */
+@media (min-width: 960px) { html:has(.ticker-bar .motion-toggle:checked) { --motion: paused; } }
+@media (max-width: 959px) { html:has(.menu .motion-toggle:checked) { --motion: paused; } }
 .motion-toggle { position: absolute; width: 1px; height: 1px; margin: 0; opacity: 0; }
 .motion-label {
   flex: none; display: inline-flex; align-items: center; gap: 6px; margin: 0 10px; padding: 4px 11px;
@@ -655,9 +770,10 @@ html:has(.motion-toggle:checked) { --motion: paused; }
 .motion-toggle:focus-visible + .motion-label { outline: 3px solid #fff; outline-offset: 2px; }
 .m-play, .motion-toggle:checked + .motion-label .m-pause { display: none; }
 .motion-toggle:checked + .motion-label .m-play { display: inline; }
-@media (max-width: 600px) {  /* sul telefono solo il simbolo; il nome resta per i lettori di schermo */
-  .motion-label .m-text { position: absolute; width: 1px; height: 1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
-}
+/* nel menu del telefono (21/11/2026): una voce come le altre, su fondo chiaro, alta almeno 44 px */
+.menu-panel .motion-label { display: flex; margin: 6px 0 0; padding: 6px 12px; min-height: 44px; border: 0; border-top: 1px solid var(--line); border-radius: 0 0 8px 8px; background: none; color: var(--muted); font-size: .9rem; white-space: normal; }
+.menu-panel .motion-label:hover { background: var(--surface-2); color: var(--text); }
+.menu-panel .motion-toggle:focus-visible + .motion-label { outline-color: var(--accent); }
 
 @media (prefers-reduced-motion: reduce) {
   .why::before, .hero-img, .hero-inner > *, .stats .counter, .rv, .count, .pop, .person, .person--lit, .card,
@@ -665,4 +781,16 @@ html:has(.motion-toggle:checked) { --motion: paused; }
   .hbar-track i::after, .t-ping, .why .cta--primary, .ticker-track { animation: none !important; }
   .t-line { stroke-dashoffset: 0; }
   .ticker-bar, .t-ping, .hbar-track i::after { display: none; }  /* niente si muove: non servono */
+  .menu-panel .motion-toggle, .menu-panel .motion-label { display: none; }  /* né l'interruttore del menu */
 }
+
+/* ---------------------------------------------------------------- prima pagina (21/11/2026, revisione della strategia)
+   Ordine: testata, progetti del giorno, come funziona, fascia sulla fame (a tutta larghezza), poi autonomia,
+   trasparenza e aggiornamenti accanto alla squadra. Le prime due sezioni stanno sopra le colonne. */
+.home-sec + .home-sec { margin-top: 52px; }
+.home-sec > h2 { margin-top: 0; }
+.today > .note { margin: -6px 0 14px; max-width: 46em; }
+.today .more { margin-top: 20px; }
+.how .steps--how { grid-template-columns: 1fr; }
+@media (min-width: 560px) { .how .steps--how { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+@media (min-width: 1024px) { .page-body--team .how .steps--how { grid-template-columns: repeat(4, minmax(0, 1fr)); } }
