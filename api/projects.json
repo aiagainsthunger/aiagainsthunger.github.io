@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T09:04:32.842969+00:00",
+  "generated_at": "2026-11-22T10:04:34.680630+00:00",
   "projects": [
     {
       "slug": "support-rhode-island-community-food-bank-association-against-7548",
@@ -2678,7 +2678,34 @@
         "https://www.charitynavigator.org/ein/942960297"
       ],
       "waiting_counter": false,
-      "profile": {},
+      "profile": {
+        "en": {
+          "does": [
+            {
+              "text": "The food bank partners with local charities, pantries, and not-for-profits, providing them with food.",
+              "quote": "The food bank partners with and provides food to local charities, pantries and not for profits.",
+              "source": "https://alamedacountyindustries.com/wp-content/uploads/2020/10/Alameda-County-Food-Donation-Sites.pdf",
+              "by_org": true
+            },
+            {
+              "text": "The organization partners with the community in order to end hunger and its root causes.",
+              "quote": "We partner with our community to end hunger and its root causes.",
+              "source": "https://www.charitynavigator.org/ein/942960297",
+              "by_org": false
+            }
+          ],
+          "mission": "We partner with our community to end hunger and its root causes.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "The organization discloses its website on the tax form, promoting transparency and public access.",
+              "quote": "Website Reported on Tax Form:Yes SCORE100% Disclosing the charity’s website promotes transparency and provides access to the public.",
+              "source": "https://www.charitynavigator.org/ein/942960297",
+              "by_org": false
+            }
+          ]
+        }
+      },
       "safety": {
         "evaluator": "Charity Navigator",
         "stars": 4,
@@ -4528,7 +4555,7 @@
         "stars": 4,
         "score": 100,
         "rating_url": "https://www.charitynavigator.org/ein/273521132",
-        "rating_checked": "2026-11-15",
+        "rating_checked": "2026-11-22",
         "since": "2012",
         "registry_url": "https://projects.propublica.org/nonprofits/organizations/273521132",
         "filings": 14,
@@ -7868,7 +7895,7 @@
         "stars": 4,
         "score": 95,
         "rating_url": "https://www.charitynavigator.org/ein/810399818",
-        "rating_checked": "2026-11-15",
+        "rating_checked": "2026-11-22",
         "since": "1983",
         "registry_url": "https://projects.propublica.org/nonprofits/organizations/810399818",
         "filings": 13,
@@ -11443,7 +11470,7 @@
         "stars": 4,
         "score": 95,
         "rating_url": "https://www.charitynavigator.org/ein/526074723",
-        "rating_checked": "2026-11-15",
+        "rating_checked": "2026-11-22",
         "since": "1967",
         "registry_url": "https://projects.propublica.org/nonprofits/organizations/526074723",
         "filings": 13,
@@ -12704,7 +12731,7 @@
         "stars": 4,
         "score": 98,
         "rating_url": "https://www.charitynavigator.org/ein/202893390",
-        "rating_checked": "2026-11-15",
+        "rating_checked": "2026-11-22",
         "since": "2012",
         "registry_url": "https://projects.propublica.org/nonprofits/organizations/202893390",
         "filings": 15,
@@ -15225,9 +15252,9 @@
     "costs": {
       "USD": 8.5
     },
-    "ai_calls": 1907,
+    "ai_calls": 1909,
     "ai_cost_real_usd": 0.0,
-    "ai_value_offered_usd": 12.670169,
+    "ai_value_offered_usd": 12.672841,
     "candidates_examined": 93,
     "candidates_discarded": 51
   },
