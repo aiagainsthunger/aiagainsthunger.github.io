@@ -1,609 +1,6 @@
 {
-  "generated_at": "2026-11-21T22:04:35.046039+00:00",
+  "generated_at": "2026-11-22T07:43:24.948240+00:00",
   "projects": [
-    {
-      "slug": "support-our-daily-bread-food-pantry-against-hunger-5987",
-      "title": "Support Our Daily Bread Food Pantry against hunger",
-      "description": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'Every.org: food pantry'.",
-      "org_name": "Our Daily Bread Food Pantry",
-      "org_country": "US",
-      "org_website": "https://ourdailybreadfoodpantry.org/",
-      "country": "US",
-      "currency": "USD",
-      "goal": 5000.0,
-      "raised": 0.0,
-      "donated": 0.0,
-      "status": "attiva",
-      "donation_url": "https://www.every.org/our-daily-bread-food-pantry-3c49/f/ai-against-hunger-for",
-      "source_url": "https://www.charitynavigator.org/ein/832956050",
-      "approved_on": "2026-11-14",
-      "review_until": null,
-      "translations": {
-        "de": {
-          "text": "Organisation bewertet von Charity Navigator, gefunden von den Agenten mit: 'Every.org: food pantry'.",
-          "title": "Unterstützen Sie Our Daily Bread Food Pantry gegen den Hunger",
-          "source": "traduzione AI"
-        },
-        "en": {
-          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'Every.org: food pantry'.",
-          "title": "Support Our Daily Bread Food Pantry against hunger",
-          "source": "originale"
-        },
-        "es": {
-          "text": "Entidad evaluada por Charity Navigator, encontrada por los agentes con: 'Every.org: food pantry'.",
-          "title": "Apoya Our Daily Bread Food Pantry contra el hambre",
-          "source": "traduzione AI"
-        },
-        "fr": {
-          "text": "Organisation évaluée par Charity Navigator, trouvée par les agents avec : 'Every.org: food pantry'.",
-          "title": "Soutenez Our Daily Bread Food Pantry contre la faim",
-          "source": "traduzione AI"
-        },
-        "hi": {
-          "text": "Charity Navigator द्वारा मूल्यांकित संस्था, एजेंटों द्वारा पाया गया: 'Every.org: food pantry'.",
-          "title": "भूख के खिलाफ Our Daily Bread Food Pantry का समर्थन करें",
-          "source": "traduzione AI"
-        },
-        "it": {
-          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'Every.org: food pantry'.",
-          "title": "Sostieni Our Daily Bread Food Pantry contro la fame",
-          "source": "traduzione AI"
-        },
-        "ja": {
-          "text": "Charity Navigator によって評価された団体で、エージェントが次のように見つけました: 'Every.org: food pantry'.",
-          "title": "Our Daily Bread Food Pantry を飢餓から支援する",
-          "source": "traduzione AI"
-        },
-        "pt": {
-          "text": "Entidade avaliada pela Charity Navigator, encontrada pelos agentes com: 'Every.org: food pantry'.",
-          "title": "Apoie a Our Daily Bread Food Pantry contra a fome",
-          "source": "traduzione AI"
-        },
-        "ru": {
-          "text": "Организация, оцененная Charity Navigator, найденная агентами с: 'Every.org: food pantry'.",
-          "title": "Поддержите Our Daily Bread Food Pantry в борьбе с голодом",
-          "source": "traduzione AI"
-        },
-        "zh": {
-          "text": "该机构已获 Charity Navigator 评估，已被代理人通过：“Every.org: food pantry” 找到。",
-          "title": "支持 Our Daily Bread Food Pantry 对抗饥饿",
-          "source": "traduzione AI"
-        }
-      },
-      "tranches": [
-        {
-          "number": 1,
-          "goal": 2000.0,
-          "status": "aperta"
-        }
-      ],
-      "checks": [
-        {
-          "verifier": "regole",
-          "check_type": "ammissibilita",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Regole di ammissibilità (config/regole.yaml):\n✓ fonte ammessa: fonte 'valutatore'\n✓ ente registrato nel database: Our Daily Bread Food Pantry\n✓ codice fiscale verificato (IRS): EIN 832956050\n✓ ente valutato dal valutatore: Charity Navigator\n✓ voto del valutatore: 98%, 4 stelle su 4 (minimo 4 stelle e 90%)\n✓ anni di bilanci ufficiali: 5 anni [2019, 2020, 2021, 2022, 2023] (minimo 3)\n✓ tema fame / nutrizione: categoria IRS K31 (richiesta ['K3', 'K4']); tema nel nome: True; tema nella descrizione ufficiale: sì, \"food pantry\" in «Our Daily Bread Food Pantry exists to share the love of God by reducing hunger & building relationships in our community.» (Every.org, campo description: https://www.every.org/our-daily-bread-food-pantry-3c49; API https://partners.every.org/v0.2/nonprofit/832956050)",
-          "source_url": "https://www.charitynavigator.org/ein/832956050"
-        },
-        {
-          "verifier": "regole",
-          "check_type": "ammissibilita",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "✓ valutatore indipendente tra le prove: 1 pagine di valutatori (https://www.charitynavigator.org/ein/832956050); minimo 1",
-          "source_url": "https://www.charitynavigator.org/ein/832956050"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "registrazione",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "L'ente Our Daily Bread Food Pantry è ufficialmente registrato negli USA come organizzazione 501(c)(3) con EIN 832956050 e riconoscimento esenzione IRS in data 01/06/2019.",
-          "source_url": "https://www.charitynavigator.org/ein/832956050"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "bilanci",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Sono pubblici e consultabili i bilanci IRS (Form 990) per gli anni dal 2019 al 2023; nel 2023 l'ente ha registrato entrate per 6.031.873 USD e spese per 3.038.333 USD.",
-          "source_url": "https://www.charitynavigator.org/ein/832956050"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "valutazione_indipendente",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "L'ente è stato valutato dall'organismo indipendente Charity Navigator con un punteggio del 98% (4 stelle su 4).",
-          "source_url": "https://www.charitynavigator.org/ein/832956050"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "coerenza_importo",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "L'obiettivo di raccolta previsto di 5.000 USD è pienamente proporzionato e contenuto rispetto alla dimensione finanziaria dell'ente (oltre 6 milioni di USD di entrate nel 2023).",
-          "source_url": "https://www.charitynavigator.org/ein/832956050"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "storico_progetti",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "L'organizzazione opera dal 2019 fornendo servizi alimentari, banchi alimentari e programmi nutrizionali per bambini e anziani nella contea di Collier (Florida).",
-          "source_url": "https://www.charitynavigator.org/ein/832956050"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "segnali_allarme",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Non sono stati riscontrati segnali d'allarme riguardanti Our Daily Bread Food Pantry. Le notizie negative di irregolarità in E4 ed E5 si riferiscono a un'entità canadese distinta (Daily Bread Food Bank / Feed Scarborough a Toronto).",
-          "source_url": "https://www.charitynavigator.org/ein/832956050"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "conflitti_interesse",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun legame con gli sponsor registrati né con i legami noti dell'elenco dei conflitti (controllo del codice).",
-          "source_url": "config/conflitti.yaml"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "registrazione",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "L'ente è registrato come 501(c)(3) con EIN 832956050, sede a Marco Island, FL, confermato da Charity Navigator e dal registro IRS di ProPublica.",
-          "source_url": "https://www.charitynavigator.org/ein/832956050"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "bilanci",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Sono disponibili i moduli 990 per gli anni 2019‑2023 con dati di entrate e spese, scaricabili dal sito ProPublica.",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/832956050"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "valutazione_indipendente",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Charity Navigator, valutatore indipendente, assegna all'ente rating a quattro stelle (98% Complete Profile).",
-          "source_url": "https://www.charitynavigator.org/ein/832956050"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "coerenza_importo",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "L'importo richiesto (5 000 USD) è inferiore all'1 % delle entrate annuali (≈6 M USD nel 2023), quindi proporzionato all'attività dell'ente.",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/832956050"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "storico_progetti",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "L'ente opera da almeno il 2019, con programmi alimentari documentati nei 990 e nella scheda Charity Navigator, dimostrando una storia di progetti conclusi e rendicontati.",
-          "source_url": "https://www.charitynavigator.org/ein/832956050"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "segnali_allarme",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun segnale di allarme relativo all'ente; le notizie su Daily Bread Food Bank riguardano un'organizzazione canadese diversa, non Our Daily Bread Food Pantry.",
-          "source_url": "https://globalnews.ca/video/11610285/daily-bread-cuts-funding-from-scarborough-food-bank-over-allegations-of-financial-mismanagement"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "conflitti_interesse",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun legame con gli sponsor registrati né con i legami noti dell'elenco dei conflitti (controllo del codice).",
-          "source_url": "config/conflitti.yaml"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "registrazione",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "L'ente 'Our Daily Bread Food Pantry' è registrato come 501(c)(3) con EIN 832956050, riconosciuto dall'IRS il 01/06/2019. La sede è a Marco Island, FL.",
-          "source_url": "https://www.charitynavigator.org/ein/832956050"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "bilanci",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Sono disponibili i bilanci pubblici (Form 990) per gli anni 2019, 2020, 2021, 2022 e 2023 su ProPublica Nonprofit Explorer, con dati finanziari dettagliati (es. entrate 2023: $6.031.873).",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/832956050"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "valutazione_indipendente",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Charity Navigator, un valutatore indipendente riconosciuto, assegna all'ente una valutazione di 4 stelle (98%) e completa 4 su 4 'Beacons' (Accountability & Finance, Impact & Measurement, Leadership & Planning, Culture & Compensation).",
-          "source_url": "https://www.charitynavigator.org/ein/832956050"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "coerenza_importo",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "L'obiettivo di raccolta di 5.000 USD è estremamente coerente con le dimensioni dell'ente, che ha registrato entrate annuali di oltre 6 milioni di USD nel 2023. La somma richiesta è marginale rispetto alla capacità finanziaria dell'organizzazione.",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/832956050"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "storico_progetti",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "L'ente ha una storia documentata di attività continua dal 2019 (data di riconoscimento IRS) con bilanci annuali pubblicati. La missione specifica la fornitura di cibo a bambini, famiglie e anziani nella Contea di Collier, con programmi attivi come 'Healthy Kids School' e servizi per anziani.",
-          "source_url": "https://www.charitynavigator.org/ein/832956050"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "segnali_allarme",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun segnale d'allarme trovato per l'ente specifico 'Our Daily Bread Food Pantry' (EIN 832956050, Florida). Le prove E4 ed E5 riguardano un ente diverso ('Daily Bread Food Bank' di Toronto, Canada) coinvolto in una controversia con un'altra agenzia ('Feed Scarborough'); non c'è alcuna evidenza di legame tra questi enti e il candidato in esame. Il sito web dell'ente è attivo e i contatti sono standard (telefono, email, indirizzo fisico).",
-          "source_url": "https://www.charitynavigator.org/ein/832956050"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "conflitti_interesse",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun legame con gli sponsor registrati né con i legami noti dell'elenco dei conflitti (controllo del codice).",
-          "source_url": "config/conflitti.yaml"
-        }
-      ],
-      "sources": [
-        "https://globalnews.ca/video/11610285/daily-bread-cuts-funding-from-scarborough-food-bank-over-allegations-of-financial-mismanagement",
-        "https://projects.propublica.org/nonprofits/organizations/832956050",
-        "https://www.cbc.ca/news/canada/toronto/daily-bread-food-bank-feed-scarborough-9.7039918",
-        "https://www.cbinsights.com/company/charity-navigator",
-        "https://www.charitynavigator.org/ein/832956050",
-        "https://www.mapquest.com/us/massachusetts/daily-bread-food-pantry-84083"
-      ],
-      "waiting_counter": false,
-      "profile": {
-        "de": {
-          "does": [
-            {
-              "text": "Our Daily Bread Food Pantry reduziert Lebensmittelunsicherheit und verbessert die Gesundheit der Kinder, Familien und Senioren im Collier County, indem sie nahrhafte Lebensmitteloptionen, Ermutigung und Hoffnung bietet.",
-              "source": "https://www.charitynavigator.org/ein/832956050",
-              "by_org": false
-            },
-            {
-              "text": "Die Organisation arbeitet täglich mit Familien zusammen, die Lebensmittelunsicherheit auf Marco Island und im Collier County erleben, und erreicht Personen sowohl physisch als auch geografisch.",
-              "source": "https://ourdailybreadfoodpantry.org/",
-              "by_org": true
-            },
-            {
-              "text": "Die Speisekammer ist jede Woche auf Geld- und Lebensmittelspenden angewiesen, um wesentliche Artikel für die Gemeinschaft zu beschaffen.",
-              "source": "https://ourdailybreadfoodpantry.org/",
-              "by_org": true
-            }
-          ],
-          "mission": "OUR MISSION: Our Daily Bread Food Pantry (ODBFP) existiert, um die Liebe Gottes zu teilen, indem sie den Hunger für unsere bedürftigen Nachbarn reduziert. OUR VISION: Die Lebensmittelunsicherheit zu verringern und die Gesundheit der Kinder, Familien und Senioren im Collier County zu verbessern, indem starke Gemeinschaftspartnerschaften aufgebaut werden, um nahrhafte Lebensmitteloptionen, Ermutigung und Hoffnung zu bieten. Bitte beachten Sie, dass, obwohl viele unserer Freiwilligen durch ihren individuellen Glauben zum Dienst an anderen berufen sind, es keine religiöse Voraussetzung gibt, um Lebensmittel zu erhalten, und alle berechtigten Gäste mit Würde, Freundlichkeit und Respekt willkommen geheißen werden.",
-          "does_not": [],
-          "strengths": [
-            {
-              "text": "Die Speisekammer bedient die Gemeinschaft seit ten years, erweitert die Dienstleistungen für ernährungsunsichere Nachbarn auf Marco Island und im Collier County.",
-              "source": "https://ourdailybreadfoodpantry.org/who-we-are/",
-              "by_org": true
-            }
-          ]
-        },
-        "en": {
-          "does": [
-            {
-              "text": "Our Daily Bread Food Pantry reduces food insecurity and improves the health of Collier County children, families and seniors by offering nourishing food choices, encouragement, and hope.",
-              "quote": "To reduce food insecurity and improve the health of Collier County children, families and seniors by building strong community partnerships to offer nourishing food choices, encouragement, and hope.",
-              "source": "https://www.charitynavigator.org/ein/832956050",
-              "by_org": false
-            },
-            {
-              "text": "The organization engages daily with families experiencing food insecurity in Marco Island and Collier County, reaching individuals physically and geographically.",
-              "quote": "Working to wipe out hunger in Marco Island and Collier County, we engage daily with families who are experiencing food insecurity. Our programs reach individuals where they are, physically and geographically.",
-              "source": "https://ourdailybreadfoodpantry.org/",
-              "by_org": true
-            },
-            {
-              "text": "The pantry relies on monetary and food donations each and every week to procure essential items for the community.",
-              "quote": "Each and every week, the Pantry relies on monetary and food donations to procure essential items. Give in confidence knowing your donation goes directly towards the needs of our community.",
-              "source": "https://ourdailybreadfoodpantry.org/",
-              "by_org": true
-            }
-          ],
-          "mission": "OUR MISSION: Our Daily Bread Food Pantry (ODBFP) exists to share the love of God by reducing hunger for our neighbors in need. OUR VISION: To reduce food insecurity and improve the health of Collier County children, families and seniors by building strong community partnerships to offer nourishing food choices, encouragement, and hope. Please note that while many of our volunteers are called by their individual faiths to serve others, there is no religious requirement to receive food and all eligible guests are welcomed with dignity, kindness and respect.",
-          "does_not": [],
-          "strengths": [
-            {
-              "text": "The pantry has been serving the community for ten years, expanding services to food insecure neighbors in Marco Island and Collier County.",
-              "quote": "We have been honored to serve our community for ten years. Our volunteers, program partners, and generous investors have helped expand our services to food insecure neighbors, meeting the growing needs of Marco Island and Collier County.",
-              "source": "https://ourdailybreadfoodpantry.org/who-we-are/",
-              "by_org": true
-            }
-          ]
-        },
-        "es": {
-          "does": [
-            {
-              "text": "Our Daily Bread Food Pantry reduce la inseguridad alimentaria y mejora la salud de los niños, familias y adultos mayores del Condado de Collier al ofrecer opciones de alimentos nutritivos, aliento y esperanza.",
-              "source": "https://www.charitynavigator.org/ein/832956050",
-              "by_org": false
-            },
-            {
-              "text": "La organización se involucra diariamente con familias que experimentan inseguridad alimentaria en Marco Island y el Condado de Collier, alcanzando a individuos física y geográficamente.",
-              "source": "https://ourdailybreadfoodpantry.org/",
-              "by_org": true
-            },
-            {
-              "text": "La despensa depende de donaciones monetarias y de alimentos cada semana para adquirir artículos esenciales para la comunidad.",
-              "source": "https://ourdailybreadfoodpantry.org/",
-              "by_org": true
-            }
-          ],
-          "mission": "NUESTRA MISIÓN: Our Daily Bread Food Pantry (ODBFP) existe para compartir el amor de Dios reduciendo el hambre de nuestros vecinos necesitados. NUESTRA VISIÓN: Reducir la inseguridad alimentaria y mejorar la salud de los niños, familias y adultos mayores del Condado de Collier mediante la construcción de sólidas alianzas comunitarias para ofrecer opciones de alimentos nutritivos, aliento y esperanza. Tenga en cuenta que, aunque muchos de nuestros voluntarios son llamados por sus fe individual para servir a otros, no hay un requisito religioso para recibir alimentos y todos los invitados elegibles son recibidos con dignidad, amabilidad y respeto.",
-          "does_not": [],
-          "strengths": [
-            {
-              "text": "La despensa ha estado sirviendo a la comunidad for ten years, expandiendo servicios a vecinos con inseguridad alimentaria en Marco Island y el Condado de Collier.",
-              "source": "https://ourdailybreadfoodpantry.org/who-we-are/",
-              "by_org": true
-            }
-          ]
-        },
-        "fr": {
-          "does": [
-            {
-              "text": "Our Daily Bread Food Pantry réduit l'insécurité alimentaire et améliore la santé des enfants, des familles et des personnes âgées du comté de Collier en offrant des choix alimentaires nourrissants, de l'encouragement et de l'espoir.",
-              "source": "https://www.charitynavigator.org/ein/832956050",
-              "by_org": false
-            },
-            {
-              "text": "L'organisation s'engage quotidiennement avec les familles confrontées à l'insécurité alimentaire à Marco Island et dans le comté de Collier, atteignant les individus physiquement et géographiquement.",
-              "source": "https://ourdailybreadfoodpantry.org/",
-              "by_org": true
-            },
-            {
-              "text": "La pantry dépend chaque semaine des dons monétaires et alimentaires pour se procurer les articles essentiels pour la communauté.",
-              "source": "https://ourdailybreadfoodpantry.org/",
-              "by_org": true
-            }
-          ],
-          "mission": "OUR MISSION : Our Daily Bread Food Pantry (ODBFP) existe pour partager l'amour de Dieu en réduisant la faim de nos voisins dans le besoin. OUR VISION : Réduire l'insécurité alimentaire et améliorer la santé des enfants, des familles et des personnes âgées du comté de Collier en construisant de solides partenariats communautaires pour offrir des choix alimentaires nourrissants, de l'encouragement et de l'espoir. Veuillez noter que bien que beaucoup de nos bénévoles soient appelés par leurs convictions individuelles à servir les autres, il n'y a aucune exigence religieuse pour recevoir de la nourriture et tous les invités éligibles sont accueillis avec dignité, gentillesse et respect.",
-          "does_not": [],
-          "strengths": [
-            {
-              "text": "La pantry sert la communauté depuis ten years, élargissant les services aux voisins en situation d'insécurité alimentaire à Marco Island et dans le comté de Collier.",
-              "source": "https://ourdailybreadfoodpantry.org/who-we-are/",
-              "by_org": true
-            }
-          ]
-        },
-        "hi": {
-          "does": [
-            {
-              "text": "Our Daily Bread Food Pantry पोषक खाद्य विकल्प, प्रोत्साहन और आशा प्रदान करके Collier County के बच्चों, परिवारों और वरिष्ठों की खाद्य असुरक्षा को कम करता है और उनके स्वास्थ्य को सुधारता है।",
-              "source": "https://www.charitynavigator.org/ein/832956050",
-              "by_org": false
-            },
-            {
-              "text": "संगठन रोज़ाना Marco Island और Collier County में खाद्य असुरक्षा का सामना कर रहे परिवारों के साथ जुड़ता है, शारीरिक और भौगोलिक रूप से व्यक्तियों तक पहुंचता है।",
-              "source": "https://ourdailybreadfoodpantry.org/",
-              "by_org": true
-            },
-            {
-              "text": "पैंट्री समुदाय के लिए आवश्यक वस्तुओं को प्राप्त करने के लिए हर सप्ताह मौद्रिक और खाद्य दानों पर निर्भर करती है।",
-              "source": "https://ourdailybreadfoodpantry.org/",
-              "by_org": true
-            }
-          ],
-          "mission": "हमारा मिशन: Our Daily Bread Food Pantry (ODBFP) जरूरतमंद पड़ोसियों के लिए भूख कम करके भगवान के प्रेम को साझा करने के लिए मौजूद है। हमारा विज़न: Collier County के बच्चों, परिवारों और वरिष्ठों के स्वास्थ्य को सुधारने और खाद्य असुरक्षा को कम करने के लिए मजबूत सामुदायिक साझेदारियों का निर्माण करके पोषक खाद्य विकल्प, प्रोत्साहन और आशा प्रदान करना। कृपया ध्यान दें कि जबकि हमारे कई स्वयंसेवकों को उनके व्यक्तिगत विश्वासों द्वारा दूसरों की सेवा करने के लिए बुलाया जाता है, भोजन प्राप्त करने के लिए कोई धार्मिक आवश्यकता नहीं है और सभी पात्र अतिथियों का सम्मान, दया और सम्मान के साथ स्वागत किया जाता है।",
-          "does_not": [],
-          "strengths": [
-            {
-              "text": "पैंट्री ने ten years से समुदाय की सेवा की है, Marco Island और Collier County में खाद्य असुरक्षित पड़ोसियों के लिए सेवाओं का विस्तार किया है।",
-              "source": "https://ourdailybreadfoodpantry.org/who-we-are/",
-              "by_org": true
-            }
-          ]
-        },
-        "it": {
-          "does": [
-            {
-              "text": "Our Daily Bread Food Pantry riduce l'insicurezza alimentare e migliora la salute dei bambini, delle famiglie e degli anziani della Contea di Collier offrendo scelte alimentari nutrienti, incoraggiamento e speranza.",
-              "source": "https://www.charitynavigator.org/ein/832956050",
-              "by_org": false
-            },
-            {
-              "text": "L'organizzazione si impegna quotidianamente con le famiglie che vivono l'insicurezza alimentare a Marco Island e nella Contea di Collier, raggiungendo le persone sia fisicamente che geograficamente.",
-              "source": "https://ourdailybreadfoodpantry.org/",
-              "by_org": true
-            },
-            {
-              "text": "La mensa dipende da donazioni monetarie e alimentari ogni settimana per procurare articoli essenziali per la comunità.",
-              "source": "https://ourdailybreadfoodpantry.org/",
-              "by_org": true
-            }
-          ],
-          "mission": "LA NOSTRA MISSIONE: Our Daily Bread Food Pantry (ODBFP) esiste per condividere l'amore di Dio riducendo la fame per i nostri vicini bisognosi. LA NOSTRA VISIONE: Ridurre l'insicurezza alimentare e migliorare la salute dei bambini, delle famiglie e degli anziani della Contea di Collier costruendo solide partnership comunitarie per offrire scelte alimentari nutrienti, incoraggiamento e speranza. Si prega di notare che, sebbene molti dei nostri volontari siano chiamati dalle loro fedi individuali a servire gli altri, non vi è alcun requisito religioso per ricevere cibo e tutti gli ospiti idonei sono accolti con dignità, gentilezza e rispetto.",
-          "does_not": [],
-          "strengths": [
-            {
-              "text": "La mensa serve la comunità da dieci anni, ampliando i servizi ai vicini in difficoltà alimentare a Marco Island e nella Contea di Collier.",
-              "source": "https://ourdailybreadfoodpantry.org/who-we-are/",
-              "by_org": true
-            }
-          ]
-        },
-        "ja": {
-          "does": [
-            {
-              "text": "Our Daily Bread Food Pantry は、栄養価の高い食料選択肢、励まし、希望を提供することで、Collier County の子ども、家族、高齢者の食料不安を減らし、健康を向上させます。",
-              "source": "https://www.charitynavigator.org/ein/832956050",
-              "by_org": false
-            },
-            {
-              "text": "この組織は、Marco Island と Collier County で食料不安を抱える家族と日々関わり、身体的・地理的に個人に届くようにしています。",
-              "source": "https://ourdailybreadfoodpantry.org/",
-              "by_org": true
-            },
-            {
-              "text": "パントリーは、毎週、金銭と食料の寄付に頼って、地域のために必要な物資を調達しています。",
-              "source": "https://ourdailybreadfoodpantry.org/",
-              "by_org": true
-            }
-          ],
-          "mission": "私たちの使命：Our Daily Bread Food Pantry (ODBFP) は、困っている隣人の飢えを減らすことで神の愛を分かち合うことを目的としています。 私たちのビジョン：強固な地域パートナーシップを構築し、栄養価の高い食料選択肢、励まし、希望を提供することで、Collier County の子ども、家族、高齢者の食料不安を減らし、健康を向上させます。 ご留意ください。多くのボランティアはそれぞれの信仰に導かれて他者に奉仕していますが、食料を受け取る際に宗教的な条件はなく、すべての対象者は尊厳と親切、敬意をもって歓迎されます。",
-          "does_not": [],
-          "strengths": [
-            {
-              "text": "パントリーは、ten years にわたり地域にサービスを提供しており、Marco Island と Collier County の食料不安を抱える近隣住民へのサービスを拡大しています。",
-              "source": "https://ourdailybreadfoodpantry.org/who-we-are/",
-              "by_org": true
-            }
-          ]
-        },
-        "pt": {
-          "does": [
-            {
-              "text": "Our Daily Bread Food Pantry reduz a insegurança alimentar e melhora a saúde das crianças, famílias e idosos do Condado de Collier, oferecendo opções alimentares nutritivas, incentivo e esperança.",
-              "source": "https://www.charitynavigator.org/ein/832956050",
-              "by_org": false
-            },
-            {
-              "text": "A organização se envolve diariamente com famílias que enfrentam insegurança alimentar em Marco Island e no Condado de Collier, alcançando indivíduos física e geograficamente.",
-              "source": "https://ourdailybreadfoodpantry.org/",
-              "by_org": true
-            },
-            {
-              "text": "A despensa depende de doações monetárias e de alimentos todas as semanas para adquirir itens essenciais para a comunidade.",
-              "source": "https://ourdailybreadfoodpantry.org/",
-              "by_org": true
-            }
-          ],
-          "mission": "NOSS​A MISSÃO: Our Daily Bread Food Pantry (ODBFP) existe para compartilhar o amor de Deus reduzindo a fome de nossos vizinhos necessitados. NOSS​A VISÃO: Reduzir a insegurança alimentar e melhorar a saúde das crianças, famílias e idosos do Condado de Collier, construindo parcerias comunitárias fortes para oferecer opções alimentares nutritivas, incentivo e esperança. Observe que, embora muitos de nossos voluntários sejam motivados por suas crenças individuais a servir aos outros, não há requisito religioso para receber alimentos e todos os convidados elegíveis são recebidos com dignidade, bondade e respeito.",
-          "does_not": [],
-          "strengths": [
-            {
-              "text": "A despensa tem atendido a comunidade por ten years, expandindo serviços para vizinhos em situação de insegurança alimentar em Marco Island e no Condado de Collier.",
-              "source": "https://ourdailybreadfoodpantry.org/who-we-are/",
-              "by_org": true
-            }
-          ]
-        },
-        "ru": {
-          "does": [
-            {
-              "text": "Our Daily Bread Food Pantry снижает продовольственную небезопасность и улучшает здоровье детей, семей и пожилых людей округа Коллиер, предлагая питательные варианты пищи, поддержку и надежду.",
-              "source": "https://www.charitynavigator.org/ein/832956050",
-              "by_org": false
-            },
-            {
-              "text": "Организация ежедневно взаимодействует с семьями, сталкивающимися с продовольственной небезопасностью, на Marco Island и в округе Collier County, охватывая людей физически и географически.",
-              "source": "https://ourdailybreadfoodpantry.org/",
-              "by_org": true
-            },
-            {
-              "text": "Кладовая полагается на денежные и продовольственные пожертвования каждую неделю, чтобы приобретать необходимые товары для сообщества.",
-              "source": "https://ourdailybreadfoodpantry.org/",
-              "by_org": true
-            }
-          ],
-          "mission": "НАША МИССИЯ: Our Daily Bread Food Pantry (ODBFP) существует, чтобы делиться любовью Бога, уменьшая голод наших нуждающихся соседей. НАША ВИЗИЯ: Сократить продовольственную небезопасность и улучшить здоровье детей, семей и пожилых людей округа Коллиер, создавая прочные партнерства в сообществе для предложения питательных вариантов пищи, поддержки и надежды. Обратите внимание, что хотя многие наши волонтёры руководствуются своей индивидуальной верой, чтобы служить другим, нет религиозных требований для получения пищи, и все подходящие гости приветствуются с достоинством, добротой и уважением.",
-          "does_not": [],
-          "strengths": [
-            {
-              "text": "Кладовая обслуживает сообщество уже ten лет, расширяя услуги для соседей, сталкивающихся с продовольственной небезопасностью, на Marco Island и в округе Collier County.",
-              "source": "https://ourdailybreadfoodpantry.org/who-we-are/",
-              "by_org": true
-            }
-          ]
-        },
-        "zh": {
-          "does": [
-            {
-              "text": "Our Daily Bread Food Pantry 通过提供营养食品选择、鼓励和希望，减少食物不安全并改善 Collier County 儿童、家庭和老年人的健康。",
-              "source": "https://www.charitynavigator.org/ein/832956050",
-              "by_org": false
-            },
-            {
-              "text": "该组织每天与 Marco Island 和 Collier County 受食物不安全影响的家庭互动，实地和地域上接触个人。",
-              "source": "https://ourdailybreadfoodpantry.org/",
-              "by_org": true
-            },
-            {
-              "text": "该食品储藏室每周都依赖金钱和食品捐赠来采购社区所需的基本物资。",
-              "source": "https://ourdailybreadfoodpantry.org/",
-              "by_org": true
-            }
-          ],
-          "mission": "我们的使命：Our Daily Bread Food Pantry (ODBFP) 致力于通过减少有需要邻居的饥饿来分享上帝的爱。我们的愿景：通过建立强大的社区合作伙伴关系，提供营养食品选择、鼓励和希望，以减少食物不安全并改善 Collier County 儿童、家庭和老年人的健康。请注意，虽然我们的许多志愿者因各自的信仰而服务他人，但领取食物没有宗教要求，所有符合条件的来宾都将以尊严、善意和尊重的方式受到欢迎。",
-          "does_not": [],
-          "strengths": [
-            {
-              "text": "The pantry 已为社区服务了 ten years，扩大服务范围至 Marco Island 和 Collier County 的食物不安全邻居。",
-              "source": "https://ourdailybreadfoodpantry.org/who-we-are/",
-              "by_org": true
-            }
-          ]
-        }
-      },
-      "safety": {
-        "evaluator": "Charity Navigator",
-        "stars": 4,
-        "score": 98,
-        "rating_url": "https://www.charitynavigator.org/ein/832956050",
-        "rating_checked": "2026-11-20",
-        "since": "2019",
-        "registry_url": "https://projects.propublica.org/nonprofits/organizations/832956050",
-        "filings": 5,
-        "first_year": 2019,
-        "last_year": 2023,
-        "checks_passed": 18,
-        "verifiers": 3,
-        "unanimous": true,
-        "site": "ourdailybreadfoodpantry.org",
-        "official_host": "ourdailybreadfoodpantry.org",
-        "profile_claimed": true
-      },
-      "platform": "every.org",
-      "counter": {
-        "raised": "0",
-        "read_at": "2026-11-21T21:04:45.740921+00:00",
-        "currency": "USD",
-        "platform": "every.org",
-        "supporters": 0,
-        "raised_cents": 0,
-        "matches_cents": 0
-      },
-      "fundraiser_open": true,
-      "progress_pct": 0,
-      "donate": {
-        "recipient": "Our Daily Bread Food Pantry",
-        "url": "https://www.every.org/our-daily-bread-food-pantry-3c49/f/ai-against-hunger-for",
-        "money_goes_to": "Every.org, a US 501(c)(3) nonprofit, which grants it to the organization (unrestricted); this project never receives or holds money",
-        "counted_here_only_if": "shown in the public total of the fundraising page",
-        "status": "open",
-        "platform": "Every.org (US 501(c)(3) nonprofit; receipts tax-deductible only in the US)",
-        "public_total": {
-          "raised": "0",
-          "currency": "USD",
-          "people": 0,
-          "read_on": "2026-11-21"
-        },
-        "note": "Every.org suggests an optional tip to itself (sometimes preselected); it can be set to 0. Payment fees are deducted from what the organization receives."
-      }
-    },
     {
       "slug": "support-rhode-island-community-food-bank-association-against-7548",
       "title": "Support Rhode Island Community Food Bank Association against hunger",
@@ -12115,63 +11512,30 @@
       ],
       "waiting_counter": false,
       "profile": {
-        "de": {
-          "does": [
-            {
-              "text": "Die Organisation beschafft, verpackt und verteilt Lebensmittel über ein Netzwerk von fast 500 Partneragenturen in 12 Landkreisen von North Texas.",
-              "source": "https://www.charitynavigator.org/ein/751785357",
-              "by_org": false
-            },
-            {
-              "text": "Im FY25 verteilte die North Texas Food Bank 116 Millionen physische Mahlzeiten, von denen fast 106 Millionen nahrhaft waren.",
-              "source": "https://www.charitynavigator.org/ein/751785357",
-              "by_org": false
-            },
-            {
-              "text": "Die Organisation stellt Kindern, Senioren und Familien über verschiedene Direktlieferprogramme, einschließlich mobiler Tafeln, Lebensmittel zur Verfügung.",
-              "source": "https://www.charitynavigator.org/ein/751785357",
-              "by_org": false
-            },
-            {
-              "text": "Das Social Services Assistance Team ermöglichte im letzten Jahr mehr als 20 Millionen Mahlzeiten, indem es Nachbarn half, SNAP-Leistungen zu beantragen.",
-              "source": "https://www.northtexasgivingday.org/organization/northtexasfoodbank",
-              "by_org": false
-            }
-          ],
-          "mission": "Die North Texas Food Bank (NTFB) ist eine hochrangige gemeinnützige Hungerhilfe-Organisation, die Lebensmittel über ein Netzwerk von fast 500 Partneragenturen und Organisationen in 12 Landkreisen von North Texas beschafft, verpackt und verteilt. Die Organisation stellt auch Kindern, Senioren und Familien über verschiedene Direktlieferprogramme, einschließlich mobiler Tafeln, Lebensmittel zur Verfügung. Im FY25 verteilte die North Texas Food Bank 116 Millionen physische Mahlzeiten, von denen fast 106 Millionen nahrhaft waren. Zusätzlich ermöglichte das Social Services Assistance Team von NTFB 20.6 Millionen Mahlzeiten durch das Supplemental Nutrition Assistance Program (SNAP). NTFB ist Mitglied von Feeding America, der größten Hungerhilfe-Organisation des Landes.",
-          "does_not": [],
-          "strengths": [
-            {
-              "text": "Direkt gehen 94 Prozent der Ressourcen der Organisation in Hungerhilfe-Programme.",
-              "source": "https://www.northtexasgivingday.org/organization/northtexasfoodbank",
-              "by_org": false
-            }
-          ]
-        },
         "en": {
           "does": [
             {
-              "text": "The organization sources, packages and distributes food through a network of nearly 500 partner agencies across 12 North Texas counties.",
+              "text": "The organization sources, packages, and distributes food through a network of nearly 500 partner agencies across 12 North Texas counties.",
               "quote": "The North Texas Food Bank (NTFB) is a top-ranked non-profit hunger-relief organization that sources, packages and distributes food through a network of nearly 500 Partner Agencies and organizations across 12 North Texas counties.",
               "source": "https://www.charitynavigator.org/ein/751785357",
               "by_org": false
             },
             {
-              "text": "In FY25, the North Texas Food Bank distributed 116 million physical meals, of which nearly 106 million were nutritious.",
-              "quote": "In FY25 the North Texas Food Bank distributed 116 million physical meals, of which nearly 106 million were nutritious.",
-              "source": "https://www.charitynavigator.org/ein/751785357",
-              "by_org": false
-            },
-            {
-              "text": "The organization provides food to children, seniors and families through various direct-delivery programs, including mobile pantries.",
+              "text": "It provides food assistance to children, seniors, and families through direct-delivery programs including mobile pantries.",
               "quote": "The organization also provides food to children, seniors and families through various direct-delivery programs, including mobile pantries.",
               "source": "https://www.charitynavigator.org/ein/751785357",
               "by_org": false
             },
             {
-              "text": "The Social Services Assistance team enabled more than 20 million meals last year by helping neighbors apply for SNAP benefits.",
-              "quote": "Our Social Services Assistance team also enabled more than 20 million meals last year through the Supplemental Nutrition Assistance Program)(SNAP), for which they help neighbors apply.",
-              "source": "https://www.northtexasgivingday.org/organization/northtexasfoodbank",
+              "text": "In FY25, the food bank distributed 116 million physical meals, including nearly 106 million nutritious meals.",
+              "quote": "In FY25 the North Texas Food Bank distributed 116 million physical meals, of which nearly 106 million were nutritious.",
+              "source": "https://www.charitynavigator.org/ein/751785357",
+              "by_org": false
+            },
+            {
+              "text": "Its Social Services Assistance team enabled 20.6 million meals through the Supplemental Nutrition Assistance Program.",
+              "quote": "Additionally, NTFB’s Social Services Assistance team enabled 20.6 million meals through the Supplemental Nutrition Assistance Program (SNAP).",
+              "source": "https://www.charitynavigator.org/ein/751785357",
               "by_org": false
             }
           ],
@@ -12179,274 +11543,16 @@
           "does_not": [],
           "strengths": [
             {
-              "text": "Directly 94 percent of the organization's resources go to hunger relief programs.",
-              "quote": "Every dollar donated to North Texas Food Bank provides access to three (3) healthy meals for North Texas families experiencing hunger, and 94 percent of our resources go directly to hunger relief programs.",
-              "source": "https://www.northtexasgivingday.org/organization/northtexasfoodbank",
-              "by_org": false
-            }
-          ]
-        },
-        "es": {
-          "does": [
-            {
-              "text": "La organización adquiere, empaqueta y distribuye alimentos a través de una red de casi 500 agencias asociadas en los 12 condados del norte de Texas.",
-              "source": "https://www.charitynavigator.org/ein/751785357",
-              "by_org": false
+              "text": "The organization has been operating since 1982, distributing food through a network of nearly 500 partner agencies in 12 counties.",
+              "quote": "Founded in 1982, the North Texas Food Bank (NTFB) is a nonprofit hunger relief organization that distributes donated and purchased foods through a network of nearly 500 Partner Agencies and Organizations in 12 counties.",
+              "source": "https://ntfb.org/about-us/",
+              "by_org": true
             },
             {
-              "text": "En el FY25, North Texas Food Bank distribuyó 116 millones de comidas físicas, de los cuales casi 106 millones fueron nutritivas.",
-              "source": "https://www.charitynavigator.org/ein/751785357",
-              "by_org": false
-            },
-            {
-              "text": "La organización brinda alimentos a niños, personas mayores y familias mediante varios programas de entrega directa, incluidos los despensas móviles.",
-              "source": "https://www.charitynavigator.org/ein/751785357",
-              "by_org": false
-            },
-            {
-              "text": "El equipo de Asistencia de Servicios Sociales facilitó más de 20 millones de comidas el año pasado al ayudar a los vecinos a solicitar los beneficios de SNAP.",
-              "source": "https://www.northtexasgivingday.org/organization/northtexasfoodbank",
-              "by_org": false
-            }
-          ],
-          "mission": "North Texas Food Bank (NTFB) es una organización sin fines de lucro de primera categoría en la lucha contra el hambre que adquiere, empaqueta y distribuye alimentos a través de una red de casi 500 agencias asociadas y organizaciones en los 12 condados del norte de Texas. La organización también brinda alimentos a niños, personas mayores y familias mediante varios programas de entrega directa, incluidos los despensas móviles. En el FY25 North Texas Food Bank distribuyó 116 millones de comidas físicas, de los cuales casi 106 millones fueron nutritivas. Además, el equipo de Asistencia de Servicios Sociales de NTFB facilitó 20.6 millones de comidas a través del Programa de Asistencia Nutricional Suplementaria (SNAP). NTFB es miembro de Feeding America, la organización de ayuda contra el hambre más grande del país.",
-          "does_not": [],
-          "strengths": [
-            {
-              "text": "Directamente, el 94 por ciento de los recursos de la organización se destinan a programas de ayuda contra el hambre.",
-              "source": "https://www.northtexasgivingday.org/organization/northtexasfoodbank",
-              "by_org": false
-            }
-          ]
-        },
-        "fr": {
-          "does": [
-            {
-              "text": "L'organisation approvisionne, emballe et distribue des aliments via un réseau d'environ 500 agences partenaires dans les 12 comtés du Nord du Texas.",
-              "source": "https://www.charitynavigator.org/ein/751785357",
-              "by_org": false
-            },
-            {
-              "text": "Au cours de FY25, North Texas Food Bank a distribué 116 million de repas physiques, dont près de 106 million étaient nutritifs.",
-              "source": "https://www.charitynavigator.org/ein/751785357",
-              "by_org": false
-            },
-            {
-              "text": "L'organisation fournit de la nourriture aux enfants, aux personnes âgées et aux familles grâce à divers programmes de distribution directe, y compris les épiceries mobiles.",
-              "source": "https://www.charitynavigator.org/ein/751785357",
-              "by_org": false
-            },
-            {
-              "text": "L'équipe d'Aide aux Services Sociaux a permis plus de 20 million de repas l'année dernière en aidant les voisins à demander les prestations SNAP.",
-              "source": "https://www.northtexasgivingday.org/organization/northtexasfoodbank",
-              "by_org": false
-            }
-          ],
-          "mission": "North Texas Food Bank (NTFB) est une organisation à but non lucratif de premier rang dans la lutte contre la faim qui approvisionne, emballe et distribue des aliments via un réseau d'environ 500 agences partenaires et organisations dans les 12 comtés du Nord du Texas. L'organisation fournit également de la nourriture aux enfants, aux personnes âgées et aux familles grâce à divers programmes de distribution directe, y compris les épiceries mobiles. Au cours de FY25, North Texas Food Bank a distribué 116 million de repas physiques, dont près de 106 million étaient nutritifs. De plus, l'équipe d'Aide aux Services Sociaux de NTFB a permis 20.6 million de repas grâce au Programme d'Assistance Nutritionnelle Supplémentaire (SNAP). NTFB est membre de Feeding America, la plus grande organisation de lutte contre la faim du pays.",
-          "does_not": [],
-          "strengths": [
-            {
-              "text": "Directement, 94 pour cent des ressources de l'organisation sont allouées aux programmes de lutte contre la faim.",
-              "source": "https://www.northtexasgivingday.org/organization/northtexasfoodbank",
-              "by_org": false
-            }
-          ]
-        },
-        "hi": {
-          "does": [
-            {
-              "text": "संगठन लगभग 500 पार्टनर एजेंसियों के नेटवर्क के माध्यम से 12 नॉर्थ टेक्सास काउंटियों में खाद्य सामग्री स्रोत, पैकेज और वितरित करता है।",
-              "source": "https://www.charitynavigator.org/ein/751785357",
-              "by_org": false
-            },
-            {
-              "text": "FY25 में, North Texas Food Bank ने 116 मिलियन शारीरिक भोजन वितरित किए, जिनमें से लगभग 106 मिलियन पोषक थे।",
-              "source": "https://www.charitynavigator.org/ein/751785357",
-              "by_org": false
-            },
-            {
-              "text": "संगठन विभिन्न प्रत्यक्ष-डिलीवरी कार्यक्रमों के माध्यम से, जिसमें मोबाइल पैंट्री शामिल हैं, बच्चों, वरिष्ठ नागरिकों और परिवारों को भोजन प्रदान करता है।",
-              "source": "https://www.charitynavigator.org/ein/751785357",
-              "by_org": false
-            },
-            {
-              "text": "Social Services Assistance टीम ने पिछले वर्ष पड़ोसियों को SNAP लाभ के लिए आवेदन करने में मदद करके 20 मिलियन से अधिक भोजन सक्षम किए।",
-              "source": "https://www.northtexasgivingday.org/organization/northtexasfoodbank",
-              "by_org": false
-            }
-          ],
-          "mission": "North Texas Food Bank (NTFB) एक शीर्ष-रैंक वाला गैर-लाभकारी भूख-राहत संगठन है जो लगभग 500 पार्टनर एजेंसियों और 12 नॉर्थ टेक्सास काउंटियों में स्थित संगठनों के नेटवर्क के माध्यम से खाद्य सामग्री स्रोत, पैकेज और वितरित करता है। संगठन बच्चों, वरिष्ठ नागरिकों और परिवारों को विभिन्न प्रत्यक्ष-डिलीवरी कार्यक्रमों के माध्यम से, जिसमें मोबाइल पैंट्री शामिल हैं, भोजन प्रदान करता है। FY25 में North Texas Food Bank ने 116 मिलियन शारीरिक भोजन वितरित किए, जिनमें से लगभग 106 मिलियन पोषक थे। अतिरिक्त रूप से, NTFB की Social Services Assistance टीम ने Supplemental Nutrition Assistance Program (SNAP) के माध्यम से 20.6 मिलियन भोजन सक्षम किए। NTFB Feeding America का सदस्य है, जो राष्ट्र का सबसे बड़ा भूख-राहत संगठन है।",
-          "does_not": [],
-          "strengths": [
-            {
-              "text": "संगठन के संसाधनों में से सीधे 94 प्रतिशत भूख राहत कार्यक्रमों में जाते हैं।",
-              "source": "https://www.northtexasgivingday.org/organization/northtexasfoodbank",
-              "by_org": false
-            }
-          ]
-        },
-        "it": {
-          "does": [
-            {
-              "text": "L'organizzazione approvvigiona, confeziona e distribuisce cibo attraverso una rete di quasi 500 agenzie partner in 12 contee del Nord Texas.",
-              "source": "https://www.charitynavigator.org/ein/751785357",
-              "by_org": false
-            },
-            {
-              "text": "Nell'FY25, il North Texas Food Bank ha distribuito 116 milioni di pasti fisici, di cui quasi 106 milioni erano nutrienti.",
-              "source": "https://www.charitynavigator.org/ein/751785357",
-              "by_org": false
-            },
-            {
-              "text": "L'organizzazione fornisce cibo a bambini, anziani e famiglie tramite vari programmi di consegna diretta, inclusi i pantries mobili.",
-              "source": "https://www.charitynavigator.org/ein/751785357",
-              "by_org": false
-            },
-            {
-              "text": "Il team Social Services Assistance ha permesso più di 20 milioni di pasti lo scorso anno aiutando i vicini a richiedere i benefici SNAP.",
-              "source": "https://www.northtexasgivingday.org/organization/northtexasfoodbank",
-              "by_org": false
-            }
-          ],
-          "mission": "The North Texas Food Bank (NTFB) è un'organizzazione non profit di primo livello per la lotta alla fame che approvvigiona, confeziona e distribuisce cibo attraverso una rete di quasi 500 agenzie partner e organizzazioni in 12 contee del Nord Texas. L'organizzazione fornisce anche cibo a bambini, anziani e famiglie tramite vari programmi di consegna diretta, inclusi i pantries mobili. Nell'FY25 il North Texas Food Bank ha distribuito 116 milioni di pasti fisici, di cui quasi 106 milioni erano nutrienti. Inoltre, il team Social Services Assistance di NTFB ha permesso 20.6 milioni di pasti attraverso il Supplemental Nutrition Assistance Program (SNAP). NTFB è membro di Feeding America, la più grande organizzazione nazionale di lotta alla fame.",
-          "does_not": [],
-          "strengths": [
-            {
-              "text": "Direttamente il 94 percento delle risorse dell'organizzazione va ai programmi di lotta alla fame.",
-              "source": "https://www.northtexasgivingday.org/organization/northtexasfoodbank",
-              "by_org": false
-            }
-          ]
-        },
-        "ja": {
-          "does": [
-            {
-              "text": "組織は、12のノーステキサス郡にわたるほぼ500のパートナーエージェンシーのネットワークを通じて食料を調達、包装、配布しています。",
-              "source": "https://www.charitynavigator.org/ein/751785357",
-              "by_org": false
-            },
-            {
-              "text": "FY25にNorth Texas Food Bankは116 millionの実体食事を配布し、そのうちほぼ106 millionは栄養価が高いものでした。",
-              "source": "https://www.charitynavigator.org/ein/751785357",
-              "by_org": false
-            },
-            {
-              "text": "組織は、モバイルパントリーを含むさまざまな直接配達プログラムを通じて、子ども、高齢者、家族に食料を提供しています。",
-              "source": "https://www.charitynavigator.org/ein/751785357",
-              "by_org": false
-            },
-            {
-              "text": "ソーシャルサービス支援チームは、近隣住民がSNAP給付を申請するのを支援することで、20 million以上の食事を昨年実現しました。",
-              "source": "https://www.northtexasgivingday.org/organization/northtexasfoodbank",
-              "by_org": false
-            }
-          ],
-          "mission": "North Texas Food Bank（NTFB）は、トップクラスの非営利飢餓救済組織で、12のノーステキサス郡にわたるほぼ500のパートナーエージェンシーと組織のネットワークを通じて食料を調達、包装、配布しています。組織はまた、モバイルパントリーを含むさまざまな直接配達プログラムを通じて、子ども、高齢者、家族に食料を提供しています。FY25にNorth Texas Food Bankは116 millionの実体食事を配布し、そのうちほぼ106 millionは栄養価が高いものでした。さらに、NTFBのソーシャルサービス支援チームは、Supplemental Nutrition Assistance Program（SNAP）を通じて20.6 million食を実現しました。NTFBは、国内最大の飢餓救済組織であるFeeding Americaのメンバーです。",
-          "does_not": [],
-          "strengths": [
-            {
-              "text": "組織のリソースのうち94パーセントが直接飢餓救済プログラムに充てられています。",
-              "source": "https://www.northtexasgivingday.org/organization/northtexasfoodbank",
-              "by_org": false
-            }
-          ]
-        },
-        "pt": {
-          "does": [
-            {
-              "text": "A organização obtém, embala e distribui alimentos através de uma rede de quase 500 partner agencies em 12 condados do Norte do Texas.",
-              "source": "https://www.charitynavigator.org/ein/751785357",
-              "by_org": false
-            },
-            {
-              "text": "No FY25, o North Texas Food Bank distribuiu 116 milhões de refeições físicas, das quais quase 106 milhões foram nutritivas.",
-              "source": "https://www.charitynavigator.org/ein/751785357",
-              "by_org": false
-            },
-            {
-              "text": "A organização fornece alimentos a crianças, idosos e famílias por meio de vários programas de entrega direta, incluindo mobile pantries.",
-              "source": "https://www.charitynavigator.org/ein/751785357",
-              "by_org": false
-            },
-            {
-              "text": "A equipe de Social Services Assistance possibilitou mais de 20 milhões de refeições no ano passado ao ajudar vizinhos a solicitar benefícios do SNAP.",
-              "source": "https://www.northtexasgivingday.org/organization/northtexasfoodbank",
-              "by_org": false
-            }
-          ],
-          "mission": "O North Texas Food Bank (NTFB) é uma organização sem fins lucrativos de combate à fome, classificada entre as melhores, que obtém, embala e distribui alimentos através de uma rede de quase 500 Partner Agencies e organizações em 12 condados do Norte do Texas. A organização também fornece alimentos a crianças, idosos e famílias por meio de vários programas de entrega direta, incluindo mobile pantries. No FY25 o North Texas Food Bank distribuiu 116 milhões de refeições físicas, das quais quase 106 milhões foram nutritivas. Além disso, a equipe de Social Services Assistance da NTFB possibilitou 20.6 milhões de refeições através do Supplemental Nutrition Assistance Program (SNAP). A NTFB é membro da Feeding America, a maior organização de combate à fome do país.",
-          "does_not": [],
-          "strengths": [
-            {
-              "text": "Diretamente, 94 por cento dos recursos da organização vão para programas de combate à fome.",
-              "source": "https://www.northtexasgivingday.org/organization/northtexasfoodbank",
-              "by_org": false
-            }
-          ]
-        },
-        "ru": {
-          "does": [
-            {
-              "text": "Организация закупает, упаковывает и распределяет продовольствие через сеть почти 500 партнёрских агентств в 12 округах Северного Техаса.",
-              "source": "https://www.charitynavigator.org/ein/751785357",
-              "by_org": false
-            },
-            {
-              "text": "В FY25 North Texas Food Bank распределил 116 миллионов физических приёмов пищи, из которых почти 106 миллионов были питательными.",
-              "source": "https://www.charitynavigator.org/ein/751785357",
-              "by_org": false
-            },
-            {
-              "text": "Организация предоставляет продовольствие детям, пожилым людям и семьям через различные программы прямой доставки, включая мобильные продовольственные пункты.",
-              "source": "https://www.charitynavigator.org/ein/751785357",
-              "by_org": false
-            },
-            {
-              "text": "Команда Social Services Assistance обеспечила более 20 миллионов приёмов пищи в прошлом году, помогая соседям подавать заявки на льготы SNAP.",
-              "source": "https://www.northtexasgivingday.org/organization/northtexasfoodbank",
-              "by_org": false
-            }
-          ],
-          "mission": "North Texas Food Bank (NTFB) — это высоко оценённая некоммерческая организация по борьбе с голодом, которая закупает, упаковывает и распределяет продовольствие через сеть почти 500 партнёрских агентств и организаций в 12 округах Северного Техаса. Организация также предоставляет продовольствие детям, пожилым людям и семьям через различные программы прямой доставки, включая мобильные продовольственные пункты. В FY25 North Texas Food Bank распределил 116 миллионов физических приёмов пищи, из которых почти 106 миллионов были питательными. Кроме того, команда Social Services Assistance NTFB обеспечила 20,6 миллионов приёмов пищи через Программу дополнительной продовольственной помощи (SNAP). NTFB является членом Feeding America, крупнейшей в стране организации по борьбе с голодом.",
-          "does_not": [],
-          "strengths": [
-            {
-              "text": "Прямо 94 процента ресурсов организации идут на программы борьбы с голодом.",
-              "source": "https://www.northtexasgivingday.org/organization/northtexasfoodbank",
-              "by_org": false
-            }
-          ]
-        },
-        "zh": {
-          "does": [
-            {
-              "text": "该组织通过遍及12个北德克萨斯县的近500家合作机构网络采购、包装和分发食品。",
-              "source": "https://www.charitynavigator.org/ein/751785357",
-              "by_org": false
-            },
-            {
-              "text": "在FY25，North Texas Food Bank分发了116 million实体餐食，其中近106 million是营养餐。",
-              "source": "https://www.charitynavigator.org/ein/751785357",
-              "by_org": false
-            },
-            {
-              "text": "该组织通过各种直接配送项目，包括流动食品柜，为儿童、老年人和家庭提供食品。",
-              "source": "https://www.charitynavigator.org/ein/751785357",
-              "by_org": false
-            },
-            {
-              "text": "Social Services Assistance团队通过帮助邻居申请SNAP福利，使去年超过20 million餐食得以实现。",
-              "source": "https://www.northtexasgivingday.org/organization/northtexasfoodbank",
-              "by_org": false
-            }
-          ],
-          "mission": "North Texas Food Bank（NTFB）是一家排名靠前的非营利性饥饿救助组织，通过遍及12个北德克萨斯县的近500家Partner Agencies和组织网络采购、包装和分发食品。该组织还通过各种直接配送项目，包括流动食品柜，为儿童、老年人和家庭提供食品。在FY25，North Texas Food Bank分发了116 million实体餐食，其中近106 million是营养餐。此外，NTFB的Social Services Assistance团队通过Supplemental Nutrition Assistance Program（SNAP）提供了20.6 million餐食。North Texas Food Bank是Feeding America的成员，后者是全国最大的饥饿救助组织。",
-          "does_not": [],
-          "strengths": [
-            {
-              "text": "组织的资源中直接有94%用于饥饿救助项目。",
-              "source": "https://www.northtexasgivingday.org/organization/northtexasfoodbank",
-              "by_org": false
+              "text": "It operates an Ethics and Compliance Hotline 24 hours a day, 7 days a week through an independent third-party provider.",
+              "quote": "The Ethics and Compliance Hotline operates 24 hours a day, 7 days a week and is run by an independent, third-party provider called EthicsPoint.",
+              "source": "https://ntfb.org/wp-content/uploads/2025/05/Grievance-Policy-and-Procedures.pdf",
+              "by_org": true
             }
           ]
         }
@@ -13702,6 +12808,609 @@
         },
         "note": "Every.org suggests an optional tip to itself (sometimes preselected); it can be set to 0. Payment fees are deducted from what the organization receives."
       }
+    },
+    {
+      "slug": "support-our-daily-bread-food-pantry-against-hunger-5987",
+      "title": "Support Our Daily Bread Food Pantry against hunger",
+      "description": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'Every.org: food pantry'.",
+      "org_name": "Our Daily Bread Food Pantry",
+      "org_country": "US",
+      "org_website": "https://ourdailybreadfoodpantry.org/",
+      "country": "US",
+      "currency": "USD",
+      "goal": 5000.0,
+      "raised": 0.0,
+      "donated": 0.0,
+      "status": "attiva",
+      "donation_url": "https://www.every.org/our-daily-bread-food-pantry-3c49/f/ai-against-hunger-for",
+      "source_url": "https://www.charitynavigator.org/ein/832956050",
+      "approved_on": "2026-11-14",
+      "review_until": null,
+      "translations": {
+        "de": {
+          "text": "Organisation bewertet von Charity Navigator, gefunden von den Agenten mit: 'Every.org: food pantry'.",
+          "title": "Unterstützen Sie Our Daily Bread Food Pantry gegen den Hunger",
+          "source": "traduzione AI"
+        },
+        "en": {
+          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'Every.org: food pantry'.",
+          "title": "Support Our Daily Bread Food Pantry against hunger",
+          "source": "originale"
+        },
+        "es": {
+          "text": "Entidad evaluada por Charity Navigator, encontrada por los agentes con: 'Every.org: food pantry'.",
+          "title": "Apoya Our Daily Bread Food Pantry contra el hambre",
+          "source": "traduzione AI"
+        },
+        "fr": {
+          "text": "Organisation évaluée par Charity Navigator, trouvée par les agents avec : 'Every.org: food pantry'.",
+          "title": "Soutenez Our Daily Bread Food Pantry contre la faim",
+          "source": "traduzione AI"
+        },
+        "hi": {
+          "text": "Charity Navigator द्वारा मूल्यांकित संस्था, एजेंटों द्वारा पाया गया: 'Every.org: food pantry'.",
+          "title": "भूख के खिलाफ Our Daily Bread Food Pantry का समर्थन करें",
+          "source": "traduzione AI"
+        },
+        "it": {
+          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'Every.org: food pantry'.",
+          "title": "Sostieni Our Daily Bread Food Pantry contro la fame",
+          "source": "traduzione AI"
+        },
+        "ja": {
+          "text": "Charity Navigator によって評価された団体で、エージェントが次のように見つけました: 'Every.org: food pantry'.",
+          "title": "Our Daily Bread Food Pantry を飢餓から支援する",
+          "source": "traduzione AI"
+        },
+        "pt": {
+          "text": "Entidade avaliada pela Charity Navigator, encontrada pelos agentes com: 'Every.org: food pantry'.",
+          "title": "Apoie a Our Daily Bread Food Pantry contra a fome",
+          "source": "traduzione AI"
+        },
+        "ru": {
+          "text": "Организация, оцененная Charity Navigator, найденная агентами с: 'Every.org: food pantry'.",
+          "title": "Поддержите Our Daily Bread Food Pantry в борьбе с голодом",
+          "source": "traduzione AI"
+        },
+        "zh": {
+          "text": "该机构已获 Charity Navigator 评估，已被代理人通过：“Every.org: food pantry” 找到。",
+          "title": "支持 Our Daily Bread Food Pantry 对抗饥饿",
+          "source": "traduzione AI"
+        }
+      },
+      "tranches": [
+        {
+          "number": 1,
+          "goal": 2000.0,
+          "status": "aperta"
+        }
+      ],
+      "checks": [
+        {
+          "verifier": "regole",
+          "check_type": "ammissibilita",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Regole di ammissibilità (config/regole.yaml):\n✓ fonte ammessa: fonte 'valutatore'\n✓ ente registrato nel database: Our Daily Bread Food Pantry\n✓ codice fiscale verificato (IRS): EIN 832956050\n✓ ente valutato dal valutatore: Charity Navigator\n✓ voto del valutatore: 98%, 4 stelle su 4 (minimo 4 stelle e 90%)\n✓ anni di bilanci ufficiali: 5 anni [2019, 2020, 2021, 2022, 2023] (minimo 3)\n✓ tema fame / nutrizione: categoria IRS K31 (richiesta ['K3', 'K4']); tema nel nome: True; tema nella descrizione ufficiale: sì, \"food pantry\" in «Our Daily Bread Food Pantry exists to share the love of God by reducing hunger & building relationships in our community.» (Every.org, campo description: https://www.every.org/our-daily-bread-food-pantry-3c49; API https://partners.every.org/v0.2/nonprofit/832956050)",
+          "source_url": "https://www.charitynavigator.org/ein/832956050"
+        },
+        {
+          "verifier": "regole",
+          "check_type": "ammissibilita",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "✓ valutatore indipendente tra le prove: 1 pagine di valutatori (https://www.charitynavigator.org/ein/832956050); minimo 1",
+          "source_url": "https://www.charitynavigator.org/ein/832956050"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "registrazione",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "L'ente Our Daily Bread Food Pantry è ufficialmente registrato negli USA come organizzazione 501(c)(3) con EIN 832956050 e riconoscimento esenzione IRS in data 01/06/2019.",
+          "source_url": "https://www.charitynavigator.org/ein/832956050"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "bilanci",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Sono pubblici e consultabili i bilanci IRS (Form 990) per gli anni dal 2019 al 2023; nel 2023 l'ente ha registrato entrate per 6.031.873 USD e spese per 3.038.333 USD.",
+          "source_url": "https://www.charitynavigator.org/ein/832956050"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "valutazione_indipendente",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "L'ente è stato valutato dall'organismo indipendente Charity Navigator con un punteggio del 98% (4 stelle su 4).",
+          "source_url": "https://www.charitynavigator.org/ein/832956050"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "coerenza_importo",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "L'obiettivo di raccolta previsto di 5.000 USD è pienamente proporzionato e contenuto rispetto alla dimensione finanziaria dell'ente (oltre 6 milioni di USD di entrate nel 2023).",
+          "source_url": "https://www.charitynavigator.org/ein/832956050"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "storico_progetti",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "L'organizzazione opera dal 2019 fornendo servizi alimentari, banchi alimentari e programmi nutrizionali per bambini e anziani nella contea di Collier (Florida).",
+          "source_url": "https://www.charitynavigator.org/ein/832956050"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "segnali_allarme",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Non sono stati riscontrati segnali d'allarme riguardanti Our Daily Bread Food Pantry. Le notizie negative di irregolarità in E4 ed E5 si riferiscono a un'entità canadese distinta (Daily Bread Food Bank / Feed Scarborough a Toronto).",
+          "source_url": "https://www.charitynavigator.org/ein/832956050"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "conflitti_interesse",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun legame con gli sponsor registrati né con i legami noti dell'elenco dei conflitti (controllo del codice).",
+          "source_url": "config/conflitti.yaml"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "registrazione",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "L'ente è registrato come 501(c)(3) con EIN 832956050, sede a Marco Island, FL, confermato da Charity Navigator e dal registro IRS di ProPublica.",
+          "source_url": "https://www.charitynavigator.org/ein/832956050"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "bilanci",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Sono disponibili i moduli 990 per gli anni 2019‑2023 con dati di entrate e spese, scaricabili dal sito ProPublica.",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/832956050"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "valutazione_indipendente",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Charity Navigator, valutatore indipendente, assegna all'ente rating a quattro stelle (98% Complete Profile).",
+          "source_url": "https://www.charitynavigator.org/ein/832956050"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "coerenza_importo",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "L'importo richiesto (5 000 USD) è inferiore all'1 % delle entrate annuali (≈6 M USD nel 2023), quindi proporzionato all'attività dell'ente.",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/832956050"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "storico_progetti",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "L'ente opera da almeno il 2019, con programmi alimentari documentati nei 990 e nella scheda Charity Navigator, dimostrando una storia di progetti conclusi e rendicontati.",
+          "source_url": "https://www.charitynavigator.org/ein/832956050"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "segnali_allarme",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun segnale di allarme relativo all'ente; le notizie su Daily Bread Food Bank riguardano un'organizzazione canadese diversa, non Our Daily Bread Food Pantry.",
+          "source_url": "https://globalnews.ca/video/11610285/daily-bread-cuts-funding-from-scarborough-food-bank-over-allegations-of-financial-mismanagement"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "conflitti_interesse",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun legame con gli sponsor registrati né con i legami noti dell'elenco dei conflitti (controllo del codice).",
+          "source_url": "config/conflitti.yaml"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "registrazione",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "L'ente 'Our Daily Bread Food Pantry' è registrato come 501(c)(3) con EIN 832956050, riconosciuto dall'IRS il 01/06/2019. La sede è a Marco Island, FL.",
+          "source_url": "https://www.charitynavigator.org/ein/832956050"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "bilanci",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Sono disponibili i bilanci pubblici (Form 990) per gli anni 2019, 2020, 2021, 2022 e 2023 su ProPublica Nonprofit Explorer, con dati finanziari dettagliati (es. entrate 2023: $6.031.873).",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/832956050"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "valutazione_indipendente",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Charity Navigator, un valutatore indipendente riconosciuto, assegna all'ente una valutazione di 4 stelle (98%) e completa 4 su 4 'Beacons' (Accountability & Finance, Impact & Measurement, Leadership & Planning, Culture & Compensation).",
+          "source_url": "https://www.charitynavigator.org/ein/832956050"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "coerenza_importo",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "L'obiettivo di raccolta di 5.000 USD è estremamente coerente con le dimensioni dell'ente, che ha registrato entrate annuali di oltre 6 milioni di USD nel 2023. La somma richiesta è marginale rispetto alla capacità finanziaria dell'organizzazione.",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/832956050"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "storico_progetti",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "L'ente ha una storia documentata di attività continua dal 2019 (data di riconoscimento IRS) con bilanci annuali pubblicati. La missione specifica la fornitura di cibo a bambini, famiglie e anziani nella Contea di Collier, con programmi attivi come 'Healthy Kids School' e servizi per anziani.",
+          "source_url": "https://www.charitynavigator.org/ein/832956050"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "segnali_allarme",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun segnale d'allarme trovato per l'ente specifico 'Our Daily Bread Food Pantry' (EIN 832956050, Florida). Le prove E4 ed E5 riguardano un ente diverso ('Daily Bread Food Bank' di Toronto, Canada) coinvolto in una controversia con un'altra agenzia ('Feed Scarborough'); non c'è alcuna evidenza di legame tra questi enti e il candidato in esame. Il sito web dell'ente è attivo e i contatti sono standard (telefono, email, indirizzo fisico).",
+          "source_url": "https://www.charitynavigator.org/ein/832956050"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "conflitti_interesse",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun legame con gli sponsor registrati né con i legami noti dell'elenco dei conflitti (controllo del codice).",
+          "source_url": "config/conflitti.yaml"
+        }
+      ],
+      "sources": [
+        "https://globalnews.ca/video/11610285/daily-bread-cuts-funding-from-scarborough-food-bank-over-allegations-of-financial-mismanagement",
+        "https://projects.propublica.org/nonprofits/organizations/832956050",
+        "https://www.cbc.ca/news/canada/toronto/daily-bread-food-bank-feed-scarborough-9.7039918",
+        "https://www.cbinsights.com/company/charity-navigator",
+        "https://www.charitynavigator.org/ein/832956050",
+        "https://www.mapquest.com/us/massachusetts/daily-bread-food-pantry-84083"
+      ],
+      "waiting_counter": false,
+      "profile": {
+        "de": {
+          "does": [
+            {
+              "text": "Our Daily Bread Food Pantry reduziert Lebensmittelunsicherheit und verbessert die Gesundheit der Kinder, Familien und Senioren im Collier County, indem sie nahrhafte Lebensmitteloptionen, Ermutigung und Hoffnung bietet.",
+              "source": "https://www.charitynavigator.org/ein/832956050",
+              "by_org": false
+            },
+            {
+              "text": "Die Organisation arbeitet täglich mit Familien zusammen, die Lebensmittelunsicherheit auf Marco Island und im Collier County erleben, und erreicht Personen sowohl physisch als auch geografisch.",
+              "source": "https://ourdailybreadfoodpantry.org/",
+              "by_org": true
+            },
+            {
+              "text": "Die Speisekammer ist jede Woche auf Geld- und Lebensmittelspenden angewiesen, um wesentliche Artikel für die Gemeinschaft zu beschaffen.",
+              "source": "https://ourdailybreadfoodpantry.org/",
+              "by_org": true
+            }
+          ],
+          "mission": "OUR MISSION: Our Daily Bread Food Pantry (ODBFP) existiert, um die Liebe Gottes zu teilen, indem sie den Hunger für unsere bedürftigen Nachbarn reduziert. OUR VISION: Die Lebensmittelunsicherheit zu verringern und die Gesundheit der Kinder, Familien und Senioren im Collier County zu verbessern, indem starke Gemeinschaftspartnerschaften aufgebaut werden, um nahrhafte Lebensmitteloptionen, Ermutigung und Hoffnung zu bieten. Bitte beachten Sie, dass, obwohl viele unserer Freiwilligen durch ihren individuellen Glauben zum Dienst an anderen berufen sind, es keine religiöse Voraussetzung gibt, um Lebensmittel zu erhalten, und alle berechtigten Gäste mit Würde, Freundlichkeit und Respekt willkommen geheißen werden.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "Die Speisekammer bedient die Gemeinschaft seit ten years, erweitert die Dienstleistungen für ernährungsunsichere Nachbarn auf Marco Island und im Collier County.",
+              "source": "https://ourdailybreadfoodpantry.org/who-we-are/",
+              "by_org": true
+            }
+          ]
+        },
+        "en": {
+          "does": [
+            {
+              "text": "Our Daily Bread Food Pantry reduces food insecurity and improves the health of Collier County children, families and seniors by offering nourishing food choices, encouragement, and hope.",
+              "quote": "To reduce food insecurity and improve the health of Collier County children, families and seniors by building strong community partnerships to offer nourishing food choices, encouragement, and hope.",
+              "source": "https://www.charitynavigator.org/ein/832956050",
+              "by_org": false
+            },
+            {
+              "text": "The organization engages daily with families experiencing food insecurity in Marco Island and Collier County, reaching individuals physically and geographically.",
+              "quote": "Working to wipe out hunger in Marco Island and Collier County, we engage daily with families who are experiencing food insecurity. Our programs reach individuals where they are, physically and geographically.",
+              "source": "https://ourdailybreadfoodpantry.org/",
+              "by_org": true
+            },
+            {
+              "text": "The pantry relies on monetary and food donations each and every week to procure essential items for the community.",
+              "quote": "Each and every week, the Pantry relies on monetary and food donations to procure essential items. Give in confidence knowing your donation goes directly towards the needs of our community.",
+              "source": "https://ourdailybreadfoodpantry.org/",
+              "by_org": true
+            }
+          ],
+          "mission": "OUR MISSION: Our Daily Bread Food Pantry (ODBFP) exists to share the love of God by reducing hunger for our neighbors in need. OUR VISION: To reduce food insecurity and improve the health of Collier County children, families and seniors by building strong community partnerships to offer nourishing food choices, encouragement, and hope. Please note that while many of our volunteers are called by their individual faiths to serve others, there is no religious requirement to receive food and all eligible guests are welcomed with dignity, kindness and respect.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "The pantry has been serving the community for ten years, expanding services to food insecure neighbors in Marco Island and Collier County.",
+              "quote": "We have been honored to serve our community for ten years. Our volunteers, program partners, and generous investors have helped expand our services to food insecure neighbors, meeting the growing needs of Marco Island and Collier County.",
+              "source": "https://ourdailybreadfoodpantry.org/who-we-are/",
+              "by_org": true
+            }
+          ]
+        },
+        "es": {
+          "does": [
+            {
+              "text": "Our Daily Bread Food Pantry reduce la inseguridad alimentaria y mejora la salud de los niños, familias y adultos mayores del Condado de Collier al ofrecer opciones de alimentos nutritivos, aliento y esperanza.",
+              "source": "https://www.charitynavigator.org/ein/832956050",
+              "by_org": false
+            },
+            {
+              "text": "La organización se involucra diariamente con familias que experimentan inseguridad alimentaria en Marco Island y el Condado de Collier, alcanzando a individuos física y geográficamente.",
+              "source": "https://ourdailybreadfoodpantry.org/",
+              "by_org": true
+            },
+            {
+              "text": "La despensa depende de donaciones monetarias y de alimentos cada semana para adquirir artículos esenciales para la comunidad.",
+              "source": "https://ourdailybreadfoodpantry.org/",
+              "by_org": true
+            }
+          ],
+          "mission": "NUESTRA MISIÓN: Our Daily Bread Food Pantry (ODBFP) existe para compartir el amor de Dios reduciendo el hambre de nuestros vecinos necesitados. NUESTRA VISIÓN: Reducir la inseguridad alimentaria y mejorar la salud de los niños, familias y adultos mayores del Condado de Collier mediante la construcción de sólidas alianzas comunitarias para ofrecer opciones de alimentos nutritivos, aliento y esperanza. Tenga en cuenta que, aunque muchos de nuestros voluntarios son llamados por sus fe individual para servir a otros, no hay un requisito religioso para recibir alimentos y todos los invitados elegibles son recibidos con dignidad, amabilidad y respeto.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "La despensa ha estado sirviendo a la comunidad for ten years, expandiendo servicios a vecinos con inseguridad alimentaria en Marco Island y el Condado de Collier.",
+              "source": "https://ourdailybreadfoodpantry.org/who-we-are/",
+              "by_org": true
+            }
+          ]
+        },
+        "fr": {
+          "does": [
+            {
+              "text": "Our Daily Bread Food Pantry réduit l'insécurité alimentaire et améliore la santé des enfants, des familles et des personnes âgées du comté de Collier en offrant des choix alimentaires nourrissants, de l'encouragement et de l'espoir.",
+              "source": "https://www.charitynavigator.org/ein/832956050",
+              "by_org": false
+            },
+            {
+              "text": "L'organisation s'engage quotidiennement avec les familles confrontées à l'insécurité alimentaire à Marco Island et dans le comté de Collier, atteignant les individus physiquement et géographiquement.",
+              "source": "https://ourdailybreadfoodpantry.org/",
+              "by_org": true
+            },
+            {
+              "text": "La pantry dépend chaque semaine des dons monétaires et alimentaires pour se procurer les articles essentiels pour la communauté.",
+              "source": "https://ourdailybreadfoodpantry.org/",
+              "by_org": true
+            }
+          ],
+          "mission": "OUR MISSION : Our Daily Bread Food Pantry (ODBFP) existe pour partager l'amour de Dieu en réduisant la faim de nos voisins dans le besoin. OUR VISION : Réduire l'insécurité alimentaire et améliorer la santé des enfants, des familles et des personnes âgées du comté de Collier en construisant de solides partenariats communautaires pour offrir des choix alimentaires nourrissants, de l'encouragement et de l'espoir. Veuillez noter que bien que beaucoup de nos bénévoles soient appelés par leurs convictions individuelles à servir les autres, il n'y a aucune exigence religieuse pour recevoir de la nourriture et tous les invités éligibles sont accueillis avec dignité, gentillesse et respect.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "La pantry sert la communauté depuis ten years, élargissant les services aux voisins en situation d'insécurité alimentaire à Marco Island et dans le comté de Collier.",
+              "source": "https://ourdailybreadfoodpantry.org/who-we-are/",
+              "by_org": true
+            }
+          ]
+        },
+        "hi": {
+          "does": [
+            {
+              "text": "Our Daily Bread Food Pantry पोषक खाद्य विकल्प, प्रोत्साहन और आशा प्रदान करके Collier County के बच्चों, परिवारों और वरिष्ठों की खाद्य असुरक्षा को कम करता है और उनके स्वास्थ्य को सुधारता है।",
+              "source": "https://www.charitynavigator.org/ein/832956050",
+              "by_org": false
+            },
+            {
+              "text": "संगठन रोज़ाना Marco Island और Collier County में खाद्य असुरक्षा का सामना कर रहे परिवारों के साथ जुड़ता है, शारीरिक और भौगोलिक रूप से व्यक्तियों तक पहुंचता है।",
+              "source": "https://ourdailybreadfoodpantry.org/",
+              "by_org": true
+            },
+            {
+              "text": "पैंट्री समुदाय के लिए आवश्यक वस्तुओं को प्राप्त करने के लिए हर सप्ताह मौद्रिक और खाद्य दानों पर निर्भर करती है।",
+              "source": "https://ourdailybreadfoodpantry.org/",
+              "by_org": true
+            }
+          ],
+          "mission": "हमारा मिशन: Our Daily Bread Food Pantry (ODBFP) जरूरतमंद पड़ोसियों के लिए भूख कम करके भगवान के प्रेम को साझा करने के लिए मौजूद है। हमारा विज़न: Collier County के बच्चों, परिवारों और वरिष्ठों के स्वास्थ्य को सुधारने और खाद्य असुरक्षा को कम करने के लिए मजबूत सामुदायिक साझेदारियों का निर्माण करके पोषक खाद्य विकल्प, प्रोत्साहन और आशा प्रदान करना। कृपया ध्यान दें कि जबकि हमारे कई स्वयंसेवकों को उनके व्यक्तिगत विश्वासों द्वारा दूसरों की सेवा करने के लिए बुलाया जाता है, भोजन प्राप्त करने के लिए कोई धार्मिक आवश्यकता नहीं है और सभी पात्र अतिथियों का सम्मान, दया और सम्मान के साथ स्वागत किया जाता है।",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "पैंट्री ने ten years से समुदाय की सेवा की है, Marco Island और Collier County में खाद्य असुरक्षित पड़ोसियों के लिए सेवाओं का विस्तार किया है।",
+              "source": "https://ourdailybreadfoodpantry.org/who-we-are/",
+              "by_org": true
+            }
+          ]
+        },
+        "it": {
+          "does": [
+            {
+              "text": "Our Daily Bread Food Pantry riduce l'insicurezza alimentare e migliora la salute dei bambini, delle famiglie e degli anziani della Contea di Collier offrendo scelte alimentari nutrienti, incoraggiamento e speranza.",
+              "source": "https://www.charitynavigator.org/ein/832956050",
+              "by_org": false
+            },
+            {
+              "text": "L'organizzazione si impegna quotidianamente con le famiglie che vivono l'insicurezza alimentare a Marco Island e nella Contea di Collier, raggiungendo le persone sia fisicamente che geograficamente.",
+              "source": "https://ourdailybreadfoodpantry.org/",
+              "by_org": true
+            },
+            {
+              "text": "La mensa dipende da donazioni monetarie e alimentari ogni settimana per procurare articoli essenziali per la comunità.",
+              "source": "https://ourdailybreadfoodpantry.org/",
+              "by_org": true
+            }
+          ],
+          "mission": "LA NOSTRA MISSIONE: Our Daily Bread Food Pantry (ODBFP) esiste per condividere l'amore di Dio riducendo la fame per i nostri vicini bisognosi. LA NOSTRA VISIONE: Ridurre l'insicurezza alimentare e migliorare la salute dei bambini, delle famiglie e degli anziani della Contea di Collier costruendo solide partnership comunitarie per offrire scelte alimentari nutrienti, incoraggiamento e speranza. Si prega di notare che, sebbene molti dei nostri volontari siano chiamati dalle loro fedi individuali a servire gli altri, non vi è alcun requisito religioso per ricevere cibo e tutti gli ospiti idonei sono accolti con dignità, gentilezza e rispetto.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "La mensa serve la comunità da dieci anni, ampliando i servizi ai vicini in difficoltà alimentare a Marco Island e nella Contea di Collier.",
+              "source": "https://ourdailybreadfoodpantry.org/who-we-are/",
+              "by_org": true
+            }
+          ]
+        },
+        "ja": {
+          "does": [
+            {
+              "text": "Our Daily Bread Food Pantry は、栄養価の高い食料選択肢、励まし、希望を提供することで、Collier County の子ども、家族、高齢者の食料不安を減らし、健康を向上させます。",
+              "source": "https://www.charitynavigator.org/ein/832956050",
+              "by_org": false
+            },
+            {
+              "text": "この組織は、Marco Island と Collier County で食料不安を抱える家族と日々関わり、身体的・地理的に個人に届くようにしています。",
+              "source": "https://ourdailybreadfoodpantry.org/",
+              "by_org": true
+            },
+            {
+              "text": "パントリーは、毎週、金銭と食料の寄付に頼って、地域のために必要な物資を調達しています。",
+              "source": "https://ourdailybreadfoodpantry.org/",
+              "by_org": true
+            }
+          ],
+          "mission": "私たちの使命：Our Daily Bread Food Pantry (ODBFP) は、困っている隣人の飢えを減らすことで神の愛を分かち合うことを目的としています。 私たちのビジョン：強固な地域パートナーシップを構築し、栄養価の高い食料選択肢、励まし、希望を提供することで、Collier County の子ども、家族、高齢者の食料不安を減らし、健康を向上させます。 ご留意ください。多くのボランティアはそれぞれの信仰に導かれて他者に奉仕していますが、食料を受け取る際に宗教的な条件はなく、すべての対象者は尊厳と親切、敬意をもって歓迎されます。",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "パントリーは、ten years にわたり地域にサービスを提供しており、Marco Island と Collier County の食料不安を抱える近隣住民へのサービスを拡大しています。",
+              "source": "https://ourdailybreadfoodpantry.org/who-we-are/",
+              "by_org": true
+            }
+          ]
+        },
+        "pt": {
+          "does": [
+            {
+              "text": "Our Daily Bread Food Pantry reduz a insegurança alimentar e melhora a saúde das crianças, famílias e idosos do Condado de Collier, oferecendo opções alimentares nutritivas, incentivo e esperança.",
+              "source": "https://www.charitynavigator.org/ein/832956050",
+              "by_org": false
+            },
+            {
+              "text": "A organização se envolve diariamente com famílias que enfrentam insegurança alimentar em Marco Island e no Condado de Collier, alcançando indivíduos física e geograficamente.",
+              "source": "https://ourdailybreadfoodpantry.org/",
+              "by_org": true
+            },
+            {
+              "text": "A despensa depende de doações monetárias e de alimentos todas as semanas para adquirir itens essenciais para a comunidade.",
+              "source": "https://ourdailybreadfoodpantry.org/",
+              "by_org": true
+            }
+          ],
+          "mission": "NOSS​A MISSÃO: Our Daily Bread Food Pantry (ODBFP) existe para compartilhar o amor de Deus reduzindo a fome de nossos vizinhos necessitados. NOSS​A VISÃO: Reduzir a insegurança alimentar e melhorar a saúde das crianças, famílias e idosos do Condado de Collier, construindo parcerias comunitárias fortes para oferecer opções alimentares nutritivas, incentivo e esperança. Observe que, embora muitos de nossos voluntários sejam motivados por suas crenças individuais a servir aos outros, não há requisito religioso para receber alimentos e todos os convidados elegíveis são recebidos com dignidade, bondade e respeito.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "A despensa tem atendido a comunidade por ten years, expandindo serviços para vizinhos em situação de insegurança alimentar em Marco Island e no Condado de Collier.",
+              "source": "https://ourdailybreadfoodpantry.org/who-we-are/",
+              "by_org": true
+            }
+          ]
+        },
+        "ru": {
+          "does": [
+            {
+              "text": "Our Daily Bread Food Pantry снижает продовольственную небезопасность и улучшает здоровье детей, семей и пожилых людей округа Коллиер, предлагая питательные варианты пищи, поддержку и надежду.",
+              "source": "https://www.charitynavigator.org/ein/832956050",
+              "by_org": false
+            },
+            {
+              "text": "Организация ежедневно взаимодействует с семьями, сталкивающимися с продовольственной небезопасностью, на Marco Island и в округе Collier County, охватывая людей физически и географически.",
+              "source": "https://ourdailybreadfoodpantry.org/",
+              "by_org": true
+            },
+            {
+              "text": "Кладовая полагается на денежные и продовольственные пожертвования каждую неделю, чтобы приобретать необходимые товары для сообщества.",
+              "source": "https://ourdailybreadfoodpantry.org/",
+              "by_org": true
+            }
+          ],
+          "mission": "НАША МИССИЯ: Our Daily Bread Food Pantry (ODBFP) существует, чтобы делиться любовью Бога, уменьшая голод наших нуждающихся соседей. НАША ВИЗИЯ: Сократить продовольственную небезопасность и улучшить здоровье детей, семей и пожилых людей округа Коллиер, создавая прочные партнерства в сообществе для предложения питательных вариантов пищи, поддержки и надежды. Обратите внимание, что хотя многие наши волонтёры руководствуются своей индивидуальной верой, чтобы служить другим, нет религиозных требований для получения пищи, и все подходящие гости приветствуются с достоинством, добротой и уважением.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "Кладовая обслуживает сообщество уже ten лет, расширяя услуги для соседей, сталкивающихся с продовольственной небезопасностью, на Marco Island и в округе Collier County.",
+              "source": "https://ourdailybreadfoodpantry.org/who-we-are/",
+              "by_org": true
+            }
+          ]
+        },
+        "zh": {
+          "does": [
+            {
+              "text": "Our Daily Bread Food Pantry 通过提供营养食品选择、鼓励和希望，减少食物不安全并改善 Collier County 儿童、家庭和老年人的健康。",
+              "source": "https://www.charitynavigator.org/ein/832956050",
+              "by_org": false
+            },
+            {
+              "text": "该组织每天与 Marco Island 和 Collier County 受食物不安全影响的家庭互动，实地和地域上接触个人。",
+              "source": "https://ourdailybreadfoodpantry.org/",
+              "by_org": true
+            },
+            {
+              "text": "该食品储藏室每周都依赖金钱和食品捐赠来采购社区所需的基本物资。",
+              "source": "https://ourdailybreadfoodpantry.org/",
+              "by_org": true
+            }
+          ],
+          "mission": "我们的使命：Our Daily Bread Food Pantry (ODBFP) 致力于通过减少有需要邻居的饥饿来分享上帝的爱。我们的愿景：通过建立强大的社区合作伙伴关系，提供营养食品选择、鼓励和希望，以减少食物不安全并改善 Collier County 儿童、家庭和老年人的健康。请注意，虽然我们的许多志愿者因各自的信仰而服务他人，但领取食物没有宗教要求，所有符合条件的来宾都将以尊严、善意和尊重的方式受到欢迎。",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "The pantry 已为社区服务了 ten years，扩大服务范围至 Marco Island 和 Collier County 的食物不安全邻居。",
+              "source": "https://ourdailybreadfoodpantry.org/who-we-are/",
+              "by_org": true
+            }
+          ]
+        }
+      },
+      "safety": {
+        "evaluator": "Charity Navigator",
+        "stars": 4,
+        "score": 98,
+        "rating_url": "https://www.charitynavigator.org/ein/832956050",
+        "rating_checked": "2026-11-20",
+        "since": "2019",
+        "registry_url": "https://projects.propublica.org/nonprofits/organizations/832956050",
+        "filings": 5,
+        "first_year": 2019,
+        "last_year": 2023,
+        "checks_passed": 18,
+        "verifiers": 3,
+        "unanimous": true,
+        "site": "ourdailybreadfoodpantry.org",
+        "official_host": "ourdailybreadfoodpantry.org",
+        "profile_claimed": true
+      },
+      "platform": "every.org",
+      "counter": {
+        "raised": "0",
+        "read_at": "2026-11-21T21:04:45.740921+00:00",
+        "currency": "USD",
+        "platform": "every.org",
+        "supporters": 0,
+        "raised_cents": 0,
+        "matches_cents": 0
+      },
+      "fundraiser_open": true,
+      "progress_pct": 0,
+      "donate": {
+        "recipient": "Our Daily Bread Food Pantry",
+        "url": "https://www.every.org/our-daily-bread-food-pantry-3c49/f/ai-against-hunger-for",
+        "money_goes_to": "Every.org, a US 501(c)(3) nonprofit, which grants it to the organization (unrestricted); this project never receives or holds money",
+        "counted_here_only_if": "shown in the public total of the fundraising page",
+        "status": "open",
+        "platform": "Every.org (US 501(c)(3) nonprofit; receipts tax-deductible only in the US)",
+        "public_total": {
+          "raised": "0",
+          "currency": "USD",
+          "people": 0,
+          "read_on": "2026-11-21"
+        },
+        "note": "Every.org suggests an optional tip to itself (sometimes preselected); it can be set to 0. Payment fees are deducted from what the organization receives."
+      }
     }
   ],
   "order_rule": "All projects are equal: the order rotates by one position every day.",
@@ -13713,9 +13422,9 @@
     "costs": {
       "USD": 8.5
     },
-    "ai_calls": 1814,
+    "ai_calls": 1818,
     "ai_cost_real_usd": 0.0,
-    "ai_value_offered_usd": 11.931904,
+    "ai_value_offered_usd": 12.05599,
     "candidates_examined": 89,
     "candidates_discarded": 50
   },
