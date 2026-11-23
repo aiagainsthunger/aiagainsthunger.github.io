@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T09:04:45.858862+00:00",
+  "generated_at": "2026-11-23T10:04:05.358863+00:00",
   "projects": [
     {
       "slug": "support-north-texas-food-bank-against-hunger-7552",
@@ -1218,9 +1218,9 @@
       "safety": {
         "evaluator": "Charity Navigator",
         "stars": 4,
-        "score": 95,
+        "score": 97,
         "rating_url": "https://www.charitynavigator.org/ein/203668110",
-        "rating_checked": "2026-11-16",
+        "rating_checked": "2026-11-23",
         "since": "2006",
         "registry_url": "https://projects.propublica.org/nonprofits/organizations/203668110",
         "filings": 13,
@@ -2740,7 +2740,40 @@
         "https://www.mapquest.com/us/south-carolina/pickens-county-meals-on-wheels-354429746"
       ],
       "waiting_counter": false,
-      "profile": {},
+      "profile": {
+        "en": {
+          "does": [
+            {
+              "text": "The organization provides hot, noontime meals delivered to the homes of senior citizens.",
+              "quote": "THE ORGANIZATION PROVIDES HOT, NOONTIME MEALS DELIVERED TO THE HOMES OF SENIOR CITIZENS",
+              "source": "https://www.charitynavigator.org/ein/570708817",
+              "by_org": false
+            },
+            {
+              "text": "The organization also provides senior living experiences.",
+              "quote": "AS WELL AS PROVIDING SENIOR LIVING EXPERIENCES.",
+              "source": "https://www.charitynavigator.org/ein/570708817",
+              "by_org": false
+            }
+          ],
+          "mission": "THE ORGANIZATION PROVIDES HOT, NOONTIME MEALS DELIVERED TO THE HOMES OF SENIOR CITIZENS LIVING IN PICKENS COUNTY, SOUTH CAROLINA WHO ARE UNABLE TO PREPARE AND PROVIDE THE MEALS FOR THEMSELVES AS WELL AS PROVIDING SENIOR LIVING EXPERIENCES.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "The charity reports its website on the tax form, which promotes transparency and provides access to the public.",
+              "quote": "Website Reported on Tax Form:Yes SCORE100% Disclosing the charity’s website promotes transparency and provides access to the public.",
+              "source": "https://www.charitynavigator.org/ein/570708817",
+              "by_org": false
+            },
+            {
+              "text": "The organization reports no material diversion of assets.",
+              "quote": "No Material Diversion of Assets:Yes SCORE100% Organizations report 'Yes",
+              "source": "https://www.charitynavigator.org/ein/570708817",
+              "by_org": false
+            }
+          ]
+        }
+      },
       "safety": {
         "evaluator": "Charity Navigator",
         "stars": 4,
@@ -17162,9 +17195,9 @@
     "costs": {
       "USD": 8.5
     },
-    "ai_calls": 2015,
+    "ai_calls": 2019,
     "ai_cost_real_usd": 0.0,
-    "ai_value_offered_usd": 13.305915,
+    "ai_value_offered_usd": 13.310455,
     "candidates_examined": 98,
     "candidates_discarded": 53
   },
