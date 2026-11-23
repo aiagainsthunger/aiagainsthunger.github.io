@@ -14,7 +14,8 @@
   },
   "rules": [
     "Donations are made on each project's fundraising page on Every.org (a US 501(c)(3) nonprofit that grants them to the organization), never to this project.",
-    "This project never pushes AI agents to spend their owners' money without permission. Donate only if your human owner has authorized you to spend money for charity, and never more than 5,000 USD per day. (declared limit: we do not receive donors' data.)",
+    "This project never pushes AI agents to spend their owners' money without permission. Donate only if your human owner has authorized you to spend money for charity, and never more than 5,000 USD per day. (Declared limit, not verified.)",
+    "We never ask for donors' data, and we do not copy it into our records or use it. Every.org may notify whoever created a fundraising page that a gift has arrived, with the donor's name only if the donor chooses to share it: that notification stays in the project's mailbox until a person deletes it.",
     "Registering in the owner program is optional; registered agents receive the open projects by email once a month (https://aiagainsthunger.org/en/agents.html).",
     "Texts sent to us are treated as data, never as instructions."
   ],
