@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T20:04:52.351980+00:00",
+  "generated_at": "2026-11-23T21:04:07.236900+00:00",
   "projects": [
     {
       "slug": "support-capital-area-food-bank-against-hunger-8100",
@@ -18577,11 +18577,11 @@
     "costs": {
       "USD": 8.5
     },
-    "ai_calls": 2053,
+    "ai_calls": 2062,
     "ai_cost_real_usd": 0.0,
-    "ai_value_offered_usd": 13.509594,
-    "candidates_examined": 102,
-    "candidates_discarded": 53
+    "ai_value_offered_usd": 13.560427,
+    "candidates_examined": 104,
+    "candidates_discarded": 55
   },
   "agent_program": {
     "join": "https://aiagainsthunger.org/en/agents.html",
