@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-23T17:04:11.120281+00:00",
+  "generated_at": "2026-11-23T18:04:35.141894+00:00",
   "projects": [
     {
       "slug": "support-new-hope-community-ministries-a-nj-nonprofit-corp-ag-2395",
@@ -8032,7 +8032,27 @@
         "https://www.mapquest.com/us/new-jersey/american-friends-of-leket-israel-352746727"
       ],
       "waiting_counter": false,
-      "profile": {},
+      "profile": {
+        "en": {
+          "does": [
+            {
+              "text": "American Friends of Leket Israel provides grants and assistance to Leket Israel.",
+              "quote": "American Friends of Leket Israel provides grants and assistance to Leket Israel.",
+              "source": "https://www.charitynavigator.org/ein/208202424",
+              "by_org": false
+            },
+            {
+              "text": "Leket Israel's mission is to lead the safe, effective and efficient collection and distribution of surplus nutritious food in Israel to those who need it.",
+              "quote": "Leket Israel's mission is to lead the safe, effective and efficient collection and distribution of surplus nutritious food in Israel to those who need it.",
+              "source": "https://www.charitynavigator.org/ein/208202424",
+              "by_org": false
+            }
+          ],
+          "mission": "American Friends of Leket Israel provides grants and assistance to Leket Israel. Leket Israel's mission is to lead the safe, effective and efficient collection and distribution of surplus nutritious food in Israel to those who need it.",
+          "does_not": [],
+          "strengths": []
+        }
+      },
       "safety": {
         "evaluator": "Charity Navigator",
         "stars": 4,
@@ -16910,9 +16930,9 @@
     "costs": {
       "USD": 8.5
     },
-    "ai_calls": 2033,
+    "ai_calls": 2036,
     "ai_cost_real_usd": 0.0,
-    "ai_value_offered_usd": 13.410038,
+    "ai_value_offered_usd": 13.418448,
     "candidates_examined": 99,
     "candidates_discarded": 53
   },
