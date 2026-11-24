@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T00:04:33.086242+00:00",
+  "generated_at": "2026-11-24T01:04:03.942146+00:00",
   "projects": [
     {
       "slug": "support-central-texas-food-bank-inc-against-hunger-7550",
@@ -5274,7 +5274,34 @@
         "https://www.cnbc.com/2018/03/06/kobe-steel-ceo-to-quit-over-data-fraud-scandal.html"
       ],
       "waiting_counter": false,
-      "profile": {},
+      "profile": {
+        "en": {
+          "does": [
+            {
+              "text": "The Global Child Nutrition Foundation engages civil society and businesses to strengthen supply chains and increase political will for school meal programs.",
+              "quote": "We engage civil society and businesses to strengthen supply chains and increase political will for school meal programs",
+              "source": "https://gcnf.org/about/",
+              "by_org": true
+            },
+            {
+              "text": "The organization supports government efforts to effectively implement and sustain national school meal programs.",
+              "quote": "We Support government efforts to effectively implement and sustain national school meal programs",
+              "source": "https://gcnf.org/about/",
+              "by_org": true
+            }
+          ],
+          "mission": "GCNF works to ensure governments and their partners have the knowledge, tools, and connections they need to increase coverage of high-quality school meal programs that contribute to national educational, agricultural, economic, social protection, and health and nutrition goals.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "The organization was officially established in 2006 to connect partners, share knowledge, and strengthen school meal programs worldwide.",
+              "quote": "GCNF was officially established in 2006 to carry this momentum forward—connecting partners, sharing knowledge, and strengthening school meal programs worldwide.",
+              "source": "https://gcnf.org/about/",
+              "by_org": true
+            }
+          ]
+        }
+      },
       "safety": {
         "evaluator": "Charity Navigator",
         "stars": 4,
@@ -8546,7 +8573,46 @@
         "https://www.charitynavigator.org/ein/930584318"
       ],
       "waiting_counter": false,
-      "profile": {},
+      "profile": {
+        "en": {
+          "does": [
+            {
+              "text": "Meals on Wheels People was founded in 1969 with the mission to enrich the lives of seniors, and assist them in maintaining independence, by providing nutritious food, human connections and social support.",
+              "quote": "Meals on Wheels People was founded in 1969 with the mission to enrich the lives of seniors, and assist them in maintaining independence, by providing nutritious food, human connections and social support.",
+              "source": "https://www.charitynavigator.org/ein/930584318",
+              "by_org": false
+            },
+            {
+              "text": "The organization also uses its expertise and capacity to serve other nutritionally at-risk populations.",
+              "quote": "We also use our expertise and capacity to serve other nutritionally at-risk populations.",
+              "source": "https://www.charitynavigator.org/ein/930584318",
+              "by_org": false
+            },
+            {
+              "text": "Meals on Wheels People produces 5,700 hot, nutritious meals five days each week in a 14,000-square-foot commercial kitchen located in the heart of Multnomah Village.",
+              "quote": "Today Meals on Wheels People produces 5,700 hot, nutritious meals five days each week in a 14,000-square-foot commercial kitchen located in the heart of Multnomah Village.",
+              "source": "https://www.charitynavigator.org/ein/930584318",
+              "by_org": false
+            },
+            {
+              "text": "Meals are delivered to 30 senior centers throughout Multnomah, Washington and Clark counties where they are served at noon to seniors in center dining rooms or sent out as Meals on Wheels to frail, homebound elderly.",
+              "quote": "Meals are then delivered to 30 senior centers throughout Multnomah, Washington and Clark counties where they are served at noon to seniors in center dining rooms or sent out as Meals on Wheels to frail, homebound elderly.",
+              "source": "https://www.charitynavigator.org/ein/930584318",
+              "by_org": false
+            }
+          ],
+          "mission": "Meals on Wheels People was founded in 1969 with the mission to enrich the lives of seniors, and assist them in maintaining independence, by providing nutritious food, human connections and social support. We also use our expertise and capacity to serve other nutritionally at-risk populations. Today Meals on Wheels People produces 5,700 hot, nutritious meals five days each week in a 14,000-square-foot commercial kitchen located in the heart of Multnomah Village. Meals are then delivered to 30 senior centers throughout Multnomah, Washington and Clark counties where they are served at noon to seniors in center dining rooms or sent out as Meals on Wheels to frail, homebound elderly.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "Tax exemption was issued in June 1971.",
+              "quote": "Tax exemption issued: June 1971",
+              "source": "https://projects.propublica.org/nonprofits/organizations/930584318",
+              "by_org": false
+            }
+          ]
+        }
+      },
       "safety": {
         "evaluator": "Charity Navigator",
         "stars": 4,
@@ -12396,7 +12462,58 @@
       "source_url": "https://www.charitynavigator.org/ein/570708817",
       "approved_on": "2026-11-23",
       "review_until": "2026-11-26 19:04 UTC",
-      "translations": {},
+      "translations": {
+        "de": {
+          "text": "Organisation bewertet von Charity Navigator, gefunden von den Agenten mit: 'Every.org: meals on wheels'.",
+          "title": "Unterstützen Sie Pickens County Meals On Wheels Inc im Kampf gegen den Hunger",
+          "source": "traduzione AI"
+        },
+        "en": {
+          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'Every.org: meals on wheels'.",
+          "title": "Support Pickens County Meals On Wheels Inc against hunger",
+          "source": "originale"
+        },
+        "es": {
+          "text": "Entidad evaluada por Charity Navigator, encontrada por los agentes con: 'Every.org: meals on wheels'.",
+          "title": "Apoya a Pickens County Meals On Wheels Inc contra el hambre",
+          "source": "traduzione AI"
+        },
+        "fr": {
+          "text": "Organisation évaluée par Charity Navigator, trouvée par les agents avec: 'Every.org: meals on wheels'.",
+          "title": "Soutenez Pickens County Meals On Wheels Inc contre la faim",
+          "source": "traduzione AI"
+        },
+        "hi": {
+          "text": "Charity Navigator द्वारा मूल्यांकित संस्था, एजेंटों द्वारा पाया गया: 'Every.org: meals on wheels'.",
+          "title": "Pickens County Meals On Wheels Inc को भूख के खिलाफ समर्थन दें",
+          "source": "traduzione AI"
+        },
+        "it": {
+          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'Every.org: meals on wheels'.",
+          "title": "Sostieni Pickens County Meals On Wheels Inc contro la fame",
+          "source": "traduzione AI"
+        },
+        "ja": {
+          "text": "Charity Navigator によって評価された団体で、エージェントが次のように見つけました: 'Every.org: meals on wheels'.",
+          "title": "飢餓に対抗して Pickens County Meals On Wheels Inc を支援する",
+          "source": "traduzione AI"
+        },
+        "pt": {
+          "text": "Entidade avaliada pela Charity Navigator, encontrada pelos agentes com: 'Every.org: meals on wheels'.",
+          "title": "Apoie Pickens County Meals On Wheels Inc contra a fome",
+          "source": "traduzione AI"
+        },
+        "ru": {
+          "text": "Организация, оцененная Charity Navigator, найденная агентами с: 'Every.org: meals on wheels'.",
+          "title": "Поддержите Pickens County Meals On Wheels Inc в борьбе с голодом",
+          "source": "traduzione AI"
+        },
+        "zh": {
+          "text": "该机构已被 Charity Navigator 评估，代理人通过以下方式找到：'Every.org: meals on wheels'。",
+          "title": "支持 Pickens County Meals On Wheels Inc 对抗饥饿",
+          "source": "traduzione AI"
+        }
+      },
       "tranches": [],
       "checks": [
         {
@@ -12593,6 +12710,39 @@
       ],
       "waiting_counter": false,
       "profile": {
+        "de": {
+          "does": [
+            {
+              "text": "Die Organisation bietet warme Mittagessen, die an die Häuser von Senioren in Pickens County, South Carolina geliefert werden, die nicht in der Lage sind, die Mahlzeiten selbst zuzubereiten und bereitzustellen.",
+              "source": "https://www.charitynavigator.org/ein/570708817",
+              "by_org": false
+            },
+            {
+              "text": "An jedem Werktag liefern Freiwillige warme Mahlzeiten und ein warmes Lächeln an über 375 zu Hause gebundene Seniorfreunde im gesamten Pickens County.",
+              "source": "https://pcmow.org/",
+              "by_org": true
+            },
+            {
+              "text": "Über 34 % der Meals on Wheels‑Klienten sind älter als 85 Jahre, was sie zum Teil von Amerikas größter Generation macht.",
+              "source": "https://pcmow.org/about",
+              "by_org": true
+            }
+          ],
+          "mission": "DIE ORGANISATION BIETET WÄRME, MITTAGSMEHLEN, DIE AN DIE HÄUSER VON SENIOREN BEWOHNERN IN PICKENS COUNTY, SOUTH CAROLINA GELIEFERT WERDEN, DIE NICHT IN DER LAGE SIND, DIE MAHLZEITEN SELBST ZU VORBEREITEN UND ZU VERTEILEN, SOWIE SENIORENLEBENSERFAHRUNGEN ANBIETET.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "Die Website wird im Steuerformular angegeben.",
+              "source": "https://www.charitynavigator.org/ein/570708817",
+              "by_org": false
+            },
+            {
+              "text": "Es gibt keine wesentliche Umleitung von Vermögenswerten.",
+              "source": "https://www.charitynavigator.org/ein/570708817",
+              "by_org": false
+            }
+          ]
+        },
         "en": {
           "does": [
             {
@@ -12626,6 +12776,72 @@
             {
               "text": "There is no material diversion of assets.",
               "quote": "No Material Diversion of Assets:Yes",
+              "source": "https://www.charitynavigator.org/ein/570708817",
+              "by_org": false
+            }
+          ]
+        },
+        "fr": {
+          "does": [
+            {
+              "text": "L'organisation fournit des repas chauds, de midi, livrés aux domiciles des personnes âgées vivant dans le comté de Pickens, Caroline du Sud, qui ne peuvent pas préparer et fournir les repas elles‑elles-mêmes.",
+              "source": "https://www.charitynavigator.org/ein/570708817",
+              "by_org": false
+            },
+            {
+              "text": "Chaque jour de la semaine, les bénévoles livrent des repas chauds et des sourires chaleureux à plus de 375 amis seniors confinés à domicile à travers le comté de Pickens.",
+              "source": "https://pcmow.org/",
+              "by_org": true
+            },
+            {
+              "text": "Plus de 34 % des bénéficiaires de Meals on Wheels ont plus de 85 ans, ce qui les place dans la plus grande génération d'Amérique.",
+              "source": "https://pcmow.org/about",
+              "by_org": true
+            }
+          ],
+          "mission": "L'ORGANISATION FOURNIT DES REPAS CHAUDS, DE MIDI, LIVRÉS AUX MAISONS DES PERSONNES ÂGÉES HABITANT LE COMTÉ DE PICKENS, CAROLINE DU SUD, QUI NE PEUVENT PAS PRÉPARER ET FOURNIR LES REPAS POUR ELLES-MÊMES, AINSI QUE DES EXPÉRIENCES DE VIE POUR LES PERSONNES ÂGÉES.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "Le site web est indiqué sur le formulaire fiscal.",
+              "source": "https://www.charitynavigator.org/ein/570708817",
+              "by_org": false
+            },
+            {
+              "text": "Il n'y a aucune diversion matérielle d'actifs.",
+              "source": "https://www.charitynavigator.org/ein/570708817",
+              "by_org": false
+            }
+          ]
+        },
+        "it": {
+          "does": [
+            {
+              "text": "L'organizzazione fornisce pasti caldi, di mezzogiorno, consegnati alle case dei cittadini anziani che vivono in Pickens County, South Carolina, e che non sono in grado di preparare e fornire i pasti per sé stessi.",
+              "source": "https://www.charitynavigator.org/ein/570708817",
+              "by_org": false
+            },
+            {
+              "text": "Ogni giorno feriale, i volontari consegnano pasti caldi e sorrisi calorosi a oltre 375 amici anziani domiciliari in tutta Pickens County.",
+              "source": "https://pcmow.org/",
+              "by_org": true
+            },
+            {
+              "text": "Oltre il 34% dei clienti di Meals on Wheels ha più di 85 anni, rendendoli parte della Greatest Generation americana.",
+              "source": "https://pcmow.org/about",
+              "by_org": true
+            }
+          ],
+          "mission": "L'organizzazione fornisce pasti caldi, di mezzogiorno, consegnati alle case dei cittadini anziani che vivono in Pickens County, South Carolina, che non sono in grado di preparare e fornire i pasti per sé stessi, nonché offre esperienze di vita per anziani.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "Il sito web è riportato nella dichiarazione fiscale.",
+              "source": "https://www.charitynavigator.org/ein/570708817",
+              "by_org": false
+            },
+            {
+              "text": "Non vi è alcuna deviazione materiale di beni.",
               "source": "https://www.charitynavigator.org/ein/570708817",
               "by_org": false
             }
@@ -12879,7 +13095,46 @@
         "https://www.osc.ny.gov/state-agencies/audits/2024/07/26/reimbursement-homeless-shelter-providers-rescue-mission-alliance-syracuse-follow"
       ],
       "waiting_counter": false,
-      "profile": {},
+      "profile": {
+        "en": {
+          "does": [
+            {
+              "text": "Rescue Mission Alliance provides a safe haven for men, women, and children in desperate need of food, clothing, shelter, and support to resolve hunger and homelessness.",
+              "quote": "To accomplish the goal of Changing Lives for Good, RMA provides a safe haven for men, women, and children who are in desperate need of food, clothing, shelter, and support to resolve hunger and homelessness across Ventura, Los Angeles, and Santa Barbara Counties.",
+              "source": "https://www.charitynavigator.org/ein/237278002",
+              "by_org": false
+            },
+            {
+              "text": "Through a wide range of services including two food banks, three emergency shelters, five residential recovery programs, transitional housing, and job training, the organization supports people in need.",
+              "quote": "Through a wide range of services – two food banks, three emergency shelters, five residential recovery programs, transitional housing, and job training – RMA supports people in need and helps them lead healthy, self-sufficient lives.",
+              "source": "https://www.charitynavigator.org/ein/237278002",
+              "by_org": false
+            },
+            {
+              "text": "The organization offers services free of charge to the poor and needy in the community with a wide range of life-changing treatment programs.",
+              "quote": "We offer services free of charge to the poor and needy in our community with a wide range of life-changing treatment programs that address the whole person – body, mind, and spirit.",
+              "source": "https://www.erescuemission.org/",
+              "by_org": true
+            }
+          ],
+          "mission": "AllianceFavorite Donate Mission The Rescue Mission Alliance (RMA) is a 501©(3) non-profit organization incorporated in 1972. To accomplish the goal of Changing Lives for Good, RMA provides a safe haven for men, women, and children who are in desperate need of food, clothing, shelter, and support to resolve hunger and homelessness across Ventura, Los Angeles, and Santa Barbara Counties. Through a wide range of services – two food banks, three emergency shelters, five residential recovery programs, transitional housing, and job training – RMA supports people in need and helps them lead healthy, self-sufficient lives.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "Rescue Mission Alliance is a 501(c)(3) non-profit organization incorporated in 1972.",
+              "quote": "The Rescue Mission Alliance (RMA) is a 501©(3) non-profit organization incorporated in 1972.",
+              "source": "https://www.charitynavigator.org/ein/237278002",
+              "by_org": false
+            },
+            {
+              "text": "The organization has been a refuge for those struggling with addiction, homelessness, and poverty for more than 50 years.",
+              "quote": "For more than 50 years, the Rescue Mission Alliance has been a refuge for those struggling with addiction, homelessness and poverty.",
+              "source": "https://www.erescuemission.org/",
+              "by_org": true
+            }
+          ]
+        }
+      },
       "safety": {
         "evaluator": "Charity Navigator",
         "stars": 4,
@@ -15653,7 +15908,14 @@
         "https://www.charitynavigator.org/ein/942960297"
       ],
       "waiting_counter": false,
-      "profile": {},
+      "profile": {
+        "en": {
+          "does": [],
+          "mission": "We partner with our community to end hunger and its root causes.",
+          "does_not": [],
+          "strengths": []
+        }
+      },
       "safety": {
         "evaluator": "Charity Navigator",
         "stars": 4,
@@ -18577,11 +18839,11 @@
     "costs": {
       "USD": 8.5
     },
-    "ai_calls": 2062,
+    "ai_calls": 2089,
     "ai_cost_real_usd": 0.0,
-    "ai_value_offered_usd": 13.560427,
-    "candidates_examined": 104,
-    "candidates_discarded": 55
+    "ai_value_offered_usd": 13.623635,
+    "candidates_examined": 105,
+    "candidates_discarded": 56
   },
   "agent_program": {
     "join": "https://aiagainsthunger.org/en/agents.html",
