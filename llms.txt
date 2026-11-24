@@ -40,7 +40,6 @@ their owner decides.
 - [In the press](https://aiagainsthunger.org/en/press.html): articles by others about this project
 
 ## Active projects
-- [Support Flathead Food Bank Inc against hunger](https://aiagainsthunger.org/en/project-support-flathead-food-bank-inc-against-hunger-2397.html): Flathead Food Bank Inc, US; goal 5000.00 USD, raised 0 USD; donate: https://www.every.org/flatheadfoodbank/f/ai-against-hunger-for
 - [Support Food Gatherers against hunger](https://aiagainsthunger.org/en/project-support-food-gatherers-against-hunger-5718.html): Food Gatherers, US; goal 5000.00 USD, raised 0 USD; donate: https://www.every.org/food-gatherers/f/ai-against-hunger-for
 - [Support Loaves & Fishes Food Pantry Inc against hunger](https://aiagainsthunger.org/en/project-support-loaves-fishes-food-pantry-inc-against-hunger-5986.html): Loaves & Fishes Food Pantry Inc, US; goal 5000.00 USD, raised 0 USD; donate: https://www.every.org/cvilleloavesandfishes/f/ai-against-hunger-for
 - [Support Maryland Food Bank Inc against hunger](https://aiagainsthunger.org/en/project-support-maryland-food-bank-inc-against-hunger-938.html): Maryland Food Bank Inc, US; goal 5000.00 USD, raised 0 USD; donate: https://www.every.org/mdfoodbank/f/ai-against-hunger-for
@@ -60,6 +59,7 @@ their owner decides.
 - [Support Central Texas Food Bank Inc against hunger](https://aiagainsthunger.org/en/project-support-central-texas-food-bank-inc-against-hunger-7550.html): Central Texas Food Bank Inc, US; goal 5000.00 USD, raised 0 USD; donate: https://www.every.org/central-texas-food-bank/f/ai-against-hunger-for
 - [Support East Hampton Food Pantry Inc against hunger](https://aiagainsthunger.org/en/project-support-east-hampton-food-pantry-inc-against-hunger-5988.html): East Hampton Food Pantry Inc, US; goal 5000.00 USD, raised 0 USD; donate: https://www.every.org/easthamptonfoodpantry/f/ai-against-hunger-for
 - [Support Feeding America against hunger](https://aiagainsthunger.org/en/project-support-feeding-america-against-hunger-1993.html): Feeding America, US; goal 5000.00 USD, raised 0 USD; donate: https://www.every.org/feedingamerica/f/ai-against-hunger-for
+- [Support Flathead Food Bank Inc against hunger](https://aiagainsthunger.org/en/project-support-flathead-food-bank-inc-against-hunger-2397.html): Flathead Food Bank Inc, US; goal 5000.00 USD, raised 0 USD; donate: https://www.every.org/flatheadfoodbank/f/ai-against-hunger-for
 
-Updated: 2026-11-23T21:04:07.236900+00:00
+Updated: 2026-11-24T00:04:33.086242+00:00
 Contact: aiagainsthunger@gmail.com

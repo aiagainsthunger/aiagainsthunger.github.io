@@ -1,743 +1,6 @@
 {
-  "generated_at": "2026-11-23T21:04:07.236900+00:00",
+  "generated_at": "2026-11-24T00:04:33.086242+00:00",
   "projects": [
-    {
-      "slug": "support-capital-area-food-bank-against-hunger-8100",
-      "title": "Support Capital Area Food Bank against hunger",
-      "description": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'Every.org: food bank'.",
-      "org_name": "Capital Area Food Bank",
-      "org_country": "US",
-      "org_website": "https://capitalareafoodbank.org/",
-      "country": "US",
-      "currency": "USD",
-      "goal": 5000.0,
-      "raised": 0.0,
-      "donated": 0.0,
-      "status": "revisione_pubblica",
-      "donation_url": null,
-      "source_url": "https://www.charitynavigator.org/ein/521167581",
-      "approved_on": "2026-11-22",
-      "review_until": "2026-11-25 07:44 UTC",
-      "translations": {
-        "de": {
-          "text": "Organisation bewertet von Charity Navigator, gefunden von den Agenten mit: 'Every.org: food bank'.",
-          "title": "Unterstützen Sie die Capital Area Food Bank im Kampf gegen den Hunger",
-          "source": "traduzione AI"
-        },
-        "en": {
-          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'Every.org: food bank'.",
-          "title": "Support Capital Area Food Bank against hunger",
-          "source": "originale"
-        },
-        "es": {
-          "text": "Entidad evaluada por Charity Navigator, encontrada por los agentes con: 'Every.org: food bank'.",
-          "title": "Apoya a Capital Area Food Bank contra el hambre",
-          "source": "traduzione AI"
-        },
-        "fr": {
-          "text": "Organisation évaluée par Charity Navigator, trouvée par les agents avec : 'Every.org: food bank'.",
-          "title": "Soutenir Capital Area Food Bank contre la faim",
-          "source": "traduzione AI"
-        },
-        "hi": {
-          "text": "Charity Navigator द्वारा मूल्यांकित संस्था, एजेंटों द्वारा पाया गया: 'Every.org: food bank'.",
-          "title": "भूख के खिलाफ Capital Area Food Bank का समर्थन करें",
-          "source": "traduzione AI"
-        },
-        "it": {
-          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'Every.org: food bank'.",
-          "title": "Sostieni Capital Area Food Bank contro la fame",
-          "source": "traduzione AI"
-        },
-        "ja": {
-          "text": "Charity Navigator によって評価された団体で、エージェントが次のように見つけました: 'Every.org: food bank'。",
-          "title": "Capital Area Food Bank を飢餓から支援する",
-          "source": "traduzione AI"
-        },
-        "pt": {
-          "text": "Entidade avaliada pela Charity Navigator, encontrada pelos agentes com: 'Every.org: food bank'.",
-          "title": "Apoie a Capital Area Food Bank contra a fome",
-          "source": "traduzione AI"
-        },
-        "ru": {
-          "text": "Организация, оцененная Charity Navigator, найденная агентами с помощью: 'Every.org: food bank'.",
-          "title": "Поддержите Capital Area Food Bank в борьбе с голодом",
-          "source": "traduzione AI"
-        },
-        "zh": {
-          "text": "由 Charity Navigator 评估的机构，由特工发现，使用：“Every.org: food bank”。",
-          "title": "支持 Capital Area Food Bank 对抗饥饿",
-          "source": "traduzione AI"
-        }
-      },
-      "tranches": [],
-      "checks": [
-        {
-          "verifier": "regole",
-          "check_type": "ammissibilita",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Regole di ammissibilità (config/regole.yaml):\n✓ fonte ammessa: fonte 'valutatore'\n✓ ente registrato nel database: Capital Area Food Bank\n✓ codice fiscale verificato (IRS): EIN 521167581\n✓ ente valutato dal valutatore: Charity Navigator\n✓ voto del valutatore: 100%, 4 stelle su 4 (minimo 4 stelle e 90%)\n✓ anni di bilanci ufficiali: 13 anni [2019, 2020, 2021, 2022, 2023] (minimo 3)\n✓ tema fame / nutrizione: categoria IRS K310 (richiesta ['K3', 'K4']); tema nel nome: True; tema nella descrizione ufficiale: sì, \"food bank\" in «The Capital Area Food Bank (CAFB) is the largest public, non-profit hunger and nutrition education resource in the Washington Metropolitan Area.» (Charity Navigator, riquadro Mission della pagina Rating for: https://www.charitynavigator.org/ein/521167581)",
-          "source_url": "https://www.charitynavigator.org/ein/521167581"
-        },
-        {
-          "verifier": "regole",
-          "check_type": "ammissibilita",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "✓ valutatore indipendente tra le prove: 4 pagine di valutatori (https://www.charitynavigator.org/ein/521167581, https://charitywatch.org/charities/feeding-america, https://www.charitynavigator.org); minimo 1",
-          "source_url": "https://www.charitynavigator.org/ein/521167581"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "registrazione",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "L'ente è registrato negli Stati Uniti come organizzazione 501(c)(3) con EIN 52-1167581 e sede a Washington, DC (data di riconoscimento IRS: 01/01/1980).",
-          "source_url": "https://www.charitynavigator.org/ein/521167581"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "bilanci",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "I bilanci (Form 990) sono pubblici e disponibili per diversi anni (2011-2023), attestando entrate annuali superiori a 110 milioni di USD nel 2023.",
-          "source_url": "https://www.charitynavigator.org/ein/521167581"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "valutazione_indipendente",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Charity Navigator valuta l'organizzazione con il punteggio massimo di 4 stelle (100% Four-Star Charity).",
-          "source_url": "https://www.charitynavigator.org/ein/521167581"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "coerenza_importo",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "L'obiettivo di raccolta previsto di 5.000 USD è del tutto commisurato alle dimensioni operative e finanziarie dell'ente.",
-          "source_url": "https://www.charitynavigator.org/ein/521167581"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "storico_progetti",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "L'ente opera dal 1980 come la principale risorsa per l'alimentazione nella regione metropolitana di Washington, distribuendo oltre 20 milioni di libbre di cibo all'anno e pubblicando annualmente l'Hunger Report.",
-          "source_url": "https://www.charitynavigator.org/ein/521167581"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "segnali_allarme",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun segnale d'allarme, notizia negativa o tentativo di manipolazione rilevato nei dati estratti dalle fonti.",
-          "source_url": "https://www.charitynavigator.org/ein/521167581"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "conflitti_interesse",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun legame con gli sponsor registrati né con i legami noti dell'elenco dei conflitti (controllo del codice).",
-          "source_url": "config/conflitti.yaml"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "registrazione",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "L'ente è registrato come 501(c)(3) con EIN 521167581, confermato dal registro IRS su ProPublica.",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/521167581"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "bilanci",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Sono disponibili i Form 990 dal 2018 al 2023, scaricabili dal sito ProPublica.",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/521167581"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "valutazione_indipendente",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Charity Navigator assegna all'ente una valutazione Four‑Star, confermando una valutazione indipendente positiva.",
-          "source_url": "https://www.charitynavigator.org/ein/521167581"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "coerenza_importo",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "L'importo richiesto (5 000 USD) è molto inferiore al budget annuale dell'ente (oltre 100 M USD di entrate), quindi ragionevole rispetto alla sua dimensione.",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/521167581"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "storico_progetti",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "L'ente ha una storia documentata di distribuzione di 20 milioni di libbre di cibo e pubblica annualmente il Hunger Report, come mostrato da Charity Navigator e dal video YouTube.",
-          "source_url": "https://www.charitynavigator.org/ein/521167581"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "segnali_allarme",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun segnale di allarme (notizie negative, urgenze artificiali, pagamenti crypto, ecc.) è stato riscontrato nelle fonti fornite.",
-          "source_url": "https://www.charitynavigator.org/ein/521167581"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "conflitti_interesse",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun legame con gli sponsor registrati né con i legami noti dell'elenco dei conflitti (controllo del codice).",
-          "source_url": "config/conflitti.yaml"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "registrazione",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "L'ente Capital Area Food Bank è registrato come 501(c)(3) con EIN 521167581, riconosciuto dall'IRS dal 1980. La sede è a Washington DC.",
-          "source_url": "https://www.charitynavigator.org/ein/521167581"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "bilanci",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Sono disponibili i bilanci pubblici (Form 990) per gli anni dal 2011 al 2023, con dati dettagliati su entrate e spese accessibili tramite ProPublica.",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/521167581"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "valutazione_indipendente",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Charity Navigator assegna una valutazione di 4 stelle (100%) all'ente, confermando la sua affidabilità finanziaria e di impatto.",
-          "source_url": "https://www.charitynavigator.org/ein/521167581"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "coerenza_importo",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "L'obiettivo di raccolta di 5000 USD è estremamente coerente con le dimensioni dell'ente, che ha un fatturato annuo di oltre 100 milioni di dollari e distribuisce 20 milioni di libbre di cibo.",
-          "source_url": "https://www.charitynavigator.org/ein/521167581"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "storico_progetti",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "L'ente ha una lunga storia di attività documentata, inclusa la pubblicazione annuale del Hunger Report dal 2020 e una rete di oltre 700 agenzie partner.",
-          "source_url": "https://www.charitynavigator.org/ein/521167581"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "segnali_allarme",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun segnale d'allarme trovato. L'ente ha un sito web istituzionale, contatti diretti, e collaborazioni con enti di ricerca accreditati (NORC, CSIS).",
-          "source_url": "https://www.charitynavigator.org/ein/521167581"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "conflitti_interesse",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun legame con gli sponsor registrati né con i legami noti dell'elenco dei conflitti (controllo del codice).",
-          "source_url": "config/conflitti.yaml"
-        }
-      ],
-      "sources": [
-        "https://charitywatch.org/",
-        "https://charitywatch.org/charities/feeding-america",
-        "https://projects.propublica.org/nonprofits/organizations/521167581",
-        "https://www.charitynavigator.org",
-        "https://www.charitynavigator.org/ein/521167581",
-        "https://www.youtube.com/watch?v=2OaNwfRX5Pg"
-      ],
-      "waiting_counter": false,
-      "profile": {
-        "de": {
-          "does": [
-            {
-              "text": "Die Organisation fungiert als regionale Lebensmittelbank und liefert über 60 Millionen Mahlzeiten in Washington D.C., Maryland und Virginia.",
-              "source": "https://www.capitalareafoodbank.org/what-we-do/",
-              "by_org": true
-            },
-            {
-              "text": "Die Lebensmittelbank liefert Nahrung an mehr als 400 Organisationen, um bedürftige Gemeindemitglieder zu unterstützen.",
-              "source": "https://www.capitalareafoodbank.org/what-we-do/",
-              "by_org": true
-            },
-            {
-              "text": "Direkte Programme umfassen Nachmittagsmahlzeiten für Kinder, kostenlose Obst- und Gemüsemärkte und Notfall-Lebensmittelverteilungen.",
-              "source": "https://www.capitalareafoodbank.org/what-we-do/",
-              "by_org": true
-            },
-            {
-              "text": "Frisches Obst und Gemüse macht fast die Hälfte der bereitgestellten Nahrung aus und stammt zum Teil aus Partnerschaften mit regionalen Bauernhöfen.",
-              "source": "https://www.capitalareafoodbank.org/what-we-do/",
-              "by_org": true
-            }
-          ],
-          "mission": "Die Capital Area Food Bank (CAFB) ist die größte öffentliche, gemeinnützige Ressource für Hunger- und Ernährungserziehung im Washington Metropolitan Area. Die Mission der Capital Area Food Bank ist es, unseren Nachbarn zu einem gedeihlichen Leben zu verhelfen, indem wir durch Gemeinschaftspartnerschaften einen gerechteren Zugang zu Nahrung und Chancen schaffen. Jedes Jahr verteilt die CAFB 20 Millionen Pfund Lebensmittel, darunter sechs Millionen Pfund frisches Obst und Gemüse über mehr als 700 Partneragenturen.",
-          "does_not": [],
-          "strengths": [
-            {
-              "text": "Der Betrieb wird von einem 123,000 Quadratfuß großen Verteilzentrum unterstützt, in dem Mitarbeitende und 13,000+ jährliche Freiwillige Lebensmittel sortieren und vorbereiten.",
-              "source": "https://www.capitalareafoodbank.org/what-we-do/",
-              "by_org": true
-            },
-            {
-              "text": "Die Organisation unterhält ein Netzwerk von Hunderten gemeinnütziger Lebensmittelhilfepartner, um Stadtviertel in der gesamten Region zu erreichen.",
-              "source": "https://www.capitalareafoodbank.org/what-we-do/",
-              "by_org": true
-            },
-            {
-              "text": "Die Organisation betreibt einen 8,000 Quadratfuß großen städtischen Garten vor Ort, um landwirtschaftliches Wissen und Erzeugnisse zu teilen.",
-              "source": "https://www.capitalareafoodbank.org/what-we-do/",
-              "by_org": true
-            }
-          ]
-        },
-        "en": {
-          "does": [
-            {
-              "text": "The organization functions as a regional food bank, supplying over 60 million meals across D.C., Maryland, and Virginia.",
-              "quote": "The Capital Area Food Bank is the anchor of the hunger relief infrastructure in our region, providing more than 60 million meals to people in communities across D.C., Maryland, and Virginia.",
-              "source": "https://www.capitalareafoodbank.org/what-we-do/",
-              "by_org": true
-            },
-            {
-              "text": "The food bank supplies food to more than 400 organizations to assist community members in need.",
-              "quote": "From larger partners such as Martha’s Table, Bread for the City, and Manna, to smaller soup kitchens and pantries, we provide the food that more than 400 organizations need to feed the people they serve.",
-              "source": "https://www.capitalareafoodbank.org/what-we-do/",
-              "by_org": true
-            },
-            {
-              "text": "Direct programs include after-school meals for children, free produce markets, and emergency food distributions.",
-              "quote": "Our direct programs include after-school meals for kids, free produce markets, and emergency food distributions that we can mobilize when needed.",
-              "source": "https://www.capitalareafoodbank.org/what-we-do/",
-              "by_org": true
-            },
-            {
-              "text": "Fresh produce accounts for nearly half of the food provided, sourced in part from area farm partnerships.",
-              "quote": "Nearly half of the food we provide is fresh produce, and a significant amount of that comes from our partnerships with area farms.",
-              "source": "https://www.capitalareafoodbank.org/what-we-do/",
-              "by_org": true
-            }
-          ],
-          "mission": "The Capital Area Food Bank (CAFB) is the largest public, non-profit hunger and nutrition education resource in the Washington Metropolitan Area. The mission of the Capital Area Food Bank is to help our neighbors thrive by creating more equitable access to food and opportunity through community partnerships. Each year the CAFB distributes 20 million pounds of food, including six million pounds of fresh produce through over 700 partner agencies.",
-          "does_not": [],
-          "strengths": [
-            {
-              "text": "Operations are supported by a 123,000 square-foot distribution center where staff and 13,000+ annual volunteers sort and prepare food items.",
-              "quote": "Food donations come to our 123,000 square-foot distribution center, where our staff and 13,000+ annual volunteers sort and prepare items for distribution.",
-              "source": "https://www.capitalareafoodbank.org/what-we-do/",
-              "by_org": true
-            },
-            {
-              "text": "The organization maintains a network of hundreds of nonprofit food assistance partners to reach neighborhoods across the region.",
-              "quote": "We’re able to provide food to kids, families, and seniors in neighborhoods across our region because of our hundreds of nonprofit food assistance partners.",
-              "source": "https://www.capitalareafoodbank.org/what-we-do/",
-              "by_org": true
-            },
-            {
-              "text": "The organization operates an 8,000-square-foot urban garden on site to share agricultural knowledge and produce.",
-              "quote": "We also maintain an 8,000-square-foot urban garden on site, where we share knowledge about easy ways that a small garden or even a potted plant can bring freshly grown produce within reach.",
-              "source": "https://www.capitalareafoodbank.org/what-we-do/",
-              "by_org": true
-            }
-          ]
-        },
-        "es": {
-          "does": [
-            {
-              "text": "The organization funciona como un banco de alimentos regional, suministrando más de 60 millones de comidas en D.C., Maryland y Virginia.",
-              "source": "https://www.capitalareafoodbank.org/what-we-do/",
-              "by_org": true
-            },
-            {
-              "text": "The food bank suministra alimentos a más de 400 organizaciones para ayudar a los miembros de la comunidad necesitados.",
-              "source": "https://www.capitalareafoodbank.org/what-we-do/",
-              "by_org": true
-            },
-            {
-              "text": "Los programas directos incluyen comidas después de la escuela para niños, mercados de productos gratuitos y distribuciones de alimentos de emergencia.",
-              "source": "https://www.capitalareafoodbank.org/what-we-do/",
-              "by_org": true
-            },
-            {
-              "text": "Los productos frescos representan casi la mitad de los alimentos proporcionados, obtenidos en parte de asociaciones con granjas de la zona.",
-              "source": "https://www.capitalareafoodbank.org/what-we-do/",
-              "by_org": true
-            }
-          ],
-          "mission": "The Capital Area Food Bank (CAFB) es el recurso público sin fines de lucro más grande de hambre y educación nutricional en el Washington Metropolitan Area. La misión de la Capital Area Food Bank es ayudar a nuestros vecinos a prosperar creando un acceso más equitativo a alimentos y oportunidades a través de asociaciones comunitarias. Cada año el CAFB distribuye 20 millones de libras de comida, incluyendo seis millones de libras de productos frescos a través de más de 700 agencias asociadas.",
-          "does_not": [],
-          "strengths": [
-            {
-              "text": "Las operaciones están respaldadas por un centro de distribución de 123,000 pies cuadrados donde el personal y 13,000+ annual volunteers clasifican y preparan los alimentos.",
-              "source": "https://www.capitalareafoodbank.org/what-we-do/",
-              "by_org": true
-            },
-            {
-              "text": "The organization mantiene una red de cientos de socios sin fines de lucro de asistencia alimentaria para llegar a los vecindarios de toda la región.",
-              "source": "https://www.capitalareafoodbank.org/what-we-do/",
-              "by_org": true
-            },
-            {
-              "text": "The organization opera un jardín urbano de 8,000 pies cuadrados en el sitio para compartir conocimientos agrícolas y productos.",
-              "source": "https://www.capitalareafoodbank.org/what-we-do/",
-              "by_org": true
-            }
-          ]
-        },
-        "fr": {
-          "does": [
-            {
-              "text": "L'organisation fonctionne comme une banque alimentaire régionale, fournissant plus de 60 million repas à travers D.C., Maryland et Virginie.",
-              "source": "https://www.capitalareafoodbank.org/what-we-do/",
-              "by_org": true
-            },
-            {
-              "text": "La banque alimentaire fournit de la nourriture à plus de 400 organisations pour aider les membres de la communauté dans le besoin.",
-              "source": "https://www.capitalareafoodbank.org/what-we-do/",
-              "by_org": true
-            },
-            {
-              "text": "Les programmes directs comprennent des repas après l'école pour les enfants, des marchés de produits frais gratuits et des distributions alimentaires d'urgence.",
-              "source": "https://www.capitalareafoodbank.org/what-we-do/",
-              "by_org": true
-            },
-            {
-              "text": "Les produits frais représentent près de la moitié de la nourriture fournie, provenant en partie de partenariats avec des fermes locales.",
-              "source": "https://www.capitalareafoodbank.org/what-we-do/",
-              "by_org": true
-            }
-          ],
-          "mission": "Le Capital Area Food Bank (CAFB) est la plus grande ressource publique à but non lucratif en matière de faim et d'éducation nutritionnelle dans la Washington Metropolitan Area. La mission du Capital Area Food Bank est d'aider nos voisins à prospérer en créant un accès plus équitable à la nourriture et aux opportunités grâce à des partenariats communautaires. Chaque année, le CAFB distribue 20 million pounds de nourriture, dont six million pounds de produits frais, à travers plus de 700 agences partenaires.",
-          "does_not": [],
-          "strengths": [
-            {
-              "text": "Les opérations sont soutenues par un centre de distribution de 123,000 square-foot où le personnel et 13,000+ volontaires annuels trient et préparent les denrées alimentaires.",
-              "source": "https://www.capitalareafoodbank.org/what-we-do/",
-              "by_org": true
-            },
-            {
-              "text": "L'organisation maintient un réseau de centaines de partenaires d'aide alimentaire à but non lucratif pour atteindre les quartiers à travers la région.",
-              "source": "https://www.capitalareafoodbank.org/what-we-do/",
-              "by_org": true
-            },
-            {
-              "text": "L'organisation exploite un jardin urbain de 8,000-square-foot sur place pour partager les connaissances agricoles et les produits.",
-              "source": "https://www.capitalareafoodbank.org/what-we-do/",
-              "by_org": true
-            }
-          ]
-        },
-        "hi": {
-          "does": [
-            {
-              "text": "संगठन एक क्षेत्रीय खाद्य बैंक के रूप में कार्य करता है, जो D.C., Maryland, और Virginia में over 60 million meals प्रदान करता है।",
-              "source": "https://www.capitalareafoodbank.org/what-we-do/",
-              "by_org": true
-            },
-            {
-              "text": "खाद्य बैंक जरूरतमंद समुदाय सदस्यों की मदद के लिए 400 से अधिक संगठनों को भोजन प्रदान करता है।",
-              "source": "https://www.capitalareafoodbank.org/what-we-do/",
-              "by_org": true
-            },
-            {
-              "text": "प्रत्यक्ष कार्यक्रमों में बच्चों के लिए स्कूल के बाद के भोजन, मुफ्त उत्पाद बाजार, और आपातकालीन भोजन वितरण शामिल हैं।",
-              "source": "https://www.capitalareafoodbank.org/what-we-do/",
-              "by_org": true
-            },
-            {
-              "text": "ताज़ा उत्पाद प्रदान किए गए भोजन का लगभग आधा हिस्सा बनाते हैं, जो भाग में क्षेत्रीय फार्म साझेदारियों से प्राप्त होते हैं।",
-              "source": "https://www.capitalareafoodbank.org/what-we-do/",
-              "by_org": true
-            }
-          ],
-          "mission": "Capital Area Food Bank (CAFB) वाशिंगटन मेट्रोपॉलिटन एरिया में सबसे बड़ा सार्वजनिक, गैर-लाभकारी भूख और पोषण शिक्षा संसाधन है। Capital Area Food Bank का मिशन हमारे पड़ोसियों को समुदाय साझेदारियों के माध्यम से भोजन और अवसर तक अधिक समान पहुंच बनाकर समृद्ध होने में मदद करना है। प्रत्येक वर्ष CAFB 20 million pounds भोजन वितरित करता है, जिसमें six million pounds ताज़ा उत्पाद शामिल हैं, जो over 700 partner agencies के माध्यम से वितरित किए जाते हैं।",
-          "does_not": [],
-          "strengths": [
-            {
-              "text": "ऑपरेशन्स को 123,000 square-foot वितरण केंद्र द्वारा समर्थित किया जाता है, जहाँ स्टाफ और 13,000+ वार्षिक स्वयंसेवक भोजन वस्तुओं को छांटते और तैयार करते हैं।",
-              "source": "https://www.capitalareafoodbank.org/what-we-do/",
-              "by_org": true
-            },
-            {
-              "text": "संगठन सैकड़ों गैर-लाभकारी खाद्य सहायता साझेदारों का नेटवर्क बनाए रखता है ताकि क्षेत्र भर के पड़ोस तक पहुंचा जा सके।",
-              "source": "https://www.capitalareafoodbank.org/what-we-do/",
-              "by_org": true
-            },
-            {
-              "text": "संगठन साइट पर 8,000-square-foot शहरी बगीचा संचालित करता है ताकि कृषि ज्ञान और उत्पाद साझा किए जा सकें।",
-              "source": "https://www.capitalareafoodbank.org/what-we-do/",
-              "by_org": true
-            }
-          ]
-        },
-        "it": {
-          "does": [
-            {
-              "text": "L'organizzazione funziona come una banca alimentare regionale, fornendo oltre 60 million meals in D.C., Maryland e Virginia.",
-              "source": "https://www.capitalareafoodbank.org/what-we-do/",
-              "by_org": true
-            },
-            {
-              "text": "La banca alimentare fornisce cibo a più di 400 organizzazioni per assistere i membri della comunità in difficoltà.",
-              "source": "https://www.capitalareafoodbank.org/what-we-do/",
-              "by_org": true
-            },
-            {
-              "text": "I programmi diretti includono pasti doposcuola per bambini, mercati di prodotti gratuiti e distribuzioni di cibo di emergenza.",
-              "source": "https://www.capitalareafoodbank.org/what-we-do/",
-              "by_org": true
-            },
-            {
-              "text": "I prodotti freschi rappresentano quasi la metà del cibo fornito, ottenuti in parte da partnership con fattorie locali.",
-              "source": "https://www.capitalareafoodbank.org/what-we-do/",
-              "by_org": true
-            }
-          ],
-          "mission": "Il Capital Area Food Bank (CAFB) è la più grande risorsa pubblica e senza scopo di lucro per la fame e l'educazione nutrizionale nell'area metropolitana di Washington. La missione del Capital Area Food Bank è aiutare i nostri vicini a prosperare creando un accesso più equo al cibo e alle opportunità attraverso partnership comunitarie. Ogni anno il CAFB distribuisce 20 million pounds di cibo, inclusi six million pounds di prodotti freschi attraverso oltre 700 agenzie partner.",
-          "does_not": [],
-          "strengths": [
-            {
-              "text": "Le operazioni sono supportate da un centro di distribuzione di 123,000 square-foot dove il personale e 13,000+ volontari annuali selezionano e preparano gli alimenti.",
-              "source": "https://www.capitalareafoodbank.org/what-we-do/",
-              "by_org": true
-            },
-            {
-              "text": "L'organizzazione mantiene una rete di centinaia di partner non profit per l'assistenza alimentare per raggiungere i quartieri in tutta la regione.",
-              "source": "https://www.capitalareafoodbank.org/what-we-do/",
-              "by_org": true
-            },
-            {
-              "text": "L'organizzazione gestisce un giardino urbano di 8,000-square-foot in loco per condividere conoscenze agricole e prodotti.",
-              "source": "https://www.capitalareafoodbank.org/what-we-do/",
-              "by_org": true
-            }
-          ]
-        },
-        "ja": {
-          "does": [
-            {
-              "text": "この組織は地域のフードバンクとして機能し、D.C.、メリーランド、バージニア全域でover 60 million mealsを供給しています。",
-              "source": "https://www.capitalareafoodbank.org/what-we-do/",
-              "by_org": true
-            },
-            {
-              "text": "フードバンクは、more than 400 organizationsに食料を供給し、支援が必要な地域住民を助けています。",
-              "source": "https://www.capitalareafoodbank.org/what-we-do/",
-              "by_org": true
-            },
-            {
-              "text": "直接的なプログラムには、子どもの放課後食事、無料の農産物市場、緊急食料配布が含まれます。",
-              "source": "https://www.capitalareafoodbank.org/what-we-do/",
-              "by_org": true
-            },
-            {
-              "text": "新鮮な農産物は提供される食料のほぼ半分を占めており、一部は地域の農場パートナーシップから調達されています。",
-              "source": "https://www.capitalareafoodbank.org/what-we-do/",
-              "by_org": true
-            }
-          ],
-          "mission": "Capital Area Food Bank（CAFB）は、ワシントン大都市圏における最大の公共・非営利の飢餓・栄養教育リソースです。Capital Area Food Bankのミッションは、地域パートナーシップを通じて食料と機会への公平なアクセスを創出し、近隣住民が繁栄できるよう支援することです。毎年、CAFBは20 million poundsの食料を配布しており、そのうちsix million poundsは新鮮な農産物で、over 700 partner agenciesを通じて提供しています。",
-          "does_not": [],
-          "strengths": [
-            {
-              "text": "オペレーションは、123,000 square-footの流通センターによって支えられており、スタッフと13,000+ annual volunteersが食料品を仕分け・準備しています。",
-              "source": "https://www.capitalareafoodbank.org/what-we-do/",
-              "by_org": true
-            },
-            {
-              "text": "組織は、hundreds of nonprofit food assistance partnersのネットワークを維持し、地域全体の近隣に届くようにしています。",
-              "source": "https://www.capitalareafoodbank.org/what-we-do/",
-              "by_org": true
-            },
-            {
-              "text": "組織は、8,000-square-footの都市型ガーデンを敷地内で運営し、農業知識と農産物を共有しています。",
-              "source": "https://www.capitalareafoodbank.org/what-we-do/",
-              "by_org": true
-            }
-          ]
-        },
-        "pt": {
-          "does": [
-            {
-              "text": "A organização funciona como um banco de alimentos regional, fornecendo mais de 60 milhões de refeições em D.C., Maryland e Virgínia.",
-              "source": "https://www.capitalareafoodbank.org/what-we-do/",
-              "by_org": true
-            },
-            {
-              "text": "O banco de alimentos fornece alimentos a mais de 400 organizações para ajudar membros da comunidade em necessidade.",
-              "source": "https://www.capitalareafoodbank.org/what-we-do/",
-              "by_org": true
-            },
-            {
-              "text": "Os programas diretos incluem refeições pós-escolares para crianças, mercados de produtos gratuitos e distribuições emergenciais de alimentos.",
-              "source": "https://www.capitalareafoodbank.org/what-we-do/",
-              "by_org": true
-            },
-            {
-              "text": "Produtos frescos representam quase metade dos alimentos fornecidos, obtidos em parte de parcerias com fazendas da região.",
-              "source": "https://www.capitalareafoodbank.org/what-we-do/",
-              "by_org": true
-            }
-          ],
-          "mission": "O Capital Area Food Bank (CAFB) é o maior recurso público e sem fins lucrativos de combate à fome e educação nutricional na Washington Metropolitan Area. A missão do Capital Area Food Bank é ajudar nossos vizinhos a prosperar, criando acesso mais equitativo a alimentos e oportunidades por meio de parcerias comunitárias. Cada ano o CAFB distribui 20 milhões de libras de alimentos, incluindo seis milhões de libras de produtos frescos através de mais de 700 agências parceiras.",
-          "does_not": [],
-          "strengths": [
-            {
-              "text": "As operações são apoiadas por um centro de distribuição de 123,000 pés quadrados, onde funcionários e 13,000+ voluntários anuais classificam e preparam os itens alimentares.",
-              "source": "https://www.capitalareafoodbank.org/what-we-do/",
-              "by_org": true
-            },
-            {
-              "text": "A organização mantém uma rede de centenas de parceiros sem fins lucrativos de assistência alimentar para alcançar bairros em toda a região.",
-              "source": "https://www.capitalareafoodbank.org/what-we-do/",
-              "by_org": true
-            },
-            {
-              "text": "A organização opera um jardim urbano de 8,000 pés quadrados no local para compartilhar conhecimento agrícola e produtos.",
-              "source": "https://www.capitalareafoodbank.org/what-we-do/",
-              "by_org": true
-            }
-          ]
-        },
-        "ru": {
-          "does": [
-            {
-              "text": "Организация функционирует как региональный продовольственный банк, поставляя более 60 миллионов порций по D.C., Maryland и Virginia.",
-              "source": "https://www.capitalareafoodbank.org/what-we-do/",
-              "by_org": true
-            },
-            {
-              "text": "Продовольственный банк поставляет продовольствие более чем 400 организациям, чтобы помочь нуждающимся членам сообщества.",
-              "source": "https://www.capitalareafoodbank.org/what-we-do/",
-              "by_org": true
-            },
-            {
-              "text": "Прямые программы включают послеурочные обеды для детей, бесплатные рынки свежих продуктов и экстренные распределения продовольствия.",
-              "source": "https://www.capitalareafoodbank.org/what-we-do/",
-              "by_org": true
-            },
-            {
-              "text": "Свежие продукты составляют почти половину предоставляемой пищи, частично получаемой от партнёрств с местными фермерскими хозяйствами.",
-              "source": "https://www.capitalareafoodbank.org/what-we-do/",
-              "by_org": true
-            }
-          ],
-          "mission": "Capital Area Food Bank (CAFB) — крупнейший публичный некоммерческий ресурс по борьбе с голодом и образованию в области питания в Washington Metropolitan Area. Миссия Capital Area Food Bank — помогать нашим соседям процветать, создавая более справедливый доступ к пище и возможностям через партнёрские сообщества. Каждый год CAFB распределяет 20 миллионов фунтов продовольствия, включая six million фунтов свежих овощей и фруктов через более 700 партнёрских агентств.",
-          "does_not": [],
-          "strengths": [
-            {
-              "text": "Операции поддерживаются распределительным центром площадью 123,000 квадратных футов, где персонал и 13,000+ годовых волонтёров сортируют и готовят продовольственные товары.",
-              "source": "https://www.capitalareafoodbank.org/what-we-do/",
-              "by_org": true
-            },
-            {
-              "text": "Организация поддерживает сеть из сотен некоммерческих партнёров по продовольственной помощи, чтобы охватывать районы по всему региону.",
-              "source": "https://www.capitalareafoodbank.org/what-we-do/",
-              "by_org": true
-            },
-            {
-              "text": "Организация управляет городским садом площадью 8,000 квадратных футов на месте, чтобы делиться сельскохозяйственными знаниями и продукцией.",
-              "source": "https://www.capitalareafoodbank.org/what-we-do/",
-              "by_org": true
-            }
-          ]
-        },
-        "zh": {
-          "does": [
-            {
-              "text": "该组织作为区域食品银行运作，在华盛顿特区、马里兰州和弗吉尼亚州提供超过 60 million 餐食。",
-              "source": "https://www.capitalareafoodbank.org/what-we-do/",
-              "by_org": true
-            },
-            {
-              "text": "该食品银行向超过 400 家组织供应食物，以帮助有需要的社区成员。",
-              "source": "https://www.capitalareafoodbank.org/what-we-do/",
-              "by_org": true
-            },
-            {
-              "text": "直接项目包括儿童课后餐、免费农产品市场和紧急食品分发。",
-              "source": "https://www.capitalareafoodbank.org/what-we-do/",
-              "by_org": true
-            },
-            {
-              "text": "新鲜农产品约占所提供食物的一半，部分来源于本地区的农场合作伙伴。",
-              "source": "https://www.capitalareafoodbank.org/what-we-do/",
-              "by_org": true
-            }
-          ],
-          "mission": "Capital Area Food Bank (CAFB) 是华盛顿大都会区最大的公共非营利饥饿和营养教育资源。Capital Area Food Bank 的使命是通过社区合作，为我们的邻居创造更公平的食物和机会获取，使他们繁荣发展。每年，CAFB 分发 20 million 磅食物，其中包括六 million 磅新鲜农产品，遍及 700 多家合作机构。",
-          "does_not": [],
-          "strengths": [
-            {
-              "text": "运营由一个 123,000 square-foot 的分配中心支持，工作人员和每年 13,000+ 名志愿者在此分拣和准备食品。",
-              "source": "https://www.capitalareafoodbank.org/what-we-do/",
-              "by_org": true
-            },
-            {
-              "text": "该组织维护着数百家非营利食品援助合作伙伴的网络，以覆盖该地区的各个社区。",
-              "source": "https://www.capitalareafoodbank.org/what-we-do/",
-              "by_org": true
-            },
-            {
-              "text": "该组织在现场运营一个 8,000-square-foot 的城市花园，以分享农业知识和农产品。",
-              "source": "https://www.capitalareafoodbank.org/what-we-do/",
-              "by_org": true
-            }
-          ]
-        }
-      },
-      "safety": {
-        "evaluator": "Charity Navigator",
-        "stars": 4,
-        "score": 100,
-        "rating_url": "https://www.charitynavigator.org/ein/521167581",
-        "rating_checked": "2026-11-21",
-        "since": "1980",
-        "registry_url": "https://projects.propublica.org/nonprofits/organizations/521167581",
-        "filings": 13,
-        "first_year": 2011,
-        "last_year": 2023,
-        "checks_passed": 18,
-        "verifiers": 3,
-        "unanimous": true,
-        "site": "capitalareafoodbank.org",
-        "official_host": "capitalareafoodbank.org",
-        "profile_claimed": false
-      },
-      "platform": "",
-      "counter": {},
-      "fundraiser_open": false,
-      "started_on": null,
-      "place": "District of Columbia",
-      "source_name": "valutatore",
-      "progress_pct": 0,
-      "donate": {
-        "recipient": "Capital Area Food Bank",
-        "url": null,
-        "money_goes_to": "not open yet: donations open on a fundraising page with a public total",
-        "counted_here_only_if": "shown in the public total of the fundraising page",
-        "status": "in public review"
-      }
-    },
     {
       "slug": "support-central-texas-food-bank-inc-against-hunger-7550",
       "title": "Support Central Texas Food Bank Inc against hunger",
@@ -1418,7 +681,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-23T14:05:53.650831+00:00",
+        "read_at": "2026-11-23T21:04:33.524090+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -2571,7 +1834,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-23T14:05:51.618520+00:00",
+        "read_at": "2026-11-23T21:04:31.926599+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -3167,7 +2430,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-23T14:05:45.191408+00:00",
+        "read_at": "2026-11-23T21:04:26.456152+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -3824,7 +3087,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-23T14:05:46.961621+00:00",
+        "read_at": "2026-11-23T21:04:28.479465+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -5083,7 +4346,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-23T14:05:46.535200+00:00",
+        "read_at": "2026-11-23T21:04:28.019124+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -6623,7 +5886,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-23T14:05:49.967677+00:00",
+        "read_at": "2026-11-23T21:04:31.064317+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -7116,7 +6379,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-23T14:05:43.761156+00:00",
+        "read_at": "2026-11-23T21:04:25.384043+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -8304,7 +7567,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-23T14:05:52.465043+00:00",
+        "read_at": "2026-11-23T21:04:32.279704+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -9895,7 +9158,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-23T14:05:54.483549+00:00",
+        "read_at": "2026-11-23T21:04:34.339558+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -10562,7 +9825,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-23T14:05:45.666425+00:00",
+        "read_at": "2026-11-23T21:04:26.913821+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -11270,7 +10533,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-23T14:05:54.037274+00:00",
+        "read_at": "2026-11-23T21:04:33.887490+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -11825,7 +11088,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-23T14:05:52.875411+00:00",
+        "read_at": "2026-11-23T21:04:32.768614+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -12482,7 +11745,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-23T14:05:44.754229+00:00",
+        "read_at": "2026-11-23T21:04:26.026614+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -13088,7 +12351,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-23T14:05:50.663722+00:00",
+        "read_at": "2026-11-23T21:04:31.449778+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -14391,7 +13654,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-23T14:05:53.245140+00:00",
+        "read_at": "2026-11-23T21:04:33.174554+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -14996,7 +14259,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-23T14:05:48.895331+00:00",
+        "read_at": "2026-11-23T21:04:30.646393+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -16097,7 +15360,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-23T14:05:46.080047+00:00",
+        "read_at": "2026-11-23T21:04:27.283897+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -17002,7 +16265,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-23T14:05:47.756060+00:00",
+        "read_at": "2026-11-23T21:04:29.566096+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -17659,7 +16922,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-23T14:05:47.385619+00:00",
+        "read_at": "2026-11-23T21:04:29.027931+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -18265,7 +17528,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-23T14:05:48.157798+00:00",
+        "read_at": "2026-11-23T21:04:30.152432+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -18560,13 +17823,750 @@
         "counted_here_only_if": "shown in the public total of the fundraising page",
         "status": "in public review"
       }
+    },
+    {
+      "slug": "support-capital-area-food-bank-against-hunger-8100",
+      "title": "Support Capital Area Food Bank against hunger",
+      "description": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'Every.org: food bank'.",
+      "org_name": "Capital Area Food Bank",
+      "org_country": "US",
+      "org_website": "https://capitalareafoodbank.org/",
+      "country": "US",
+      "currency": "USD",
+      "goal": 5000.0,
+      "raised": 0.0,
+      "donated": 0.0,
+      "status": "revisione_pubblica",
+      "donation_url": null,
+      "source_url": "https://www.charitynavigator.org/ein/521167581",
+      "approved_on": "2026-11-22",
+      "review_until": "2026-11-25 07:44 UTC",
+      "translations": {
+        "de": {
+          "text": "Organisation bewertet von Charity Navigator, gefunden von den Agenten mit: 'Every.org: food bank'.",
+          "title": "Unterstützen Sie die Capital Area Food Bank im Kampf gegen den Hunger",
+          "source": "traduzione AI"
+        },
+        "en": {
+          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'Every.org: food bank'.",
+          "title": "Support Capital Area Food Bank against hunger",
+          "source": "originale"
+        },
+        "es": {
+          "text": "Entidad evaluada por Charity Navigator, encontrada por los agentes con: 'Every.org: food bank'.",
+          "title": "Apoya a Capital Area Food Bank contra el hambre",
+          "source": "traduzione AI"
+        },
+        "fr": {
+          "text": "Organisation évaluée par Charity Navigator, trouvée par les agents avec : 'Every.org: food bank'.",
+          "title": "Soutenir Capital Area Food Bank contre la faim",
+          "source": "traduzione AI"
+        },
+        "hi": {
+          "text": "Charity Navigator द्वारा मूल्यांकित संस्था, एजेंटों द्वारा पाया गया: 'Every.org: food bank'.",
+          "title": "भूख के खिलाफ Capital Area Food Bank का समर्थन करें",
+          "source": "traduzione AI"
+        },
+        "it": {
+          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'Every.org: food bank'.",
+          "title": "Sostieni Capital Area Food Bank contro la fame",
+          "source": "traduzione AI"
+        },
+        "ja": {
+          "text": "Charity Navigator によって評価された団体で、エージェントが次のように見つけました: 'Every.org: food bank'。",
+          "title": "Capital Area Food Bank を飢餓から支援する",
+          "source": "traduzione AI"
+        },
+        "pt": {
+          "text": "Entidade avaliada pela Charity Navigator, encontrada pelos agentes com: 'Every.org: food bank'.",
+          "title": "Apoie a Capital Area Food Bank contra a fome",
+          "source": "traduzione AI"
+        },
+        "ru": {
+          "text": "Организация, оцененная Charity Navigator, найденная агентами с помощью: 'Every.org: food bank'.",
+          "title": "Поддержите Capital Area Food Bank в борьбе с голодом",
+          "source": "traduzione AI"
+        },
+        "zh": {
+          "text": "由 Charity Navigator 评估的机构，由特工发现，使用：“Every.org: food bank”。",
+          "title": "支持 Capital Area Food Bank 对抗饥饿",
+          "source": "traduzione AI"
+        }
+      },
+      "tranches": [],
+      "checks": [
+        {
+          "verifier": "regole",
+          "check_type": "ammissibilita",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Regole di ammissibilità (config/regole.yaml):\n✓ fonte ammessa: fonte 'valutatore'\n✓ ente registrato nel database: Capital Area Food Bank\n✓ codice fiscale verificato (IRS): EIN 521167581\n✓ ente valutato dal valutatore: Charity Navigator\n✓ voto del valutatore: 100%, 4 stelle su 4 (minimo 4 stelle e 90%)\n✓ anni di bilanci ufficiali: 13 anni [2019, 2020, 2021, 2022, 2023] (minimo 3)\n✓ tema fame / nutrizione: categoria IRS K310 (richiesta ['K3', 'K4']); tema nel nome: True; tema nella descrizione ufficiale: sì, \"food bank\" in «The Capital Area Food Bank (CAFB) is the largest public, non-profit hunger and nutrition education resource in the Washington Metropolitan Area.» (Charity Navigator, riquadro Mission della pagina Rating for: https://www.charitynavigator.org/ein/521167581)",
+          "source_url": "https://www.charitynavigator.org/ein/521167581"
+        },
+        {
+          "verifier": "regole",
+          "check_type": "ammissibilita",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "✓ valutatore indipendente tra le prove: 4 pagine di valutatori (https://www.charitynavigator.org/ein/521167581, https://charitywatch.org/charities/feeding-america, https://www.charitynavigator.org); minimo 1",
+          "source_url": "https://www.charitynavigator.org/ein/521167581"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "registrazione",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "L'ente è registrato negli Stati Uniti come organizzazione 501(c)(3) con EIN 52-1167581 e sede a Washington, DC (data di riconoscimento IRS: 01/01/1980).",
+          "source_url": "https://www.charitynavigator.org/ein/521167581"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "bilanci",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "I bilanci (Form 990) sono pubblici e disponibili per diversi anni (2011-2023), attestando entrate annuali superiori a 110 milioni di USD nel 2023.",
+          "source_url": "https://www.charitynavigator.org/ein/521167581"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "valutazione_indipendente",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Charity Navigator valuta l'organizzazione con il punteggio massimo di 4 stelle (100% Four-Star Charity).",
+          "source_url": "https://www.charitynavigator.org/ein/521167581"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "coerenza_importo",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "L'obiettivo di raccolta previsto di 5.000 USD è del tutto commisurato alle dimensioni operative e finanziarie dell'ente.",
+          "source_url": "https://www.charitynavigator.org/ein/521167581"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "storico_progetti",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "L'ente opera dal 1980 come la principale risorsa per l'alimentazione nella regione metropolitana di Washington, distribuendo oltre 20 milioni di libbre di cibo all'anno e pubblicando annualmente l'Hunger Report.",
+          "source_url": "https://www.charitynavigator.org/ein/521167581"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "segnali_allarme",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun segnale d'allarme, notizia negativa o tentativo di manipolazione rilevato nei dati estratti dalle fonti.",
+          "source_url": "https://www.charitynavigator.org/ein/521167581"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "conflitti_interesse",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun legame con gli sponsor registrati né con i legami noti dell'elenco dei conflitti (controllo del codice).",
+          "source_url": "config/conflitti.yaml"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "registrazione",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "L'ente è registrato come 501(c)(3) con EIN 521167581, confermato dal registro IRS su ProPublica.",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/521167581"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "bilanci",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Sono disponibili i Form 990 dal 2018 al 2023, scaricabili dal sito ProPublica.",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/521167581"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "valutazione_indipendente",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Charity Navigator assegna all'ente una valutazione Four‑Star, confermando una valutazione indipendente positiva.",
+          "source_url": "https://www.charitynavigator.org/ein/521167581"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "coerenza_importo",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "L'importo richiesto (5 000 USD) è molto inferiore al budget annuale dell'ente (oltre 100 M USD di entrate), quindi ragionevole rispetto alla sua dimensione.",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/521167581"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "storico_progetti",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "L'ente ha una storia documentata di distribuzione di 20 milioni di libbre di cibo e pubblica annualmente il Hunger Report, come mostrato da Charity Navigator e dal video YouTube.",
+          "source_url": "https://www.charitynavigator.org/ein/521167581"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "segnali_allarme",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun segnale di allarme (notizie negative, urgenze artificiali, pagamenti crypto, ecc.) è stato riscontrato nelle fonti fornite.",
+          "source_url": "https://www.charitynavigator.org/ein/521167581"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "conflitti_interesse",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun legame con gli sponsor registrati né con i legami noti dell'elenco dei conflitti (controllo del codice).",
+          "source_url": "config/conflitti.yaml"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "registrazione",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "L'ente Capital Area Food Bank è registrato come 501(c)(3) con EIN 521167581, riconosciuto dall'IRS dal 1980. La sede è a Washington DC.",
+          "source_url": "https://www.charitynavigator.org/ein/521167581"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "bilanci",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Sono disponibili i bilanci pubblici (Form 990) per gli anni dal 2011 al 2023, con dati dettagliati su entrate e spese accessibili tramite ProPublica.",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/521167581"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "valutazione_indipendente",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Charity Navigator assegna una valutazione di 4 stelle (100%) all'ente, confermando la sua affidabilità finanziaria e di impatto.",
+          "source_url": "https://www.charitynavigator.org/ein/521167581"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "coerenza_importo",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "L'obiettivo di raccolta di 5000 USD è estremamente coerente con le dimensioni dell'ente, che ha un fatturato annuo di oltre 100 milioni di dollari e distribuisce 20 milioni di libbre di cibo.",
+          "source_url": "https://www.charitynavigator.org/ein/521167581"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "storico_progetti",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "L'ente ha una lunga storia di attività documentata, inclusa la pubblicazione annuale del Hunger Report dal 2020 e una rete di oltre 700 agenzie partner.",
+          "source_url": "https://www.charitynavigator.org/ein/521167581"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "segnali_allarme",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun segnale d'allarme trovato. L'ente ha un sito web istituzionale, contatti diretti, e collaborazioni con enti di ricerca accreditati (NORC, CSIS).",
+          "source_url": "https://www.charitynavigator.org/ein/521167581"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "conflitti_interesse",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun legame con gli sponsor registrati né con i legami noti dell'elenco dei conflitti (controllo del codice).",
+          "source_url": "config/conflitti.yaml"
+        }
+      ],
+      "sources": [
+        "https://charitywatch.org/",
+        "https://charitywatch.org/charities/feeding-america",
+        "https://projects.propublica.org/nonprofits/organizations/521167581",
+        "https://www.charitynavigator.org",
+        "https://www.charitynavigator.org/ein/521167581",
+        "https://www.youtube.com/watch?v=2OaNwfRX5Pg"
+      ],
+      "waiting_counter": false,
+      "profile": {
+        "de": {
+          "does": [
+            {
+              "text": "Die Organisation fungiert als regionale Lebensmittelbank und liefert über 60 Millionen Mahlzeiten in Washington D.C., Maryland und Virginia.",
+              "source": "https://www.capitalareafoodbank.org/what-we-do/",
+              "by_org": true
+            },
+            {
+              "text": "Die Lebensmittelbank liefert Nahrung an mehr als 400 Organisationen, um bedürftige Gemeindemitglieder zu unterstützen.",
+              "source": "https://www.capitalareafoodbank.org/what-we-do/",
+              "by_org": true
+            },
+            {
+              "text": "Direkte Programme umfassen Nachmittagsmahlzeiten für Kinder, kostenlose Obst- und Gemüsemärkte und Notfall-Lebensmittelverteilungen.",
+              "source": "https://www.capitalareafoodbank.org/what-we-do/",
+              "by_org": true
+            },
+            {
+              "text": "Frisches Obst und Gemüse macht fast die Hälfte der bereitgestellten Nahrung aus und stammt zum Teil aus Partnerschaften mit regionalen Bauernhöfen.",
+              "source": "https://www.capitalareafoodbank.org/what-we-do/",
+              "by_org": true
+            }
+          ],
+          "mission": "Die Capital Area Food Bank (CAFB) ist die größte öffentliche, gemeinnützige Ressource für Hunger- und Ernährungserziehung im Washington Metropolitan Area. Die Mission der Capital Area Food Bank ist es, unseren Nachbarn zu einem gedeihlichen Leben zu verhelfen, indem wir durch Gemeinschaftspartnerschaften einen gerechteren Zugang zu Nahrung und Chancen schaffen. Jedes Jahr verteilt die CAFB 20 Millionen Pfund Lebensmittel, darunter sechs Millionen Pfund frisches Obst und Gemüse über mehr als 700 Partneragenturen.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "Der Betrieb wird von einem 123,000 Quadratfuß großen Verteilzentrum unterstützt, in dem Mitarbeitende und 13,000+ jährliche Freiwillige Lebensmittel sortieren und vorbereiten.",
+              "source": "https://www.capitalareafoodbank.org/what-we-do/",
+              "by_org": true
+            },
+            {
+              "text": "Die Organisation unterhält ein Netzwerk von Hunderten gemeinnütziger Lebensmittelhilfepartner, um Stadtviertel in der gesamten Region zu erreichen.",
+              "source": "https://www.capitalareafoodbank.org/what-we-do/",
+              "by_org": true
+            },
+            {
+              "text": "Die Organisation betreibt einen 8,000 Quadratfuß großen städtischen Garten vor Ort, um landwirtschaftliches Wissen und Erzeugnisse zu teilen.",
+              "source": "https://www.capitalareafoodbank.org/what-we-do/",
+              "by_org": true
+            }
+          ]
+        },
+        "en": {
+          "does": [
+            {
+              "text": "The organization functions as a regional food bank, supplying over 60 million meals across D.C., Maryland, and Virginia.",
+              "quote": "The Capital Area Food Bank is the anchor of the hunger relief infrastructure in our region, providing more than 60 million meals to people in communities across D.C., Maryland, and Virginia.",
+              "source": "https://www.capitalareafoodbank.org/what-we-do/",
+              "by_org": true
+            },
+            {
+              "text": "The food bank supplies food to more than 400 organizations to assist community members in need.",
+              "quote": "From larger partners such as Martha’s Table, Bread for the City, and Manna, to smaller soup kitchens and pantries, we provide the food that more than 400 organizations need to feed the people they serve.",
+              "source": "https://www.capitalareafoodbank.org/what-we-do/",
+              "by_org": true
+            },
+            {
+              "text": "Direct programs include after-school meals for children, free produce markets, and emergency food distributions.",
+              "quote": "Our direct programs include after-school meals for kids, free produce markets, and emergency food distributions that we can mobilize when needed.",
+              "source": "https://www.capitalareafoodbank.org/what-we-do/",
+              "by_org": true
+            },
+            {
+              "text": "Fresh produce accounts for nearly half of the food provided, sourced in part from area farm partnerships.",
+              "quote": "Nearly half of the food we provide is fresh produce, and a significant amount of that comes from our partnerships with area farms.",
+              "source": "https://www.capitalareafoodbank.org/what-we-do/",
+              "by_org": true
+            }
+          ],
+          "mission": "The Capital Area Food Bank (CAFB) is the largest public, non-profit hunger and nutrition education resource in the Washington Metropolitan Area. The mission of the Capital Area Food Bank is to help our neighbors thrive by creating more equitable access to food and opportunity through community partnerships. Each year the CAFB distributes 20 million pounds of food, including six million pounds of fresh produce through over 700 partner agencies.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "Operations are supported by a 123,000 square-foot distribution center where staff and 13,000+ annual volunteers sort and prepare food items.",
+              "quote": "Food donations come to our 123,000 square-foot distribution center, where our staff and 13,000+ annual volunteers sort and prepare items for distribution.",
+              "source": "https://www.capitalareafoodbank.org/what-we-do/",
+              "by_org": true
+            },
+            {
+              "text": "The organization maintains a network of hundreds of nonprofit food assistance partners to reach neighborhoods across the region.",
+              "quote": "We’re able to provide food to kids, families, and seniors in neighborhoods across our region because of our hundreds of nonprofit food assistance partners.",
+              "source": "https://www.capitalareafoodbank.org/what-we-do/",
+              "by_org": true
+            },
+            {
+              "text": "The organization operates an 8,000-square-foot urban garden on site to share agricultural knowledge and produce.",
+              "quote": "We also maintain an 8,000-square-foot urban garden on site, where we share knowledge about easy ways that a small garden or even a potted plant can bring freshly grown produce within reach.",
+              "source": "https://www.capitalareafoodbank.org/what-we-do/",
+              "by_org": true
+            }
+          ]
+        },
+        "es": {
+          "does": [
+            {
+              "text": "The organization funciona como un banco de alimentos regional, suministrando más de 60 millones de comidas en D.C., Maryland y Virginia.",
+              "source": "https://www.capitalareafoodbank.org/what-we-do/",
+              "by_org": true
+            },
+            {
+              "text": "The food bank suministra alimentos a más de 400 organizaciones para ayudar a los miembros de la comunidad necesitados.",
+              "source": "https://www.capitalareafoodbank.org/what-we-do/",
+              "by_org": true
+            },
+            {
+              "text": "Los programas directos incluyen comidas después de la escuela para niños, mercados de productos gratuitos y distribuciones de alimentos de emergencia.",
+              "source": "https://www.capitalareafoodbank.org/what-we-do/",
+              "by_org": true
+            },
+            {
+              "text": "Los productos frescos representan casi la mitad de los alimentos proporcionados, obtenidos en parte de asociaciones con granjas de la zona.",
+              "source": "https://www.capitalareafoodbank.org/what-we-do/",
+              "by_org": true
+            }
+          ],
+          "mission": "The Capital Area Food Bank (CAFB) es el recurso público sin fines de lucro más grande de hambre y educación nutricional en el Washington Metropolitan Area. La misión de la Capital Area Food Bank es ayudar a nuestros vecinos a prosperar creando un acceso más equitativo a alimentos y oportunidades a través de asociaciones comunitarias. Cada año el CAFB distribuye 20 millones de libras de comida, incluyendo seis millones de libras de productos frescos a través de más de 700 agencias asociadas.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "Las operaciones están respaldadas por un centro de distribución de 123,000 pies cuadrados donde el personal y 13,000+ annual volunteers clasifican y preparan los alimentos.",
+              "source": "https://www.capitalareafoodbank.org/what-we-do/",
+              "by_org": true
+            },
+            {
+              "text": "The organization mantiene una red de cientos de socios sin fines de lucro de asistencia alimentaria para llegar a los vecindarios de toda la región.",
+              "source": "https://www.capitalareafoodbank.org/what-we-do/",
+              "by_org": true
+            },
+            {
+              "text": "The organization opera un jardín urbano de 8,000 pies cuadrados en el sitio para compartir conocimientos agrícolas y productos.",
+              "source": "https://www.capitalareafoodbank.org/what-we-do/",
+              "by_org": true
+            }
+          ]
+        },
+        "fr": {
+          "does": [
+            {
+              "text": "L'organisation fonctionne comme une banque alimentaire régionale, fournissant plus de 60 million repas à travers D.C., Maryland et Virginie.",
+              "source": "https://www.capitalareafoodbank.org/what-we-do/",
+              "by_org": true
+            },
+            {
+              "text": "La banque alimentaire fournit de la nourriture à plus de 400 organisations pour aider les membres de la communauté dans le besoin.",
+              "source": "https://www.capitalareafoodbank.org/what-we-do/",
+              "by_org": true
+            },
+            {
+              "text": "Les programmes directs comprennent des repas après l'école pour les enfants, des marchés de produits frais gratuits et des distributions alimentaires d'urgence.",
+              "source": "https://www.capitalareafoodbank.org/what-we-do/",
+              "by_org": true
+            },
+            {
+              "text": "Les produits frais représentent près de la moitié de la nourriture fournie, provenant en partie de partenariats avec des fermes locales.",
+              "source": "https://www.capitalareafoodbank.org/what-we-do/",
+              "by_org": true
+            }
+          ],
+          "mission": "Le Capital Area Food Bank (CAFB) est la plus grande ressource publique à but non lucratif en matière de faim et d'éducation nutritionnelle dans la Washington Metropolitan Area. La mission du Capital Area Food Bank est d'aider nos voisins à prospérer en créant un accès plus équitable à la nourriture et aux opportunités grâce à des partenariats communautaires. Chaque année, le CAFB distribue 20 million pounds de nourriture, dont six million pounds de produits frais, à travers plus de 700 agences partenaires.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "Les opérations sont soutenues par un centre de distribution de 123,000 square-foot où le personnel et 13,000+ volontaires annuels trient et préparent les denrées alimentaires.",
+              "source": "https://www.capitalareafoodbank.org/what-we-do/",
+              "by_org": true
+            },
+            {
+              "text": "L'organisation maintient un réseau de centaines de partenaires d'aide alimentaire à but non lucratif pour atteindre les quartiers à travers la région.",
+              "source": "https://www.capitalareafoodbank.org/what-we-do/",
+              "by_org": true
+            },
+            {
+              "text": "L'organisation exploite un jardin urbain de 8,000-square-foot sur place pour partager les connaissances agricoles et les produits.",
+              "source": "https://www.capitalareafoodbank.org/what-we-do/",
+              "by_org": true
+            }
+          ]
+        },
+        "hi": {
+          "does": [
+            {
+              "text": "संगठन एक क्षेत्रीय खाद्य बैंक के रूप में कार्य करता है, जो D.C., Maryland, और Virginia में over 60 million meals प्रदान करता है।",
+              "source": "https://www.capitalareafoodbank.org/what-we-do/",
+              "by_org": true
+            },
+            {
+              "text": "खाद्य बैंक जरूरतमंद समुदाय सदस्यों की मदद के लिए 400 से अधिक संगठनों को भोजन प्रदान करता है।",
+              "source": "https://www.capitalareafoodbank.org/what-we-do/",
+              "by_org": true
+            },
+            {
+              "text": "प्रत्यक्ष कार्यक्रमों में बच्चों के लिए स्कूल के बाद के भोजन, मुफ्त उत्पाद बाजार, और आपातकालीन भोजन वितरण शामिल हैं।",
+              "source": "https://www.capitalareafoodbank.org/what-we-do/",
+              "by_org": true
+            },
+            {
+              "text": "ताज़ा उत्पाद प्रदान किए गए भोजन का लगभग आधा हिस्सा बनाते हैं, जो भाग में क्षेत्रीय फार्म साझेदारियों से प्राप्त होते हैं।",
+              "source": "https://www.capitalareafoodbank.org/what-we-do/",
+              "by_org": true
+            }
+          ],
+          "mission": "Capital Area Food Bank (CAFB) वाशिंगटन मेट्रोपॉलिटन एरिया में सबसे बड़ा सार्वजनिक, गैर-लाभकारी भूख और पोषण शिक्षा संसाधन है। Capital Area Food Bank का मिशन हमारे पड़ोसियों को समुदाय साझेदारियों के माध्यम से भोजन और अवसर तक अधिक समान पहुंच बनाकर समृद्ध होने में मदद करना है। प्रत्येक वर्ष CAFB 20 million pounds भोजन वितरित करता है, जिसमें six million pounds ताज़ा उत्पाद शामिल हैं, जो over 700 partner agencies के माध्यम से वितरित किए जाते हैं।",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "ऑपरेशन्स को 123,000 square-foot वितरण केंद्र द्वारा समर्थित किया जाता है, जहाँ स्टाफ और 13,000+ वार्षिक स्वयंसेवक भोजन वस्तुओं को छांटते और तैयार करते हैं।",
+              "source": "https://www.capitalareafoodbank.org/what-we-do/",
+              "by_org": true
+            },
+            {
+              "text": "संगठन सैकड़ों गैर-लाभकारी खाद्य सहायता साझेदारों का नेटवर्क बनाए रखता है ताकि क्षेत्र भर के पड़ोस तक पहुंचा जा सके।",
+              "source": "https://www.capitalareafoodbank.org/what-we-do/",
+              "by_org": true
+            },
+            {
+              "text": "संगठन साइट पर 8,000-square-foot शहरी बगीचा संचालित करता है ताकि कृषि ज्ञान और उत्पाद साझा किए जा सकें।",
+              "source": "https://www.capitalareafoodbank.org/what-we-do/",
+              "by_org": true
+            }
+          ]
+        },
+        "it": {
+          "does": [
+            {
+              "text": "L'organizzazione funziona come una banca alimentare regionale, fornendo oltre 60 million meals in D.C., Maryland e Virginia.",
+              "source": "https://www.capitalareafoodbank.org/what-we-do/",
+              "by_org": true
+            },
+            {
+              "text": "La banca alimentare fornisce cibo a più di 400 organizzazioni per assistere i membri della comunità in difficoltà.",
+              "source": "https://www.capitalareafoodbank.org/what-we-do/",
+              "by_org": true
+            },
+            {
+              "text": "I programmi diretti includono pasti doposcuola per bambini, mercati di prodotti gratuiti e distribuzioni di cibo di emergenza.",
+              "source": "https://www.capitalareafoodbank.org/what-we-do/",
+              "by_org": true
+            },
+            {
+              "text": "I prodotti freschi rappresentano quasi la metà del cibo fornito, ottenuti in parte da partnership con fattorie locali.",
+              "source": "https://www.capitalareafoodbank.org/what-we-do/",
+              "by_org": true
+            }
+          ],
+          "mission": "Il Capital Area Food Bank (CAFB) è la più grande risorsa pubblica e senza scopo di lucro per la fame e l'educazione nutrizionale nell'area metropolitana di Washington. La missione del Capital Area Food Bank è aiutare i nostri vicini a prosperare creando un accesso più equo al cibo e alle opportunità attraverso partnership comunitarie. Ogni anno il CAFB distribuisce 20 million pounds di cibo, inclusi six million pounds di prodotti freschi attraverso oltre 700 agenzie partner.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "Le operazioni sono supportate da un centro di distribuzione di 123,000 square-foot dove il personale e 13,000+ volontari annuali selezionano e preparano gli alimenti.",
+              "source": "https://www.capitalareafoodbank.org/what-we-do/",
+              "by_org": true
+            },
+            {
+              "text": "L'organizzazione mantiene una rete di centinaia di partner non profit per l'assistenza alimentare per raggiungere i quartieri in tutta la regione.",
+              "source": "https://www.capitalareafoodbank.org/what-we-do/",
+              "by_org": true
+            },
+            {
+              "text": "L'organizzazione gestisce un giardino urbano di 8,000-square-foot in loco per condividere conoscenze agricole e prodotti.",
+              "source": "https://www.capitalareafoodbank.org/what-we-do/",
+              "by_org": true
+            }
+          ]
+        },
+        "ja": {
+          "does": [
+            {
+              "text": "この組織は地域のフードバンクとして機能し、D.C.、メリーランド、バージニア全域でover 60 million mealsを供給しています。",
+              "source": "https://www.capitalareafoodbank.org/what-we-do/",
+              "by_org": true
+            },
+            {
+              "text": "フードバンクは、more than 400 organizationsに食料を供給し、支援が必要な地域住民を助けています。",
+              "source": "https://www.capitalareafoodbank.org/what-we-do/",
+              "by_org": true
+            },
+            {
+              "text": "直接的なプログラムには、子どもの放課後食事、無料の農産物市場、緊急食料配布が含まれます。",
+              "source": "https://www.capitalareafoodbank.org/what-we-do/",
+              "by_org": true
+            },
+            {
+              "text": "新鮮な農産物は提供される食料のほぼ半分を占めており、一部は地域の農場パートナーシップから調達されています。",
+              "source": "https://www.capitalareafoodbank.org/what-we-do/",
+              "by_org": true
+            }
+          ],
+          "mission": "Capital Area Food Bank（CAFB）は、ワシントン大都市圏における最大の公共・非営利の飢餓・栄養教育リソースです。Capital Area Food Bankのミッションは、地域パートナーシップを通じて食料と機会への公平なアクセスを創出し、近隣住民が繁栄できるよう支援することです。毎年、CAFBは20 million poundsの食料を配布しており、そのうちsix million poundsは新鮮な農産物で、over 700 partner agenciesを通じて提供しています。",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "オペレーションは、123,000 square-footの流通センターによって支えられており、スタッフと13,000+ annual volunteersが食料品を仕分け・準備しています。",
+              "source": "https://www.capitalareafoodbank.org/what-we-do/",
+              "by_org": true
+            },
+            {
+              "text": "組織は、hundreds of nonprofit food assistance partnersのネットワークを維持し、地域全体の近隣に届くようにしています。",
+              "source": "https://www.capitalareafoodbank.org/what-we-do/",
+              "by_org": true
+            },
+            {
+              "text": "組織は、8,000-square-footの都市型ガーデンを敷地内で運営し、農業知識と農産物を共有しています。",
+              "source": "https://www.capitalareafoodbank.org/what-we-do/",
+              "by_org": true
+            }
+          ]
+        },
+        "pt": {
+          "does": [
+            {
+              "text": "A organização funciona como um banco de alimentos regional, fornecendo mais de 60 milhões de refeições em D.C., Maryland e Virgínia.",
+              "source": "https://www.capitalareafoodbank.org/what-we-do/",
+              "by_org": true
+            },
+            {
+              "text": "O banco de alimentos fornece alimentos a mais de 400 organizações para ajudar membros da comunidade em necessidade.",
+              "source": "https://www.capitalareafoodbank.org/what-we-do/",
+              "by_org": true
+            },
+            {
+              "text": "Os programas diretos incluem refeições pós-escolares para crianças, mercados de produtos gratuitos e distribuições emergenciais de alimentos.",
+              "source": "https://www.capitalareafoodbank.org/what-we-do/",
+              "by_org": true
+            },
+            {
+              "text": "Produtos frescos representam quase metade dos alimentos fornecidos, obtidos em parte de parcerias com fazendas da região.",
+              "source": "https://www.capitalareafoodbank.org/what-we-do/",
+              "by_org": true
+            }
+          ],
+          "mission": "O Capital Area Food Bank (CAFB) é o maior recurso público e sem fins lucrativos de combate à fome e educação nutricional na Washington Metropolitan Area. A missão do Capital Area Food Bank é ajudar nossos vizinhos a prosperar, criando acesso mais equitativo a alimentos e oportunidades por meio de parcerias comunitárias. Cada ano o CAFB distribui 20 milhões de libras de alimentos, incluindo seis milhões de libras de produtos frescos através de mais de 700 agências parceiras.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "As operações são apoiadas por um centro de distribuição de 123,000 pés quadrados, onde funcionários e 13,000+ voluntários anuais classificam e preparam os itens alimentares.",
+              "source": "https://www.capitalareafoodbank.org/what-we-do/",
+              "by_org": true
+            },
+            {
+              "text": "A organização mantém uma rede de centenas de parceiros sem fins lucrativos de assistência alimentar para alcançar bairros em toda a região.",
+              "source": "https://www.capitalareafoodbank.org/what-we-do/",
+              "by_org": true
+            },
+            {
+              "text": "A organização opera um jardim urbano de 8,000 pés quadrados no local para compartilhar conhecimento agrícola e produtos.",
+              "source": "https://www.capitalareafoodbank.org/what-we-do/",
+              "by_org": true
+            }
+          ]
+        },
+        "ru": {
+          "does": [
+            {
+              "text": "Организация функционирует как региональный продовольственный банк, поставляя более 60 миллионов порций по D.C., Maryland и Virginia.",
+              "source": "https://www.capitalareafoodbank.org/what-we-do/",
+              "by_org": true
+            },
+            {
+              "text": "Продовольственный банк поставляет продовольствие более чем 400 организациям, чтобы помочь нуждающимся членам сообщества.",
+              "source": "https://www.capitalareafoodbank.org/what-we-do/",
+              "by_org": true
+            },
+            {
+              "text": "Прямые программы включают послеурочные обеды для детей, бесплатные рынки свежих продуктов и экстренные распределения продовольствия.",
+              "source": "https://www.capitalareafoodbank.org/what-we-do/",
+              "by_org": true
+            },
+            {
+              "text": "Свежие продукты составляют почти половину предоставляемой пищи, частично получаемой от партнёрств с местными фермерскими хозяйствами.",
+              "source": "https://www.capitalareafoodbank.org/what-we-do/",
+              "by_org": true
+            }
+          ],
+          "mission": "Capital Area Food Bank (CAFB) — крупнейший публичный некоммерческий ресурс по борьбе с голодом и образованию в области питания в Washington Metropolitan Area. Миссия Capital Area Food Bank — помогать нашим соседям процветать, создавая более справедливый доступ к пище и возможностям через партнёрские сообщества. Каждый год CAFB распределяет 20 миллионов фунтов продовольствия, включая six million фунтов свежих овощей и фруктов через более 700 партнёрских агентств.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "Операции поддерживаются распределительным центром площадью 123,000 квадратных футов, где персонал и 13,000+ годовых волонтёров сортируют и готовят продовольственные товары.",
+              "source": "https://www.capitalareafoodbank.org/what-we-do/",
+              "by_org": true
+            },
+            {
+              "text": "Организация поддерживает сеть из сотен некоммерческих партнёров по продовольственной помощи, чтобы охватывать районы по всему региону.",
+              "source": "https://www.capitalareafoodbank.org/what-we-do/",
+              "by_org": true
+            },
+            {
+              "text": "Организация управляет городским садом площадью 8,000 квадратных футов на месте, чтобы делиться сельскохозяйственными знаниями и продукцией.",
+              "source": "https://www.capitalareafoodbank.org/what-we-do/",
+              "by_org": true
+            }
+          ]
+        },
+        "zh": {
+          "does": [
+            {
+              "text": "该组织作为区域食品银行运作，在华盛顿特区、马里兰州和弗吉尼亚州提供超过 60 million 餐食。",
+              "source": "https://www.capitalareafoodbank.org/what-we-do/",
+              "by_org": true
+            },
+            {
+              "text": "该食品银行向超过 400 家组织供应食物，以帮助有需要的社区成员。",
+              "source": "https://www.capitalareafoodbank.org/what-we-do/",
+              "by_org": true
+            },
+            {
+              "text": "直接项目包括儿童课后餐、免费农产品市场和紧急食品分发。",
+              "source": "https://www.capitalareafoodbank.org/what-we-do/",
+              "by_org": true
+            },
+            {
+              "text": "新鲜农产品约占所提供食物的一半，部分来源于本地区的农场合作伙伴。",
+              "source": "https://www.capitalareafoodbank.org/what-we-do/",
+              "by_org": true
+            }
+          ],
+          "mission": "Capital Area Food Bank (CAFB) 是华盛顿大都会区最大的公共非营利饥饿和营养教育资源。Capital Area Food Bank 的使命是通过社区合作，为我们的邻居创造更公平的食物和机会获取，使他们繁荣发展。每年，CAFB 分发 20 million 磅食物，其中包括六 million 磅新鲜农产品，遍及 700 多家合作机构。",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "运营由一个 123,000 square-foot 的分配中心支持，工作人员和每年 13,000+ 名志愿者在此分拣和准备食品。",
+              "source": "https://www.capitalareafoodbank.org/what-we-do/",
+              "by_org": true
+            },
+            {
+              "text": "该组织维护着数百家非营利食品援助合作伙伴的网络，以覆盖该地区的各个社区。",
+              "source": "https://www.capitalareafoodbank.org/what-we-do/",
+              "by_org": true
+            },
+            {
+              "text": "该组织在现场运营一个 8,000-square-foot 的城市花园，以分享农业知识和农产品。",
+              "source": "https://www.capitalareafoodbank.org/what-we-do/",
+              "by_org": true
+            }
+          ]
+        }
+      },
+      "safety": {
+        "evaluator": "Charity Navigator",
+        "stars": 4,
+        "score": 100,
+        "rating_url": "https://www.charitynavigator.org/ein/521167581",
+        "rating_checked": "2026-11-21",
+        "since": "1980",
+        "registry_url": "https://projects.propublica.org/nonprofits/organizations/521167581",
+        "filings": 13,
+        "first_year": 2011,
+        "last_year": 2023,
+        "checks_passed": 18,
+        "verifiers": 3,
+        "unanimous": true,
+        "site": "capitalareafoodbank.org",
+        "official_host": "capitalareafoodbank.org",
+        "profile_claimed": false
+      },
+      "platform": "",
+      "counter": {},
+      "fundraiser_open": false,
+      "started_on": null,
+      "place": "District of Columbia",
+      "source_name": "valutatore",
+      "progress_pct": 0,
+      "donate": {
+        "recipient": "Capital Area Food Bank",
+        "url": null,
+        "money_goes_to": "not open yet: donations open on a fundraising page with a public total",
+        "counted_here_only_if": "shown in the public total of the fundraising page",
+        "status": "in public review"
+      }
     }
   ],
   "order_rule": "All projects are equal: the order rotates by one position every day.",
   "home_today": [
-    "support-missoula-food-bank-community-center-incorporated-aga-7553",
-    "support-new-hope-community-ministries-a-nj-nonprofit-corp-ag-2395",
-    "support-north-texas-food-bank-against-hunger-7552"
+    "support-one-acre-fund-against-hunger-7546",
+    "support-oregon-food-bank-inc-against-hunger-1992",
+    "support-our-daily-bread-food-pantry-against-hunger-5987"
   ],
   "home_rule": "Home page: 3 active projects a day, in turn. The turn is recomputed every time from the activation day (started_on, UTC) of the projects that are active today. Day by day from the first activation: a project that starts enters with the lowest counts among the others; the 3 projects with the fewest days on the home page are shown; the first of the day is the one, among those that can be shown that day, that has been first the fewest times; when several are tied for the last places, those that have been first more often go in, and the others wait for a day when they can be first; remaining ties follow the alphabetical order of the slug. So among active projects the days on the home page never differ by more than one (a project that started later is counted from the lowest count of the others). When a project stops being active the turn is recomputed among the remaining ones, as if it had never been there: it stays even among them, but it can differ by a few days from the days actually shown before. The Projects page always lists all projects.",
   "totals": {
