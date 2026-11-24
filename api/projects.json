@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T03:04:04.123893+00:00",
+  "generated_at": "2026-11-24T04:04:32.273605+00:00",
   "projects": [
     {
       "slug": "support-food-gatherers-against-hunger-5718",
@@ -16218,7 +16218,58 @@
       "source_url": "https://www.charitynavigator.org/ein/954335462",
       "approved_on": "2026-11-23",
       "review_until": "2026-11-26 18:08 UTC",
-      "translations": {},
+      "translations": {
+        "de": {
+          "text": "Organisation bewertet von Charity Navigator, gefunden von den Agenten mit: 'site:charitynavigator.org Rating for famine emergency food aid'.",
+          "title": "Unterstützen Sie den Childrens Hunger Fund gegen den Hunger",
+          "source": "traduzione AI"
+        },
+        "en": {
+          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'site:charitynavigator.org Rating for famine emergency food aid'.",
+          "title": "Support Childrens Hunger Fund against hunger",
+          "source": "originale"
+        },
+        "es": {
+          "text": "Entidad evaluada por Charity Navigator, encontrada por los agentes con: 'site:charitynavigator.org Rating for famine emergency food aid'.",
+          "title": "Apoya a Childrens Hunger Fund contra el hambre",
+          "source": "traduzione AI"
+        },
+        "fr": {
+          "text": "Organisation évaluée par Charity Navigator, trouvée par les agents avec : 'site:charitynavigator.org Rating for famine emergency food aid'.",
+          "title": "Soutenir Childrens Hunger Fund contre la faim",
+          "source": "traduzione AI"
+        },
+        "hi": {
+          "text": "Charity Navigator द्वारा मूल्यांकित संस्था, एजेंटों द्वारा पाया गया: 'site:charitynavigator.org Rating for famine emergency food aid'.",
+          "title": "भूख के खिलाफ Childrens Hunger Fund का समर्थन करें",
+          "source": "traduzione AI"
+        },
+        "it": {
+          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'site:charitynavigator.org Rating for famine emergency food aid'.",
+          "title": "Sostieni Childrens Hunger Fund contro la fame",
+          "source": "traduzione AI"
+        },
+        "ja": {
+          "text": "Charity Navigator によって評価された団体で、エージェントが次で見つけました: 'site:charitynavigator.org Rating for famine emergency food aid'.",
+          "title": "飢餓に対して Childrens Hunger Fund を支援する",
+          "source": "traduzione AI"
+        },
+        "pt": {
+          "text": "Entidade avaliada pela Charity Navigator, encontrada pelos agentes com: 'site:charitynavigator.org Rating for famine emergency food aid'.",
+          "title": "Apoie o Childrens Hunger Fund contra a fome",
+          "source": "traduzione AI"
+        },
+        "ru": {
+          "text": "Организация, оцененная Charity Navigator, найденная агентами с помощью: 'site:charitynavigator.org Rating for famine emergency food aid'.",
+          "title": "Поддержите Childrens Hunger Fund в борьбе с голодом",
+          "source": "traduzione AI"
+        },
+        "zh": {
+          "text": "由 Charity Navigator 评估的机构，代理人通过以下方式找到：'site:charitynavigator.org Rating for famine emergency food aid'。",
+          "title": "支持 Childrens Hunger Fund 抵御饥饿",
+          "source": "traduzione AI"
+        }
+      },
       "tranches": [],
       "checks": [
         {
@@ -16466,7 +16517,28 @@
       "source_url": "https://www.charitynavigator.org/ein/133170676",
       "approved_on": "2026-11-23",
       "review_until": "2026-11-26 19:05 UTC",
-      "translations": {},
+      "translations": {
+        "de": {
+          "text": "Organisation bewertet von Charity Navigator, gefunden von den Agenten mit: 'Every.org: food rescue'.",
+          "title": "Unterstützen Sie City Harvest Inc im Kampf gegen den Hunger",
+          "source": "traduzione AI"
+        },
+        "en": {
+          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'Every.org: food rescue'.",
+          "title": "Support City Harvest Inc against hunger",
+          "source": "originale"
+        },
+        "fr": {
+          "text": "Organisation évaluée par Charity Navigator, trouvée par les agents avec : 'Every.org: food rescue'.",
+          "title": "Soutenez City Harvest Inc contre la faim",
+          "source": "traduzione AI"
+        },
+        "it": {
+          "text": "Organizzazione valutata da Charity Navigator, trovata dagli agenti con: 'Every.org: food rescue'.",
+          "title": "Sostieni City Harvest Inc contro la fame",
+          "source": "traduzione AI"
+        }
+      },
       "tranches": [],
       "checks": [
         {
@@ -19258,9 +19330,9 @@
     "costs": {
       "USD": 8.5
     },
-    "ai_calls": 2116,
+    "ai_calls": 2128,
     "ai_cost_real_usd": 0.0,
-    "ai_value_offered_usd": 13.650743,
+    "ai_value_offered_usd": 13.654987,
     "candidates_examined": 106,
     "candidates_discarded": 56
   },
