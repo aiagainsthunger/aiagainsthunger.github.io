@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T02:04:33.359278+00:00",
+  "generated_at": "2026-11-24T03:04:04.123893+00:00",
   "projects": [
     {
       "slug": "support-food-gatherers-against-hunger-5718",
@@ -9397,7 +9397,58 @@
       "source_url": "https://www.charitynavigator.org/ein/237278002",
       "approved_on": "2026-11-23",
       "review_until": "2026-11-26 18:06 UTC",
-      "translations": {},
+      "translations": {
+        "de": {
+          "text": "Organisation bewertet von Charity Navigator, gefunden von den Agenten mit: 'site:charitynavigator.org Rating for famine emergency food aid'.",
+          "title": "Unterstützen Sie Rescue Mission Alliance im Kampf gegen den Hunger",
+          "source": "traduzione AI"
+        },
+        "en": {
+          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'site:charitynavigator.org Rating for famine emergency food aid'.",
+          "title": "Support Rescue Mission Alliance against hunger",
+          "source": "originale"
+        },
+        "es": {
+          "text": "Entidad evaluada por Charity Navigator, encontrada por los agentes con: 'site:charitynavigator.org Rating for famine emergency food aid'.",
+          "title": "Apoya a Rescue Mission Alliance contra el hambre",
+          "source": "traduzione AI"
+        },
+        "fr": {
+          "text": "Organisation évaluée par Charity Navigator, trouvée par les agents avec : 'site:charitynavigator.org Rating for famine emergency food aid'.",
+          "title": "Soutenir Rescue Mission Alliance contre la faim",
+          "source": "traduzione AI"
+        },
+        "hi": {
+          "text": "Charity Navigator द्वारा मूल्यांकित संस्था, एजेंटों द्वारा मिली: 'site:charitynavigator.org Rating for famine emergency food aid'.",
+          "title": "भूख के खिलाफ Rescue Mission Alliance का समर्थन करें",
+          "source": "traduzione AI"
+        },
+        "it": {
+          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'site:charitynavigator.org Rating for famine emergency food aid'.",
+          "title": "Sostieni Rescue Mission Alliance contro la fame",
+          "source": "traduzione AI"
+        },
+        "ja": {
+          "text": "Charity Navigatorによって評価された団体で、エージェントが次の検索で見つけました: 'site:charitynavigator.org Rating for famine emergency food aid'.",
+          "title": "Rescue Mission Allianceへの飢餓支援をサポート",
+          "source": "traduzione AI"
+        },
+        "pt": {
+          "text": "Entidade avaliada pela Charity Navigator, encontrada pelos agentes com: 'site:charitynavigator.org Rating for famine emergency food aid'.",
+          "title": "Apoiar Rescue Mission Alliance contra a fome",
+          "source": "traduzione AI"
+        },
+        "ru": {
+          "text": "Организация, оцененная Charity Navigator, найденная агентами с помощью: 'site:charitynavigator.org Rating for famine emergency food aid'.",
+          "title": "Поддержите Rescue Mission Alliance в борьбе с голодом",
+          "source": "traduzione AI"
+        },
+        "zh": {
+          "text": "机构由 Charity Navigator 评估，代理人通过以下方式找到：'site:charitynavigator.org Rating for famine emergency food aid'。",
+          "title": "支持 Rescue Mission Alliance 对抗饥饿",
+          "source": "traduzione AI"
+        }
+      },
       "tranches": [],
       "checks": [
         {
@@ -9595,6 +9646,39 @@
       ],
       "waiting_counter": false,
       "profile": {
+        "de": {
+          "does": [
+            {
+              "text": "Rescue Mission Alliance bietet einen sicheren Hafen für Männer, Frauen und Kinder, die dringend Nahrung, Kleidung, Unterkunft und Unterstützung benötigen, um Hunger und Obdachlosigkeit zu beseitigen.",
+              "source": "https://www.charitynavigator.org/ein/237278002",
+              "by_org": false
+            },
+            {
+              "text": "Durch ein breites Spektrum an Dienstleistungen, einschließlich zwei Lebensmittelbanken, drei Notunterkünften, fünf stationären Wiederherstellungsprogrammen, Übergangswohnungen und Berufsausbildung, unterstützt die Organisation Menschen in Not.",
+              "source": "https://www.charitynavigator.org/ein/237278002",
+              "by_org": false
+            },
+            {
+              "text": "Die Organisation bietet der armen und bedürftigen Gemeinschaft kostenlose Dienstleistungen an, mit einem breiten Angebot an lebensverändernden Behandlungsprogrammen.",
+              "source": "https://www.erescuemission.org/",
+              "by_org": true
+            }
+          ],
+          "mission": "AllianceFavorite Donate Mission The Rescue Mission Alliance (RMA) ist eine 501©(3) gemeinnützige Organisation, die 1972 gegründet wurde. Um das Ziel „Leben nachhaltig verändern“ zu erreichen, bietet die RMA einen sicheren Hafen für Männer, Frauen und Kinder, die dringend Nahrung, Kleidung, Unterkunft und Unterstützung benötigen, um Hunger und Obdachlosigkeit in den Landkreisen Ventura, Los Angeles und Santa Barbara zu bekämpfen. Durch ein breites Angebot an Dienstleistungen – zwei Lebensmittelbanken, drei Notunterkünfte, fünf stationäre Wiederherstellungsprogramme, Übergangswohnungen und Berufsausbildung – unterstützt die RMA Menschen in Not und hilft ihnen, ein gesundes, selbstständiges Leben zu führen.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "Rescue Mission Alliance ist eine 501(c)(3) gemeinnützige Organisation, die 1972 gegründet wurde.",
+              "source": "https://www.charitynavigator.org/ein/237278002",
+              "by_org": false
+            },
+            {
+              "text": "Die Organisation ist seit mehr als 50 Jahren ein Zufluchtsort für Menschen, die mit Sucht, Obdachlosigkeit und Armut zu kämpfen haben.",
+              "source": "https://www.erescuemission.org/",
+              "by_org": true
+            }
+          ]
+        },
         "en": {
           "does": [
             {
@@ -9628,6 +9712,72 @@
             {
               "text": "The organization has been a refuge for those struggling with addiction, homelessness, and poverty for more than 50 years.",
               "quote": "For more than 50 years, the Rescue Mission Alliance has been a refuge for those struggling with addiction, homelessness and poverty.",
+              "source": "https://www.erescuemission.org/",
+              "by_org": true
+            }
+          ]
+        },
+        "fr": {
+          "does": [
+            {
+              "text": "Rescue Mission Alliance offre un refuge sûr aux hommes, femmes et enfants qui ont désespérément besoin de nourriture, de vêtements, d'abri et de soutien pour résoudre la faim et le sans-abrisme.",
+              "source": "https://www.charitynavigator.org/ein/237278002",
+              "by_org": false
+            },
+            {
+              "text": "Grâce à une large gamme de services incluant deux banques alimentaires, trois refuges d'urgence, cinq programmes de rétablissement résidentiels, un logement transitoire et une formation professionnelle, l'organisation soutient les personnes dans le besoin.",
+              "source": "https://www.charitynavigator.org/ein/237278002",
+              "by_org": false
+            },
+            {
+              "text": "L'organisation offre des services gratuits aux pauvres et aux nécessiteux de la communauté grâce à une large gamme de programmes de traitement qui changent la vie.",
+              "source": "https://www.erescuemission.org/",
+              "by_org": true
+            }
+          ],
+          "mission": "AllianceFavorite Donate Mission The Rescue Mission Alliance (RMA) est une organisation à but non lucratif 501©(3) incorporée en 1972. Pour atteindre l'objectif de Changer des Vies pour le Bien, RMA offre un refuge sûr aux hommes, femmes et enfants qui ont désespérément besoin de nourriture, de vêtements, d'abri et de soutien pour résoudre la faim et le sans-abrisme dans les comtés de Ventura, Los Angeles et Santa Barbara. Grâce à une large gamme de services – deux banques alimentaires, trois refuges d'urgence, cinq programmes de rétablissement résidentiels, un logement transitoire et une formation professionnelle – RMA soutient les personnes dans le besoin et les aide à mener une vie saine et autonome.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "Rescue Mission Alliance est une organisation à but non lucratif 501(c)(3) incorporée en 1972.",
+              "source": "https://www.charitynavigator.org/ein/237278002",
+              "by_org": false
+            },
+            {
+              "text": "L'organisation est un refuge pour ceux qui luttent contre la dépendance, le sans-abrisme et la pauvreté depuis plus de 50 ans.",
+              "source": "https://www.erescuemission.org/",
+              "by_org": true
+            }
+          ]
+        },
+        "it": {
+          "does": [
+            {
+              "text": "Rescue Mission Alliance fornisce un rifugio sicuro per uomini, donne e bambini in disperato bisogno di cibo, abbigliamento, alloggio e supporto per risolvere fame e senzatetto.",
+              "source": "https://www.charitynavigator.org/ein/237278002",
+              "by_org": false
+            },
+            {
+              "text": "Attraverso una vasta gamma di servizi, tra cui two food banks, three emergency shelters, five residential recovery programs, transitional housing e job training, l'organizzazione sostiene le persone bisognose.",
+              "source": "https://www.charitynavigator.org/ein/237278002",
+              "by_org": false
+            },
+            {
+              "text": "L'organizzazione offre servizi gratuiti ai poveri e bisognosi della comunità con una vasta gamma di programmi di trattamento che cambiano la vita.",
+              "source": "https://www.erescuemission.org/",
+              "by_org": true
+            }
+          ],
+          "mission": "AllianceFavorite Donate Mission The Rescue Mission Alliance (RMA) è un'organizzazione non profit 501©(3) costituita nel 1972. Per raggiungere l'obiettivo di Changing Lives for Good, RMA fornisce un rifugio sicuro per uomini, donne e bambini che hanno un disperato bisogno di cibo, abbigliamento, alloggio e supporto per risolvere fame e senzatetto nei contee di Ventura, Los Angeles e Santa Barbara. Attraverso una vasta gamma di servizi – two food banks, three emergency shelters, five residential recovery programs, transitional housing, e job training – RMA sostiene le persone bisognose e le aiuta a condurre una vita sana e autosufficiente.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "Rescue Mission Alliance è un'organizzazione non profit 501(c)(3) costituita nel 1972.",
+              "source": "https://www.charitynavigator.org/ein/237278002",
+              "by_org": false
+            },
+            {
+              "text": "L'organizzazione è stata un rifugio per coloro che lottano contro dipendenza, senzatetto e povertà per più di 50 anni.",
               "source": "https://www.erescuemission.org/",
               "by_org": true
             }
@@ -19108,9 +19258,9 @@
     "costs": {
       "USD": 8.5
     },
-    "ai_calls": 2104,
+    "ai_calls": 2116,
     "ai_cost_real_usd": 0.0,
-    "ai_value_offered_usd": 13.644291,
+    "ai_value_offered_usd": 13.650743,
     "candidates_examined": 106,
     "candidates_discarded": 56
   },
