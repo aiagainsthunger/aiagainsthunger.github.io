@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T00:04:07.601544+00:00",
+  "generated_at": "2026-11-25T01:04:35.542481+00:00",
   "projects": [
     {
       "slug": "support-north-texas-food-bank-against-hunger-7552",
@@ -2863,6 +2863,39 @@
             }
           ]
         },
+        "es": {
+          "does": [
+            {
+              "text": "La organización proporciona comidas calientes al mediodía entregadas en los hogares de adultos mayores que viven en Pickens County, South Carolina que no pueden preparar ni proporcionarse las comidas por sí mismos.",
+              "source": "https://www.charitynavigator.org/ein/570708817",
+              "by_org": false
+            },
+            {
+              "text": "Cada día laborable, los voluntarios entregan comidas calientes y sonrisas cálidas a más de 375 amigos mayores confinados en sus hogares en todo Pickens County.",
+              "source": "https://pcmow.org/",
+              "by_org": true
+            },
+            {
+              "text": "Más del 34% de los clientes de Meals on Wheels tienen más de 85 años, lo que los convierte en parte de la Generación Más Grande de Estados Unidos.",
+              "source": "https://pcmow.org/about",
+              "by_org": true
+            }
+          ],
+          "mission": "LA ORGANIZACIÓN PROPORCIONA COMIDAS CALIENTES AL MEDIODÍA ENTREGADAS EN LOS HOGARES DE ADULTOS MAYORES QUE VIVEN EN PICKENS COUNTY, SOUTH CAROLINA QUE NO PUEDEN PREPARAR NI PROPORCIONARSE LAS COMIDAS POR SÍ MISMOS, ASÍ COMO EXPERIENCIAS DE VIDA PARA ADULTOS MAYORES.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "El sitio web se declara en el formulario de impuestos.",
+              "source": "https://www.charitynavigator.org/ein/570708817",
+              "by_org": false
+            },
+            {
+              "text": "No hay una desviación sustancial de activos.",
+              "source": "https://www.charitynavigator.org/ein/570708817",
+              "by_org": false
+            }
+          ]
+        },
         "fr": {
           "does": [
             {
@@ -2896,6 +2929,39 @@
             }
           ]
         },
+        "hi": {
+          "does": [
+            {
+              "text": "यह संस्था Pickens County, South Carolina में रहने वाले उन वरिष्ठ नागरिकों के घरों तक गर्म, दोपहर का भोजन पहुंचाती है जो स्वयं के लिए भोजन तैयार करने और प्रदान करने में असमर्थ हैं।",
+              "source": "https://www.charitynavigator.org/ein/570708817",
+              "by_org": false
+            },
+            {
+              "text": "हर कार्यदिवस पर, स्वयंसेवक पूरे Pickens County में 375 से अधिक घर पर रहने वाले वरिष्ठ मित्रों तक गर्म भोजन और आत्मीय मुस्कान पहुंचाते हैं।",
+              "source": "https://pcmow.org/",
+              "by_org": true
+            },
+            {
+              "text": "Meals on Wheels के 34% से अधिक लाभार्थी 85 वर्ष से अधिक आयु के हैं, जो उन्हें अमेरिका की Greatest Generation का हिस्सा बनाते हैं।",
+              "source": "https://pcmow.org/about",
+              "by_org": true
+            }
+          ],
+          "mission": "यह संस्था Pickens County, South Carolina में रहने वाले उन वरिष्ठ नागरिकों के घरों तक गर्म, दोपहर का भोजन पहुंचाती है जो स्वयं के लिए भोजन तैयार करने और प्रदान करने में असमर्थ हैं, और साथ ही वरिष्ठ नागरिकों को जीवन के अनुभव भी प्रदान करती है।",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "वेबसाइट की जानकारी टैक्स फॉर्म पर दर्ज की गई है।",
+              "source": "https://www.charitynavigator.org/ein/570708817",
+              "by_org": false
+            },
+            {
+              "text": "संपत्तियों का कोई महत्वपूर्ण विचलन नहीं है।",
+              "source": "https://www.charitynavigator.org/ein/570708817",
+              "by_org": false
+            }
+          ]
+        },
         "it": {
           "does": [
             {
@@ -2924,6 +2990,138 @@
             },
             {
               "text": "Non vi è alcuna deviazione materiale di beni.",
+              "source": "https://www.charitynavigator.org/ein/570708817",
+              "by_org": false
+            }
+          ]
+        },
+        "ja": {
+          "does": [
+            {
+              "text": "当団体は、Pickens County, South Carolina に居住し、自分で食事の準備や用意をすることができない高齢者の自宅へ温かい昼食を配達しています。",
+              "source": "https://www.charitynavigator.org/ein/570708817",
+              "by_org": false
+            },
+            {
+              "text": "毎平日、ボランティアが Pickens County 全域の 375 人を超える外出困難な高齢者の友人へ、温かい食事と温かい笑顔をお届けしています。",
+              "source": "https://pcmow.org/",
+              "by_org": true
+            },
+            {
+              "text": "Meals on Wheels のクライアントの 34% 以上が 85 歳以上であり、America’s Greatest Generation の一員となっています。",
+              "source": "https://pcmow.org/about",
+              "by_org": true
+            }
+          ],
+          "mission": "当団体は、Pickens County, South Carolina に居住し、自分で食事の準備や用意をすることができない高齢者の自宅へ温かい昼食を配達するとともに、高齢者生活体験を提供しています。",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "ウェブサイトは税務申告書に記載されています。",
+              "source": "https://www.charitynavigator.org/ein/570708817",
+              "by_org": false
+            },
+            {
+              "text": "資産の重大な流用はありません。",
+              "source": "https://www.charitynavigator.org/ein/570708817",
+              "by_org": false
+            }
+          ]
+        },
+        "pt": {
+          "does": [
+            {
+              "text": "A organização fornece refeições quentes ao meio-dia entregues nas casas de idosos que vivem em Pickens County, South Carolina que são incapazes de preparar e prover as refeições para si mesmos.",
+              "source": "https://www.charitynavigator.org/ein/570708817",
+              "by_org": false
+            },
+            {
+              "text": "Todos os dias úteis, voluntários entregam refeições quentes e sorrisos calorosos a mais de 375 amigos idosos confinados em casa em todo o Pickens County.",
+              "source": "https://pcmow.org/",
+              "by_org": true
+            },
+            {
+              "text": "Mais de 34% dos clientes do Meals on Wheels têm mais de 85 anos de idade, tornando-os parte da Greatest Generation da América.",
+              "source": "https://pcmow.org/about",
+              "by_org": true
+            }
+          ],
+          "mission": "A ORGANIZAÇÃO FORNECE REFEIÇÕES QUENTES AO MEIO-DIA ENTREGUES NAS CASAS DE IDOSOS QUE VIVEM EM PICKENS COUNTY, SOUTH CAROLINA QUE SÃO INCAPAZES DE PREPARAR E PROVER AS REFEIÇÕES PARA SI MESMOS, ALÉM DE PROPORCIONAR EXPERIÊNCIAS DE VIDA PARA IDOSOS.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "O site é informado no formulário fiscal.",
+              "source": "https://www.charitynavigator.org/ein/570708817",
+              "by_org": false
+            },
+            {
+              "text": "Não há desvio material de ativos.",
+              "source": "https://www.charitynavigator.org/ein/570708817",
+              "by_org": false
+            }
+          ]
+        },
+        "ru": {
+          "does": [
+            {
+              "text": "Организация предоставляет горячие дневные обеды с доставкой на дом пожилым гражданам, проживающим в округе Пикенс, Южная Каролина, которые не могут самостоятельно готовить и обеспечивать себя едой.",
+              "source": "https://www.charitynavigator.org/ein/570708817",
+              "by_org": false
+            },
+            {
+              "text": "Каждый будний день волонтеры доставляют горячие обеды и теплые улыбки более чем 375 пожилым людям, не выходящим из дома, по всему округу Пикенс.",
+              "source": "https://pcmow.org/",
+              "by_org": true
+            },
+            {
+              "text": "Более 34% клиентов Meals on Wheels старше 85 лет, что делает их частью Величайшего поколения Америки.",
+              "source": "https://pcmow.org/about",
+              "by_org": true
+            }
+          ],
+          "mission": "ОРГАНИЗАЦИЯ ПРЕДОСТАВЛЯЕТ ГОРЯЧИЕ ДНЕВНЫЕ ОБЕДЫ С ДОСТАВКОЙ НА ДОМ ПОЖИЛЫМ ГРАЖДАНАМ, ПРОЖИВАЮЩИМ В ОКРУГЕ ПИКЕНС, ЮЖНАЯ КАРОЛИНА, КОТОРЫЕ НЕ МОГУТ САМОСТОЯТЕЛЬНО ГОТОВИТЬ И ОБЕСПЕЧИВАТЬ СЕБЯ ЕДОЙ, А ТАКЖЕ ПРЕДОСТАВЛЯЕТ ПРОГРАММЫ ДЛЯ ПОЖИЛЫХ ЛЮДЕЙ.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "Веб-сайт указан в налоговой форме.",
+              "source": "https://www.charitynavigator.org/ein/570708817",
+              "by_org": false
+            },
+            {
+              "text": "Существенное нецелевое использование активов отсутствует.",
+              "source": "https://www.charitynavigator.org/ein/570708817",
+              "by_org": false
+            }
+          ]
+        },
+        "zh": {
+          "does": [
+            {
+              "text": "该组织为居住在 Pickens County, South Carolina 且无法自行准备和提供膳食的老年人提供配送到家的热午餐。",
+              "source": "https://www.charitynavigator.org/ein/570708817",
+              "by_org": false
+            },
+            {
+              "text": "每个工作日，志愿者为 Pickens County 各地超过 375 名无法出门的老年朋友送去热餐和温暖的微笑。",
+              "source": "https://pcmow.org/",
+              "by_org": true
+            },
+            {
+              "text": "超过 34% 的 Meals on Wheels 服务对象年龄在 85 岁以上，这使他们成为 America’s Greatest Generation 的一部分。",
+              "source": "https://pcmow.org/about",
+              "by_org": true
+            }
+          ],
+          "mission": "该组织为居住在 Pickens County, South Carolina 且无法自行准备和提供膳食的老年人提供配送到家的热午餐，并提供老年生活体验。",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "网站已在税务表格上申报。",
+              "source": "https://www.charitynavigator.org/ein/570708817",
+              "by_org": false
+            },
+            {
+              "text": "不存在资产的实质性挪用。",
               "source": "https://www.charitynavigator.org/ein/570708817",
               "by_org": false
             }
@@ -13234,6 +13432,29 @@
       ],
       "waiting_counter": false,
       "profile": {
+        "de": {
+          "does": [
+            {
+              "text": "Die Global Child Nutrition Foundation bindet die Zivilgesellschaft und Unternehmen ein, um Lieferketten zu stärken und den politischen Willen für Schulspeisungsprogramme zu steigern.",
+              "source": "https://gcnf.org/about/",
+              "by_org": true
+            },
+            {
+              "text": "Die Organisation unterstützt staatliche Bemühungen, nationale Schulspeisungsprogramme effektiv umzusetzen und nachhaltig zu erhalten.",
+              "source": "https://gcnf.org/about/",
+              "by_org": true
+            }
+          ],
+          "mission": "GCNF arbeitet daran, sicherzustellen, dass Regierungen und ihre Partner über das Wissen, die Werkzeuge und die Verbindungen verfügen, die sie benötigen, um die Reichweite hochwertiger Schulspeisungsprogramme zu vergrößern, die zu nationalen Zielen in den Bereichen Bildung, Landwirtschaft, Wirtschaft, Sozialschutz sowie Gesundheit und Ernährung beitragen.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "Die Organisation wurde 2006 offiziell gegründet, um Partner zu vernetzen, Wissen zu teilen und Schulspeisungsprogramme weltweit zu stärken.",
+              "source": "https://gcnf.org/about/",
+              "by_org": true
+            }
+          ]
+        },
         "en": {
           "does": [
             {
@@ -13255,6 +13476,121 @@
             {
               "text": "The organization was officially established in 2006 to connect partners, share knowledge, and strengthen school meal programs worldwide.",
               "quote": "GCNF was officially established in 2006 to carry this momentum forward—connecting partners, sharing knowledge, and strengthening school meal programs worldwide.",
+              "source": "https://gcnf.org/about/",
+              "by_org": true
+            }
+          ]
+        },
+        "es": {
+          "does": [
+            {
+              "text": "La Global Child Nutrition Foundation involucra a la sociedad civil y a las empresas para fortalecer las cadenas de suministro e incrementar la voluntad política hacia los programas de alimentación escolar.",
+              "source": "https://gcnf.org/about/",
+              "by_org": true
+            },
+            {
+              "text": "La organización apoya los esfuerzos gubernamentales para implementar y mantener de manera eficaz los programas nacionales de alimentación escolar.",
+              "source": "https://gcnf.org/about/",
+              "by_org": true
+            }
+          ],
+          "mission": "GCNF trabaja para garantizar que los gobiernos y sus socios dispongan de los conocimientos, herramientas y conexiones necesarios para aumentar la cobertura de los programas de alimentación escolar de alta calidad que contribuyan a las metas nacionales educativas, agrícolas, económicas, de protección social, y de salud y nutrición.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "La organización fue fundada oficialmente en 2006 para conectar socios, compartir conocimientos y fortalecer los programas de alimentación escolar en todo el mundo.",
+              "source": "https://gcnf.org/about/",
+              "by_org": true
+            }
+          ]
+        },
+        "fr": {
+          "does": [
+            {
+              "text": "La Global Child Nutrition Foundation implique la société civile et les entreprises pour renforcer les chaînes d'approvisionnement et accroître la volonté politique en faveur des programmes de repas scolaires.",
+              "source": "https://gcnf.org/about/",
+              "by_org": true
+            },
+            {
+              "text": "L'organisation soutient les efforts des gouvernements pour mettre en œuvre et pérenniser efficacement les programmes nationaux de repas scolaires.",
+              "source": "https://gcnf.org/about/",
+              "by_org": true
+            }
+          ],
+          "mission": "La GCNF s'efforce de veiller à ce que les gouvernements et leurs partenaires disposent des connaissances, des outils et des connexions dont ils ont besoin pour accroître la couverture des programmes de repas scolaires de haute qualité qui contribuent aux objectifs nationaux en matière d'éducation, d'agriculture, d'économie, de protection sociale, de santé et de nutrition.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "L'organisation a été officiellement créée en 2006 pour mettre en relation les partenaires, partager les connaissances et renforcer les programmes de repas scolaires dans le monde entier.",
+              "source": "https://gcnf.org/about/",
+              "by_org": true
+            }
+          ]
+        },
+        "it": {
+          "does": [
+            {
+              "text": "La Global Child Nutrition Foundation coinvolge la società civile e le imprese per rafforzare le catene di approvvigionamento e aumentare la volontà politica a favore dei programmi di pasti scolastici.",
+              "source": "https://gcnf.org/about/",
+              "by_org": true
+            },
+            {
+              "text": "L'organizzazione sostiene gli sforzi dei governi per attuare e sostenere in modo efficace i programmi nazionali di pasti scolastici.",
+              "source": "https://gcnf.org/about/",
+              "by_org": true
+            }
+          ],
+          "mission": "GCNF lavora per garantire che i governi e i loro partner dispongano delle conoscenze, degli strumenti e delle connessioni necessari per aumentare la copertura dei programmi di pasti scolastici di alta qualità che contribuiscono agli obiettivi nazionali in ambito educativo, agricolo, economico, di protezione sociale, sanitario e nutrizionale.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "L'organizzazione è stata ufficialmente fondata nel 2006 per connettere i partner, condividere conoscenze e rafforzare i programmi di pasti scolastici in tutto il mondo.",
+              "source": "https://gcnf.org/about/",
+              "by_org": true
+            }
+          ]
+        },
+        "ru": {
+          "does": [
+            {
+              "text": "Global Child Nutrition Foundation привлекает гражданское общество и бизнес для укрепления цепочек поставок и повышения политической воли в отношении программ школьного питания.",
+              "source": "https://gcnf.org/about/",
+              "by_org": true
+            },
+            {
+              "text": "Организация поддерживает усилия правительств по эффективному внедрению и обеспечению устойчивости национальных программ школьного питания.",
+              "source": "https://gcnf.org/about/",
+              "by_org": true
+            }
+          ],
+          "mission": "GCNF работает над тем, чтобы правительства и их партнеры обладали знаниями, инструментами и связями, необходимыми для расширения охвата высококачественных программ школьного питания, которые способствуют достижению национальных целей в области образования, сельского хозяйства, экономики, социальной защиты, а также здравоохранения и питания.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "Организация была официально основана в 2006 году для объединения партнеров, обмена знаниями и укрепления программ школьного питания по всему миру.",
+              "source": "https://gcnf.org/about/",
+              "by_org": true
+            }
+          ]
+        },
+        "zh": {
+          "does": [
+            {
+              "text": "Global Child Nutrition Foundation 调动公民社会和企业参与，以强化供应链并增强对学校膳食计划的政治意愿。",
+              "source": "https://gcnf.org/about/",
+              "by_org": true
+            },
+            {
+              "text": "该组织支持政府有效地实施和维持国家学校膳食计划。",
+              "source": "https://gcnf.org/about/",
+              "by_org": true
+            }
+          ],
+          "mission": "GCNF 致力于确保政府及其合作伙伴拥有所需的知识、工具和联系，以扩大优质学校膳食计划的覆盖范围，从而有助于实现国家在教育、农业、经济、社会保障以及健康与营养方面的目标。",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "该组织于 2006 年正式成立，旨在连接合作伙伴、共享知识并加强全球范围内的学校膳食计划。",
               "source": "https://gcnf.org/about/",
               "by_org": true
             }
@@ -14114,7 +14450,39 @@
         "https://www.charitynavigator.org/ein/582060122"
       ],
       "waiting_counter": false,
-      "profile": {},
+      "profile": {
+        "en": {
+          "does": [
+            {
+              "text": "The organization distributes donated food to feeding agencies in Birmingham to address food insecurity, malnutrition, and food waste.",
+              "quote": "We’re a passionate team working to alleviate food insecurity, malnutrition and food waste through free distribution of donated food to feeding agencies in Birmingham.",
+              "source": "https://www.magiccityharvest.org/",
+              "by_org": true
+            },
+            {
+              "text": "Refrigerated trucks collect donated food and deliver it to feeding agencies with the greatest need.",
+              "quote": "Our refrigerated trucks collect the food and deliver it to the feeding agency with the greatest need.",
+              "source": "https://www.magiccityharvest.org/",
+              "by_org": true
+            },
+            {
+              "text": "Collaborating with 20 community partners, the organization provides 1,800 meals each day to address hunger in Birmingham.",
+              "quote": "Collaborating with 20 community partners, we provide 1,800 meals each day to address hunger in Birmingham.",
+              "source": "https://www.magiccityharvest.org/",
+              "by_org": true
+            },
+            {
+              "text": "The organization distributes food for free to feeding agencies operating on the front lines.",
+              "quote": "This food is donated for free to the feeding agencies who are on the front lines feeding our neighbors.",
+              "source": "https://www.magiccityharvest.org/what-we-do",
+              "by_org": true
+            }
+          ],
+          "mission": "TO ALLEVIATE FOOD INSECURITY, MALNUTRITION, AND FOOD WASTE IN THE COMMUNITY.",
+          "does_not": [],
+          "strengths": []
+        }
+      },
       "safety": {
         "evaluator": "Charity Navigator",
         "stars": 4,
@@ -18142,9 +18510,9 @@
     "costs": {
       "USD": 8.5
     },
-    "ai_calls": 2144,
+    "ai_calls": 2159,
     "ai_cost_real_usd": 0.0,
-    "ai_value_offered_usd": 13.686956,
+    "ai_value_offered_usd": 13.912867,
     "candidates_examined": 107,
     "candidates_discarded": 57
   },
