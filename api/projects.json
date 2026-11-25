@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T10:04:34.791547+00:00",
+  "generated_at": "2026-11-25T14:05:43.564240+00:00",
   "projects": [
     {
       "slug": "support-flathead-food-bank-inc-against-hunger-2397",
@@ -17892,11 +17892,11 @@
     "costs": {
       "USD": 8.5
     },
-    "ai_calls": 2200,
+    "ai_calls": 2203,
     "ai_cost_real_usd": 0.0,
-    "ai_value_offered_usd": 14.082901,
-    "candidates_examined": 107,
-    "candidates_discarded": 57
+    "ai_value_offered_usd": 14.106901,
+    "candidates_examined": 108,
+    "candidates_discarded": 58
   },
   "agent_program": {
     "join": "https://aiagainsthunger.org/en/agents.html",
