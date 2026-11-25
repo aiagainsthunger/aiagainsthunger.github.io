@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T04:04:32.918870+00:00",
+  "generated_at": "2026-11-25T05:04:04.468693+00:00",
   "projects": [
     {
       "slug": "support-north-texas-food-bank-against-hunger-7552",
@@ -13770,6 +13770,29 @@
             }
           ]
         },
+        "hi": {
+          "does": [
+            {
+              "text": "The Global Child Nutrition Foundation नागरिक समाज और व्यवसायों को शामिल करता है ताकि आपूर्ति श्रृंखलाओं को मजबूत किया जा सके और स्कूल भोजन कार्यक्रमों के लिए राजनीतिक इच्छा शक्ति बढ़ाई जा सके।",
+              "source": "https://gcnf.org/about/",
+              "by_org": true
+            },
+            {
+              "text": "संगठन सरकार के प्रयासों का समर्थन करता है ताकि राष्ट्रीय स्कूल भोजन कार्यक्रमों को प्रभावी ढंग से लागू और बनाए रखा जा सके।",
+              "source": "https://gcnf.org/about/",
+              "by_org": true
+            }
+          ],
+          "mission": "GCNF यह सुनिश्चित करने के लिए काम करता है कि सरकारें और उनके साझेदारों के पास वह ज्ञान, उपकरण और संपर्क हों जो उन्हें उच्च-गुणवत्ता वाले स्कूल भोजन कार्यक्रमों के कवरेज को बढ़ाने में मदद करें, जो राष्ट्रीय शैक्षिक, कृषि, आर्थिक, सामाजिक सुरक्षा, और स्वास्थ्य व पोषण लक्ष्यों में योगदान देते हैं।",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "संगठन को 2006 में आधिकारिक रूप से स्थापित किया गया था ताकि साझेदारों को जोड़ सके, ज्ञान साझा कर सके, और विश्वभर में स्कूल भोजन कार्यक्रमों को मजबूत कर सके।",
+              "source": "https://gcnf.org/about/",
+              "by_org": true
+            }
+          ]
+        },
         "it": {
           "does": [
             {
@@ -13788,6 +13811,52 @@
           "strengths": [
             {
               "text": "L'organizzazione è stata ufficialmente fondata nel 2006 per connettere i partner, condividere conoscenze e rafforzare i programmi di pasti scolastici in tutto il mondo.",
+              "source": "https://gcnf.org/about/",
+              "by_org": true
+            }
+          ]
+        },
+        "ja": {
+          "does": [
+            {
+              "text": "Global Child Nutrition Foundationは、市民社会と企業を巻き込み、供給チェーンを強化し、学校給食プログラムに対する政治的意志を高めます。",
+              "source": "https://gcnf.org/about/",
+              "by_org": true
+            },
+            {
+              "text": "同組織は、政府の取り組みを支援し、全国規模の学校給食プログラムを効果的に実施・維持できるよう支援します。",
+              "source": "https://gcnf.org/about/",
+              "by_org": true
+            }
+          ],
+          "mission": "GCNFは、政府とそのパートナーが、高品質な学校給食プログラムの普及を拡大し、国家の教育、農業、経済、社会保護、健康・栄養の目標に貢献するために必要な知識、ツール、つながりを確保できるよう支援します。",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "同組織は、パートナーをつなげ、知識を共有し、世界中の学校給食プログラムを強化するために、2006年に正式に設立されました。",
+              "source": "https://gcnf.org/about/",
+              "by_org": true
+            }
+          ]
+        },
+        "pt": {
+          "does": [
+            {
+              "text": "A Global Child Nutrition Foundation envolve a sociedade civil e as empresas para fortalecer as cadeias de suprimentos e aumentar a vontade política para os programas de refeições escolares.",
+              "source": "https://gcnf.org/about/",
+              "by_org": true
+            },
+            {
+              "text": "A organização apoia os esforços governamentais para implementar e sustentar efetivamente os programas nacionais de refeições escolares.",
+              "source": "https://gcnf.org/about/",
+              "by_org": true
+            }
+          ],
+          "mission": "A GCNF trabalha para garantir que os governos e seus parceiros tenham o conhecimento, as ferramentas e as conexões de que precisam para aumentar a cobertura de programas de refeições escolares de alta qualidade que contribuem para metas nacionais de educação, agricultura, economia, proteção social e saúde e nutrição.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "A organização foi oficialmente criada em 2006 para conectar parceiros, compartilhar conhecimento e fortalecer os programas de refeições escolares em todo o mundo.",
               "source": "https://gcnf.org/about/",
               "by_org": true
             }
@@ -19083,9 +19152,9 @@
     "costs": {
       "USD": 8.5
     },
-    "ai_calls": 2195,
+    "ai_calls": 2200,
     "ai_cost_real_usd": 0.0,
-    "ai_value_offered_usd": 14.078721,
+    "ai_value_offered_usd": 14.082901,
     "candidates_examined": 107,
     "candidates_discarded": 57
   },
