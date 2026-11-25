@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T02:04:05.121091+00:00",
+  "generated_at": "2026-11-25T03:04:33.636411+00:00",
   "projects": [
     {
       "slug": "support-north-texas-food-bank-against-hunger-7552",
@@ -14268,7 +14268,58 @@
       "source_url": "https://www.charitynavigator.org/ein/582060122",
       "approved_on": "2026-11-24",
       "review_until": "2026-11-27 01:04 UTC",
-      "translations": {},
+      "translations": {
+        "de": {
+          "text": "Organisation bewertet von Charity Navigator, gefunden von den Agenten mit: 'Every.org: ending hunger'.",
+          "title": "Unterstützen Sie Magic City Harvest gegen den Hunger",
+          "source": "traduzione AI"
+        },
+        "en": {
+          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'Every.org: ending hunger'.",
+          "title": "Support Magic City Harvest against hunger",
+          "source": "originale"
+        },
+        "es": {
+          "text": "Entidad evaluada por Charity Navigator, encontrada por los agentes con: 'Every.org: ending hunger'.",
+          "title": "Apoya Magic City Harvest contra el hambre",
+          "source": "traduzione AI"
+        },
+        "fr": {
+          "text": "Organisation évaluée par Charity Navigator, trouvée par les agents avec : 'Every.org: ending hunger'.",
+          "title": "Soutenez Magic City Harvest contre la faim",
+          "source": "traduzione AI"
+        },
+        "hi": {
+          "text": "Charity Navigator द्वारा मूल्यांकित संस्था, एजेंटों द्वारा मिली: 'Every.org: ending hunger'.",
+          "title": "भूख के खिलाफ Magic City Harvest का समर्थन करें",
+          "source": "traduzione AI"
+        },
+        "it": {
+          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'Every.org: ending hunger'.",
+          "title": "Sostieni Magic City Harvest contro la fame",
+          "source": "traduzione AI"
+        },
+        "ja": {
+          "text": "Charity Navigator によって評価された団体で、エージェントが次のように見つけました: 'Every.org: ending hunger'.",
+          "title": "飢餓に対して Magic City Harvest を支援する",
+          "source": "traduzione AI"
+        },
+        "pt": {
+          "text": "Entidade avaliada pela Charity Navigator, encontrada pelos agentes com: 'Every.org: ending hunger'.",
+          "title": "Apoie Magic City Harvest contra a fome",
+          "source": "traduzione AI"
+        },
+        "ru": {
+          "text": "Организация, оцененная Charity Navigator, найденная агентами с: 'Every.org: ending hunger'.",
+          "title": "Поддержите Magic City Harvest в борьбе с голодом",
+          "source": "traduzione AI"
+        },
+        "zh": {
+          "text": "由 Charity Navigator 评估的机构，特工发现其口号为：'Every.org: ending hunger'。",
+          "title": "支持 Magic City Harvest 对抗饥饿",
+          "source": "traduzione AI"
+        }
+      },
       "tranches": [],
       "checks": [
         {
@@ -14466,6 +14517,33 @@
       ],
       "waiting_counter": false,
       "profile": {
+        "de": {
+          "does": [
+            {
+              "text": "Die Organisation verteilt gespendete Lebensmittel an Versorgungsagenturen in Birmingham, um Ernährungsunsicherheit, Mangelernährung und Lebensmittelverschwendung zu bekämpfen.",
+              "source": "https://www.magiccityharvest.org/",
+              "by_org": true
+            },
+            {
+              "text": "Kühlfahrzeuge sammeln gespendete Lebensmittel und liefern sie an Versorgungsagenturen mit dem größten Bedarf.",
+              "source": "https://www.magiccityharvest.org/",
+              "by_org": true
+            },
+            {
+              "text": "In Zusammenarbeit mit 20 Gemeindepartnern stellt die Organisation täglich 1,800 Mahlzeiten bereit, um den Hunger in Birmingham zu bekämpfen.",
+              "source": "https://www.magiccityharvest.org/",
+              "by_org": true
+            },
+            {
+              "text": "Die Organisation verteilt Lebensmittel kostenlos an Versorgungsagenturen, die an vorderster Front tätig sind.",
+              "source": "https://www.magiccityharvest.org/what-we-do",
+              "by_org": true
+            }
+          ],
+          "mission": "UM DIE ERNÄHRUNGSUNSICHERHEIT, MANGELERNÄHRUNG UND LEBENSMITTELVERSCHWENDUNG IN DER GEMEINSCHAFT ZU LINDERN.",
+          "does_not": [],
+          "strengths": []
+        },
         "en": {
           "does": [
             {
@@ -14494,6 +14572,60 @@
             }
           ],
           "mission": "TO ALLEVIATE FOOD INSECURITY, MALNUTRITION, AND FOOD WASTE IN THE COMMUNITY.",
+          "does_not": [],
+          "strengths": []
+        },
+        "fr": {
+          "does": [
+            {
+              "text": "L'organisation distribue des aliments donnés aux agences d'alimentation à Birmingham pour lutter contre l'insécurité alimentaire, la malnutrition et le gaspillage alimentaire.",
+              "source": "https://www.magiccityharvest.org/",
+              "by_org": true
+            },
+            {
+              "text": "Des camions réfrigérés collectent les aliments donnés et les livrent aux agences d'alimentation les plus nécessiteuses.",
+              "source": "https://www.magiccityharvest.org/",
+              "by_org": true
+            },
+            {
+              "text": "En collaboration avec 20 partenaires communautaires, l'organisation fournit 1,800 repas chaque jour pour lutter contre la faim à Birmingham.",
+              "source": "https://www.magiccityharvest.org/",
+              "by_org": true
+            },
+            {
+              "text": "L'organisation distribue gratuitement des aliments aux agences d'alimentation opérant en première ligne.",
+              "source": "https://www.magiccityharvest.org/what-we-do",
+              "by_org": true
+            }
+          ],
+          "mission": "POUR ATTÉNUER L'INSÉCURITÉ ALIMENTAIRE, LA MALNUTRITION ET LE GASPILLAGE ALIMENTAIRE DANS LA COMMUNAUTÉ.",
+          "does_not": [],
+          "strengths": []
+        },
+        "it": {
+          "does": [
+            {
+              "text": "L'organizzazione distribuisce cibo donato alle agenzie di alimentazione a Birmingham per affrontare l'insicurezza alimentare, la malnutrizione e lo spreco di cibo.",
+              "source": "https://www.magiccityharvest.org/",
+              "by_org": true
+            },
+            {
+              "text": "I camion refrigerati raccolgono il cibo donato e lo consegnano alle agenzie di alimentazione con il maggior bisogno.",
+              "source": "https://www.magiccityharvest.org/",
+              "by_org": true
+            },
+            {
+              "text": "Collaborando con 20 partner della comunità, l'organizzazione fornisce 1,800 pasti al giorno per affrontare la fame a Birmingham.",
+              "source": "https://www.magiccityharvest.org/",
+              "by_org": true
+            },
+            {
+              "text": "L'organizzazione distribuisce cibo gratuitamente alle agenzie di alimentazione operanti in prima linea.",
+              "source": "https://www.magiccityharvest.org/what-we-do",
+              "by_org": true
+            }
+          ],
+          "mission": "PER ALLEVIARE L'INSICUREZZA ALIMENTARE, LA MALNUTRIZIONE E LO SPRECO DI CIBO NELLA COMUNITÀ.",
           "does_not": [],
           "strengths": []
         }
@@ -18723,9 +18855,9 @@
     "costs": {
       "USD": 8.5
     },
-    "ai_calls": 2171,
+    "ai_calls": 2183,
     "ai_cost_real_usd": 0.0,
-    "ai_value_offered_usd": 14.063832,
+    "ai_value_offered_usd": 14.069168,
     "candidates_examined": 107,
     "candidates_discarded": 57
   },
