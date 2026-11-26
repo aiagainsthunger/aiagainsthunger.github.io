@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T01:04:35.758167+00:00",
+  "generated_at": "2026-11-26T02:04:05.797027+00:00",
   "projects": [
     {
       "slug": "support-food-gatherers-against-hunger-5718",
@@ -2097,6 +2097,33 @@
           "does_not": [],
           "strengths": []
         },
+        "es": {
+          "does": [
+            {
+              "text": "La organización distribuye alimentos donados a agencias de alimentación en Birmingham para abordar la inseguridad alimentaria, la malnutrición y el desperdicio de alimentos.",
+              "source": "https://www.magiccityharvest.org/",
+              "by_org": true
+            },
+            {
+              "text": "Camiones refrigerados recogen alimentos donados y los entregan a agencias de alimentación con mayor necesidad.",
+              "source": "https://www.magiccityharvest.org/",
+              "by_org": true
+            },
+            {
+              "text": "Colaborando con 20 socios comunitarios, la organización proporciona 1,800 comidas cada día para abordar el hambre en Birmingham.",
+              "source": "https://www.magiccityharvest.org/",
+              "by_org": true
+            },
+            {
+              "text": "La organización distribuye alimentos de forma gratuita a agencias de alimentación que operan en la primera línea.",
+              "source": "https://www.magiccityharvest.org/what-we-do",
+              "by_org": true
+            }
+          ],
+          "mission": "PARA ALIVIAR LA INSEGURIDAD ALIMENTARIA, LA MALNUTRICIÓN Y EL DESPERDICIO DE ALIMENTOS EN LA COMUNIDAD.",
+          "does_not": [],
+          "strengths": []
+        },
         "fr": {
           "does": [
             {
@@ -2124,6 +2151,33 @@
           "does_not": [],
           "strengths": []
         },
+        "hi": {
+          "does": [
+            {
+              "text": "संगठन बर्मिंघम में खाद्य असुरक्षा, कुपोषण और खाद्य बर्बादी को दूर करने के लिए दान किए गए भोजन को खाद्य सहायता एजेंसियों में वितरित करता है।",
+              "source": "https://www.magiccityharvest.org/",
+              "by_org": true
+            },
+            {
+              "text": "रेफ्रिजरेटेड ट्रकों द्वारा दान किया गया भोजन एकत्र किया जाता है और इसे सबसे अधिक आवश्यकता वाले खाद्य सहायता एजेंसियों तक पहुँचाया जाता है।",
+              "source": "https://www.magiccityharvest.org/",
+              "by_org": true
+            },
+            {
+              "text": "20 सामुदायिक साझेदारों के साथ सहयोग करते हुए, संगठन बर्मिंघम में भूख को दूर करने के लिए प्रत्येक दिन 1,800 भोजन प्रदान करता है।",
+              "source": "https://www.magiccityharvest.org/",
+              "by_org": true
+            },
+            {
+              "text": "संगठन अग्रिम पंक्ति में कार्यरत खाद्य सहायता एजेंसियों को मुफ्त में भोजन वितरित करता है।",
+              "source": "https://www.magiccityharvest.org/what-we-do",
+              "by_org": true
+            }
+          ],
+          "mission": "समुदाय में खाद्य असुरक्षा, कुपोषण और खाद्य बर्बादी को कम करने के लिए।",
+          "does_not": [],
+          "strengths": []
+        },
         "it": {
           "does": [
             {
@@ -2148,6 +2202,114 @@
             }
           ],
           "mission": "PER ALLEVIARE L'INSICUREZZA ALIMENTARE, LA MALNUTRIZIONE E LO SPRECO DI CIBO NELLA COMUNITÀ.",
+          "does_not": [],
+          "strengths": []
+        },
+        "ja": {
+          "does": [
+            {
+              "text": "この組織は、食料不安、栄養失調、食料廃棄に対処するため、バーミンガムの給食機関に寄付された食料を配布します。",
+              "source": "https://www.magiccityharvest.org/",
+              "by_org": true
+            },
+            {
+              "text": "冷蔵トラックが寄付された食料を集め、最も必要としている給食機関に届けます。",
+              "source": "https://www.magiccityharvest.org/",
+              "by_org": true
+            },
+            {
+              "text": "20 のコミュニティパートナーと協力し、この組織はバーミンガムの飢餓に対処するため、毎日 1,800 食の食事を提供します。",
+              "source": "https://www.magiccityharvest.org/",
+              "by_org": true
+            },
+            {
+              "text": "この組織は、最前線で活動する給食機関に食料を無料で配布します。",
+              "source": "https://www.magiccityharvest.org/what-we-do",
+              "by_org": true
+            }
+          ],
+          "mission": "地域の食料不安、栄養失調、食料廃棄を軽減するために。",
+          "does_not": [],
+          "strengths": []
+        },
+        "pt": {
+          "does": [
+            {
+              "text": "Magic City Harvest distribui alimentos doados para agências de alimentação em Birmingham para combater a insegurança alimentar, a desnutrição e o desperdício de alimentos.",
+              "source": "https://www.magiccityharvest.org/",
+              "by_org": true
+            },
+            {
+              "text": "Caminhões refrigerados coletam alimentos doados e os entregam às agências de alimentação com maior necessidade.",
+              "source": "https://www.magiccityharvest.org/",
+              "by_org": true
+            },
+            {
+              "text": "Colaborando com 20 parceiros comunitários, Magic City Harvest fornece 1,800 refeições por dia para combater a fome em Birmingham.",
+              "source": "https://www.magiccityharvest.org/",
+              "by_org": true
+            },
+            {
+              "text": "Magic City Harvest distribui alimentos gratuitamente para agências de alimentação que atuam na linha de frente.",
+              "source": "https://www.magiccityharvest.org/what-we-do",
+              "by_org": true
+            }
+          ],
+          "mission": "PARA ALIVIAR A INSEGURANÇA ALIMENTAR, A DESNUTRIÇÃO E O DESPERDÍCIO DE ALIMENTOS NA COMUNIDADE.",
+          "does_not": [],
+          "strengths": []
+        },
+        "ru": {
+          "does": [
+            {
+              "text": "Организация распределяет пожертвованную еду среди агентств питания в Бирмингеме, чтобы решить проблему продовольственной небезопасности, недоедания и пищевых отходов.",
+              "source": "https://www.magiccityharvest.org/",
+              "by_org": true
+            },
+            {
+              "text": "Охлаждаемые грузовики собирают пожертвованную еду и доставляют её в агентства питания с наибольшей потребностью.",
+              "source": "https://www.magiccityharvest.org/",
+              "by_org": true
+            },
+            {
+              "text": "Сотрудничая с 20 общественными партнёрами, организация предоставляет 1,800 порций еды каждый день, чтобы бороться с голодом в Бирмингеме.",
+              "source": "https://www.magiccityharvest.org/",
+              "by_org": true
+            },
+            {
+              "text": "Организация бесплатно распределяет еду среди агентств питания, работающих на передовой.",
+              "source": "https://www.magiccityharvest.org/what-we-do",
+              "by_org": true
+            }
+          ],
+          "mission": "ДЛЯ СНИЖЕНИЯ НЕПРОВИНОВАННОСТИ ПИЩИ, МАЛЬНУТРИЦИИ И ПИЩЕВОГО ОТХОДА В СООБЩЕСТВЕ.",
+          "does_not": [],
+          "strengths": []
+        },
+        "zh": {
+          "does": [
+            {
+              "text": "该组织将捐赠的食物分发给伯明翰的供餐机构，以应对粮食不安全、营养不良和食物浪费。",
+              "source": "https://www.magiccityharvest.org/",
+              "by_org": true
+            },
+            {
+              "text": "冷藏卡车收集捐赠的食物并将其送达需求最大的供餐机构。",
+              "source": "https://www.magiccityharvest.org/",
+              "by_org": true
+            },
+            {
+              "text": "与20个社区合作伙伴合作，该组织每天提供1,800餐，以应对伯明翰的饥饿问题。",
+              "source": "https://www.magiccityharvest.org/",
+              "by_org": true
+            },
+            {
+              "text": "该组织免费向前线运营的供餐机构分发食物。",
+              "source": "https://www.magiccityharvest.org/what-we-do",
+              "by_org": true
+            }
+          ],
+          "mission": "缓解社区的粮食不安全、营养不良和食物浪费。",
           "does_not": [],
           "strengths": []
         }
@@ -4937,6 +5099,39 @@
             }
           ]
         },
+        "fr": {
+          "does": [
+            {
+              "text": "Meals on Wheels People a été fondée en 1969 avec pour mission d\\'enrichir la vie des aînés et de les aider à maintenir leur indépendance, en fournissant des aliments nutritifs, des liens humains et un soutien social.",
+              "source": "https://www.charitynavigator.org/ein/930584318",
+              "by_org": false
+            },
+            {
+              "text": "L\\'organisation utilise également son expertise et sa capacité pour servir d\\'autres populations à risque nutritionnel.",
+              "source": "https://www.charitynavigator.org/ein/930584318",
+              "by_org": false
+            },
+            {
+              "text": "Meals on Wheels People produit 5,700 repas chauds et nutritifs cinq jours par semaine dans une cuisine commerciale de 14,000 pieds carrés située au cœur du village de Multnomah.",
+              "source": "https://www.charitynavigator.org/ein/930584318",
+              "by_org": false
+            },
+            {
+              "text": "Les repas sont livrés à 30 centres pour aînés dans les comtés de Multnomah, Washington et Clark où ils sont servis à midi aux aînés dans les salles à manger des centres ou envoyés comme Meals on Wheels aux personnes âgées fragiles et confinées à domicile.",
+              "source": "https://www.charitynavigator.org/ein/930584318",
+              "by_org": false
+            }
+          ],
+          "mission": "Meals on Wheels People a été fondée en 1969 avec pour mission d\\'enrichir la vie des aînés et de les aider à maintenir leur indépendance, en fournissant des repas nutritifs, des liens humains et un soutien social. Nous utilisons également notre expertise et notre capacité pour servir d\\'autres populations à risque nutritionnel. Aujourd\\'hui, Meals on Wheels People produit 5,700 repas chauds et nutritifs cinq jours par semaine dans une cuisine commerciale de 14,000 pieds carrés située au cœur du village de Multnomah. Les repas sont ensuite livrés à 30 centres pour aînés dans les comtés de Multnomah, Washington et Clark où ils sont servis à midi dans les salles à manger des centres ou envoyés comme Meals on Wheels aux personnes âgées fragiles et confinées à domicile.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "L\\'exonération fiscale a été accordée en June 1971.",
+              "source": "https://projects.propublica.org/nonprofits/organizations/930584318",
+              "by_org": false
+            }
+          ]
+        },
         "hi": {
           "does": [
             {
@@ -4998,6 +5193,39 @@
           "strengths": [
             {
               "text": "L'esenzione fiscale è stata rilasciata nel giugno 1971.",
+              "source": "https://projects.propublica.org/nonprofits/organizations/930584318",
+              "by_org": false
+            }
+          ]
+        },
+        "ja": {
+          "does": [
+            {
+              "text": "Meals on Wheels People は 1969 年に設立され、高齢者の生活を豊かにし、栄養価の高い食事、人とのつながり、社会的支援を提供することで自立を支援するという使命を持っています。",
+              "source": "https://www.charitynavigator.org/ein/930584318",
+              "by_org": false
+            },
+            {
+              "text": "この組織は、専門知識と能力を活かして、栄養リスクのある他の人々にもサービスを提供しています。",
+              "source": "https://www.charitynavigator.org/ein/930584318",
+              "by_org": false
+            },
+            {
+              "text": "Meals on Wheels People は、Multnomah Village の中心に位置する 14,000 平方フィートの商業用キッチンで、週5日、5,700 食の温かく栄養価の高い食事を生産しています。",
+              "source": "https://www.charitynavigator.org/ein/930584318",
+              "by_org": false
+            },
+            {
+              "text": "食事は、Multnomah、Washington、Clark 郡全体の 30 のシニアセンターに配達され、センターの食堂で正午に高齢者に提供されるか、体調の優れない自宅待機の高齢者へ Meals on Wheels として配布されます。",
+              "source": "https://www.charitynavigator.org/ein/930584318",
+              "by_org": false
+            }
+          ],
+          "mission": "Meals on Wheels People は 1969 年に設立され、高齢者の生活を豊かにし、栄養価の高い食事、人とのつながり、社会的支援を提供することで自立を支援するという使命を持っています。また、当団体の専門知識と能力を活かして、栄養リスクのある他の人々にもサービスを提供しています。現在、Meals on Wheels People は、Multnomah Village の中心に位置する 14,000 平方フィートの商業用キッチンで、週5日、5,700 食の温かく栄養価の高い食事を生産しています。これらの食事は、Multnomah、Washington、Clark 郡全体の 30 のシニアセンターに配達され、センターの食堂で正午に高齢者に提供されるか、体調の優れない自宅待機の高齢者へ Meals on Wheels として配布されます。",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "税免除は June 1971 に発行されました。",
               "source": "https://projects.propublica.org/nonprofits/organizations/930584318",
               "by_org": false
             }
@@ -18153,9 +18381,9 @@
     "costs": {
       "USD": 8.5
     },
-    "ai_calls": 2216,
+    "ai_calls": 2227,
     "ai_cost_real_usd": 0.0,
-    "ai_value_offered_usd": 14.175173,
+    "ai_value_offered_usd": 14.185445,
     "candidates_examined": 108,
     "candidates_discarded": 58
   },
