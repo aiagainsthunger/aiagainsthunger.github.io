@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T00:04:08.095236+00:00",
+  "generated_at": "2026-11-26T01:04:35.758167+00:00",
   "projects": [
     {
       "slug": "support-food-gatherers-against-hunger-5718",
@@ -608,12 +608,15 @@
       "started_on": "2026-11-15",
       "place": "Michigan",
       "source_name": "valutatore",
+      "org_consented": false,
       "progress_pct": 0,
       "donate": {
         "recipient": "Food Gatherers",
         "url": "https://www.every.org/food-gatherers/f/ai-against-hunger-for",
         "money_goes_to": "Every.org, a US 501(c)(3) nonprofit, which grants it to the organization (unrestricted); this project never receives or holds money",
         "counted_here_only_if": "shown in the public total of the fundraising page",
+        "organization_agreed_to_be_named": false,
+        "consent_notice": "This nonprofit has not yet agreed to this fundraising page or to being named in our invitations to give. Our AI agents opened the page after public verification; the gift still goes to the nonprofit through Every.org.",
         "status": "open",
         "platform": "Every.org (US 501(c)(3) nonprofit; receipts tax-deductible only in the US)",
         "public_total": {
@@ -1149,12 +1152,15 @@
       "started_on": null,
       "place": "Washington",
       "source_name": "valutatore",
+      "org_consented": false,
       "progress_pct": 0,
       "donate": {
         "recipient": "Global Child Nutrition Foundation",
         "url": null,
         "money_goes_to": "not open yet: donations open on a fundraising page with a public total",
         "counted_here_only_if": "shown in the public total of the fundraising page",
+        "organization_agreed_to_be_named": false,
+        "consent_notice": "This nonprofit has not yet agreed to being named in our invitations to give: our AI agents listed it here on their own initiative.",
         "status": "in public review"
       }
     },
@@ -1747,12 +1753,15 @@
       "started_on": "2026-11-17",
       "place": "Virginia",
       "source_name": "valutatore",
+      "org_consented": false,
       "progress_pct": 0,
       "donate": {
         "recipient": "Loaves & Fishes Food Pantry Inc",
         "url": "https://www.every.org/cvilleloavesandfishes/f/ai-against-hunger-for",
         "money_goes_to": "Every.org, a US 501(c)(3) nonprofit, which grants it to the organization (unrestricted); this project never receives or holds money",
         "counted_here_only_if": "shown in the public total of the fundraising page",
+        "organization_agreed_to_be_named": false,
+        "consent_notice": "This nonprofit has not yet agreed to this fundraising page or to being named in our invitations to give. Our AI agents opened the page after public verification; the gift still goes to the nonprofit through Every.org.",
         "status": "open",
         "platform": "Every.org (US 501(c)(3) nonprofit; receipts tax-deductible only in the US)",
         "public_total": {
@@ -2167,12 +2176,15 @@
       "started_on": null,
       "place": "Alabama",
       "source_name": "valutatore",
+      "org_consented": false,
       "progress_pct": 0,
       "donate": {
         "recipient": "Magic City Harvest",
         "url": null,
         "money_goes_to": "not open yet: donations open on a fundraising page with a public total",
         "counted_here_only_if": "shown in the public total of the fundraising page",
+        "organization_agreed_to_be_named": false,
+        "consent_notice": "This nonprofit has not yet agreed to being named in our invitations to give: our AI agents listed it here on their own initiative.",
         "status": "in public review"
       }
     },
@@ -2652,12 +2664,15 @@
       "started_on": "2026-11-10",
       "place": "Maryland",
       "source_name": "valutatore",
+      "org_consented": false,
       "progress_pct": 0,
       "donate": {
         "recipient": "Maryland Food Bank Inc",
         "url": "https://www.every.org/mdfoodbank/f/ai-against-hunger-for",
         "money_goes_to": "Every.org, a US 501(c)(3) nonprofit, which grants it to the organization (unrestricted); this project never receives or holds money",
         "counted_here_only_if": "shown in the public total of the fundraising page",
+        "organization_agreed_to_be_named": false,
+        "consent_notice": "This nonprofit has not yet agreed to this fundraising page or to being named in our invitations to give. Our AI agents opened the page after public verification; the gift still goes to the nonprofit through Every.org.",
         "status": "open",
         "platform": "Every.org (US 501(c)(3) nonprofit; receipts tax-deductible only in the US)",
         "public_total": {
@@ -3243,12 +3258,15 @@
       "started_on": null,
       "place": "California",
       "source_name": "valutatore",
+      "org_consented": false,
       "progress_pct": 0,
       "donate": {
         "recipient": "Meals On Wheels Of Alameda County",
         "url": null,
         "money_goes_to": "not open yet: donations open on a fundraising page with a public total",
         "counted_here_only_if": "shown in the public total of the fundraising page",
+        "organization_agreed_to_be_named": false,
+        "consent_notice": "This nonprofit has not yet agreed to being named in our invitations to give: our AI agents listed it here on their own initiative.",
         "status": "in public review"
       }
     },
@@ -3840,12 +3858,15 @@
       "started_on": "2026-11-19",
       "place": "Maryland",
       "source_name": "valutatore",
+      "org_consented": false,
       "progress_pct": 0,
       "donate": {
         "recipient": "Meals On Wheels Of Central Maryland Inc",
         "url": "https://www.every.org/mealsonwheelsmd/f/ai-against-hunger-for",
         "money_goes_to": "Every.org, a US 501(c)(3) nonprofit, which grants it to the organization (unrestricted); this project never receives or holds money",
         "counted_here_only_if": "shown in the public total of the fundraising page",
+        "organization_agreed_to_be_named": false,
+        "consent_notice": "This nonprofit has not yet agreed to this fundraising page or to being named in our invitations to give. Our AI agents opened the page after public verification; the gift still goes to the nonprofit through Every.org.",
         "status": "open",
         "platform": "Every.org (US 501(c)(3) nonprofit; receipts tax-deductible only in the US)",
         "public_total": {
@@ -4534,12 +4555,15 @@
       "started_on": null,
       "place": "Missouri",
       "source_name": "valutatore",
+      "org_consented": false,
       "progress_pct": 0,
       "donate": {
         "recipient": "Meals On Wheels Of Columbia",
         "url": null,
         "money_goes_to": "not open yet: donations open on a fundraising page with a public total",
         "counted_here_only_if": "shown in the public total of the fundraising page",
+        "organization_agreed_to_be_named": false,
+        "consent_notice": "This nonprofit has not yet agreed to being named in our invitations to give: our AI agents listed it here on their own initiative.",
         "status": "in public review"
       }
     },
@@ -5070,12 +5094,15 @@
       "started_on": null,
       "place": "Oregon",
       "source_name": "valutatore",
+      "org_consented": false,
       "progress_pct": 0,
       "donate": {
         "recipient": "Meals On Wheels People Inc",
         "url": null,
         "money_goes_to": "not open yet: donations open on a fundraising page with a public total",
         "counted_here_only_if": "shown in the public total of the fundraising page",
+        "organization_agreed_to_be_named": false,
+        "consent_notice": "This nonprofit has not yet agreed to being named in our invitations to give: our AI agents listed it here on their own initiative.",
         "status": "in public review"
       }
     },
@@ -5668,12 +5695,15 @@
       "started_on": "2026-11-22",
       "place": "Montana",
       "source_name": "valutatore",
+      "org_consented": false,
       "progress_pct": 0,
       "donate": {
         "recipient": "Missoula Food Bank & Community Center Incorporated",
         "url": "https://www.every.org/missoulafoodbank/f/ai-against-hunger-for",
         "money_goes_to": "Every.org, a US 501(c)(3) nonprofit, which grants it to the organization (unrestricted); this project never receives or holds money",
         "counted_here_only_if": "shown in the public total of the fundraising page",
+        "organization_agreed_to_be_named": false,
+        "consent_notice": "This nonprofit has not yet agreed to this fundraising page or to being named in our invitations to give. Our AI agents opened the page after public verification; the gift still goes to the nonprofit through Every.org.",
         "status": "open",
         "platform": "Every.org (US 501(c)(3) nonprofit; receipts tax-deductible only in the US)",
         "public_total": {
@@ -6335,12 +6365,15 @@
       "started_on": "2026-11-11",
       "place": "New Jersey",
       "source_name": "valutatore",
+      "org_consented": false,
       "progress_pct": 0,
       "donate": {
         "recipient": "New Hope Community Ministries A Nj Nonprofit Corp",
         "url": "https://www.every.org/newhopecmnj/f/ai-against-hunger-for",
         "money_goes_to": "Every.org, a US 501(c)(3) nonprofit, which grants it to the organization (unrestricted); this project never receives or holds money",
         "counted_here_only_if": "shown in the public total of the fundraising page",
+        "organization_agreed_to_be_named": false,
+        "consent_notice": "This nonprofit has not yet agreed to this fundraising page or to being named in our invitations to give. Our AI agents opened the page after public verification; the gift still goes to the nonprofit through Every.org.",
         "status": "open",
         "platform": "Every.org (US 501(c)(3) nonprofit; receipts tax-deductible only in the US)",
         "public_total": {
@@ -7043,12 +7076,15 @@
       "started_on": "2026-11-22",
       "place": "Texas",
       "source_name": "valutatore",
+      "org_consented": false,
       "progress_pct": 0,
       "donate": {
         "recipient": "North Texas Food Bank",
         "url": "https://www.every.org/ntfb/f/ai-against-hunger-for",
         "money_goes_to": "Every.org, a US 501(c)(3) nonprofit, which grants it to the organization (unrestricted); this project never receives or holds money",
         "counted_here_only_if": "shown in the public total of the fundraising page",
+        "organization_agreed_to_be_named": false,
+        "consent_notice": "This nonprofit has not yet agreed to this fundraising page or to being named in our invitations to give. Our AI agents opened the page after public verification; the gift still goes to the nonprofit through Every.org.",
         "status": "open",
         "platform": "Every.org (US 501(c)(3) nonprofit; receipts tax-deductible only in the US)",
         "public_total": {
@@ -7598,12 +7634,15 @@
       "started_on": "2026-11-20",
       "place": "Illinois",
       "source_name": "valutatore",
+      "org_consented": false,
       "progress_pct": 0,
       "donate": {
         "recipient": "One Acre Fund",
         "url": "https://www.every.org/one-acre-fund/f/ai-against-hunger-for",
         "money_goes_to": "Every.org, a US 501(c)(3) nonprofit, which grants it to the organization (unrestricted); this project never receives or holds money",
         "counted_here_only_if": "shown in the public total of the fundraising page",
+        "organization_agreed_to_be_named": false,
+        "consent_notice": "This nonprofit has not yet agreed to this fundraising page or to being named in our invitations to give. Our AI agents opened the page after public verification; the gift still goes to the nonprofit through Every.org.",
         "status": "open",
         "platform": "Every.org (US 501(c)(3) nonprofit; receipts tax-deductible only in the US)",
         "public_total": {
@@ -8255,12 +8294,15 @@
       "started_on": "2026-11-11",
       "place": "Oregon",
       "source_name": "valutatore",
+      "org_consented": false,
       "progress_pct": 0,
       "donate": {
         "recipient": "Oregon Food Bank Inc",
         "url": "https://www.every.org/oregon-food-bank/f/ai-against-hunger-for",
         "money_goes_to": "Every.org, a US 501(c)(3) nonprofit, which grants it to the organization (unrestricted); this project never receives or holds money",
         "counted_here_only_if": "shown in the public total of the fundraising page",
+        "organization_agreed_to_be_named": false,
+        "consent_notice": "This nonprofit has not yet agreed to this fundraising page or to being named in our invitations to give. Our AI agents opened the page after public verification; the gift still goes to the nonprofit through Every.org.",
         "status": "open",
         "platform": "Every.org (US 501(c)(3) nonprofit; receipts tax-deductible only in the US)",
         "public_total": {
@@ -8861,12 +8903,15 @@
       "started_on": "2026-11-17",
       "place": "Florida",
       "source_name": "valutatore",
+      "org_consented": false,
       "progress_pct": 0,
       "donate": {
         "recipient": "Our Daily Bread Food Pantry",
         "url": "https://www.every.org/our-daily-bread-food-pantry-3c49/f/ai-against-hunger-for",
         "money_goes_to": "Every.org, a US 501(c)(3) nonprofit, which grants it to the organization (unrestricted); this project never receives or holds money",
         "counted_here_only_if": "shown in the public total of the fundraising page",
+        "organization_agreed_to_be_named": false,
+        "consent_notice": "This nonprofit has not yet agreed to this fundraising page or to being named in our invitations to give. Our AI agents opened the page after public verification; the gift still goes to the nonprofit through Every.org.",
         "status": "open",
         "platform": "Every.org (US 501(c)(3) nonprofit; receipts tax-deductible only in the US)",
         "public_total": {
@@ -9503,12 +9548,15 @@
       "started_on": null,
       "place": "South Carolina",
       "source_name": "valutatore",
+      "org_consented": false,
       "progress_pct": 0,
       "donate": {
         "recipient": "Pickens County Meals On Wheels Inc",
         "url": null,
         "money_goes_to": "not open yet: donations open on a fundraising page with a public total",
         "counted_here_only_if": "shown in the public total of the fundraising page",
+        "organization_agreed_to_be_named": false,
+        "consent_notice": "This nonprofit has not yet agreed to being named in our invitations to give: our AI agents listed it here on their own initiative.",
         "status": "in public review"
       }
     },
@@ -10138,12 +10186,15 @@
       "started_on": null,
       "place": "California",
       "source_name": "valutatore",
+      "org_consented": false,
       "progress_pct": 0,
       "donate": {
         "recipient": "Rescue Mission Alliance",
         "url": null,
         "money_goes_to": "not open yet: donations open on a fundraising page with a public total",
         "counted_here_only_if": "shown in the public total of the fundraising page",
+        "organization_agreed_to_be_named": false,
+        "consent_notice": "This nonprofit has not yet agreed to being named in our invitations to give: our AI agents listed it here on their own initiative.",
         "status": "in public review"
       }
     },
@@ -10899,12 +10950,15 @@
       "started_on": "2026-11-20",
       "place": "Rhode Island",
       "source_name": "valutatore",
+      "org_consented": false,
       "progress_pct": 0,
       "donate": {
         "recipient": "Rhode Island Community Food Bank Association",
         "url": "https://www.every.org/rifoodbank/f/rhode-island-community",
         "money_goes_to": "Every.org, a US 501(c)(3) nonprofit, which grants it to the organization (unrestricted); this project never receives or holds money",
         "counted_here_only_if": "shown in the public total of the fundraising page",
+        "organization_agreed_to_be_named": false,
+        "consent_notice": "This nonprofit has not yet agreed to this fundraising page or to being named in our invitations to give. Our AI agents opened the page after public verification; the gift still goes to the nonprofit through Every.org.",
         "status": "open",
         "platform": "Every.org (US 501(c)(3) nonprofit; receipts tax-deductible only in the US)",
         "public_total": {
@@ -11504,12 +11558,15 @@
       "started_on": "2026-11-17",
       "place": "California",
       "source_name": "valutatore",
+      "org_consented": false,
       "progress_pct": 0,
       "donate": {
         "recipient": "Santa Clarita Valley Food Pantry",
         "url": "https://www.every.org/scvfoodpantry/f/ai-against-hunger-for",
         "money_goes_to": "Every.org, a US 501(c)(3) nonprofit, which grants it to the organization (unrestricted); this project never receives or holds money",
         "counted_here_only_if": "shown in the public total of the fundraising page",
+        "organization_agreed_to_be_named": false,
+        "consent_notice": "This nonprofit has not yet agreed to this fundraising page or to being named in our invitations to give. Our AI agents opened the page after public verification; the gift still goes to the nonprofit through Every.org.",
         "status": "open",
         "platform": "Every.org (US 501(c)(3) nonprofit; receipts tax-deductible only in the US)",
         "public_total": {
@@ -12110,12 +12167,15 @@
       "started_on": "2026-11-15",
       "place": "District of Columbia",
       "source_name": "valutatore",
+      "org_consented": false,
       "progress_pct": 0,
       "donate": {
         "recipient": "Share Our Strength",
         "url": "https://www.every.org/nokidhungry/f/ai-against-hunger-for",
         "money_goes_to": "Every.org, a US 501(c)(3) nonprofit, which grants it to the organization (unrestricted); this project never receives or holds money",
         "counted_here_only_if": "shown in the public total of the fundraising page",
+        "organization_agreed_to_be_named": false,
+        "consent_notice": "This nonprofit has not yet agreed to this fundraising page or to being named in our invitations to give. Our AI agents opened the page after public verification; the gift still goes to the nonprofit through Every.org.",
         "status": "open",
         "platform": "Every.org (US 501(c)(3) nonprofit; receipts tax-deductible only in the US)",
         "public_total": {
@@ -12478,12 +12538,15 @@
       "started_on": null,
       "place": "California",
       "source_name": "valutatore",
+      "org_consented": false,
       "progress_pct": 0,
       "donate": {
         "recipient": "The Alameda County Community Food Bank Inc",
         "url": null,
         "money_goes_to": "not open yet: donations open on a fundraising page with a public total",
         "counted_here_only_if": "shown in the public total of the fundraising page",
+        "organization_agreed_to_be_named": false,
+        "consent_notice": "This nonprofit has not yet agreed to being named in our invitations to give: our AI agents listed it here on their own initiative.",
         "status": "in public review"
       }
     },
@@ -13076,12 +13139,15 @@
       "started_on": "2026-11-16",
       "place": "Massachusetts",
       "source_name": "valutatore",
+      "org_consented": false,
       "progress_pct": 0,
       "donate": {
         "recipient": "The Greater Boston Food Bank Inc",
         "url": "https://www.every.org/gbfb/f/ai-against-hunger-for",
         "money_goes_to": "Every.org, a US 501(c)(3) nonprofit, which grants it to the organization (unrestricted); this project never receives or holds money",
         "counted_here_only_if": "shown in the public total of the fundraising page",
+        "organization_agreed_to_be_named": false,
+        "consent_notice": "This nonprofit has not yet agreed to this fundraising page or to being named in our invitations to give. Our AI agents opened the page after public verification; the gift still goes to the nonprofit through Every.org.",
         "status": "open",
         "platform": "Every.org (US 501(c)(3) nonprofit; receipts tax-deductible only in the US)",
         "public_total": {
@@ -13733,12 +13799,15 @@
       "started_on": "2026-11-16",
       "place": "Utah",
       "source_name": "valutatore",
+      "org_consented": false,
       "progress_pct": 0,
       "donate": {
         "recipient": "Utah Food Bank",
         "url": "https://www.every.org/utah-food-bank/f/ai-against-hunger-for",
         "money_goes_to": "Every.org, a US 501(c)(3) nonprofit, which grants it to the organization (unrestricted); this project never receives or holds money",
         "counted_here_only_if": "shown in the public total of the fundraising page",
+        "organization_agreed_to_be_named": false,
+        "consent_notice": "This nonprofit has not yet agreed to this fundraising page or to being named in our invitations to give. Our AI agents opened the page after public verification; the gift still goes to the nonprofit through Every.org.",
         "status": "open",
         "platform": "Every.org (US 501(c)(3) nonprofit; receipts tax-deductible only in the US)",
         "public_total": {
@@ -14339,12 +14408,15 @@
       "started_on": "2026-11-16",
       "place": "District of Columbia",
       "source_name": "valutatore",
+      "org_consented": false,
       "progress_pct": 0,
       "donate": {
         "recipient": "World Central Kitchen Incorporated",
         "url": "https://www.every.org/worldcentralkitchen/f/ai-against-hunger-for",
         "money_goes_to": "Every.org, a US 501(c)(3) nonprofit, which grants it to the organization (unrestricted); this project never receives or holds money",
         "counted_here_only_if": "shown in the public total of the fundraising page",
+        "organization_agreed_to_be_named": false,
+        "consent_notice": "This nonprofit has not yet agreed to this fundraising page or to being named in our invitations to give. Our AI agents opened the page after public verification; the gift still goes to the nonprofit through Every.org.",
         "status": "open",
         "platform": "Every.org (US 501(c)(3) nonprofit; receipts tax-deductible only in the US)",
         "public_total": {
@@ -14394,9 +14466,24 @@
           "title": "Soutenez American Friends Of Leket Israel Inc contre la faim",
           "source": "traduzione AI"
         },
+        "hi": {
+          "text": "Charity Navigator द्वारा मूल्यांकित संस्था, एजेंटों द्वारा खोजी गई: 'Every.org: food rescue'।",
+          "title": "भूख के खिलाफ American Friends Of Leket Israel Inc का समर्थन करें",
+          "source": "traduzione AI"
+        },
         "it": {
           "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'Every.org: food rescue'.",
           "title": "Sostieni American Friends Of Leket Israel Inc contro la fame",
+          "source": "traduzione AI"
+        },
+        "ja": {
+          "text": "Charity Navigator によって評価された団体で、エージェントが次のように見つけました: 'Every.org: food rescue'.",
+          "title": "飢餓に対して American Friends Of Leket Israel Inc を支援する",
+          "source": "traduzione AI"
+        },
+        "pt": {
+          "text": "Entidade avaliada pela Charity Navigator, encontrada pelos agentes com: 'Every.org: food rescue'.",
+          "title": "Apoie American Friends Of Leket Israel Inc contra a fome",
           "source": "traduzione AI"
         },
         "ru": {
@@ -14607,6 +14694,23 @@
       ],
       "waiting_counter": false,
       "profile": {
+        "de": {
+          "does": [
+            {
+              "text": "American Friends of Leket Israel bietet Leket Israel Zuschüsse und Unterstützung.",
+              "source": "https://www.charitynavigator.org/ein/208202424",
+              "by_org": false
+            },
+            {
+              "text": "Die Mission von Leket Israel ist es, die sichere, effektive und effiziente Sammlung und Verteilung von überschüssigen nahrhaften Lebensmitteln in Israel an diejenigen zu leiten, die sie benötigen.",
+              "source": "https://www.charitynavigator.org/ein/208202424",
+              "by_org": false
+            }
+          ],
+          "mission": "American Friends of Leket Israel bietet Leket Israel Zuschüsse und Unterstützung. Die Mission von Leket Israel ist es, die sichere, effektive und effiziente Sammlung und Verteilung von überschüssigen nahrhaften Lebensmitteln in Israel an diejenigen zu leiten, die sie benötigen.",
+          "does_not": [],
+          "strengths": []
+        },
         "en": {
           "does": [
             {
@@ -14623,6 +14727,142 @@
             }
           ],
           "mission": "American Friends of Leket Israel provides grants and assistance to Leket Israel. Leket Israel's mission is to lead the safe, effective and efficient collection and distribution of surplus nutritious food in Israel to those who need it.",
+          "does_not": [],
+          "strengths": []
+        },
+        "es": {
+          "does": [
+            {
+              "text": "American Friends of Leket Israel proporciona subvenciones y asistencia a Leket Israel.",
+              "source": "https://www.charitynavigator.org/ein/208202424",
+              "by_org": false
+            },
+            {
+              "text": "La misión de Leket Israel es liderar la recolección y distribución segura, eficaz y eficiente de excedentes de alimentos nutritivos en Israel a quienes lo necesitan.",
+              "source": "https://www.charitynavigator.org/ein/208202424",
+              "by_org": false
+            }
+          ],
+          "mission": "American Friends of Leket Israel proporciona subvenciones y asistencia a Leket Israel. La misión de Leket Israel es liderar la recolección y distribución segura, eficaz y eficiente de excedentes de alimentos nutritivos en Israel a quienes lo necesitan.",
+          "does_not": [],
+          "strengths": []
+        },
+        "fr": {
+          "does": [
+            {
+              "text": "American Friends of Leket Israel fournit des subventions et une assistance à Leket Israel.",
+              "source": "https://www.charitynavigator.org/ein/208202424",
+              "by_org": false
+            },
+            {
+              "text": "La mission de Leket Israel est de mener la collecte et la distribution sûres, efficaces et efficientes des surplus d'aliments nutritifs en Israël auprès de ceux qui en ont besoin.",
+              "source": "https://www.charitynavigator.org/ein/208202424",
+              "by_org": false
+            }
+          ],
+          "mission": "American Friends of Leket Israel fournit des subventions et une assistance à Leket Israel. La mission de Leket Israel est de mener la collecte et la distribution sûres, efficaces et efficientes des surplus d'aliments nutritifs en Israël auprès de ceux qui en ont besoin.",
+          "does_not": [],
+          "strengths": []
+        },
+        "hi": {
+          "does": [
+            {
+              "text": "American Friends of Leket Israel Leket Israel को अनुदान और सहायता प्रदान करता है।",
+              "source": "https://www.charitynavigator.org/ein/208202424",
+              "by_org": false
+            },
+            {
+              "text": "Leket Israel का मिशन इज़राइल में अतिरिक्त पोषक तत्वों से भरपूर भोजन के सुरक्षित, प्रभावी और कुशल संग्रह और वितरण को उन लोगों तक ले जाना है जिन्हें इसकी आवश्यकता है।",
+              "source": "https://www.charitynavigator.org/ein/208202424",
+              "by_org": false
+            }
+          ],
+          "mission": "American Friends of Leket Israel Leket Israel को अनुदान और सहायता प्रदान करता है। Leket Israel का मिशन इज़राइल में अतिरिक्त पोषक तत्वों से भरपूर भोजन के सुरक्षित, प्रभावी और कुशल संग्रह और वितरण को उन लोगों तक ले जाना है जिन्हें इसकी आवश्यकता है।",
+          "does_not": [],
+          "strengths": []
+        },
+        "it": {
+          "does": [
+            {
+              "text": "American Friends of Leket Israel fornisce sovvenzioni e assistenza a Leket Israel.",
+              "source": "https://www.charitynavigator.org/ein/208202424",
+              "by_org": false
+            },
+            {
+              "text": "La missione di Leket Israel è quella di guidare la raccolta e la distribuzione sicura, efficace ed efficiente di cibo nutriente in eccedenza in Israele a chi ne ha bisogno.",
+              "source": "https://www.charitynavigator.org/ein/208202424",
+              "by_org": false
+            }
+          ],
+          "mission": "American Friends of Leket Israel fornisce sovvenzioni e assistenza a Leket Israel. La missione di Leket Israel è quella di guidare la raccolta e la distribuzione sicura, efficace ed efficiente di cibo nutriente in eccedenza in Israele a chi ne ha bisogno.",
+          "does_not": [],
+          "strengths": []
+        },
+        "ja": {
+          "does": [
+            {
+              "text": "American Friends of Leket Israel は Leket Israel に助成金と支援を提供します。",
+              "source": "https://www.charitynavigator.org/ein/208202424",
+              "by_org": false
+            },
+            {
+              "text": "Leket Israel の使命は、イスラエルで余剰の栄養価の高い食品を安全かつ効果的、効率的に収集・配布し、必要としている人々に届けることです。",
+              "source": "https://www.charitynavigator.org/ein/208202424",
+              "by_org": false
+            }
+          ],
+          "mission": "American Friends of Leket Israel は Leket Israel に助成金と支援を提供します。Leket Israel の使命は、イスラエルで余剰の栄養価の高い食品を安全かつ効果的、効率的に収集・配布し、必要としている人々に届けることです。",
+          "does_not": [],
+          "strengths": []
+        },
+        "pt": {
+          "does": [
+            {
+              "text": "American Friends of Leket Israel fornece subsídios e assistência ao Leket Israel.",
+              "source": "https://www.charitynavigator.org/ein/208202424",
+              "by_org": false
+            },
+            {
+              "text": "A missão do Leket Israel é liderar a coleta e distribuição segura, eficaz e eficiente de alimentos nutritivos excedentes em Israel para aqueles que precisam.",
+              "source": "https://www.charitynavigator.org/ein/208202424",
+              "by_org": false
+            }
+          ],
+          "mission": "American Friends of Leket Israel fornece subsídios e assistência ao Leket Israel. A missão do Leket Israel é liderar a coleta e distribuição segura, eficaz e eficiente de alimentos nutritivos excedentes em Israel para aqueles que precisam.",
+          "does_not": [],
+          "strengths": []
+        },
+        "ru": {
+          "does": [
+            {
+              "text": "American Friends of Leket Israel предоставляет гранты и помощь Leket Israel.",
+              "source": "https://www.charitynavigator.org/ein/208202424",
+              "by_org": false
+            },
+            {
+              "text": "Миссия Leket Israel заключается в том, чтобы руководить безопасным, эффективным и рациональным сбором и распределением излишков питательных продуктов питания в Израиле для тех, кто в них нуждается.",
+              "source": "https://www.charitynavigator.org/ein/208202424",
+              "by_org": false
+            }
+          ],
+          "mission": "American Friends of Leket Israel предоставляет гранты и помощь Leket Israel. Миссия Leket Israel заключается в том, чтобы руководить безопасным, эффективным и рациональным сбором и распределением излишков питательных продуктов питания в Израиле для тех, кто в них нуждается.",
+          "does_not": [],
+          "strengths": []
+        },
+        "zh": {
+          "does": [
+            {
+              "text": "American Friends of Leket Israel 为 Leket Israel 提供资助和帮助。",
+              "source": "https://www.charitynavigator.org/ein/208202424",
+              "by_org": false
+            },
+            {
+              "text": "Leket Israel 的使命是引领在以色列安全、有效且高效地收集和分配多余的营养食品，帮助有需要的人。",
+              "source": "https://www.charitynavigator.org/ein/208202424",
+              "by_org": false
+            }
+          ],
+          "mission": "American Friends of Leket Israel 为 Leket Israel 提供资助和帮助。Leket Israel 的使命是引领在以色列安全、有效且高效地收集和分配多余的营养食品，帮助有需要的人。",
           "does_not": [],
           "strengths": []
         }
@@ -14651,12 +14891,15 @@
       "started_on": null,
       "place": "New Jersey",
       "source_name": "valutatore",
+      "org_consented": false,
       "progress_pct": 0,
       "donate": {
         "recipient": "American Friends Of Leket Israel Inc",
         "url": null,
         "money_goes_to": "not open yet: donations open on a fundraising page with a public total",
         "counted_here_only_if": "shown in the public total of the fundraising page",
+        "organization_agreed_to_be_named": false,
+        "consent_notice": "This nonprofit has not yet agreed to being named in our invitations to give: our AI agents listed it here on their own initiative.",
         "status": "in public review"
       }
     },
@@ -15351,12 +15594,15 @@
       "started_on": "2026-11-21",
       "place": "Texas",
       "source_name": "valutatore",
+      "org_consented": false,
       "progress_pct": 0,
       "donate": {
         "recipient": "Central Texas Food Bank Inc",
         "url": "https://www.every.org/central-texas-food-bank/f/ai-against-hunger-for",
         "money_goes_to": "Every.org, a US 501(c)(3) nonprofit, which grants it to the organization (unrestricted); this project never receives or holds money",
         "counted_here_only_if": "shown in the public total of the fundraising page",
+        "organization_agreed_to_be_named": false,
+        "consent_notice": "This nonprofit has not yet agreed to this fundraising page or to being named in our invitations to give. Our AI agents opened the page after public verification; the gift still goes to the nonprofit through Every.org.",
         "status": "open",
         "platform": "Every.org (US 501(c)(3) nonprofit; receipts tax-deductible only in the US)",
         "public_total": {
@@ -15658,12 +15904,15 @@
       "started_on": null,
       "place": "California",
       "source_name": "valutatore",
+      "org_consented": false,
       "progress_pct": 0,
       "donate": {
         "recipient": "Childrens Hunger Fund",
         "url": null,
         "money_goes_to": "not open yet: donations open on a fundraising page with a public total",
         "counted_here_only_if": "shown in the public total of the fundraising page",
+        "organization_agreed_to_be_named": false,
+        "consent_notice": "This nonprofit has not yet agreed to being named in our invitations to give: our AI agents listed it here on their own initiative.",
         "status": "in public review"
       }
     },
@@ -15957,12 +16206,15 @@
       "started_on": null,
       "place": "New York",
       "source_name": "valutatore",
+      "org_consented": false,
       "progress_pct": 0,
       "donate": {
         "recipient": "City Harvest Inc",
         "url": null,
         "money_goes_to": "not open yet: donations open on a fundraising page with a public total",
         "counted_here_only_if": "shown in the public total of the fundraising page",
+        "organization_agreed_to_be_named": false,
+        "consent_notice": "This nonprofit has not yet agreed to being named in our invitations to give: our AI agents listed it here on their own initiative.",
         "status": "in public review"
       }
     },
@@ -16606,12 +16858,15 @@
       "started_on": "2026-11-17",
       "place": "New York",
       "source_name": "valutatore",
+      "org_consented": false,
       "progress_pct": 0,
       "donate": {
         "recipient": "East Hampton Food Pantry Inc",
         "url": "https://www.every.org/easthamptonfoodpantry/f/ai-against-hunger-for",
         "money_goes_to": "Every.org, a US 501(c)(3) nonprofit, which grants it to the organization (unrestricted); this project never receives or holds money",
         "counted_here_only_if": "shown in the public total of the fundraising page",
+        "organization_agreed_to_be_named": false,
+        "consent_notice": "This nonprofit has not yet agreed to this fundraising page or to being named in our invitations to give. Our AI agents opened the page after public verification; the gift still goes to the nonprofit through Every.org.",
         "status": "open",
         "platform": "Every.org (US 501(c)(3) nonprofit; receipts tax-deductible only in the US)",
         "public_total": {
@@ -17202,12 +17457,15 @@
       "started_on": "2026-11-11",
       "place": "Illinois",
       "source_name": "valutatore",
+      "org_consented": false,
       "progress_pct": 0,
       "donate": {
         "recipient": "Feeding America",
         "url": "https://www.every.org/feedingamerica/f/ai-against-hunger-for",
         "money_goes_to": "Every.org, a US 501(c)(3) nonprofit, which grants it to the organization (unrestricted); this project never receives or holds money",
         "counted_here_only_if": "shown in the public total of the fundraising page",
+        "organization_agreed_to_be_named": false,
+        "consent_notice": "This nonprofit has not yet agreed to this fundraising page or to being named in our invitations to give. Our AI agents opened the page after public verification; the gift still goes to the nonprofit through Every.org.",
         "status": "open",
         "platform": "Every.org (US 501(c)(3) nonprofit; receipts tax-deductible only in the US)",
         "public_total": {
@@ -17859,12 +18117,15 @@
       "started_on": "2026-11-16",
       "place": "Montana",
       "source_name": "valutatore",
+      "org_consented": false,
       "progress_pct": 0,
       "donate": {
         "recipient": "Flathead Food Bank Inc",
         "url": "https://www.every.org/flatheadfoodbank/f/ai-against-hunger-for",
         "money_goes_to": "Every.org, a US 501(c)(3) nonprofit, which grants it to the organization (unrestricted); this project never receives or holds money",
         "counted_here_only_if": "shown in the public total of the fundraising page",
+        "organization_agreed_to_be_named": false,
+        "consent_notice": "This nonprofit has not yet agreed to this fundraising page or to being named in our invitations to give. Our AI agents opened the page after public verification; the gift still goes to the nonprofit through Every.org.",
         "status": "open",
         "platform": "Every.org (US 501(c)(3) nonprofit; receipts tax-deductible only in the US)",
         "public_total": {
@@ -17892,9 +18153,9 @@
     "costs": {
       "USD": 8.5
     },
-    "ai_calls": 2203,
+    "ai_calls": 2216,
     "ai_cost_real_usd": 0.0,
-    "ai_value_offered_usd": 14.106901,
+    "ai_value_offered_usd": 14.175173,
     "candidates_examined": 108,
     "candidates_discarded": 58
   },

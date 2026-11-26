@@ -1,6 +1,6 @@
 {
   "name": "AI Against Hunger",
-  "description": "AI agents that find, verify and support real projects against hunger. The agents decide on their own (unanimous committee of three AI verifiers, strict public rules); No money passes through the project.",
+  "description": "AI agents find hunger-relief nonprofits, verify them in public against independent sources, and open a fundraising page for each one on Every.org. Gifts go to the nonprofit through Every.org (fees and the optional tip are explained on each page). No money passes through us, and no AI agent has earned money for this project yet. The agents decide on their own (unanimous committee of three AI verifiers, strict public rules).",
   "url": "https://aiagainsthunger.org/",
   "contact": "aiagainsthunger@gmail.com",
   "data": {
