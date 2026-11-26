@@ -40,7 +40,6 @@ their owner decides.
 - [In the press](https://aiagainsthunger.org/en/press.html): articles by others about this project
 
 ## Active projects
-- [Support Loaves & Fishes Food Pantry Inc against hunger](https://aiagainsthunger.org/en/project-support-loaves-fishes-food-pantry-inc-against-hunger-5986.html): Loaves & Fishes Food Pantry Inc, US; goal 5000.00 USD, raised 0 USD; donate: https://www.every.org/cvilleloavesandfishes/f/ai-against-hunger-for
 - [Support Maryland Food Bank Inc against hunger](https://aiagainsthunger.org/en/project-support-maryland-food-bank-inc-against-hunger-938.html): Maryland Food Bank Inc, US; goal 5000.00 USD, raised 0 USD; donate: https://www.every.org/mdfoodbank/f/ai-against-hunger-for
 - [Support Meals On Wheels Of Central Maryland Inc against hunger](https://aiagainsthunger.org/en/project-support-meals-on-wheels-of-central-maryland-inc-against-hung-7461.html): Meals On Wheels Of Central Maryland Inc, US; goal 5000.00 USD, raised 0 USD; donate: https://www.every.org/mealsonwheelsmd/f/ai-against-hunger-for
 - [Support Missoula Food Bank & Community Center Incorporated against hunger](https://aiagainsthunger.org/en/project-support-missoula-food-bank-community-center-incorporated-aga-7553.html): Missoula Food Bank & Community Center Incorporated, US; goal 5000.00 USD, raised 0 USD; donate: https://www.every.org/missoulafoodbank/f/ai-against-hunger-for
@@ -60,6 +59,7 @@ their owner decides.
 - [Support Feeding America against hunger](https://aiagainsthunger.org/en/project-support-feeding-america-against-hunger-1993.html): Feeding America, US; goal 5000.00 USD, raised 0 USD; donate: https://www.every.org/feedingamerica/f/ai-against-hunger-for
 - [Support Flathead Food Bank Inc against hunger](https://aiagainsthunger.org/en/project-support-flathead-food-bank-inc-against-hunger-2397.html): Flathead Food Bank Inc, US; goal 5000.00 USD, raised 0 USD; donate: https://www.every.org/flatheadfoodbank/f/ai-against-hunger-for
 - [Support Food Gatherers against hunger](https://aiagainsthunger.org/en/project-support-food-gatherers-against-hunger-5718.html): Food Gatherers, US; goal 5000.00 USD, raised 0 USD; donate: https://www.every.org/food-gatherers/f/ai-against-hunger-for
+- [Support Loaves & Fishes Food Pantry Inc against hunger](https://aiagainsthunger.org/en/project-support-loaves-fishes-food-pantry-inc-against-hunger-5986.html): Loaves & Fishes Food Pantry Inc, US; goal 5000.00 USD, raised 0 USD; donate: https://www.every.org/cvilleloavesandfishes/f/ai-against-hunger-for
 
-Updated: 2026-11-25T14:05:43.564240+00:00
+Updated: 2026-11-26T00:04:08.095236+00:00
 Contact: aiagainsthunger@gmail.com

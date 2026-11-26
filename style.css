@@ -189,6 +189,9 @@ nav.main a[aria-current="page"] { color: var(--accent-strong); background: var(-
 .cta--line { color: var(--accent-strong); border: 2px solid var(--accent); background: var(--surface); }
 .cta--line:hover { background: var(--accent-soft); }
 .gt-note { margin: 18px 0 0; font-size: .95rem; font-weight: 650; color: #f1ede4; }
+/* 25/11/2026: fascia del Giving Tuesday (30/11-2/12/2026) nella testata della prima pagina e della pagina Progetti */
+.gt-banner { margin: 18px 0 0; padding: 10px 14px; max-width: 46rem; font-size: .98rem; font-weight: 600; line-height: 1.5; color: #fff; background: rgba(9, 22, 16, .62); border-left: 4px solid #f2c14e; border-radius: 6px; }
+.gt-banner a { color: #fff; text-decoration: underline; white-space: nowrap; margin-left: 6px; }
 .hero :focus-visible, .page-hero :focus-visible, .page-band[class*="band--"] :focus-visible, footer.site :focus-visible { outline-color: #fff; }
 .photo-credit { position: absolute; right: 10px; bottom: 8px; max-width: calc(100% - 20px); font-size: .74rem; line-height: 1.4; color: #f1ede4; background: rgba(9, 22, 16, .72); padding: 2px 8px; border-radius: 6px; }
 .photo-credit a { color: #fff; }
