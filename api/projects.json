@@ -1,614 +1,6 @@
 {
-  "generated_at": "2026-11-27T10:04:41.743607+00:00",
+  "generated_at": "2026-11-28T00:04:32.998696+00:00",
   "projects": [
-    {
-      "slug": "support-meals-on-wheels-of-central-maryland-inc-against-hung-7461",
-      "title": "Support Meals On Wheels Of Central Maryland Inc against hunger",
-      "description": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'site:charitynavigator.org Rating for meals on wheels seniors nutrition'.",
-      "org_name": "Meals On Wheels Of Central Maryland Inc",
-      "org_country": "US",
-      "org_website": "https://mealsonwheelsmd.org/",
-      "country": "US",
-      "currency": "USD",
-      "goal": 5000.0,
-      "raised": 0.0,
-      "donated": 0.0,
-      "status": "attiva",
-      "donation_url": "https://www.every.org/mealsonwheelsmd/f/ai-against-hunger-for",
-      "source_url": "https://www.charitynavigator.org/ein/526074723",
-      "approved_on": "2026-11-16",
-      "review_until": null,
-      "translations": {
-        "de": {
-          "text": "Organisation von Charity Navigator bewertet, von den Agenten gefunden mit: 'site:charitynavigator.org Rating for meals on wheels seniors nutrition'.",
-          "title": "Unterstützen Sie Meals On Wheels Of Central Maryland Inc im Kampf gegen den Hunger",
-          "source": "traduzione AI"
-        },
-        "en": {
-          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'site:charitynavigator.org Rating for meals on wheels seniors nutrition'.",
-          "title": "Support Meals On Wheels Of Central Maryland Inc against hunger",
-          "source": "originale"
-        },
-        "es": {
-          "text": "Entidad evaluada por Charity Navigator, encontrada por los agentes con: 'site:charitynavigator.org Rating for meals on wheels seniors nutrition'.",
-          "title": "Apoya a Meals On Wheels Of Central Maryland Inc contra el hambre",
-          "source": "traduzione AI"
-        },
-        "fr": {
-          "text": "Organisme évalué par Charity Navigator, trouvé par les agents avec : 'site:charitynavigator.org Rating for meals on wheels seniors nutrition'.",
-          "title": "Soutenez Meals On Wheels Of Central Maryland Inc contre la faim",
-          "source": "traduzione AI"
-        },
-        "hi": {
-          "text": "Charity Navigator द्वारा मूल्यांकित संस्था, एजेंटों द्वारा खोजी गई: 'site:charitynavigator.org Rating for meals on wheels seniors nutrition'.",
-          "title": "भूख के खिलाफ Meals On Wheels Of Central Maryland Inc का समर्थन करें",
-          "source": "traduzione AI"
-        },
-        "it": {
-          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'site:charitynavigator.org Rating for meals on wheels seniors nutrition'.",
-          "title": "Sostieni Meals On Wheels Of Central Maryland Inc contro la fame",
-          "source": "traduzione AI"
-        },
-        "ja": {
-          "text": "Charity Navigator によって評価された団体。エージェントにより次のように発見されました: 'site:charitynavigator.org Rating for meals on wheels seniors nutrition'。",
-          "title": "飢餓に立ち向かう Meals On Wheels Of Central Maryland Inc への支援",
-          "source": "traduzione AI"
-        },
-        "pt": {
-          "text": "Entidade avaliada pela Charity Navigator, encontrada pelos agentes com: 'site:charitynavigator.org Rating for meals on wheels seniors nutrition'.",
-          "title": "Apoie Meals On Wheels Of Central Maryland Inc contra a fome",
-          "source": "traduzione AI"
-        },
-        "ru": {
-          "text": "Организация, оцененная Charity Navigator, найдена агентами с помощью: 'site:charitynavigator.org Rating for meals on wheels seniors nutrition'.",
-          "title": "Поддержать Meals On Wheels Of Central Maryland Inc в борьбе с голодом",
-          "source": "traduzione AI"
-        },
-        "zh": {
-          "text": "经 Charity Navigator 评估的机构，由代理找到，检索词为：'site:charitynavigator.org Rating for meals on wheels seniors nutrition'。",
-          "title": "支持 Meals On Wheels Of Central Maryland Inc 抗击饥饿",
-          "source": "traduzione AI"
-        }
-      },
-      "tranches": [
-        {
-          "number": 1,
-          "goal": 2000.0,
-          "status": "aperta"
-        }
-      ],
-      "checks": [
-        {
-          "verifier": "regole",
-          "check_type": "ammissibilita",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Regole di ammissibilità (config/regole.yaml):\n✓ fonte ammessa: fonte 'valutatore'\n✓ ente registrato nel database: Meals On Wheels Of Central Maryland Inc\n✓ codice fiscale verificato (IRS): EIN 526074723\n✓ ente valutato dal valutatore: Charity Navigator\n✓ voto del valutatore: 95%, 4 stelle su 4 (minimo 4 stelle e 90%)\n✓ anni di bilanci ufficiali: 13 anni [2019, 2020, 2021, 2022, 2023] (minimo 3)\n✓ tema fame / nutrizione: categoria IRS K36Z (richiesta ['K3', 'K4']); tema nel nome: True; tema nella descrizione ufficiale: sì, \"meals on wheels\" in «SPECIALIZING IN SERVICES TO THE AGING, MEALS ON WHEELS OF CENTRAL MARYLAND SERVES HOMEBOUND AGING AND DISABLED ADULTS TO KEEP THEM LIVING SAFELY AND INDEPENDENTLY IN THEIR HOMES AND COMMUNITIES.» (Charity Navigator, riquadro Mission della pagina Rating for: https://www.charitynavigator.org/ein/526074723)",
-          "source_url": "https://www.charitynavigator.org/ein/526074723"
-        },
-        {
-          "verifier": "regole",
-          "check_type": "ammissibilita",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "✓ valutatore indipendente tra le prove: 1 pagine di valutatori (https://www.charitynavigator.org/ein/526074723); minimo 1",
-          "source_url": "https://www.charitynavigator.org/ein/526074723"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "registrazione",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "L'ente è registrato negli USA come organizzazione esente 501(c)(3) con EIN 526074723 e data di riconoscimento IRS dal 1° ottobre 1967.",
-          "source_url": "https://www.charitynavigator.org/ein/526074723"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "bilanci",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Presenti bilanci pubblici e dichiarazioni IRS Form 990 regolari dal 2011 al 2023. Nel 2023 l'ente ha registrato entrate per 19,69M USD e spese per 13,80M USD.",
-          "source_url": "https://www.charitynavigator.org/ein/526074723"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "valutazione_indipendente",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Valutato da Charity Navigator con il punteggio massimo di 4 stelle (95%).",
-          "source_url": "https://www.charitynavigator.org/ein/526074723"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "coerenza_importo",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "L'obiettivo di 5.000 USD è perfettamente proporzionato e contenuto rispetto al budget annuale dell'organizzazione (oltre 13 milioni di USD di spese annue).",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/526074723"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "storico_progetti",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "L'organizzazione opera dal 1960 consegnando circa 5.000 pasti al giorno a oltre 2.500 persone anziane o con disabilità, con oltre 1,4 milioni di pasti distribuiti ogni anno.",
-          "source_url": "https://www.charitynavigator.org/ein/526074723"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "segnali_allarme",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun segnale d'allarme riscontrato. L'ente ha canali di contatto ufficiali, bilanci trasparenti e valutazioni indipendenti positive.",
-          "source_url": "https://www.charitynavigator.org/ein/526074723"
-        },
-        {
-          "verifier": "verifier",
-          "check_type": "conflitti_interesse",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun legame con gli sponsor registrati né con i legami noti dell'elenco dei conflitti (controllo del codice).",
-          "source_url": "config/conflitti.yaml"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "registrazione",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "L'ente è elencato con EIN 526074723, riconosciuto come 501(c)(3) dal registro IRS e comparso su ProPublica Nonprofit Explorer.",
-          "source_url": "https://www.charitynavigator.org/ein/526074723"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "bilanci",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Sono disponibili Form 990 pubblici per gli anni 2023‑2018, con PDF scaricabili da ProPublica.",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/526074723"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "valutazione_indipendente",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Charity Navigator, valutatore indipendente, assegna all'ente una valutazione Four‑Star (95%).",
-          "source_url": "https://www.charitynavigator.org/ein/526074723"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "coerenza_importo",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "L'importo richiesto (5 000 USD) è molto inferiore ai ricavi annuali (≈19 M USD nel 2023) e coerente con la scala delle attività dell'organizzazione.",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/526074723"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "storico_progetti",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "L'organizzazione opera dal 1960, con numerosi progetti documentati (campagna \"Recipe for the Future\", servizi di consegna pasti) citati su LinkedIn e Baltimore Magazine.",
-          "source_url": "https://www.linkedin.com/company/mealsonwheelsmd"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "segnali_allarme",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun segnale di allarme rilevato: nessuna notizia negativa, sito consolidato, contatti multipli, nessuna richiesta di pagamenti in crypto o urgenze artificiali.",
-          "source_url": "https://www.charitynavigator.org/ein/526074723"
-        },
-        {
-          "verifier": "verifier_b",
-          "check_type": "conflitti_interesse",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun legame con gli sponsor registrati né con i legami noti dell'elenco dei conflitti (controllo del codice).",
-          "source_url": "config/conflitti.yaml"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "registrazione",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "L'ente è registrato come 501(c)(3) con EIN 526074723, riconosciuto dall'IRS dal 1967. La sede è a Baltimore, MD.",
-          "source_url": "https://www.charitynavigator.org/ein/526074723"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "bilanci",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Sono disponibili i bilanci pubblici (Form 990) per gli ultimi 13 anni (2011-2023) su ProPublica Nonprofit Explorer, con dati di entrate e spese dettagliati.",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/526074723"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "valutazione_indipendente",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Charity Navigator assegna una valutazione di 4 stelle (95%) all'ente, indicando un'eccellente trasparenza finanziaria e accountability.",
-          "source_url": "https://www.charitynavigator.org/ein/526074723"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "coerenza_importo",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "L'obiettivo di raccolta di 5000 USD è estremamente coerente con le dimensioni dell'ente, che ha registrato entrate annuali di circa 19,7 milioni di USD nel 2023 e serve circa 2.500 clienti al giorno.",
-          "source_url": "https://projects.propublica.org/nonprofits/organizations/526074723"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "storico_progetti",
-          "outcome": "superato",
-          "blocking": false,
-          "evidence": "L'ente opera dal 1960, ha una storia documentata di 65 anni di attività, con oltre 1,4 milioni di pasti consegnati annualmente e una presenza consolidata nella comunità di Baltimore.",
-          "source_url": "https://www.linkedin.com/company/mealsonwheelsmd"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "segnali_allarme",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun segnale d'allarme trovato. L'ente ha un sito web istituzionale attivo, contatti diretti (telefono, email), una presenza social consolidata e una lunga storia di trasparenza. Non sono presenti richieste di pagamento a persone fisiche o in crypto, né pressioni artificiali.",
-          "source_url": "https://www.charitynavigator.org/ein/526074723"
-        },
-        {
-          "verifier": "verifier_c",
-          "check_type": "conflitti_interesse",
-          "outcome": "superato",
-          "blocking": true,
-          "evidence": "Nessun legame con gli sponsor registrati né con i legami noti dell'elenco dei conflitti (controllo del codice).",
-          "source_url": "config/conflitti.yaml"
-        }
-      ],
-      "sources": [
-        "https://mealsonwheelsmd.org",
-        "https://projects.propublica.org/nonprofits/organizations/526074723",
-        "https://www.baltimoremagazine.com/profiles/give-baltimore-2020/meals-on-wheels-of-central-maryland/",
-        "https://www.charitynavigator.org/ein/526074723",
-        "https://www.linkedin.com/company/mealsonwheelsmd"
-      ],
-      "waiting_counter": false,
-      "profile": {
-        "de": {
-          "does": [
-            {
-              "text": "Die Organisation unterstützt an das Haus gebundene ältere Menschen und Menschen mit Behinderung, um ihnen zu helfen, sicher und unabhängig in ihrem Zuhause und ihren Gemeinden zu leben.",
-              "source": "https://www.charitynavigator.org/ein/526074723",
-              "by_org": false
-            },
-            {
-              "text": "Sie liefert nahrhafte Mahlzeiten und individuelle Unterstützungsdienste, um die gesundheitlichen Ergebnisse zu verbessern und ein erfolgreiches Altern zu fördern.",
-              "source": "https://www.charitynavigator.org/ein/526074723",
-              "by_org": false
-            },
-            {
-              "text": "Die Einrichtung bietet Unterstützungs- und Auffangnetzdienste an, um die Gesundheit zu erhalten und die Unabhängigkeit von Erwachsenen in ganz Central Maryland zu fördern.",
-              "source": "https://mealsonwheelsmd.org",
-              "by_org": true
-            }
-          ],
-          "mission": "MEALS ON WHEELS OF CENTRAL MARYLAND IST AUF DIENSTLEISTUNGEN FÜR ÄLTERE MENSCHEN SPEZIALISIERT UND UNTERSTÜTZT AN DAS HAUS GEBUNDENE ÄLTERE UND MENSCHEN MIT BEHINDERUNG, DAMIT DIESE SICHER UND UNABHÄNGIG IN IHREM ZUHAUSE UND IHREN GEMEINDEN LEBEN KÖNNEN. DURCH DIE BEREITSTELLUNG NAHRHAFTER, NACH HAUSE GELIEFERTER MAHLZEITEN UND INDIVIDUELLER UNTERSTÜTZUNGSDIENSTE REDUZIERT MOWCM GESUNDHEITLICHE UNGLEICHHEITEN, VERBESSERT GESUNDHEITLICHE ERGEBNISSE UND FÖRDERT EIN ERFOLGREICHES ALTERN.",
-          "does_not": [],
-          "strengths": [
-            {
-              "text": "Die Organisation betreut seit den letzten 35 Jahren Kunden in ihrer derzeitigen Einrichtung.",
-              "source": "https://mealsonwheelsmd.org",
-              "by_org": true
-            }
-          ]
-        },
-        "en": {
-          "does": [
-            {
-              "text": "The organization serves homebound aging and disabled adults to help them live safely and independently in their homes and communities.",
-              "quote": "SPECIALIZING IN SERVICES TO THE AGING, MEALS ON WHEELS OF CENTRAL MARYLAND SERVES HOMEBOUND AGING AND DISABLED ADULTS TO KEEP THEM LIVING SAFELY AND INDEPENDENTLY IN THEIR HOMES AND COMMUNITIES.",
-              "source": "https://www.charitynavigator.org/ein/526074723",
-              "by_org": false
-            },
-            {
-              "text": "It delivers nutritious meals and individualized support services to improve health outcomes and support successful aging.",
-              "quote": "BY PROVIDING NUTRITIOUS, HOME-DELIVERED MEALS AND INDIVIDUALIZED SUPPORT SERVICES, MOWCM IMPACTS REDUCES HEALTH DISPARITIES, IMPROVES HEALTH OUTCOMES AND SUPPORTS SUCCESSFUL AGING.",
-              "source": "https://www.charitynavigator.org/ein/526074723",
-              "by_org": false
-            },
-            {
-              "text": "The entity provides support and safety-net services to help sustain health and promote independence for adults throughout Central Maryland.",
-              "quote": "For aging, homebound and disabled adults throughout Central Maryland, we do more than deliver nutritious meals. We provide support and safety-net services that help sustain health, promote independence, and improve overall quality of life.",
-              "source": "https://mealsonwheelsmd.org",
-              "by_org": true
-            }
-          ],
-          "mission": "SPECIALIZING IN SERVICES TO THE AGING, MEALS ON WHEELS OF CENTRAL MARYLAND SERVES HOMEBOUND AGING AND DISABLED ADULTS TO KEEP THEM LIVING SAFELY AND INDEPENDENTLY IN THEIR HOMES AND COMMUNITIES. BY PROVIDING NUTRITIOUS, HOME-DELIVERED MEALS AND INDIVIDUALIZED SUPPORT SERVICES, MOWCM IMPACTS REDUCES HEALTH DISPARITIES, IMPROVES HEALTH OUTCOMES AND SUPPORTS SUCCESSFUL AGING.",
-          "does_not": [],
-          "strengths": [
-            {
-              "text": "The organization has served clients in its current facility for the last 35 years.",
-              "quote": "We have served our clients in our current facility for the last 35 years, but the need for our services keeps steadily growing as the population continues to age.",
-              "source": "https://mealsonwheelsmd.org",
-              "by_org": true
-            }
-          ]
-        },
-        "es": {
-          "does": [
-            {
-              "text": "La organización atiende a adultos mayores y personas con discapacidad confinados en sus hogares para ayudarlos a vivir de manera segura e independiente en sus hogares y comunidades.",
-              "source": "https://www.charitynavigator.org/ein/526074723",
-              "by_org": false
-            },
-            {
-              "text": "Entrega comidas nutritivas y servicios de apoyo individualizados para mejorar los resultados de salud y apoyar un envejecimiento exitoso.",
-              "source": "https://www.charitynavigator.org/ein/526074723",
-              "by_org": false
-            },
-            {
-              "text": "La entidad proporciona servicios de apoyo y red de seguridad para ayudar a mantener la salud y promover la independencia de los adultos en todo Central Maryland.",
-              "source": "https://mealsonwheelsmd.org",
-              "by_org": true
-            }
-          ],
-          "mission": "ESPECIALIZÁNDOSE EN SERVICIOS PARA ADULTOS MAYORES, MEALS ON WHEELS OF CENTRAL MARYLAND ATIENDE A ADULTOS MAYORES Y PERSONAS CON DISCAPACIDAD CONFINADOS EN SUS HOGARES PARA MANTENERLOS VIVIENDO DE MANERA SEGURA E INDEPENDIENTE EN SUS HOGARES Y COMUNIDADES. AL PROPORCIONAR COMIDAS NUTRITIVAS ENTREGADAS A DOMICILIO Y SERVICIOS DE APOYO INDIVIDUALIZADOS, MOWCM REDUCE LAS DISPARIDADES DE SALUD, MEJORA LOS RESULTADOS DE SALUD Y APOYA UN ENVEJECIMIENTO EXITOSO.",
-          "does_not": [],
-          "strengths": [
-            {
-              "text": "La organización ha atendido a clientes en sus instalaciones actuales durante los últimos 35 años.",
-              "source": "https://mealsonwheelsmd.org",
-              "by_org": true
-            }
-          ]
-        },
-        "fr": {
-          "does": [
-            {
-              "text": "L'organisation sert les adultes âgés et handicapés confinés afin de les aider à vivre en sécurité et de manière indépendante dans leurs foyers et leurs communautés.",
-              "source": "https://www.charitynavigator.org/ein/526074723",
-              "by_org": false
-            },
-            {
-              "text": "Elle fournit des repas nutritifs et des services de soutien individualisés pour améliorer les résultats de santé et soutenir un vieillissement réussi.",
-              "source": "https://www.charitynavigator.org/ein/526074723",
-              "by_org": false
-            },
-            {
-              "text": "L'entité fournit des services de soutien et de filet de sécurité pour aider à maintenir la santé et promouvoir l'indépendance des adultes dans tout le Central Maryland.",
-              "source": "https://mealsonwheelsmd.org",
-              "by_org": true
-            }
-          ],
-          "mission": "SPÉCIALISÉ DANS LES SERVICES AUX PERSONNES ÂGÉES, MEALS ON WHEELS OF CENTRAL MARYLAND SERT LES ADULTES ÂGÉS ET HANDICAPÉS CONFINEES POUR LES AIDER À VIVRE EN SÉCURITÉ ET DE MANIÈRE INDÉPENDANTE DANS LEURS MAISONS ET COMMUNAUTÉS. EN FOURNISSANT DES REPAS NUTRITIFS LIVRÉS À DOMICILE ET DES SERVICES DE SOUTIEN PERSONNALISÉS, MOWCM IMPACTS RÉDUIT LES DISPARITÉS DE SANTÉ, AMÉLIORE LES RÉSULTATS DE SANTÉ ET SOUTIENT UN VIEILLISSAGE RÉUSSI.",
-          "does_not": [],
-          "strengths": [
-            {
-              "text": "L'organisation sert les clients dans son installation actuelle depuis les 35 dernières années.",
-              "source": "https://mealsonwheelsmd.org",
-              "by_org": true
-            }
-          ]
-        },
-        "hi": {
-          "does": [
-            {
-              "text": "यह संगठन घर से बाहर न निकल पाने वाले बुजुर्गों और विकलांग वयस्कों की सेवा करता है ताकि उन्हें अपने घरों और समुदायों में सुरक्षित और स्वतंत्र रूप से रहने में मदद मिल सके।",
-              "source": "https://www.charitynavigator.org/ein/526074723",
-              "by_org": false
-            },
-            {
-              "text": "यह स्वास्थ्य परिणामों में सुधार करने और सफल वृद्धावस्था का समर्थन करने के लिए पौष्टिक भोजन और व्यक्तिगत सहायता सेवाएँ प्रदान करता है।",
-              "source": "https://www.charitynavigator.org/ein/526074723",
-              "by_org": false
-            },
-            {
-              "text": "यह संस्था पूरे Central Maryland में वयस्कों के स्वास्थ्य को बनाए रखने और स्वतंत्रता को बढ़ावा देने में मदद के लिए सहायता और सुरक्षा-नेट सेवाएँ प्रदान करती है।",
-              "source": "https://mealsonwheelsmd.org",
-              "by_org": true
-            }
-          ],
-          "mission": "बुजुर्गों की सेवाओं में विशेषज्ञता रखते हुए, MEALS ON WHEELS OF CENTRAL MARYLAND घर से बाहर न निकल पाने वाले बुजुर्गों और विकलांग वयस्कों की सेवा करता है ताकि वे अपने घरों और समुदायों में सुरक्षित और स्वतंत्र रूप से रह सकें। पौष्टिक, घर पहुँचाए जाने वाले भोजन और व्यक्तिगत सहायता सेवाएँ प्रदान करके, MOWCM स्वास्थ्य असमानताओं को कम करता है, स्वास्थ्य परिणामों में सुधार करता है और सफल वृद्धावस्था का समर्थन करता है।",
-          "does_not": [],
-          "strengths": [
-            {
-              "text": "संगठन ने पिछले 35 वर्षों से अपनी वर्तमान सुविधा में ग्राहकों की सेवा की है।",
-              "source": "https://mealsonwheelsmd.org",
-              "by_org": true
-            }
-          ]
-        },
-        "it": {
-          "does": [
-            {
-              "text": "L'organizzazione assiste gli adulti anziani e disabili che non possono uscire per aiutarli a vivere in sicurezza e in modo indipendente nelle loro case e comunità.",
-              "source": "https://www.charitynavigator.org/ein/526074723",
-              "by_org": false
-            },
-            {
-              "text": "Fornisce pasti nutrienti e servizi di supporto personalizzati per migliorare i risultati sanitari e sostenere un invecchiamento di successo.",
-              "source": "https://www.charitynavigator.org/ein/526074723",
-              "by_org": false
-            },
-            {
-              "text": "L'entità fornisce servizi di supporto e rete di sicurezza per contribuire a mantenere la salute e promuovere l'indipendenza degli adulti in tutta la Central Maryland.",
-              "source": "https://mealsonwheelsmd.org",
-              "by_org": true
-            }
-          ],
-          "mission": "SPECIALIZZATA NEI SERVIZI PER GLI ANZIANI, MEALS ON WHEELS OF CENTRAL MARYLAND ASSISTE GLI ADULTI ANZIANI E DISABILI CHE NON POSSONO USCIRE PER CONSENTIRE LORO DI VIVERE IN SICUREZZA E IN MODO INDIPENDENTE NELLE LORO CASE E COMUNITÀ. FORNENDO PASTI NUTRIENTI, CONSEGNATI A DOMICILIO, E SERVIZI DI SUPPORTO PERSONALIZZATI, MOWCM IMPACTS RIDUCE LE DISUGUAGLIANZE SANITARIE, MIGLIORA I RISULTATI SANITARI E SOSTIENE UN INVEJCHIO DI SUCCESSO.",
-          "does_not": [],
-          "strengths": [
-            {
-              "text": "L'organizzazione ha servito i clienti nella sua attuale struttura per gli ultimi 35 anni.",
-              "source": "https://mealsonwheelsmd.org",
-              "by_org": true
-            }
-          ]
-        },
-        "ja": {
-          "does": [
-            {
-              "text": "同団体は、外出が困難な高齢者や障害を持つ成人が自宅や地域社会で安全かつ自立して暮らせるよう支援を行っています。",
-              "source": "https://www.charitynavigator.org/ein/526074723",
-              "by_org": false
-            },
-            {
-              "text": "栄養豊富な食事と個別化された支援サービスを届け、健康状態の改善とサクセスフル・エイジングの支援に取り組んでいます。",
-              "source": "https://www.charitynavigator.org/ein/526074723",
-              "by_org": false
-            },
-            {
-              "text": "同団体は、Central Maryland全域の成人の健康維持と自立促進を助けるため、支援およびセーフティネットサービスを提供しています。",
-              "source": "https://mealsonwheelsmd.org",
-              "by_org": true
-            }
-          ],
-          "mission": "高齢者向けサービスを専門とするMEALS ON WHEELS OF CENTRAL MARYLANDは、外出が困難な高齢者や障害を持つ成人が自宅や地域社会で安全かつ自立して生活し続けられるよう支援しています。栄養豊富な宅配食と個別化された支援サービスを提供することで、MOWCMは健康格差を縮小し、健康状態を改善し、サクセスフル・エイジングを支援しています。",
-          "does_not": [],
-          "strengths": [
-            {
-              "text": "同団体は、現在の施設において過去35年間にわたり利用者へのサービスを提供してきました。",
-              "source": "https://mealsonwheelsmd.org",
-              "by_org": true
-            }
-          ]
-        },
-        "pt": {
-          "does": [
-            {
-              "text": "A organização atende adultos idosos e com deficiência confinados em casa para ajudá-los a viver com segurança e independência em seus lares e comunidades.",
-              "source": "https://www.charitynavigator.org/ein/526074723",
-              "by_org": false
-            },
-            {
-              "text": "Entrega refeições nutritivas e serviços de apoio individualizados para melhorar os resultados de saúde e apoiar o envelhecimento bem-sucedido.",
-              "source": "https://www.charitynavigator.org/ein/526074723",
-              "by_org": false
-            },
-            {
-              "text": "A entidade fornece serviços de apoio e rede de proteção social para ajudar a manter a saúde e promover a independência de adultos em toda a região de Central Maryland.",
-              "source": "https://mealsonwheelsmd.org",
-              "by_org": true
-            }
-          ],
-          "mission": "ESPECIALIZADA EM SERVIÇOS PARA IDOSOS, A MEALS ON WHEELS OF CENTRAL MARYLAND ATENDE ADULTOS IDOSOS E COM DEFICIÊNCIA CONFINADOS EM CASA PARA MANTÊ-LOS VIVENDO COM SEGURANÇA E INDEPENDÊNCIA EM SEUS LARES E COMUNIDADES. AO FORNECER REFEIÇÕES NUTRITIVAS ENTREGUES EM CASA E SERVIÇOS DE APOIO INDIVIDUALIZADOS, A MOWCM REDUZ DISPARIDADES DE SAÚDE, MELHORA OS RESULTADOS DE SAÚDE E APOIA O ENVELHECIMENTO BEM-SUCEDIDO.",
-          "does_not": [],
-          "strengths": [
-            {
-              "text": "A organização atende clientes em suas instalações atuais há 35 anos.",
-              "source": "https://mealsonwheelsmd.org",
-              "by_org": true
-            }
-          ]
-        },
-        "ru": {
-          "does": [
-            {
-              "text": "Организация обслуживает пожилых людей и взрослых с инвалидностью, прикованных к дому, чтобы помочь им безопасно и независимо жить в своих домах и местном сообществе.",
-              "source": "https://www.charitynavigator.org/ein/526074723",
-              "by_org": false
-            },
-            {
-              "text": "Она доставляет питательные обеды и предоставляет индивидуальные услуги поддержки для улучшения показателей здоровья и содействия успешному старению.",
-              "source": "https://www.charitynavigator.org/ein/526074723",
-              "by_org": false
-            },
-            {
-              "text": "Организация предоставляет услуги поддержки и социальной защиты, чтобы помочь сохранить здоровье и способствовать независимости взрослых по всему Central Maryland.",
-              "source": "https://mealsonwheelsmd.org",
-              "by_org": true
-            }
-          ],
-          "mission": "Специализируясь на услугах для пожилых людей, Meals On Wheels Of Central Maryland обслуживает пожилых людей и взрослых с инвалидностью, прикованных к дому, помогая им безопасно и независимо жить в своих домах и местном сообществе. Предоставляя питательные обеды с доставкой на дом и индивидуальные услуги поддержки, MOWCM снижает неравенство в сфере здравоохранения, улучшает показатели здоровья и поддерживает успешное старение.",
-          "does_not": [],
-          "strengths": [
-            {
-              "text": "Организация обслуживает клиентов в своем текущем здании на протяжении последних 35 лет.",
-              "source": "https://mealsonwheelsmd.org",
-              "by_org": true
-            }
-          ]
-        },
-        "zh": {
-          "does": [
-            {
-              "text": "该机构为困居家中的老年人和残障成年人提供服务，帮助他们安全、独立地生活在自己的家中和社区中。",
-              "source": "https://www.charitynavigator.org/ein/526074723",
-              "by_org": false
-            },
-            {
-              "text": "它提供营养丰富的餐食和个性化支持服务，以改善健康状况并支持成功老龄化。",
-              "source": "https://www.charitynavigator.org/ein/526074723",
-              "by_org": false
-            },
-            {
-              "text": "该实体提供支持和安全网服务，以帮助维持整个 Central Maryland 地区成年人的健康并促进其独立性。",
-              "source": "https://mealsonwheelsmd.org",
-              "by_org": true
-            }
-          ],
-          "mission": "专注于老龄服务，MEALS ON WHEELS OF CENTRAL MARYLAND 为困居家中的老年人和残障成年人提供服务，帮助他们安全、独立地生活在自己的家中和社区中。通过提供营养丰富的送餐上门服务和个性化支持服务，MOWCM 产生影响，减少健康差距，改善健康状况并支持成功老龄化。",
-          "does_not": [],
-          "strengths": [
-            {
-              "text": "在过去 35 年里，该机构一直在其现有设施中为客户提供服务。",
-              "source": "https://mealsonwheelsmd.org",
-              "by_org": true
-            }
-          ]
-        }
-      },
-      "safety": {
-        "evaluator": "Charity Navigator",
-        "stars": 4,
-        "score": 95,
-        "rating_url": "https://www.charitynavigator.org/ein/526074723",
-        "rating_checked": "2026-11-22",
-        "since": "1967",
-        "registry_url": "https://projects.propublica.org/nonprofits/organizations/526074723",
-        "filings": 13,
-        "first_year": 2011,
-        "last_year": 2023,
-        "checks_passed": 18,
-        "verifiers": 3,
-        "unanimous": true,
-        "site": "mealsonwheelsmd.org",
-        "official_host": "mealsonwheelsmd.org",
-        "profile_claimed": true
-      },
-      "platform": "every.org",
-      "counter": {
-        "raised": "0",
-        "read_at": "2026-11-27T08:04:42.820467+00:00",
-        "currency": "USD",
-        "platform": "every.org",
-        "supporters": 0,
-        "raised_cents": 0,
-        "matches_cents": 0
-      },
-      "fundraiser_open": true,
-      "started_on": "2026-11-19",
-      "place": "Maryland",
-      "source_name": "valutatore",
-      "org_consented": false,
-      "progress_pct": 0,
-      "donate": {
-        "recipient": "Meals On Wheels Of Central Maryland Inc",
-        "url": "https://www.every.org/mealsonwheelsmd/f/ai-against-hunger-for",
-        "money_goes_to": "Every.org, a US 501(c)(3) nonprofit, which grants it to the organization (unrestricted); this project never receives or holds money",
-        "counted_here_only_if": "shown in the public total of the fundraising page",
-        "organization_agreed_to_be_named": false,
-        "consent_notice": "This nonprofit has not yet agreed to this fundraising page or to being named in our invitations to give. Our AI agents opened the page after public verification; the gift still goes to the nonprofit through Every.org.",
-        "status": "open",
-        "platform": "Every.org (US 501(c)(3) nonprofit; receipts tax-deductible only in the US)",
-        "public_total": {
-          "raised": "0",
-          "currency": "USD",
-          "people": 0,
-          "read_on": "2026-11-27"
-        },
-        "note": "Every.org suggests an optional tip to itself (sometimes preselected); it can be set to 0. Payment fees are deducted from what the organization receives."
-      }
-    },
     {
       "slug": "support-missoula-food-bank-community-center-incorporated-aga-7553",
       "title": "Support Missoula Food Bank & Community Center Incorporated against hunger",
@@ -1187,7 +579,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-27T08:04:44.471581+00:00",
+        "read_at": "2026-11-27T22:04:42.753582+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -1857,7 +1249,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-27T08:04:38.965813+00:00",
+        "read_at": "2026-11-27T22:04:36.278608+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -2568,7 +1960,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-27T08:04:44.181324+00:00",
+        "read_at": "2026-11-27T22:04:42.402660+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -3126,7 +2518,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-27T08:04:43.185915+00:00",
+        "read_at": "2026-11-27T22:04:41.187202+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -3786,7 +3178,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-27T08:04:38.128142+00:00",
+        "read_at": "2026-11-27T22:04:35.297367+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -4395,7 +3787,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-27T08:04:42.156511+00:00",
+        "read_at": "2026-11-27T22:04:40.085462+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -5167,7 +4559,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-27T08:04:43.508533+00:00",
+        "read_at": "2026-11-27T22:04:41.623931+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -5775,7 +5167,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-27T08:04:41.462568+00:00",
+        "read_at": "2026-11-27T22:04:39.295348+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -6384,7 +5776,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-27T08:04:39.387109+00:00",
+        "read_at": "2026-11-27T22:04:36.711525+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -6993,7 +6385,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-27T08:04:40.721057+00:00",
+        "read_at": "2026-11-27T22:04:38.522286+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -7653,7 +7045,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-27T08:04:40.360244+00:00",
+        "read_at": "2026-11-27T22:04:38.032343+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -8262,7 +7654,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-27T08:04:41.115147+00:00",
+        "read_at": "2026-11-27T22:04:38.879903+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -8973,7 +8365,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-27T08:04:43.854202+00:00",
+        "read_at": "2026-11-27T22:04:41.956704+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -9633,7 +9025,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-27T08:04:42.484751+00:00",
+        "read_at": "2026-11-27T22:04:40.433993+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -10232,7 +9624,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-27T08:04:38.498465+00:00",
+        "read_at": "2026-11-27T22:04:35.644961+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -10892,7 +10284,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-27T08:04:40.047760+00:00",
+        "read_at": "2026-11-27T22:04:37.551963+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -11519,7 +10911,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-27T08:04:39.742359+00:00",
+        "read_at": "2026-11-27T22:04:37.098715+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -12128,7 +11520,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-27T08:04:41.805664+00:00",
+        "read_at": "2026-11-27T22:04:39.649714+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -12624,7 +12016,7 @@
       "platform": "every.org",
       "counter": {
         "raised": "0",
-        "read_at": "2026-11-27T08:04:37.521878+00:00",
+        "read_at": "2026-11-27T22:04:34.804948+00:00",
         "currency": "USD",
         "platform": "every.org",
         "supporters": 0,
@@ -12654,13 +12046,621 @@
         },
         "note": "Every.org suggests an optional tip to itself (sometimes preselected); it can be set to 0. Payment fees are deducted from what the organization receives."
       }
+    },
+    {
+      "slug": "support-meals-on-wheels-of-central-maryland-inc-against-hung-7461",
+      "title": "Support Meals On Wheels Of Central Maryland Inc against hunger",
+      "description": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'site:charitynavigator.org Rating for meals on wheels seniors nutrition'.",
+      "org_name": "Meals On Wheels Of Central Maryland Inc",
+      "org_country": "US",
+      "org_website": "https://mealsonwheelsmd.org/",
+      "country": "US",
+      "currency": "USD",
+      "goal": 5000.0,
+      "raised": 0.0,
+      "donated": 0.0,
+      "status": "attiva",
+      "donation_url": "https://www.every.org/mealsonwheelsmd/f/ai-against-hunger-for",
+      "source_url": "https://www.charitynavigator.org/ein/526074723",
+      "approved_on": "2026-11-16",
+      "review_until": null,
+      "translations": {
+        "de": {
+          "text": "Organisation von Charity Navigator bewertet, von den Agenten gefunden mit: 'site:charitynavigator.org Rating for meals on wheels seniors nutrition'.",
+          "title": "Unterstützen Sie Meals On Wheels Of Central Maryland Inc im Kampf gegen den Hunger",
+          "source": "traduzione AI"
+        },
+        "en": {
+          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'site:charitynavigator.org Rating for meals on wheels seniors nutrition'.",
+          "title": "Support Meals On Wheels Of Central Maryland Inc against hunger",
+          "source": "originale"
+        },
+        "es": {
+          "text": "Entidad evaluada por Charity Navigator, encontrada por los agentes con: 'site:charitynavigator.org Rating for meals on wheels seniors nutrition'.",
+          "title": "Apoya a Meals On Wheels Of Central Maryland Inc contra el hambre",
+          "source": "traduzione AI"
+        },
+        "fr": {
+          "text": "Organisme évalué par Charity Navigator, trouvé par les agents avec : 'site:charitynavigator.org Rating for meals on wheels seniors nutrition'.",
+          "title": "Soutenez Meals On Wheels Of Central Maryland Inc contre la faim",
+          "source": "traduzione AI"
+        },
+        "hi": {
+          "text": "Charity Navigator द्वारा मूल्यांकित संस्था, एजेंटों द्वारा खोजी गई: 'site:charitynavigator.org Rating for meals on wheels seniors nutrition'.",
+          "title": "भूख के खिलाफ Meals On Wheels Of Central Maryland Inc का समर्थन करें",
+          "source": "traduzione AI"
+        },
+        "it": {
+          "text": "Ente valutato da Charity Navigator, trovato dagli agenti con: 'site:charitynavigator.org Rating for meals on wheels seniors nutrition'.",
+          "title": "Sostieni Meals On Wheels Of Central Maryland Inc contro la fame",
+          "source": "traduzione AI"
+        },
+        "ja": {
+          "text": "Charity Navigator によって評価された団体。エージェントにより次のように発見されました: 'site:charitynavigator.org Rating for meals on wheels seniors nutrition'。",
+          "title": "飢餓に立ち向かう Meals On Wheels Of Central Maryland Inc への支援",
+          "source": "traduzione AI"
+        },
+        "pt": {
+          "text": "Entidade avaliada pela Charity Navigator, encontrada pelos agentes com: 'site:charitynavigator.org Rating for meals on wheels seniors nutrition'.",
+          "title": "Apoie Meals On Wheels Of Central Maryland Inc contra a fome",
+          "source": "traduzione AI"
+        },
+        "ru": {
+          "text": "Организация, оцененная Charity Navigator, найдена агентами с помощью: 'site:charitynavigator.org Rating for meals on wheels seniors nutrition'.",
+          "title": "Поддержать Meals On Wheels Of Central Maryland Inc в борьбе с голодом",
+          "source": "traduzione AI"
+        },
+        "zh": {
+          "text": "经 Charity Navigator 评估的机构，由代理找到，检索词为：'site:charitynavigator.org Rating for meals on wheels seniors nutrition'。",
+          "title": "支持 Meals On Wheels Of Central Maryland Inc 抗击饥饿",
+          "source": "traduzione AI"
+        }
+      },
+      "tranches": [
+        {
+          "number": 1,
+          "goal": 2000.0,
+          "status": "aperta"
+        }
+      ],
+      "checks": [
+        {
+          "verifier": "regole",
+          "check_type": "ammissibilita",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Regole di ammissibilità (config/regole.yaml):\n✓ fonte ammessa: fonte 'valutatore'\n✓ ente registrato nel database: Meals On Wheels Of Central Maryland Inc\n✓ codice fiscale verificato (IRS): EIN 526074723\n✓ ente valutato dal valutatore: Charity Navigator\n✓ voto del valutatore: 95%, 4 stelle su 4 (minimo 4 stelle e 90%)\n✓ anni di bilanci ufficiali: 13 anni [2019, 2020, 2021, 2022, 2023] (minimo 3)\n✓ tema fame / nutrizione: categoria IRS K36Z (richiesta ['K3', 'K4']); tema nel nome: True; tema nella descrizione ufficiale: sì, \"meals on wheels\" in «SPECIALIZING IN SERVICES TO THE AGING, MEALS ON WHEELS OF CENTRAL MARYLAND SERVES HOMEBOUND AGING AND DISABLED ADULTS TO KEEP THEM LIVING SAFELY AND INDEPENDENTLY IN THEIR HOMES AND COMMUNITIES.» (Charity Navigator, riquadro Mission della pagina Rating for: https://www.charitynavigator.org/ein/526074723)",
+          "source_url": "https://www.charitynavigator.org/ein/526074723"
+        },
+        {
+          "verifier": "regole",
+          "check_type": "ammissibilita",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "✓ valutatore indipendente tra le prove: 1 pagine di valutatori (https://www.charitynavigator.org/ein/526074723); minimo 1",
+          "source_url": "https://www.charitynavigator.org/ein/526074723"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "registrazione",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "L'ente è registrato negli USA come organizzazione esente 501(c)(3) con EIN 526074723 e data di riconoscimento IRS dal 1° ottobre 1967.",
+          "source_url": "https://www.charitynavigator.org/ein/526074723"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "bilanci",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Presenti bilanci pubblici e dichiarazioni IRS Form 990 regolari dal 2011 al 2023. Nel 2023 l'ente ha registrato entrate per 19,69M USD e spese per 13,80M USD.",
+          "source_url": "https://www.charitynavigator.org/ein/526074723"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "valutazione_indipendente",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Valutato da Charity Navigator con il punteggio massimo di 4 stelle (95%).",
+          "source_url": "https://www.charitynavigator.org/ein/526074723"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "coerenza_importo",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "L'obiettivo di 5.000 USD è perfettamente proporzionato e contenuto rispetto al budget annuale dell'organizzazione (oltre 13 milioni di USD di spese annue).",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/526074723"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "storico_progetti",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "L'organizzazione opera dal 1960 consegnando circa 5.000 pasti al giorno a oltre 2.500 persone anziane o con disabilità, con oltre 1,4 milioni di pasti distribuiti ogni anno.",
+          "source_url": "https://www.charitynavigator.org/ein/526074723"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "segnali_allarme",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun segnale d'allarme riscontrato. L'ente ha canali di contatto ufficiali, bilanci trasparenti e valutazioni indipendenti positive.",
+          "source_url": "https://www.charitynavigator.org/ein/526074723"
+        },
+        {
+          "verifier": "verifier",
+          "check_type": "conflitti_interesse",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun legame con gli sponsor registrati né con i legami noti dell'elenco dei conflitti (controllo del codice).",
+          "source_url": "config/conflitti.yaml"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "registrazione",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "L'ente è elencato con EIN 526074723, riconosciuto come 501(c)(3) dal registro IRS e comparso su ProPublica Nonprofit Explorer.",
+          "source_url": "https://www.charitynavigator.org/ein/526074723"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "bilanci",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Sono disponibili Form 990 pubblici per gli anni 2023‑2018, con PDF scaricabili da ProPublica.",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/526074723"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "valutazione_indipendente",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Charity Navigator, valutatore indipendente, assegna all'ente una valutazione Four‑Star (95%).",
+          "source_url": "https://www.charitynavigator.org/ein/526074723"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "coerenza_importo",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "L'importo richiesto (5 000 USD) è molto inferiore ai ricavi annuali (≈19 M USD nel 2023) e coerente con la scala delle attività dell'organizzazione.",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/526074723"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "storico_progetti",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "L'organizzazione opera dal 1960, con numerosi progetti documentati (campagna \"Recipe for the Future\", servizi di consegna pasti) citati su LinkedIn e Baltimore Magazine.",
+          "source_url": "https://www.linkedin.com/company/mealsonwheelsmd"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "segnali_allarme",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun segnale di allarme rilevato: nessuna notizia negativa, sito consolidato, contatti multipli, nessuna richiesta di pagamenti in crypto o urgenze artificiali.",
+          "source_url": "https://www.charitynavigator.org/ein/526074723"
+        },
+        {
+          "verifier": "verifier_b",
+          "check_type": "conflitti_interesse",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun legame con gli sponsor registrati né con i legami noti dell'elenco dei conflitti (controllo del codice).",
+          "source_url": "config/conflitti.yaml"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "registrazione",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "L'ente è registrato come 501(c)(3) con EIN 526074723, riconosciuto dall'IRS dal 1967. La sede è a Baltimore, MD.",
+          "source_url": "https://www.charitynavigator.org/ein/526074723"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "bilanci",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Sono disponibili i bilanci pubblici (Form 990) per gli ultimi 13 anni (2011-2023) su ProPublica Nonprofit Explorer, con dati di entrate e spese dettagliati.",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/526074723"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "valutazione_indipendente",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Charity Navigator assegna una valutazione di 4 stelle (95%) all'ente, indicando un'eccellente trasparenza finanziaria e accountability.",
+          "source_url": "https://www.charitynavigator.org/ein/526074723"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "coerenza_importo",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "L'obiettivo di raccolta di 5000 USD è estremamente coerente con le dimensioni dell'ente, che ha registrato entrate annuali di circa 19,7 milioni di USD nel 2023 e serve circa 2.500 clienti al giorno.",
+          "source_url": "https://projects.propublica.org/nonprofits/organizations/526074723"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "storico_progetti",
+          "outcome": "superato",
+          "blocking": false,
+          "evidence": "L'ente opera dal 1960, ha una storia documentata di 65 anni di attività, con oltre 1,4 milioni di pasti consegnati annualmente e una presenza consolidata nella comunità di Baltimore.",
+          "source_url": "https://www.linkedin.com/company/mealsonwheelsmd"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "segnali_allarme",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun segnale d'allarme trovato. L'ente ha un sito web istituzionale attivo, contatti diretti (telefono, email), una presenza social consolidata e una lunga storia di trasparenza. Non sono presenti richieste di pagamento a persone fisiche o in crypto, né pressioni artificiali.",
+          "source_url": "https://www.charitynavigator.org/ein/526074723"
+        },
+        {
+          "verifier": "verifier_c",
+          "check_type": "conflitti_interesse",
+          "outcome": "superato",
+          "blocking": true,
+          "evidence": "Nessun legame con gli sponsor registrati né con i legami noti dell'elenco dei conflitti (controllo del codice).",
+          "source_url": "config/conflitti.yaml"
+        }
+      ],
+      "sources": [
+        "https://mealsonwheelsmd.org",
+        "https://projects.propublica.org/nonprofits/organizations/526074723",
+        "https://www.baltimoremagazine.com/profiles/give-baltimore-2020/meals-on-wheels-of-central-maryland/",
+        "https://www.charitynavigator.org/ein/526074723",
+        "https://www.linkedin.com/company/mealsonwheelsmd"
+      ],
+      "waiting_counter": false,
+      "profile": {
+        "de": {
+          "does": [
+            {
+              "text": "Die Organisation unterstützt an das Haus gebundene ältere Menschen und Menschen mit Behinderung, um ihnen zu helfen, sicher und unabhängig in ihrem Zuhause und ihren Gemeinden zu leben.",
+              "source": "https://www.charitynavigator.org/ein/526074723",
+              "by_org": false
+            },
+            {
+              "text": "Sie liefert nahrhafte Mahlzeiten und individuelle Unterstützungsdienste, um die gesundheitlichen Ergebnisse zu verbessern und ein erfolgreiches Altern zu fördern.",
+              "source": "https://www.charitynavigator.org/ein/526074723",
+              "by_org": false
+            },
+            {
+              "text": "Die Einrichtung bietet Unterstützungs- und Auffangnetzdienste an, um die Gesundheit zu erhalten und die Unabhängigkeit von Erwachsenen in ganz Central Maryland zu fördern.",
+              "source": "https://mealsonwheelsmd.org",
+              "by_org": true
+            }
+          ],
+          "mission": "MEALS ON WHEELS OF CENTRAL MARYLAND IST AUF DIENSTLEISTUNGEN FÜR ÄLTERE MENSCHEN SPEZIALISIERT UND UNTERSTÜTZT AN DAS HAUS GEBUNDENE ÄLTERE UND MENSCHEN MIT BEHINDERUNG, DAMIT DIESE SICHER UND UNABHÄNGIG IN IHREM ZUHAUSE UND IHREN GEMEINDEN LEBEN KÖNNEN. DURCH DIE BEREITSTELLUNG NAHRHAFTER, NACH HAUSE GELIEFERTER MAHLZEITEN UND INDIVIDUELLER UNTERSTÜTZUNGSDIENSTE REDUZIERT MOWCM GESUNDHEITLICHE UNGLEICHHEITEN, VERBESSERT GESUNDHEITLICHE ERGEBNISSE UND FÖRDERT EIN ERFOLGREICHES ALTERN.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "Die Organisation betreut seit den letzten 35 Jahren Kunden in ihrer derzeitigen Einrichtung.",
+              "source": "https://mealsonwheelsmd.org",
+              "by_org": true
+            }
+          ]
+        },
+        "en": {
+          "does": [
+            {
+              "text": "The organization serves homebound aging and disabled adults to help them live safely and independently in their homes and communities.",
+              "quote": "SPECIALIZING IN SERVICES TO THE AGING, MEALS ON WHEELS OF CENTRAL MARYLAND SERVES HOMEBOUND AGING AND DISABLED ADULTS TO KEEP THEM LIVING SAFELY AND INDEPENDENTLY IN THEIR HOMES AND COMMUNITIES.",
+              "source": "https://www.charitynavigator.org/ein/526074723",
+              "by_org": false
+            },
+            {
+              "text": "It delivers nutritious meals and individualized support services to improve health outcomes and support successful aging.",
+              "quote": "BY PROVIDING NUTRITIOUS, HOME-DELIVERED MEALS AND INDIVIDUALIZED SUPPORT SERVICES, MOWCM IMPACTS REDUCES HEALTH DISPARITIES, IMPROVES HEALTH OUTCOMES AND SUPPORTS SUCCESSFUL AGING.",
+              "source": "https://www.charitynavigator.org/ein/526074723",
+              "by_org": false
+            },
+            {
+              "text": "The entity provides support and safety-net services to help sustain health and promote independence for adults throughout Central Maryland.",
+              "quote": "For aging, homebound and disabled adults throughout Central Maryland, we do more than deliver nutritious meals. We provide support and safety-net services that help sustain health, promote independence, and improve overall quality of life.",
+              "source": "https://mealsonwheelsmd.org",
+              "by_org": true
+            }
+          ],
+          "mission": "SPECIALIZING IN SERVICES TO THE AGING, MEALS ON WHEELS OF CENTRAL MARYLAND SERVES HOMEBOUND AGING AND DISABLED ADULTS TO KEEP THEM LIVING SAFELY AND INDEPENDENTLY IN THEIR HOMES AND COMMUNITIES. BY PROVIDING NUTRITIOUS, HOME-DELIVERED MEALS AND INDIVIDUALIZED SUPPORT SERVICES, MOWCM IMPACTS REDUCES HEALTH DISPARITIES, IMPROVES HEALTH OUTCOMES AND SUPPORTS SUCCESSFUL AGING.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "The organization has served clients in its current facility for the last 35 years.",
+              "quote": "We have served our clients in our current facility for the last 35 years, but the need for our services keeps steadily growing as the population continues to age.",
+              "source": "https://mealsonwheelsmd.org",
+              "by_org": true
+            }
+          ]
+        },
+        "es": {
+          "does": [
+            {
+              "text": "La organización atiende a adultos mayores y personas con discapacidad confinados en sus hogares para ayudarlos a vivir de manera segura e independiente en sus hogares y comunidades.",
+              "source": "https://www.charitynavigator.org/ein/526074723",
+              "by_org": false
+            },
+            {
+              "text": "Entrega comidas nutritivas y servicios de apoyo individualizados para mejorar los resultados de salud y apoyar un envejecimiento exitoso.",
+              "source": "https://www.charitynavigator.org/ein/526074723",
+              "by_org": false
+            },
+            {
+              "text": "La entidad proporciona servicios de apoyo y red de seguridad para ayudar a mantener la salud y promover la independencia de los adultos en todo Central Maryland.",
+              "source": "https://mealsonwheelsmd.org",
+              "by_org": true
+            }
+          ],
+          "mission": "ESPECIALIZÁNDOSE EN SERVICIOS PARA ADULTOS MAYORES, MEALS ON WHEELS OF CENTRAL MARYLAND ATIENDE A ADULTOS MAYORES Y PERSONAS CON DISCAPACIDAD CONFINADOS EN SUS HOGARES PARA MANTENERLOS VIVIENDO DE MANERA SEGURA E INDEPENDIENTE EN SUS HOGARES Y COMUNIDADES. AL PROPORCIONAR COMIDAS NUTRITIVAS ENTREGADAS A DOMICILIO Y SERVICIOS DE APOYO INDIVIDUALIZADOS, MOWCM REDUCE LAS DISPARIDADES DE SALUD, MEJORA LOS RESULTADOS DE SALUD Y APOYA UN ENVEJECIMIENTO EXITOSO.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "La organización ha atendido a clientes en sus instalaciones actuales durante los últimos 35 años.",
+              "source": "https://mealsonwheelsmd.org",
+              "by_org": true
+            }
+          ]
+        },
+        "fr": {
+          "does": [
+            {
+              "text": "L'organisation sert les adultes âgés et handicapés confinés afin de les aider à vivre en sécurité et de manière indépendante dans leurs foyers et leurs communautés.",
+              "source": "https://www.charitynavigator.org/ein/526074723",
+              "by_org": false
+            },
+            {
+              "text": "Elle fournit des repas nutritifs et des services de soutien individualisés pour améliorer les résultats de santé et soutenir un vieillissement réussi.",
+              "source": "https://www.charitynavigator.org/ein/526074723",
+              "by_org": false
+            },
+            {
+              "text": "L'entité fournit des services de soutien et de filet de sécurité pour aider à maintenir la santé et promouvoir l'indépendance des adultes dans tout le Central Maryland.",
+              "source": "https://mealsonwheelsmd.org",
+              "by_org": true
+            }
+          ],
+          "mission": "SPÉCIALISÉ DANS LES SERVICES AUX PERSONNES ÂGÉES, MEALS ON WHEELS OF CENTRAL MARYLAND SERT LES ADULTES ÂGÉS ET HANDICAPÉS CONFINEES POUR LES AIDER À VIVRE EN SÉCURITÉ ET DE MANIÈRE INDÉPENDANTE DANS LEURS MAISONS ET COMMUNAUTÉS. EN FOURNISSANT DES REPAS NUTRITIFS LIVRÉS À DOMICILE ET DES SERVICES DE SOUTIEN PERSONNALISÉS, MOWCM IMPACTS RÉDUIT LES DISPARITÉS DE SANTÉ, AMÉLIORE LES RÉSULTATS DE SANTÉ ET SOUTIENT UN VIEILLISSAGE RÉUSSI.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "L'organisation sert les clients dans son installation actuelle depuis les 35 dernières années.",
+              "source": "https://mealsonwheelsmd.org",
+              "by_org": true
+            }
+          ]
+        },
+        "hi": {
+          "does": [
+            {
+              "text": "यह संगठन घर से बाहर न निकल पाने वाले बुजुर्गों और विकलांग वयस्कों की सेवा करता है ताकि उन्हें अपने घरों और समुदायों में सुरक्षित और स्वतंत्र रूप से रहने में मदद मिल सके।",
+              "source": "https://www.charitynavigator.org/ein/526074723",
+              "by_org": false
+            },
+            {
+              "text": "यह स्वास्थ्य परिणामों में सुधार करने और सफल वृद्धावस्था का समर्थन करने के लिए पौष्टिक भोजन और व्यक्तिगत सहायता सेवाएँ प्रदान करता है।",
+              "source": "https://www.charitynavigator.org/ein/526074723",
+              "by_org": false
+            },
+            {
+              "text": "यह संस्था पूरे Central Maryland में वयस्कों के स्वास्थ्य को बनाए रखने और स्वतंत्रता को बढ़ावा देने में मदद के लिए सहायता और सुरक्षा-नेट सेवाएँ प्रदान करती है।",
+              "source": "https://mealsonwheelsmd.org",
+              "by_org": true
+            }
+          ],
+          "mission": "बुजुर्गों की सेवाओं में विशेषज्ञता रखते हुए, MEALS ON WHEELS OF CENTRAL MARYLAND घर से बाहर न निकल पाने वाले बुजुर्गों और विकलांग वयस्कों की सेवा करता है ताकि वे अपने घरों और समुदायों में सुरक्षित और स्वतंत्र रूप से रह सकें। पौष्टिक, घर पहुँचाए जाने वाले भोजन और व्यक्तिगत सहायता सेवाएँ प्रदान करके, MOWCM स्वास्थ्य असमानताओं को कम करता है, स्वास्थ्य परिणामों में सुधार करता है और सफल वृद्धावस्था का समर्थन करता है।",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "संगठन ने पिछले 35 वर्षों से अपनी वर्तमान सुविधा में ग्राहकों की सेवा की है।",
+              "source": "https://mealsonwheelsmd.org",
+              "by_org": true
+            }
+          ]
+        },
+        "it": {
+          "does": [
+            {
+              "text": "L'organizzazione assiste gli adulti anziani e disabili che non possono uscire per aiutarli a vivere in sicurezza e in modo indipendente nelle loro case e comunità.",
+              "source": "https://www.charitynavigator.org/ein/526074723",
+              "by_org": false
+            },
+            {
+              "text": "Fornisce pasti nutrienti e servizi di supporto personalizzati per migliorare i risultati sanitari e sostenere un invecchiamento di successo.",
+              "source": "https://www.charitynavigator.org/ein/526074723",
+              "by_org": false
+            },
+            {
+              "text": "L'entità fornisce servizi di supporto e rete di sicurezza per contribuire a mantenere la salute e promuovere l'indipendenza degli adulti in tutta la Central Maryland.",
+              "source": "https://mealsonwheelsmd.org",
+              "by_org": true
+            }
+          ],
+          "mission": "SPECIALIZZATA NEI SERVIZI PER GLI ANZIANI, MEALS ON WHEELS OF CENTRAL MARYLAND ASSISTE GLI ADULTI ANZIANI E DISABILI CHE NON POSSONO USCIRE PER CONSENTIRE LORO DI VIVERE IN SICUREZZA E IN MODO INDIPENDENTE NELLE LORO CASE E COMUNITÀ. FORNENDO PASTI NUTRIENTI, CONSEGNATI A DOMICILIO, E SERVIZI DI SUPPORTO PERSONALIZZATI, MOWCM IMPACTS RIDUCE LE DISUGUAGLIANZE SANITARIE, MIGLIORA I RISULTATI SANITARI E SOSTIENE UN INVEJCHIO DI SUCCESSO.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "L'organizzazione ha servito i clienti nella sua attuale struttura per gli ultimi 35 anni.",
+              "source": "https://mealsonwheelsmd.org",
+              "by_org": true
+            }
+          ]
+        },
+        "ja": {
+          "does": [
+            {
+              "text": "同団体は、外出が困難な高齢者や障害を持つ成人が自宅や地域社会で安全かつ自立して暮らせるよう支援を行っています。",
+              "source": "https://www.charitynavigator.org/ein/526074723",
+              "by_org": false
+            },
+            {
+              "text": "栄養豊富な食事と個別化された支援サービスを届け、健康状態の改善とサクセスフル・エイジングの支援に取り組んでいます。",
+              "source": "https://www.charitynavigator.org/ein/526074723",
+              "by_org": false
+            },
+            {
+              "text": "同団体は、Central Maryland全域の成人の健康維持と自立促進を助けるため、支援およびセーフティネットサービスを提供しています。",
+              "source": "https://mealsonwheelsmd.org",
+              "by_org": true
+            }
+          ],
+          "mission": "高齢者向けサービスを専門とするMEALS ON WHEELS OF CENTRAL MARYLANDは、外出が困難な高齢者や障害を持つ成人が自宅や地域社会で安全かつ自立して生活し続けられるよう支援しています。栄養豊富な宅配食と個別化された支援サービスを提供することで、MOWCMは健康格差を縮小し、健康状態を改善し、サクセスフル・エイジングを支援しています。",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "同団体は、現在の施設において過去35年間にわたり利用者へのサービスを提供してきました。",
+              "source": "https://mealsonwheelsmd.org",
+              "by_org": true
+            }
+          ]
+        },
+        "pt": {
+          "does": [
+            {
+              "text": "A organização atende adultos idosos e com deficiência confinados em casa para ajudá-los a viver com segurança e independência em seus lares e comunidades.",
+              "source": "https://www.charitynavigator.org/ein/526074723",
+              "by_org": false
+            },
+            {
+              "text": "Entrega refeições nutritivas e serviços de apoio individualizados para melhorar os resultados de saúde e apoiar o envelhecimento bem-sucedido.",
+              "source": "https://www.charitynavigator.org/ein/526074723",
+              "by_org": false
+            },
+            {
+              "text": "A entidade fornece serviços de apoio e rede de proteção social para ajudar a manter a saúde e promover a independência de adultos em toda a região de Central Maryland.",
+              "source": "https://mealsonwheelsmd.org",
+              "by_org": true
+            }
+          ],
+          "mission": "ESPECIALIZADA EM SERVIÇOS PARA IDOSOS, A MEALS ON WHEELS OF CENTRAL MARYLAND ATENDE ADULTOS IDOSOS E COM DEFICIÊNCIA CONFINADOS EM CASA PARA MANTÊ-LOS VIVENDO COM SEGURANÇA E INDEPENDÊNCIA EM SEUS LARES E COMUNIDADES. AO FORNECER REFEIÇÕES NUTRITIVAS ENTREGUES EM CASA E SERVIÇOS DE APOIO INDIVIDUALIZADOS, A MOWCM REDUZ DISPARIDADES DE SAÚDE, MELHORA OS RESULTADOS DE SAÚDE E APOIA O ENVELHECIMENTO BEM-SUCEDIDO.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "A organização atende clientes em suas instalações atuais há 35 anos.",
+              "source": "https://mealsonwheelsmd.org",
+              "by_org": true
+            }
+          ]
+        },
+        "ru": {
+          "does": [
+            {
+              "text": "Организация обслуживает пожилых людей и взрослых с инвалидностью, прикованных к дому, чтобы помочь им безопасно и независимо жить в своих домах и местном сообществе.",
+              "source": "https://www.charitynavigator.org/ein/526074723",
+              "by_org": false
+            },
+            {
+              "text": "Она доставляет питательные обеды и предоставляет индивидуальные услуги поддержки для улучшения показателей здоровья и содействия успешному старению.",
+              "source": "https://www.charitynavigator.org/ein/526074723",
+              "by_org": false
+            },
+            {
+              "text": "Организация предоставляет услуги поддержки и социальной защиты, чтобы помочь сохранить здоровье и способствовать независимости взрослых по всему Central Maryland.",
+              "source": "https://mealsonwheelsmd.org",
+              "by_org": true
+            }
+          ],
+          "mission": "Специализируясь на услугах для пожилых людей, Meals On Wheels Of Central Maryland обслуживает пожилых людей и взрослых с инвалидностью, прикованных к дому, помогая им безопасно и независимо жить в своих домах и местном сообществе. Предоставляя питательные обеды с доставкой на дом и индивидуальные услуги поддержки, MOWCM снижает неравенство в сфере здравоохранения, улучшает показатели здоровья и поддерживает успешное старение.",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "Организация обслуживает клиентов в своем текущем здании на протяжении последних 35 лет.",
+              "source": "https://mealsonwheelsmd.org",
+              "by_org": true
+            }
+          ]
+        },
+        "zh": {
+          "does": [
+            {
+              "text": "该机构为困居家中的老年人和残障成年人提供服务，帮助他们安全、独立地生活在自己的家中和社区中。",
+              "source": "https://www.charitynavigator.org/ein/526074723",
+              "by_org": false
+            },
+            {
+              "text": "它提供营养丰富的餐食和个性化支持服务，以改善健康状况并支持成功老龄化。",
+              "source": "https://www.charitynavigator.org/ein/526074723",
+              "by_org": false
+            },
+            {
+              "text": "该实体提供支持和安全网服务，以帮助维持整个 Central Maryland 地区成年人的健康并促进其独立性。",
+              "source": "https://mealsonwheelsmd.org",
+              "by_org": true
+            }
+          ],
+          "mission": "专注于老龄服务，MEALS ON WHEELS OF CENTRAL MARYLAND 为困居家中的老年人和残障成年人提供服务，帮助他们安全、独立地生活在自己的家中和社区中。通过提供营养丰富的送餐上门服务和个性化支持服务，MOWCM 产生影响，减少健康差距，改善健康状况并支持成功老龄化。",
+          "does_not": [],
+          "strengths": [
+            {
+              "text": "在过去 35 年里，该机构一直在其现有设施中为客户提供服务。",
+              "source": "https://mealsonwheelsmd.org",
+              "by_org": true
+            }
+          ]
+        }
+      },
+      "safety": {
+        "evaluator": "Charity Navigator",
+        "stars": 4,
+        "score": 95,
+        "rating_url": "https://www.charitynavigator.org/ein/526074723",
+        "rating_checked": "2026-11-22",
+        "since": "1967",
+        "registry_url": "https://projects.propublica.org/nonprofits/organizations/526074723",
+        "filings": 13,
+        "first_year": 2011,
+        "last_year": 2023,
+        "checks_passed": 18,
+        "verifiers": 3,
+        "unanimous": true,
+        "site": "mealsonwheelsmd.org",
+        "official_host": "mealsonwheelsmd.org",
+        "profile_claimed": true
+      },
+      "platform": "every.org",
+      "counter": {
+        "raised": "0",
+        "read_at": "2026-11-27T22:04:40.829529+00:00",
+        "currency": "USD",
+        "platform": "every.org",
+        "supporters": 0,
+        "raised_cents": 0,
+        "matches_cents": 0
+      },
+      "fundraiser_open": true,
+      "started_on": "2026-11-19",
+      "place": "Maryland",
+      "source_name": "valutatore",
+      "org_consented": false,
+      "progress_pct": 0,
+      "donate": {
+        "recipient": "Meals On Wheels Of Central Maryland Inc",
+        "url": "https://www.every.org/mealsonwheelsmd/f/ai-against-hunger-for",
+        "money_goes_to": "Every.org, a US 501(c)(3) nonprofit, which grants it to the organization (unrestricted); this project never receives or holds money",
+        "counted_here_only_if": "shown in the public total of the fundraising page",
+        "organization_agreed_to_be_named": false,
+        "consent_notice": "This nonprofit has not yet agreed to this fundraising page or to being named in our invitations to give. Our AI agents opened the page after public verification; the gift still goes to the nonprofit through Every.org.",
+        "status": "open",
+        "platform": "Every.org (US 501(c)(3) nonprofit; receipts tax-deductible only in the US)",
+        "public_total": {
+          "raised": "0",
+          "currency": "USD",
+          "people": 0,
+          "read_on": "2026-11-27"
+        },
+        "note": "Every.org suggests an optional tip to itself (sometimes preselected); it can be set to 0. Payment fees are deducted from what the organization receives."
+      }
     }
   ],
   "order_rule": "All projects are equal: the order rotates by one position every day.",
   "home_today": [
-    "support-maryland-food-bank-inc-against-hunger-938",
-    "support-east-hampton-food-pantry-inc-against-hunger-5988",
-    "support-feeding-america-against-hunger-1993"
+    "support-new-hope-community-ministries-a-nj-nonprofit-corp-ag-2395",
+    "support-flathead-food-bank-inc-against-hunger-2397",
+    "support-food-gatherers-against-hunger-5718"
   ],
   "home_rule": "Home page: 3 active projects a day, in turn. The turn is recomputed every time from the activation day (started_on, UTC) of the projects that are active today. Day by day from the first activation: a project that starts enters with the lowest counts among the others; the 3 projects with the fewest days on the home page are shown; the first of the day is the one, among those that can be shown that day, that has been first the fewest times; when several are tied for the last places, those that have been first more often go in, and the others wait for a day when they can be first; remaining ties follow the alphabetical order of the slug. So among active projects the days on the home page never differ by more than one (a project that started later is counted from the lowest count of the others). When a project stops being active the turn is recomputed among the remaining ones, as if it had never been there: it stays even among them, but it can differ by a few days from the days actually shown before. The Projects page always lists all projects.",
   "totals": {
@@ -12671,9 +12671,9 @@
     "costs": {
       "USD": 8.5
     },
-    "ai_calls": 2234,
+    "ai_calls": 2237,
     "ai_cost_real_usd": 0.0,
-    "ai_value_offered_usd": 14.291205,
+    "ai_value_offered_usd": 14.315205,
     "candidates_examined": 108,
     "candidates_discarded": 58
   },
